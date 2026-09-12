@@ -1,0 +1,11 @@
+# Python-Cache (entsteht beim Ausfuehren der Upload-Skripte)
+__pycache__/
+*.pyc
+
+# Startdateien mit dem WordPress-Anwendungspasswort gehoeren NIE ins
+# Repository. Das Passwort steht darin im Klartext und liesse sich aus
+# der Git-Historie auch dann noch lesen, wenn die Datei spaeter
+# geloescht wird.
+start-upload-*.bat
+hochladen-*.bat
+*.bat
