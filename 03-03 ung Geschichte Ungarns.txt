@@ -1,0 +1,1322 @@
+== 3.3 – A magyar seregek: taktika, felszerelés és harci módszerek ==
+
+:1. Az a felfordulás, amelyet a korai magyar állam Európában okozott, a magyar hadseregek mint összefüggő egész lényegéből magyarázható. 
+:2. A magyarok katonai ereje nem egyetlen előnyön alapult, hanem a szervezet, a fegyverzet, a taktika és a stratégia összehangolt működésén.
+:3. Aki meg akarja érteni a magyar hadseregeket, annak fel kell ismernie, hogy a taktika, a felszerelés és a harci módszer elválaszthatatlan rendszert alkotott.
+:4. Ezen területek mindegyike összehangolódott a többivel, és egyik sem lett volna önmagában hatékony.
+:5. A kiindulópontot a hadsereg és a társadalom szoros kapcsolata jelentette.
+:6. A magyar hadsereg nem volt állandó, a többi lakosságtól elszigetelt hivatásos hadsereg.
+:7. Inkább maga a fegyveres társadalom volt az, amelynek felépítéséből közvetlenül kinőtt.
+:8. Szinte minden szabad férfi fegyveresnek minősült, és így hadkötelesnek is.
+:9. A férfi szabadsága és a fegyveres szolgálatra vonatkozó kötelezettsége elválaszthatatlanul összekapcsolódtak egymással.
+:10. A társadalom és a hadsereg közötti szoros összefonódás meghatározta a magyar hadviselés egész jellegét.
+:11. Ez magyarázza, miért lehetett a haderőket ilyen gyorsan mozgósítani és ugyanolyan gyorsan feloszlatni.
+:12. Egy hadjárat után a harcosok visszatértek a nemzetségeikhez és a nyájaikhoz.
+:13. A hadsereg zárt egységként csak az adott hadművelet idejére létezett.
+:14. Ez a rugalmasság egyben a magyar katonai rend erőssége és gyengesége is volt.
+:15. Erősségként lehetővé tette nagy lovas seregek gyors és költséghatékony mozgósítását.
+:16. Gyengeségként viszont megnehezítette a harcosok tartós elköteleződését a hosszú távú közös célok iránt.
+:17. A hadsereg belső felépítése a törzsszövetség rendjét követte.
+:18. A törzsek alkották a haderő nagy építőelemeit, a nemzetségek pedig a kisebb egységeket.
+:19. A hagyomány szerint a szövetség hét magyar törzsből állt, amelyeket a kabari csoportok egészítettek ki.
+:20. Egy nemzetség tagjai általában zárt csoportokban, egymás mellett harcoltak.
+:21. Ez a rokoni kötelék nagy belső összetartást biztosított a csapatoknak.
+:22. A sereg élén az Árpád-házból származó nagyfejedelem állt, akinek a törzsfők alárendelték magukat.
+:23. A legerősebb magot a fejedelem lovas kísérete alkotta, egy hűség és zsákmány által összekötött harcos nemesség.
+:24. E mag körül csoportosultak a szabad, lovas törzsi harcosok széles seregei.
+:25. A nem szabad népességrészek a hadtáborban, az ellátásban és a nyájak gondozásában szolgáltak.
+:26. Így a hadsereg rétegződése tükrözte az egész társadalom rétegződését.
+:27. A magyar hadsereg legmeghatározóbb jellemzője az volt, hogy minden tagja lovon harcolt.
+:28. A latin Nyugat gyalogos hadseregeitől eltérően a magyar sereg szinte teljes egészében lóháton harcolt.
+:29. Ez a lovasság közvetlenül a magyarok sztyeppén folytatott nomád életmódjából fakadt.
+:30. A lovas pásztorok népe nagy lóállománnyal és gyermekkortól kezdve kiképzett lovasokkal rendelkezett.
+:31. A ló a magyarok számára nem csupán lovaglóállat volt, hanem egyúttal megélhetésük alapja és harci társuk is.
+:32. A sztyeppén élő lovak kicsik, zömökek és rendkívül ellenállóak voltak.
+:33. Sebességükben gyakran alulmaradtak a nagyobb nyugati lovakkal szemben, de állóképességükben és igénytelenségükben felülmúlták azokat.
+:34. Szegényes takarmánnyal is meg tudtak élni, így csökkentve a magukkal vitt utánpótlástól való függőségüket.
+:35. Minden harcos több tartalék lovat vitt magával, hogy mindig friss állat legyen alatta.
+:36. A tartalék lovak rendelkezésre állása megsokszorozta a hadsereg hatótávolságát és állóképességét.
+:37. Ebben rejlett annak a rendkívüli mozgékonyságnak az alapja, amely a magyar hadsereget jellemezte.
+:38. A mozgékonyság egyben a magyarok taktikájának és stratégiájának kulcsa is volt.
+:39. Ezen lovas életmód alapján alakult ki a magyar harcosra jellemző fegyverzet.
+:40. E fegyverzet középpontjában az összetett reflexíj állt.
+:41. Ez az íj fából, szarvból és ínből állt össze, és nagy húzóerőt ötvözött kis hosszúsággal.
+:42. Kis hosszúsága miatt különösen alkalmas volt lóháton való használatra.
+:43. A csontlemezekkel megerősített merev íjvégek emelőként működtek, és növelték a lövés erejét.
+:44. Elkészítése hosszadalmas volt és magas szintű kézműves mesterséget igényelt, ezért egy jó íj értékes tulajdonnak számított.
+:45. Legnagyobb ellensége a nedvesség volt, amely feloldotta a ragasztási pontokat és csökkentette a feszítőerőt.
+:46. A nyilak az övön lévő tegezben voltak elhelyezve, és kovácsolt vashegyekkel rendelkeztek, amelyek sokféle formában készültek.
+:47. A keskeny hegyek a páncélok áttörésére szolgáltak, a széles hegyek pedig a védtelen célpontok és a lovak ellen.
+:48. Az íj mellett a harcos a görbe szablyát hordta legfontosabb közelharci fegyverként.
+:49. A penge görbületét a lovas mozgásából származó csapáshoz igazították.
+:50. A fegyverzetet szúró- és dobó lándzsák, valamint balták, buzogányok és kések egészítették ki.
+:51. Az egyes harcosok így a csata minden szakaszára és minden távolságra fel voltak készülve.
+:52. A védőfelszerelés a nehéz páncélokhoz képest szándékosan könnyű maradt.
+:53. Ez a könnyű páncél nem hiányosság volt, hanem a nehéz védelem helyett a mozgékonyság mellett hozott logikus döntés.
+:54. Az egyszerű harcos gyakran csak szilárd bőr- vagy nemezruhában vonult csatába.
+:55. A tehetős harcosok pikkely- vagy lamellapáncélt és hegyes, kapcsos sisakot viseltek.
+:56. A pajzsok ritkák voltak, mivel a lovas íjásznak mindkét keze szükséges volt az íjhoz.
+:57. A felszereléshez tartozott a lószerszám, amely nyerget, kantárt és főként a kengyelt tartalmazta.
+:58. Csak a nyereg és a kengyel által biztosított szilárd tartás tette lehetővé a biztonságos lövöldözést a vágtázó lóról.
+:59. A gazdagon díszített övön kard, tegez és íjtáska lógott, és egyúttal viselője rangját is jelezte.
+:60. A teljes felszerelés így teljes mértékben a lóháton folytatott mozgékony harcra volt szabva.
+:61. A lovaglás és a fegyverzet alapjain alakult ki a magyar harci stílus.
+:62. Ez a harci stílus ötvözte az egyes harcosok ügyességét a teljes sereg fegyelmezettségével.
+:63. Az egyes harcosok már fiatalkoruktól kezdve gyakorlott lovasok és íjászok voltak.
+:64. Elsajátították a ló szabadkezes irányítását combnyomással és súlyáthelyezéssel.
+:65. Így elengedték a gyeplőt, és teljes sebességgel minden irányba lőhettek.
+:66. Különösen rettegett volt a menekülő ló hátsó részén át hátra irányuló lövés.
+:67. Ez a „parth lövés” még a menekülést is hatékony támadási formává tette.
+:68. A vadászat a harcos számára állandó iskolaként szolgált, ahol gyakorolta a háborúskodás fortélyait.
+:69. Amit a vadászat során megtanult, azt közvetlenül alkalmazta a csatában.
+:70. Az egyes harcos azonban soha nem egyedül harcolt, hanem mindig a nemzetségének soraiban.
+:71. Ezekből a nemzetségi csoportokból állt össze a hadsereg nagyobb harci alakzata.
+:72. Ez a harci alakzat alapvetően különbözött a nyugati hadseregek sűrű vonalaitól.
+:73. Ahelyett, hogy frontálisan rohantak volna, a magyar lovasok mozgékony rajokban vették körül az ellenséget.
+:74. Ami az ellenfelek számára rendezetlen zűrzavarnak tűnt, valójában jól begyakorolt hadrend volt.
+:75. A hadsereg több részlegre volt felosztva, amelyek saját parancsnokaik alatt önállóan tudtak működni.
+:76. Ezek a részlegek egyszerre tudták megtámadni az ellenséget elölről, oldalról és hátulról.
+:77. Az ellenség bekerítése és körbezárása volt a magyar hadvezetés elsődleges célja.
+:78. Ez a bekerítési taktika közvetlenül a sztyeppék nagy vadászatából származott.
+:79. A kommunikáció zászlók, lobogók és hangjelzések, például kürtök és dobok segítségével történt.
+:80. Rúdra erősített lófarok jelölte a vezérek helyét tájékozódási pontként.
+:81. A csata tipikus lefolyása a körbezáró íjászok távoli lövöldözésével kezdődött.
+:82. Biztonságos távolságból a lovasok sűrű nyílzáporral árasztották el az ellenséges sorokat.
+:83. Ez a nyílzápor célja az volt, hogy felbomlassza az ellenség zárt alakzatát és veszteségeket okozzon neki.
+:84. Csak akkor váltottak át közelharcra, amikor az ellenséget a tűz és a veszteségek meggyengítették.
+:85. Ha a támadás erős ellenállásba ütközött, a csapatok azonnal visszavonultak.
+:86. E mozgékony taktika leghatékonyabb eszköze a színlelt visszavonulás volt.
+:87. A lovasok látszólag támadtak, majd menekülésnek indultak, és így csalogatták ki az ellenséget állásából.
+:88. A óvatlanul üldöző ellenség elvesztette rendezettségét, és beleesett az előre elkészített csapdába.
+:89. Menekülés közben a lovasok hátulról, parthiai lövéssel lőtték az üldözőiket.
+:90. Ez a hadicsel feltételezte, hogy a menekülő alakulatok a látszólagos szétszóródás ellenére is megőrizték rendjüket.
+:91. Csak jól összeszokott, fegyelmezett harcosok tudták a menekülést és a hirtelen irányváltást valódi káosz nélkül végrehajtani.
+:92. Szorosan összefüggött ezzel a hadicsellel a rejtett tartalékokból kialakított csapdák felállítása.
+:93. A döntő pillanatban ezek a rejtett egységek az ellenség oldalába vagy hátába törtek elő.
+:94. A magyar harci módszer tehát sem merev, sem szabálytalan nem volt, hanem mozgékonyan szervezett.
+:95. A fegyelmet és a saját kezdeményezést egyesítette egy rugalmas, mozgáson alapuló rendszerben.
+:96. Az egyes csatákon túl a magyarok ereje stratégiai szinten is megnyilvánult.
+:97. A stratégia egy egész hadjárat átfogó tervezését jelenti, szemben a csaták taktikájával.
+:98. Minden tervezés alapja az ellenség és országának pontos ismerete volt.
+:99. Minden hadmozdulat előtt a magyarok információkat gyűjtöttek a megcélzásra érdemes célpontokról és az ellenség gyenge pontjairól.
+:100. A szomszédos országokban dúló belső viszályok és trónöröklési viták különösen kedvező lehetőségeket nyújtottak.
+:101. Előfordult, hogy a magyarokat az egyik fél szövetségesként hívta be az országba, és így szereztek helyismeretet.
+:102. Az előre lovagló felderítők felderítették az utakat, a gázlókat és az ellenséges állásokat, és biztosították a hadsereg mozgékonyságát.
+:103. Ez a felderítés biztosította a magyaroknak azt az információs előnyt, amely lehetővé tette meglepetésszerű támadásaikat.
+:104. A kiemelkedő mozgékonyság volt minden tervezés stratégiai kulcstényezője.
+:105. A magyarok gyakran olyan helyeken jelentek meg, ahol még messze távolinak hitték őket.
+:106. Ez a gyorsaságból fakadó meglepetés megfosztotta az ellenséget a védekezés előkészítéséhez szükséges időtől.
+:107. Egyes hadjáratok egyetlen hadművelet keretében fél Európán átvezettek.
+:108. A hadsereg ekkor gyakran több oszlopra oszlott, amelyek külön-külön haladtak előre, és hatalmas területet fedtek le.
+:109. A megbeszélt pontokon és időpontokban az elkülönült egységek újra egyesültek.
+:110. A meglepetésszerű támadás célja az volt, hogy az ellenségnek ne maradjon ideje az ellenállásra.
+:111. A legkedvezőbb időpontok a kora reggeli órák és a fontos egyházi ünnepek voltak.
+:112. Már pusztán a közeledésükről szóló pletyka is egész vidékeket rémületbe és tehetetlenségbe taszíthatott.
+:113. A magyarok tudatosan használták ki ezt a pszichológiai hatást a hadviselés eszközeként.
+:114. Sok helyen a fejedelmek és a városok adófizetéssel váltották ki, hogy ne támadják meg őket.
+:115. Az ilyen adók gyakran jövedelmezőbbek voltak, mint maga a fosztogatás, és a hadjáratok valódi célját jelentették.
+:116. A jövedelmező, de gyengén védett célpontokat részesítették előnyben, az erősen megerősített helyeket pedig elkerülték.
+:117. A lovas íjászok taktikája szilárd falak és kővárak ellen alig tudott eredményt elérni.
+:118. A magyaroknak alig volt ostromfelszerelésük, és kerülték a szilárd helyek körül folyó hosszan elhúzódó küzdelmet.
+:119. A támadáshoz hasonlóan fontos volt a visszavonulás gondos megtervezése is.
+:120. Egy portyát csak akkor tekintettek sikeresnek, ha a sereg a zsákmánnyal együtt biztonságban hazatért.
+:121. A zsákmánnyal megrakott utánfutás azonban lassította az egyébként oly gyors sereget.
+:122. Éppen ezért a visszavonulás során volt a legsebezhetőbb a megrakott sereg.
+:123. Az okos ellenségek ezért nem az előrenyomulás, hanem a visszavonulás során próbálták megcsapni a magyarokat.
+:124. A visszavonuláshoz gyakran más útvonalakat választottak, mint az előrenyomuláshoz, hogy elkerüljék a lesbenállásokat.
+:125. A rendezett visszavonulás a magyarok számára nem szégyennek számított, hanem a siker természetes részének.
+:126. A kitérés ilyen megbecsülése mélyen megkülönböztette őket a nyugati harci etikától.
+:127. Az egész stratégia a saját erők kímélésére és a zsákmány növelésére irányult.
+:128. A lehető legnagyobb nyereségre törekedtek a lehető legkisebb saját veszteség mellett.
+:129. A vad lovas horda képe mögött tehát egy átgondolt hadviselési rendszer rejtőzött.
+:130. A felderítés, a mozgékonyság, a meglepetés és a biztos visszavonulás összefüggő egészet alkottak.
+:131. Csak az európai harcosokkal való összehasonlításban tárulnak fel teljes mértékben ennek a rendszernek az erősségei.
+:132. A nyugati seregek túlnyomórészt gyalogosokból álltak, kis számú lovas nemességgel.
+:133. Ők a karddal, lándzsával és pajzzsal vívott közvetlen közelharcra támaszkodtak.
+:134. A nyugati harcos egyre nehezebb páncélzatot viselt, és közelharcban hatalmas erővel rendelkezett.
+:135. De nehézkessége miatt gyakran tehetetlen volt egy kitérő, lövöldöző ellenféllel szemben.
+:136. Becsületérzete megkövetelte, hogy kitartson, és a visszavonulást szégyennek tartotta.
+:137. Éppen ezt a kitartást használták ki a magyarok azzal, hogy meggondolatlan üldözésre csábították őket.
+:138. Amit Nyugaton bátorságnak tartottak, azt a magyarok kihasználható gyengeségként kezelték.
+:139. Ezzel szemben a nyugat-európaiak számára a magyar harci módszer gyávának és alattomosnak tűnt.
+:140. Valójában két egyformán érvényes, de egymással ellentétes háborús szemlélet állt egymással szemben.
+:141. A nyugat letelepedett világa a nehéz, helyhez kötött harcosokat hozta létre.
+:142. A sztyeppék nomád világa a könnyed, mozgékony lovast hozta létre.
+:143. A portyák első évtizedeiben a versengés egyértelműen a magyarok javára dőlt el.
+:144. Fölényes mozgékonyságuk és távolsági harci képességeik túlterhelték a felkészületlen nyugati seregeket.
+:145. Olyan ellenséggel harcoltak, aki soha nem ott állt, ahol várták.
+:146. Ez a kezdeti tehetetlenség magyarázza a magyarok hosszú éveken át tartó fölényét.
+:147. Az idő múlásával azonban az európai harcosok tanultak vereségeikből.
+:148. Felismerték a magyar harci módszer gyenge pontjait, és stratégiájukat ezekre hangolták.
+:149. Várakat építettek, hogy megakadályozzák a lovasok zsákmányszerzését, és védelmet nyújtsanak a lakosságnak.
+:150. I. Henrik királyt, a Kelet-Frank Birodalom uralkodóját e várstratégia fontos támogatójának tartják.
+:151. Gyakorolták a nehéz lovasságot, hogy a magyarokat veszteséges közelharcra kényszerítsék.
+:152. Megtanulták, hogy ne kövessék meggondolatlanul a látszólagos menekülést.
+:153. És megtanulták, hogyan állítsák meg a zsákmányt szállító seregeket a visszavonulásuk során.
+:154. Ezekkel az alkalmazkodásokkal az egyensúly fokozatosan a Nyugat javára billent.
+:155. A 955-ös lechfeldi csata jelölte e fejlődés csúcspontját.
+:156. Ott I. Ottó királynak sikerült a magyarokat álló közelharcra kényszerítenie.
+:157. A közelharcban azonban a nehéz nyugati lovasság fölényben volt a könnyű magyar lovassággal szemben.
+:158. A magyarok erőssége, a mozgékonyságuk, a kényszerű csatában nem tudott érvényesülni.
+:159. A beszámolók szerint ráadásul az árvíz és a vizes íjak is megnehezítették a legyőzöttek visszavonulását.
+:160. Éppen a visszavonulás kudarca változtatta a vereséget katasztrófává.
+:161. A Lechfeld megmutatta, hogy a magyar fölény soha nem volt abszolút, hanem mindig csak feltételes.
+:162. Ez az ellenfelek képtelenségén alapult, hogy hatékonyan szembeszálljanak az idegen harci módszerrel.
+:163. Amint ezt a képtelenséget leküzdötték, a magyar erő határai nyilvánvalóvá váltak.
+:164. A mozgékonyságra való egyoldalú összpontosítás egyben a hadsereg sebezhető pontja is volt.
+:165. Ha a lovasság elvesztette mozgási terét, erőssége gyengeséggé változott.
+:166. A gyorsaságot szolgáló könnyű páncélzat kényszerű közelharcban hátrányossá vált.
+:167. Mindaddig azonban, amíg a körülmények kedvezőek voltak, a magyar sereg szinte legyőzhetetlen maradt.
+:168. Évtizedeken át a magyar lovasok végigvonultak Európán, Olaszországtól a Északi-tengerig.
+:169. E hadjáratok hatalmas kiterjedését csupán a lovas egységek teljesítőképessége magyarázhatja.
+:170. A magyar hadsereg ezzel az eurázsiai lovas népek hosszú hagyományait folytatta.
+:171. Taktikája hasonlított a hunok, az avarok, a kazárok és a későbbi pechenegék taktikájához.
+:172. Mindezek a népek hatalmukat a mozgékony, lovas íjászokra alapozták.
+:173. A magyarok ezt a sztyeppék közös örökségét magas fokú tökéletességig fejlesztették.
+:174. Különös volt azonban ennek a sztyeppehagyománynak a Kárpát-medence viszonyaihoz való kapcsolódása.
+:175. Az új letelepedési területen a nomád csoportok a régebbi, letelepedett népességek maradványaira bukkantak.
+:176. Ez a találkozás hosszú távon a hadügyre és a fegyverkezésre is hatással volt.
+:177. A keresztény királyság kiépítésével a hadsereg egész jellege átalakulni kezdett.
+:178. I. István király uralkodása alatt a régi törzsi rendet területi felosztás váltotta fel.
+:179. A törzsi haderő helyébe a királyi várkapitányságok csapatai léptek.
+:180. A könnyű, lovas íjász fokozatosan háttérbe szorult a nyugati mintára nehezebben felszerelt lovasok mögött.
+:181. A lovagság zárt harci rendje fokozatosan kiszorította a laza lovasrajokat.
+:182. Ezzel véget ért a tisztán törzsi hadsereg korszaka, és megkezdődött a fejedelmi haderő korszaka.
+:183. Mindazonáltal a régi harci módszer elemei a határokon és a könnyű lovas alakulatokban tovább éltek.
+:184. Bennük évszázadokon át tovább élt a mozgékony íjászlovas hagyománya.
+:185. A területfoglalások és a portyák idején azonban a lovas törzsi hadsereg maradt a meghatározó forma.
+:186. Ebben a szervezet, a fegyverzet, a taktika és a stratégia egyetlen, összehangolt rendszerré egyesült.
+:187. A törzsi felépítés biztosította a összetartást, a lovasság pedig a mozgékonyságot.
+:188. A fegyverzet biztosította a tűzerőt, a taktika pedig a csatában való összehangolt együttműködést.
+:189. Végül a stratégia irányította az egészet hatalmas területeken át a siker felé.
+:190. Ezen területek mindegyike tökéletes összhangban támasztotta alá és egészítette ki a többit.
+:191. Ha e lánc egyik láncszeme kiesett, az az egész hadsereg hatékonyságát közvetlenül befolyásolta.
+:192. Ebben a kölcsönös függőségben rejlett a magyarok nagysága és sebezhetősége egyaránt.
+:193. Amíg minden rész zökkenőmentesen illeszkedett egymáshoz, a magyar hadsereg Európa rettegett ereje volt.
+:194. Amint az ellenség egy ponton hatékonyan beavatkozott, az egész rendszer megingott.
+:195. A magyar hadseregek története ezért egy időnként felülmúlhatatlan hadrendszer története.
+:196. Ugyanakkor ez a történet arról is szól, hogy a tanuló ellenfelek hogyan győzték le fokozatosan ezt a rendszert.
+:197. Több mint fél évszázadon át azonban a magyar lovasok voltak a katonai urak Európa nagy részén.
+:198. Taktikájuk, felszerelésük és harci módszereik izgalomban tartották a kontinenst.
+:199. Rákényszerítették a nyugati birodalmakat, hogy alapjaiban újítsák meg erődítményeiket és hadrendszerüket.
+:200. Az a hatalom, amely a korai magyar államot több generáción át Európa legrettegettebb ellenfelévé tette, a lovas, a ló, az íj és a stratégia tökéletes összhangjából fakadt. 
+
+          === 3.3.1 – A hadseregek összetétele: törzsi harcosok és hadosztályok ===
+    
+
+      
+      :1. A kora középkori magyar seregek harci ereje közvetlenül abból fakadt, ahogyan ezek a seregek összeálltak. 
+     :2. A területeket elfoglaló magyarok hadserege nem volt állandó hadsereg a modern értelemben, hanem a társadalmi szerkezetből közvetlenül kinövő haderő.
+     :3. Aki a magyarok katonai szervezetét vizsgálja, egyúttal a törzsszövetségük belső felépítését is vizsgálja.
+     :4. E felépítés középpontjában a törzsszövetség állt, amelyet magyarul gyakran törzsszövetségnek neveznek, és amely több önálló törzs laza összefogása volt.:5. A törzsek, magyarul törzsnek nevezve, alkották az alapvető politikai és egyúttal katonai nagyegységet.
+     :6. VII. Konstantin Porfirogénetos bizánci császár hagyományos leírása szerint a szövetség hét magyar törzsből állt.
+     :7. Ezeket a hét törzset a kutatásban hagyományosan a „hét magyar” néven emlegetik.
+     :8. E törzsek nevei Konstantin De administrando imperio című művében maradtak fenn, bár görögösített formában.
+     :9. Többek között a Nyék, Megyer, Kürtgyarmat, Tarján, Jenő, Kér és Keszi törzseket említi.
+     :10. A Megyer törzset sok kutató a névadó vezető törzsnek tekinti, amelytől a „magyar” önmegnevezés származik.
+     :11. A kutatásokban vitatott kérdés, hogy a hagyományban szereplő hét szám pontosan megfelel-e a valóságnak, vagy szimbolikusan kerekített ideális számot jelöl.
+     :12. A hét magyar törzs mellé csatlakoztak a kabarok is, egy a kazárok közül elszakadt csoport.
+     :13. Konstantin beszámolója szerint a kabárok három alnemzetségből álltak.
+     :14. Így a honfoglalás idején a magyar szövetség pontosan nyolc törzsből állt: hét magyar és egy kabár törzsből.
+     :15. A kabárok különleges katonai szerepet töltöttek be, mivel ők alkották a seregek előőrsét és utóvédjét.
+     :16. Ezt az előőrs-funkciót általában azzal magyarázzák, hogy a harcias kabarok különösen csatatapasztaltnak számítottak.
+     :17. Minden egyes törzs viszont több nemzetségre vagy családszövetségre oszlott.
+     :18. Ezeket az alszervezeteket a forrásokban és a kutatásokban nemzetségeknek vagy klánoknak, magyarul nemzetségnek nevezik.
+     :19. A nemzetség egy tényleges vagy állítólagos közös származás által összekötött nagycsaládi közösség volt.
+     :20. A harci sorrendben egy nemzetség tagjai gyakran egymás mellett, zárt egységekben harcoltak.
+     :21. Ez a rokonsági csoporthoz fűződő kötelék nagy belső összetartást biztosított a csoportoknak.
+     :22. A legkisebb, mind katonai, mind társadalmi szempontból releváns egység a nagycsalád volt a feje alatt.
+     :23. A nemzetségek felett a törzsfők álltak, akik mindegyikük a saját törzsük katonai haderejét vezették.
+     :24. Az egész szövetség élén a földhódítás óta az Árpád-házból származó nagyfejedelem állt.
+     :25. Ezt a legfőbb vezetőt a források különböző címekkel jelölik, például kende-ként és gyula-ként.
+     :26. Egy elterjedt kutatási modell szerint a vezetés egy szent főnökre, a kende-re, és egy katonai parancsnokra, a gyula-ra oszlott.
+     :27. Ez az úgynevezett kettős fejedelemség azonban konkrét kialakításában a kutatásokban erősen vitatott.
+     :28. Árpád felemelkedésével a tényleges hatalom egyre inkább a katonai vezetés felé tolódott el.
+     :29. A nagyfejedelem katonai kísérete egy szilárd magot alkotó lovas harcosokból állt.
+     :30. Ezek a kísérők személyes hűségükkel és a háborús zsákmányból való részesedésük révén kötődtek a fejedelemhez.
+     :31. Ez a harcos nemesség képezte a hadsereg legprofibb és leghatékonyabb részét.
+     :32. E mag mellett álltak a szabad törzsi harcosok széles seregei.
+     :33. Elvileg a törzs minden szabad, felnőtt férfija harcképesnek számított, és így hadköteles volt.
+     :34. A korai magyarok társadalma nagymértékben harcos társadalom volt, amelyben a harcképesség jellemezte a szabad embert.
+     :35. Az ember szabadsága és a katonai szolgálatra való kötelezettsége szorosan összefüggtek egymással.
+     :36. A nem szabad és függő népességrétegek eleinte alig vettek részt a tényleges harcokban.
+     :37. Őket inkább segédfeladatokra, a nyájak őrzésére és a hadtábor ellátására vetették be.
+     :38. A harcoló harcosok rétege és a szolgáló népesség közötti különbség az idő múlásával egyre élesebbé vált.
+     :39. A korai időszakban azonban még mindig a szabad, lovas íjászokból álló széles sereg képe dominált.
+      :40. A lovasság képezte a magyar seregek meghatározó elemét.
+     :41. A latin Nyugat gyalogos seregeitől eltérően a magyar haderő szinte teljes egészében lovas volt.
+     :42. Ez az általános lovasság közvetlenül a magyarok nomád életmódjából fakadt.
+     :43. A lovas pásztorokból álló nép természetesen nagy lóállománnyal rendelkezett, és gyermekkortól kezdve képzett lovasokkal.
+     :44. Minden harcos általában több lovat is magával vitt, hogy mindig friss állatok álljanak rendelkezésére.
+     :45. A cserelovak rendelkezésre állása rendkívüli stratégiai mozgékonyságot biztosított a magyar haderőnek.
+     :46. A harci módszer alapját a lovas íjász képezte, aki lóhátáról lőtt reflexíjjal.
+     :47. A összetett reflexíj volt a magyar harcos jellegzetes fő fegyvere.
+     :48. Ebből a fegyverzetből adódott, hogy a hadtesteket elsősorban mozgékony távolsági harci egységekként szervezték.
+     :49. A törzsek és nemzetségek mindegyike zárt lovas csapatokat alkotott, amelyek saját vezetők irányítása alatt működtek.
+     :50. A magyarok esetében nem bizonyítható olyan merev, egységes felépítés, amely szigorú létszámarányokon alapult volna, mint például a római légió esetében.
+     :51. Az egyes alakulatok mérete inkább az adott törzs és annak nemzetségeinek erejétől függött.
+     :52. Mindazonáltal vannak utalások a hadsereg bizonyos tizes felépítésére, ahogyan az számos sztyepp népnél elterjedt volt.
+     :53. A sztyepp hadseregeket gyakran tizes, százas és ezres egységekre osztották.
+     :54. Nem bizonyítható egyértelműen, hogy a magyarok teljes szigorral átvették-e ezt a sztyeppei tizes rendszert.
+     :55. Valószínűleg a nemzetségek rokonsági rendje legalább részben felülírta a szigorúan számalapú felosztást.
+     :56. A haderőegységeket tehát elsősorban a származás és a törzsi hovatartozás, másodsorban pedig a taktikai számegységek szerint rendezték.
+     :57. Egy nagyobb hadjárat esetén az egyes törzsek mindegyike biztosította a maga kontingensét a teljes hadsereg számára.
+     :58. E törzsi kontingensek összege adta ki az egyesített haderőt, amelyet a nagyherceg vagy egy megbízott hadvezér irányított.
+     :59. Azonban nem mindig vonult az összes törzs teljes hadereje együtt a háborúba.
+     :60. Gyakran előfordult, hogy egyes törzsek vagy vezetőcsoportok saját számlára önálló zsákmányozó hadjáratokat indítottak.
+     :61. Ezek a kisebb, önállóan működő csapatok különösen jellemzőek voltak a tizedik századi rablóhadjáratokra.
+     :62. A nyugati krónikások által ezeknek a seregeknek a létszámáról közölt adatokat nagy óvatossággal kell kezelni.
+     :63. A középkori források hajlamosak voltak az ellenséges lovasok számát mértéktelenül eltúlozni.
+     :64. A több tízezer magyar lovasról szóló beszámolók inkább az érintettek rettegését tükrözik, mint a valós csapatlétszámot.
+     :65. A modern becslések nagy hadjáratok esetében jóval szerényebb, de még mindig jelentős számokkal számolnak.
+     :66. Az egyes portyák esetében az alkalomtól függően néhány száztól több ezer lovasig terjedő számokat feltételeznek.
+     :67. A Szövetség teljes mozgósítható hadereje csúcsidőben valószínűleg néhány tízezer fegyveres lovast tett ki.
+     :68. Ezek a számok azonban csak hozzávetőlegesek, mivel megbízható kortárs statisztikák hiányoznak.
+     :69. A hadosztályok mozgékonysága fontosabb volt, mint abszolút létszámuk.
+     :70. Egy viszonylag kicsi, gyors lovasság felülkerekedhetett egy létszámban fölényben lévő, de nehézkes gyalogságon.
+     :71. A hadsereg belső felépítése lehetővé tette, hogy nagy távolságokat rövid idő alatt tegyenek meg.
+     :72. Az egyes egységek feloszthattak, külön-külön működhettek, majd előre megbeszélt pontokon újra összeállhattak.
+     :73. Ez a felosztásra és újraegyesülésre való képesség magas fokú fegyelmet és koordinációt igényelt.
+     :74. A parancsnoki hatalom a hadvezértől a törzsfőnökökön keresztül a nemzetségvezetőkig és az egyes harcosokig terjedt.
+     :75. A csatában a jelzéseket zászlók, lobogók és hangjelzések segítségével továbbították.
+     :76. Harci jelként szolgáltak többek között rúdra erősített lófarokok, amely a sztyeppvidéken elterjedt szimbólum volt.
+     :77. Az ilyen lobogók jelölték a vezető tartózkodási helyét, és tájékozódási pontként szolgáltak harcosai számára.
+     :78. A csapatok összetartása tehát nem csupán a rokonsági kötelékeken alapult, hanem a begyakorolt parancsátadáson is.
+     :79. A harcoló csapatokhoz csatlakozott a hadtábor, amely biztosította a hadsereg ellátását.
+     :80. A hadtáborhoz tartoztak a tartalék lovak, a teherállatok, az élelmiszer-készletek és a magukkal vitt tábor.
+      :81. A hosszú hadjáratok során a harcosok szárított húst, kancatejből készült termékeket és egyéb tartós élelmiszereket vittek magukkal.
+     :82. Ez a szerény ellátás jelentősen csökkentette a rögzített utánpótlási vonalaktól való függőséget.
+     :83. Egy magyar sereg hosszú távolságokon át nagyrészt a meghódított területekről tudta biztosítani az élelmiszer-ellátását.
+     :84. Ez az önellátási képesség jelentősen kiterjesztette a hadosztályok tevékenységi körét.
+     :85. A hadjáratok során a harcosokat néha pásztorok és cselédek is kísérték, akik az állatcsordákról gondoskodtak.
+     :86. Ezek a szolgáló kísérők azonban nem tartoztak a tényleges harci alakulathoz.
+     :87. A hadsereg társadalmi rétegződése így az egész társadalom rétegződését tükrözte.
+     :88. Az élén a nagyherceg és a törzsfők álltak kíséretükkel.
+     :89. Alattuk következett a szabad, lovas és fegyveres törzsi harcosok széles rétege.
+     :90. Az alapot a szolgasorban élő pásztorok, cselédek és a hadtábor kísérői alkották, akiknek nem volt tényleges harci szerepük.
+     :91. Ez a felépítés nem volt merev, hanem lehetővé tette a társadalmi felemelkedést a harci képességek és a zsákmány révén.
+     :92. Egy egyszerű harcos, aki kitűnt és zsákmányt szerzett, elismertségre és követőkre tehetett szert.
+     :93. A háborúban elért siker így a harcos társadalmon belüli társadalmi mobilitás központi mechanizmusa volt.
+     :94. A harcos felszerelése vagyonától és társadalmi helyzetétől függött.
+     :95. A gazdagabb harcosok és követőik megengedhették maguknak a páncélt, a sisakot és az értékes kardot.
+     :96. A szegényebb harcosok gyakran csak íjjal, nyíllal és könnyű közelharci fegyverekkel vonultak csatába.
+     :97. Ez a felszerelésbeli különbség tényleges rétegződéshez vezetett a harcoló lovasságon belül is.
+     :98. A jól felszerelt, lóháton harcoló nemesség egyfajta nehezebb rohamlovasságot alkotott.
+     :99. A könnyebben felfegyverzett íjászok tömege biztosította a mozgékony távolsági harcot.
+     :100. E két elem összjátéka adta a magyar hadsereg taktikai erejét.
+     :101. A lovas sírokból származó régészeti leletek megerősítik ezt a fokozatos felfegyverzésről alkotott képet.
+     :102. A tekintélyes sírokban értékes kardokat, kengyeleket, kantárokat és gazdagon díszített övcsatokat találnak.
+     :103. Az egyszerűbb sírokban viszont gyakran csak nyílhegyek, íjmaradványok és egyszerű lószerszámok találhatók.
+     :104. Az ilyen leletek alapján nagyjából rekonstruálható a hadtestek társadalmi és katonai felépítése.
+     :105. A ló vagy lórészek temetkezésbe való behelyezése egyúttal aláhúzza a lovas központi szerepét.
+     :106. A ló nem csupán közlekedési eszköz volt, hanem a harci identitás szerves része.
+     :107. Már a fiúkat is korán megszoktatták a lovaglással és az íj használatával.
+     :108. Ez az egész életen át tartó gyakorlás szinte minden szabad férfit bevethető lovas harcosává tett.
+     :109. A katonai alkalmasság tehát nem egy külön képzés eredménye volt, hanem az egész életmódé.
+     :110. Kezdetben nem létezett a katonák és a többi lakosság közötti szakmai elkülönítés, ahogyan azt a későbbi államok ismerték.
+     :111. A hadsereg inkább maga a fegyveres társadalom volt.
+     :112. A társadalom és a hadsereg közötti szoros kapcsolat meghatározta a magyar hadviselés egész jellegét.
+     :113. Ez magyarázza, miért lehetett a haderőket ilyen gyorsan mozgósítani és ugyanolyan gyorsan feloszlatni.
+     :114. Egy hadjárat után a harcosok visszatértek a nemzetségeikhez és a nyájaikhoz.
+     :115. A hadsereg csak az adott hadjárat idejére létezett egységes szervezetként.
+     :116. Ez a rugalmasság egyben a magyar katonai szervezet erőssége és gyengesége is volt.
+     :117. Erősségként lehetővé tette nagy lovas seregek gyors és költséghatékony mozgósítását.
+     :118. Gyengeségként viszont megnehezítette a harcosok tartós elköteleződését közös, hosszú távú célok mellett.
+     :119. A törzsi felépítés ráadásul rivalizáláshoz vezethetett az egyes vezetők között.
+     :120. Az ilyen feszültségek a törzsek és nemek között tartós hatással voltak a szövetség történetére.
+     :121. Ideális esetben azonban a törzsek alávetették magukat a közös főparancsnokságnak.
+     :122. Ez az alárendeltség kevésbé egy elvont államfogalmon, mint inkább a közös zsákmány reményén alapult.
+     :123. A zsákmány volt az összekötő elem, amely az egyes csoportokat közös cselekvésre ösztönözte.
+     :124. A zsákmány elosztása szilárd, hagyományok által szabályozott arányok szerint történt.
+     :125. A vezetők és a követőik nagyobb részesedést kaptak, mint az egyszerű harcosok.
+      :126. Ez a szabályozott zsákmányelosztás biztosította a sereg belső békéjét és a harcosok hűségét.
+     :127. A zsákmányelosztás rendjének megsértése komolyan veszélyeztethette egy csoport összetartását.
+     :128. A katonai szervezet így elválaszthatatlanul összekapcsolódott a portyázás gazdaságával.
+     :129. A magyar hadtestek sok tekintetben hasonlítottak a korabeli más sztyeppei népek hadseregeihez.
+     :130. Párhuzamok találhatók például az avarokkal, a kazárokkal és később a pechenegekkel.
+     :131. Mindezek a népek hadseregeiket lovas törzsi seregekként szervezték, decimális felépítésre törekedve.
+     :132. A magyarok így az eurázsiai lovas nomád hadseregek hosszú hagyományába illeszkednek.
+     :133. Különös volt azonban ennek a sztyeppehagyománynak a Kaposvölgyi-medence viszonyaival való összekapcsolódása.
+     :134. Az új letelepedési területen a nomád csapatok a régebbi, letelepedett népességek maradványaira bukkantak.
+     :135. Ez a találkozás hosszú távon a hadsereg összetételét is befolyásolta.
+     :136. A leigázott népcsoportokat alárendelt szerepkörben be lehetett vonni a hadrendszerbe.
+     :137. Az ilyen segédnépek, akiket magyarul gyakran határőröknek neveztek, különleges feladatokat láttak el a birodalom peremvidékein.
+     :138. Későbbi időkben közéjük tartoztak például a székelyek és a letelepedett pecheneg csoportok.
+     :139. Ezek a határnépek könnyű lovas alakulatokat alkottak, amelyek továbbvitték a régebbi magyar harci stílust.
+     :140. Így a lovas íjászok hagyománya sokáig életben maradt a magyar hadrendszerben.
+     :141. Az eredeti törzsi felépítés azonban a keresztény királyság kialakulásával elvesztette jelentőségét.
+     :142. I. István király uralkodása alatt a régi törzsi rendet fokozatosan felváltotta a területi felosztás.
+     :143. A törzsi haderő helyébe a királyi várkapitányságok csapatai léptek.
+     :144. A harcosok immár nem elsősorban a törzsüknek, hanem a királynak és a királyi várszervezetnek tartoztak hűséggel.
+     :145. Ezzel véget ért a tisztán törzsi hadsereg korszaka, és megkezdődött a fejedelmi haderő korszaka.
+     :146. A földhódítások és a portyák idején azonban a törzsi szövetség maradt a meghatározó szervezeti forma.
+     :147. Ebben a korai időszakban a hadsereg a törzsi szövetség hű tükörképe volt fegyverekben.
+     :148. Minden törzsnek, minden nemzetségnek és minden családnak megvolt benne a maga állandó helye.
+     :149. A csatamezőn felállított sorrend bizonyos értelemben megismételte a békeidő társadalmi rendjét.
+     :150. Aki a nemzetségben rangot viselt, az a csatatéren is a hozzá tartozó harcosokat vezette.
+     :151. A társadalmi és a katonai pozíciók közötti ez az egybeesés biztosította a hadsereg belső összetartását.
+     :152. Ugyanakkor ez a hadsereget függővé tette az alapját képező törzsi struktúrák stabilitásától.
+     :153. Ha egy törzs belső összetartása meggyengült, az közvetlenül kihatott katonai erejére is.
+     :154. A magyar haderő ereje ezért éppúgy a társadalmi, mint a tisztán katonai összetartáson alapult.
+     :155. A vezéreknek ezért folyamatosan arra kellett törekedniük, hogy sikereikkel és nagylelkűségükkel megőrizzék harcosuk hűségét.
+     :156. A zsákmány és a sikerek nélküli vezető gyorsan elvesztette harcosai támogatását.
+     :157. Így alakult ki a sikeres hadjáratok iránti állandó kényszer, amely a fosztogató hadjáratokat is ösztönözte.
+     :158. A hadsereg összetétele és a fosztogató hadjárat logikája kölcsönösen feltételezték egymást.
+     :159. Ezenkívül lényeges tényező volt a lovas alakulatok által a terep adottságainak kihasználása is.
+     :160. A nyílt síkságok, mint például a Kárpátok-medence alföldje, ideálisak voltak a lovasság számára.
+     :161. Ilyen terepen az alakulatok teljes mértékben kihasználhatták mozgékonyságukat és tűzerejüket.
+     :162. Szűk, hegyvidéki vagy erősen erődített terepen viszont előnyeik egy részét elvesztették.
+     :163. A hadseregek szervezését ezért széles, nyílt harci terepre tervezték.
+     :164. Ez a földrajzi kötöttség egyúttal magyarázza a magyar hadjáratok preferált támadási irányait is.
+     :165. Összességében a korai magyar hadsereg rendkívül mozgékony, törzsi felépítésű lovas hadtestnek tűnik.
+     :166. Szervezeti egységei a törzsek, építőelemei a nemzetségek, legkisebb sejtjei pedig az egyes harcoscsaládok voltak.
+     :167. Mindezek felett állt a nagyfejedelem és a vele szövetséges törzsfejedelmek vezetése.
+     :168. Ez a struktúra ötvözte a nomád sztyeppehagyományokat az új letelepedési terület sajátos viszonyaival.
+     :169. Ez több évtizeden át katonai fölényt biztosított a magyaroknak Európa nagy részén.
+      :170. Csak az európai ellenfelek alkalmazkodása és a magyar identitás belső átalakulása vetett véget ennek a fölénynek.
+     :171. A 955-ös Lechfeld-i vereség egyúttal a tisztán lovas stratégia végét is jelentette.
+     :172. Ezt követően a törzsi felépítésű haderő fokozatosan átalakult egy másképp szervezett hadsereggé.
+     :173. A törzsi harcosok és csapataik emléke azonban szilárdan megmaradt a magyar történelmi tudatban.
+     :174. A későbbi krónikák a hét törzset és vezetőiket a nemzet alapító alakjaivá emelték.
+     :175. A történeti kutatás ezzel szemben arra törekszik, hogy a források és leletek alapján rekonstruálja a valós képet.
+     :176. Ezzel egy összetett struktúra tárul elénk, amely törzsekből, nemzetségekből, követőkből és szolgáló rétegekből áll.
+     :177. A magyar seregek összetétele így jóval több volt, mint puszta lovasok gyűjteménye.
+     :178. Ez egy egész társadalmi rend közvetlen kifejeződése volt harci formában.
+     :179. A törzsi harcosok és a hadtestek együtt egy olyan rendszert alkottak, amelyben a rokonság, a hűség és a zsákmány szorosan összefonódott.
+     :180. Pontosan ebből az összefüggésből fakadt az a harci erő, amely a korai magyar államot fél évszázadon át Európa rettegett ellenjévé tette. 
+        
+
+          
+          === 3.3.2 – Fegyverzet és páncélzat: kardok, lándzsák, íjak ===
+    
+
+      
+      :1. A korai magyar lovasok harci ereje döntő mértékben a fegyverzetük és a védőfelszerelésük egyes elemeitől függött. 
+     :2. A magyar harcos felszerelése teljes mértékben a lóháton való harcra volt szabva.
+     :3. E fegyverzet középpontjában a kompozit reflexíj állt, amely a magyar lovas legfontosabb fegyvere volt.
+     :4. Ezt az íjat a kutatásokban kompozit íjnak vagy reflexíjnak nevezik, mert feszítetlen állapotban a feszítési irányával ellentétesen hajlik.
+     :5. Nevét onnan kapta, hogy az íj végei feszítetlen állapotban előre hajlanak.
+     :6. Az íj nem egyetlen darab fából készült, hanem több anyagból állt össze.
+     :7. A magot egy fa rúd alkotta, amely régiótól függően juharfából, nyírfából vagy más alkalmas fafajokból készült.
+     :8. Az íj lövő felé néző hasoldalára szarvlemezeket ragasztottak.
+     :9. Az íj lövőtől elforduló hátsó oldalára hasított állati inakat helyeztek el.
+     :10. Feszítéskor a szarv vette fel a nyomóerőket, az ínszálak pedig a húzóerőket.
+     :11. A fa, a szarv és az ínszálak ezen együttműködéséből rendkívül nagy feszítőerő származott a rövid építési hossz mellett.
+     :12. Éppen a rövid hossz tette az íjat különösen alkalmasnak lóháton való használatra.
+     :13. Egy hosszú íj a lóháton aligha lett volna kezelhető, a rövid reflexív viszont minden irányba irányítható volt.
+     :14. Az íj végeit beillesztett csont- vagy agancslemezekkel, az úgynevezett íjmerevítőkkel erősítették meg.
+     :15. Ezek a merev végdarabok, amelyeket a szaknyelvben siyahoknak neveznek, emelőként működtek és növelték a lövés erejét.
+     :16. Az ilyen csont íjmerevítők a területfoglalás korszakának lovas sírjaiban a leggyakrabban előforduló leletek közé tartoznak.
+     :17. Ezekből régészeti úton meg lehet állapítani a régmúlt időkből származó, szerves anyagból készült íj felépítését.
+     :18. Egy ilyen íj elkészítése hosszadalmas folyamat volt, és nagy kézműves jártasságot igényelt.
+     :19. Az első összeillesztéstől a teljes használhatóságig több év is eltelhetett, mivel a ragasztott illesztéseknek hosszú ideig kellett megkeményedniük.
+     :20. Egy jó íj ezért értékes tulajdon volt, és viselője harcos státuszának jelképe.
+     :21. Az íj húrját sodrott állati inakból, belekből vagy növényi rostokból készítették.
+     :22. A nedvesség volt a kompozit íj legnagyobb ellensége, mivel feloldotta a ragasztókapcsolatokat és csökkentette a feszítőerőt.
+     :23. Nedves időben ezért az íjak lőteljesítménye jelentősen romlott.
+     :24. Nyugati források többször is beszámolnak olyan, a magyarok elleni győzelmekről, amelyeket az eső és a megpuhult íjak segítettek elő.
+     :25. Védelem céljából az íjat egy külön táskában, az íjtartóban, az övön hordták.
+     :26. Ezt az íjtartót a szakirodalomban esetenként a Gorytos kölcsönszóval vagy egyszerűen íjtáskának nevezik.
+     :27. A hozzá tartozó nyilak egy külön tegezben voltak, amelyet szintén az övhöz rögzítettek.
+     :28. A magyarok nyíltokja gyakran hosszúkás tartály volt, amelyben a nyilak hegyükkel felfelé álltak.
+     :29. Ez a hordozási mód lehetővé tette a lovas számára, hogy gyorsan megragadjon egy nyilat, és a húrra helyezze.
+     :30. A magukkal vitt nyilak száma forrásoktól és becslésektől függően harcosonként több tucat volt.
+     :31. A nyílszárak egyenes fából vagy nádból készültek, végükön tollazattal.
+     :32. A tollazat stabilizálta a nyíl repülését, és kiszámítható röppályát biztosított.
+     :33. A nyílhegyeket vasból kovácsolták, és sokféle formában készültek.
+     :34. Különösen elterjedtek voltak a háromszárnyú, rombusz alakú és levél alakú vashegyek.
+     :35. A keskeny, éles hegyek a páncélok áttörésére szolgáltak, a széles hegyek pedig a védtelen célpontok és a lovak ellen.
+     :36. A talált nyílhegyek alakjából következtetéseket lehet levonni az egyes esetekben szándékolt hatásra vonatkozóan.
+     :37. Különleges kivitelűek voltak az úgynevezett sípnyilak, amelyek repülés közben átható hangot adtak ki.
+     :38. Az ilyen sípnyilak feltehetően jelzésre és az ellenfél pszichológiai megfélemlítésére szolgáltak.
+     :39. A magyarok lövéstechnikája a vágtázó lóról történő gyors, ismételt kilövésen alapult.
+     :40. A gyakorlott lovasok rövid sorozatban több nyílvesszőt is kilőhettek, miközben teljes sebességgel haladtak tovább.
+     :41. Híres volt az a képességük, hogy még a színlelt visszavonulás során is hátrafelé tudtak lőni.
+     :42. Ez az úgynevezett „parthai lövés”, azaz a menekülő ló farán át történő lövés, a sztyeppei lovasok állandó repertoárjának része volt.
+      :43. A reflexív íj hatótávolsága sík célra lövés esetén több tucat méter volt, magas íjlövésnél pedig lényegesen nagyobb.
+     :44. Döntő fontosságú azonban nem annyira a maximális hatótávolság volt, mint inkább a mozgó célok elleni találati pontosság.
+     :45. A lovas íjász biztonságos távolságból lőhette az ellenséget anélkül, hogy közelharcnak tenné ki magát.
+     :46. Ez a távolsági harci módszer volt a fő oka annak, hogy a magyarok taktikai fölényben voltak a nyugati, nehézkes gyalogsággal szemben.
+     :47. Az íj mellett azonban a harcosok mindig magukkal vittek közelharci fegyvereket is.
+     :48. A legelőkelőbb közelharci fegyver az egyélű, enyhén ívelt szablya volt.
+     :49. A honfoglalás korabeli magyar szablya karcsú, egyik oldalra ívelt pengével rendelkezett.
+     :50. Ez az ívelés a lovas mozgásából származó csapáshoz volt optimalizálva.
+     :51. Az ívelt szablya becsapódáskor áthatol a célponton, és így hatékony vágást eredményez.
+     :52. Ezzel szemben a nyugat-európai egyenes, kétélű kardtípus inkább a közelharcban végzett csapásokra és szúrásokra volt kialakítva.
+     :53. A korai magyaroknál egyértelműen a lovas harcra alkalmas szablya volt a jellemző.
+     :54. Híressé vált a pompásan díszített szablya, amelyet hagyományosan Nagy Károly nevéhez kötnek, valójában azonban magyar eredetű.
+     :55. Ez az úgynevezett Nagy Károly-szablya, amelyet ma Bécsben őriznek, a magyar fegyverkészítés kiemelkedő példájának számít.
+     :56. A nemesi kardok markolatai és hüvelyei gyakran nemesfémmel és sajtolt fém díszekkel voltak díszítve.
+     :57. Az ilyen értékes fegyverek egyszerre szolgáltak harci eszközként és a vezető harcosok státuszszimbólumaként.
+     :58. Az egyszerű harcosok egyszerűbb kardokat vagy kések hordtak, amelyek pengéje kevésbé volt kidolgozott.
+     :59. Az idő múlásával a nyugati típusú egyenes kardok is egyre inkább beépültek a magyar fegyverzetbe.
+     :60. A keresztény Európához való közeledéssel fokozatosan elterjedt a kétélű hosszúkard.
+     :61. A korai időszakban azonban a szablya maradt a lovas magyarok jellegzetes vágófegyvere.
+     :62. Egy másik fontos fegyver a lándzsa volt, amelyet szúrásra és dobásra egyaránt lehetett használni.
+     :63. A lovas lándzsája arra szolgált, hogy rohanásból szúrjon az ellenfélbe.
+     :64. A könnyebb dobólándzsákat rövidebb távolságokra lehetett eldobni, hogy áthidalják a távolsági és a közelharci harc közötti rést.
+     :65. A lándzsacsúcsokat vasból kovácsolták, és a sírokban is bőségesen előfordultak.
+     :66. A kard és a lándzsa mellett egyes harcosok közelharci fegyverként csatabárdot is hordtak.
+     :67. Az ilyen balták a harcban csapásfegyverként, a táborban pedig szerszámként is szolgálhattak.
+     :68. További kiegészítő fegyverként szolgált az egyszerű harci kés, amelyet szinte minden harcos az övén hordott.
+     :69. A sztyeppvidékre jellemző különleges fegyver a harci buzogány vagy harci pöröly volt.
+     :70. Egy nehéz pöröly segítségével még egy páncélos ellenfél is harcképtelenné tehető volt a csapás erejével.
+     :71. A fonott szíjakból készült befogókötél, a lasszó is a sztyeppai lovasokról maradt fenn.
+     :72. A lasszóval le lehetett rántani az ellenséget a lóról vagy elfogni, ami különösen hasznos volt a foglyok üldözése során.
+     :73. Az egyes harcosok fegyverzete így a távolsági fegyverektől a közelharci fegyverekig terjedt.
+     :74. A csatában a lovas az íjjal való lövöldözésről a lándzsa és a szablya használatára váltott, amint a távolság ezt megkövetelte.
+     :75. A fegyverek ezen fokozatos használata megfelelt a lovas csata különböző fázisainak.
+     :76. A támadó fegyverek mellett figyelmet kell fordítani a magyar harcosok védőfelszerelésére is.
+     :77. A későbbi nyugati, nehéz páncélzatú lovagokhoz képest a magyar lovas védelme meglehetősen könnyű volt.
+     :78. Ez a könnyű páncélzat nem hiányosság volt, hanem a mozgékonyságon alapuló harci stílus tudatos következménye.
+     :79. A túl nehéz páncélzat ugyanis rontotta volna a lovas taktika szempontjából döntő fontosságú gyorsaságot.
+     :80. Az egyszerű harcos ezért gyakran jelentős fémpáncél nélkül vonult csatába.
+     :81. Védelme gyakran csupán bőrből, nemezből vagy vastagon bélelt szövetből készült, szilárd ruházatra korlátozódott.
+     :82. Az ilyen textil- vagy bőrpáncélok bizonyos védelmet nyújtottak a csapások és a súroló nyilak ellen.
+     :83. A tehetős harcosok és vezérek viszont fém védőfelszereléssel rendelkeztek.
+     :84. Elterjedt volt a pikkelypáncél, amelynél apró fémlemezeket pikkelyszerűen varrtak egy alapra.
+     :85. Ugyancsak ismert volt a lamellapáncél, amelynél keskeny fémlemezeket szíjakkal kötöttek össze.
+      :86. A lemezes páncél a teljes sztyeppvidéken elterjedt volt, és mozgékony védelmet nyújtott a felsőtestnek.
+     :87. A nyugatról ismert láncing a korai magyarok körében csak elszórtan fordult elő.
+     :88. Csak az Európához való egyre szorosabb közeledéssel nyert jelentőséget a láncing a magyarok körében is.
+     :89. A fej védelmét a sisak szolgálta, amely azonban szintén csak a jobban felszerelt harcosok kiváltsága volt.
+     :90. Elterjedt volt a kúpos vagy hegyes sisak, amely több, egymáshoz szegecselt szegmensből állt.
+     :91. Ez az úgynevezett kapcsos sisak egyes, kapcsokkal összekötött vaslemezekből állt.
+     :92. Egyes sisakokon nyakvédő vagy láncszövet volt rögzítve a nyak és az arc védelmére.
+     :93. Az egyszerű harcosok helyette gyakran csak bőrből vagy nemezből készült sapkát viseltek.
+     :94. A forrásokban és a leletek alapján a pajzsok meglehetősen ritkán fordulnak elő a korai magyar lovasoknál.
+     :95. A lovas íjásznak mindkét keze kellett az íj vezetéséhez, ezért aligha tudott volna kezelni egy nagy pajzsot.
+     :96. Ahol pajzsokat használtak, azok valószínűleg kisebb, kerek, fából és bőrből készült formák voltak.
+     :97. A lovas valódi védelmét nem annyira a páncélzata, mint inkább a mozgékonysága és az ellenségtől való távolsága biztosította.
+     :98. A lovak is részben takarókkal vagy bőrkellékekkel voltak védve a nemes harcosok esetében.
+     :99. A ló teljes páncélzata, ahogyan azt a későbbi lovas népek ismerték, a területfoglalás idején azonban nem bizonyított.
+     :100. A lovas felszereléséhez tartozott továbbá a lószerszám is, amelynek alkatrészei gyakran megmaradtak a sírokban.
+     :101. Ennek során kiemelt jelentőségű volt a kengyel, amely szilárd tartást biztosított a lovasnak a nyeregben.
+     :102. Csak a kengyelek által biztosított szilárd tartás tette lehetővé az erőteljes lövöldözést és csapásmérést a ló hátáról.
+     :103. A magyarok kengyelei többnyire vasból készültek, és széles lépőfelülettel rendelkeztek.
+     :104. A lovaglófelszereléshez tartozott továbbá a kantár, a nyeregszíj és a fa nyereg.
+     :105. A nyereg elosztotta a lovas súlyát, és a kengyelekkel együtt stabil lőállást biztosított.
+     :106. A nyereg és a lovaglófelszerelés a nemes harcosoknál gazdagon volt díszítve fémvasalásokkal.
+     :107. Ezek a díszítések a honfoglalás korabeli magyar fémművesek legművészibb alkotásai közé tartoznak.
+     :108. Egy másik jellegzetes felszerelési tárgy a fémdíszítéssel ellátott öv volt.
+     :109. Ehhez az övhöz rögzítették a kardot, a tegezet, az íjtáskát és egyéb felszereléseket.
+     :110. Az öv díszítése egyúttal viselője rangjáról és tekintélyéről is árulkodott.
+     :111. A gazdagon díszített övek méltóságjelképnek számítottak, és a nemesek sírjaiba is eltemették őket.
+     :112. A harcos teljes felszerelése így tükrözte társadalmi helyzetét.
+     :113. Minél magasabb volt a rang, annál értékesebb és teljesebb volt a fegyverzet és a páncélzat.
+     :114. A vasfegyverek előállítása fejlett kovácsmesterséget feltételezett.
+     :115. A magyaroknak olyan kovácsaik voltak, akik kiváló minőségű pengéket, hegyeket és fémalkatrészeket tudtak gyártani.
+     :116. A vas és a késztermékek egy részét zsákmányként vagy kereskedelem útján szerezték meg.
+     :117. A portyák során zsákmányolt fegyverek kiegészítették és gazdagították a hazai fegyverzetet.
+     :118. Így kerültek nyugati kardok és páncélalkatrészek a magyar harcosok felszerelésébe.
+     :119. A saját és a zsákmányként szerzett felszerelések keveredése néha megnehezíti az egyes leletek egyértelmű besorolását.
+     :120. A fegyverzet rekonstruálásakor a régészet elsősorban a területfoglalás korából származó sírleletekre támaszkodik.
+     :121. A férfi sírokban rendszeresen találhatók nyílhegyek, íjmerevítők, kardok és lószerszámok.
+     :122. E fegyverek sírba helyezése aláhúzza azok központi jelentőségét a harcos identitása szempontjából.
+     :123. A sírmellékletek összetételéből következtetni lehet a temetett személy rangjára és tisztségére.
+     :124. A teljes fegyverzetet és gazdag edénykészletet tartalmazó sírokat előkelő lovas harcosoknak tulajdonítják.
+     :125. A csupán néhány nyílhegyet tartalmazó sírok alacsonyabb rangú, egyszerű harcosokra utalnak.
+     :126. A fegyverek szerves alkotóelemei, azaz a fa, az ín és a bőr, a sírokban többnyire elpusztultak.
+     :127. Általában csak a felszerelés fém- és csontalkatrészei maradtak fenn.
+     :128. Ezért az íj és a nyereg eredeti alakját a fennmaradt maradványokból kell rekonstruálni.
+     :129. A magyar fegyverzet írásos leírásai túlnyomórészt ellenfeleiktől származnak.
+      :130. A nyugati és bizánci szerzők elsősorban a számukra szokatlan és rettegett íjász taktikát írják le.
+     :131. A bizánci császár, aki hadművészeti kézikönyvet írt, a magyarokat veszélyes lovas íjászokként írja le.
+     :132. Az ilyen leírások értékesek, de egyoldalú perspektívájuk miatt óvatosan kell értelmezni őket.
+     :133. Az ellenfelek természetesen a magyar harci módszer idegenszerűségét és fenyegető jellegét emelték ki.
+     :134. Csak az írásos források és a régészeti leletek összekapcsolása ad viszonylag teljes képet.
+     :135. Ebből a kombinációból meglehetősen pontosan felvázolható a honfoglalás korszakának tipikus magyar harcosának képe.
+     :136. Könnyű fegyverzetű, rendkívül mozgékony lovasként jelenik meg, íjjal, tegezzel, szablyával és lándzsával.
+     :137. Legfontosabb erőssége a távolsági fegyver és a gyorsaság ötvözete volt.
+     :138. Ez a fegyverzet az eurázsiai sztyeppvidéken végbement hosszú fejlődés eredménye volt.
+     :139. Hasonló felszerelés található az avarok, a kazárok, a pechenegék és más lovas népek körében is.
+     :140. A magyarok így fegyverzetük alapjait a sztyeppai nomádok egész világával megosztották.
+     :141. Különlegességnek számított azonban egyes magyar kardok és fémalkatrészek magas kézműves minősége.
+     :142. Ez a minőség a nomád örökség mellett egy fejlett, saját fémmegmunkálási hagyományról tanúskodik.
+     :143. A keresztény királyságra való áttéréssel a fegyverzet fokozatosan átalakulni kezdett.
+     :144. A nyugati mintára az egyenes kard, a láncing és a nehezebb sisak nyert teret.
+     :145. A lovas íjász fokozatosan háttérbe szorult a nehezebben felfegyverzett lovasok mögött.
+     :146. A fegyverzet ezen változása Magyarország átfogó beilleszkedésének része volt a latin Európába.
+     :147. A régi lovas fegyverzet mindazonáltal a birodalom peremvidékein és a könnyű határlovasok körében sokáig megmaradt.
+     :148. Így a könnyű lovas íjászok hagyománya még jóval a tényleges területfoglalás időszakát követően is fennmaradt.
+     :149. A korai magyarok fegyverzete tehát nem merev, hanem változó rendszer volt.
+     :150. Klasszikus formájában azonban teljes mértékben a gyors, íjjal vívott lovas harcra volt szabva.
+     :151. Minden egyes fegyvernek megvolt a maga meghatározott helye a csata menetében.
+     :152. Az íj távolról nyitotta meg a harcot, a lándzsa áthidalta a közepes távolságot, a szablya pedig eldöntötte a közelharcot.
+     :153. A könnyű páncélzat biztosította a szükséges védelmet anélkül, hogy a mozgékonyságot feláldozta volna.
+     :154. A lószerszám, a nyereg és a kengyel elengedhetetlen alapot jelentett mindezen fegyverek használatához.
+     :155. Csak a lovas, a ló és a fegyverzet összehangolt együttműködése eredményezte a magyar harcos rettegett harci erejét.
+     :156. Ezt az összhangot generációkon át gyakorolták, és az az egész életmód részét képezte.
+     :157. A fegyverek kezelését nem csak a háborúban, hanem már a vadászat során és a mindennapi lovaglás során is elsajátították.
+     :158. A vadászat és a háború ugyanazokat a készségeket igényelte az íj és a ló kezelésében.
+     :159. Így a harcos fegyverzete egyben a vadász és a pásztor felszerelése is volt.
+     :160. A mindennapi élet és a háború ezen egysége kölcsönözte a magyar fegyverzetnek különleges természetességét.
+     :161. A nyugattól eltérően nem volt szükség külön hivatásos katonai osztályra ezeknek a fegyvereknek a kezeléséhez.
+     :162. Szinte minden szabad férfi már fiatalkorától kezdve jártas volt az íj és a kard használatában.
+     :163. Ez volt az egyik fő oka annak, hogy nagy lovas seregek gyorsan rendelkezésre álltak.
+     :164. A fegyverzet beszerzése nem volt drága, és ritkán volt rá szükség, hanem az élet mindenütt jelen lévő része volt.
+     :165. Csak a nemesek drága kardjai, páncéljai és sisakjai jelentettek kivételt e szabály alól.
+     :166. Ez a nemesi felszerelés láthatóan kiemelte a vezért az egyszerű harcosok tömegéből.
+     :167. Így a fegyverzet egyúttal a harcos társadalom társadalmi rendjét is tükrözte.
+     :168. A lovas sírokból származó leletek ma is felismerhetővé teszik ezeket a finom árnyalatokat.
+     :169. Ezek teszik a honfoglalás korszakának magyar fegyverzetét a korai történelem egyik legjobban kutatott területévé.
+     :170. A nyílhegyek, kardok és fémalkatrészek alapján így alakul ki egy fejlett lovas harci kultúra képe.
+     :171. Ez a harci kultúra ötvözte a sztyeppék nomád hagyományait a kézműves önállósággal.
+     :172. Fegyverzetük funkcionális, mozgékony volt, és egy világosan körülhatárolt taktikai célra lett kialakítva.
+     :173. A reflexív íjban nyert ez a mozgékony tűzerő iránti törekvés a legteljesebb kifejeződését.
+      :174. A szablya a gyors, döntő csapás iránti elszántságot testesítette meg.
+     :175. A könnyű páncélban a nehéz védelem helyett a gyorsaság melletti tudatos döntés nyilvánult meg.
+     :176. Ez a három elem – az íj, a szablya és a könnyű páncél – jellemzi a korai magyar harcosokat.
+     :177. Ezek egy önmagában koherens rendszert alkottak, amely pontosan a lovas harc körülményeihez igazodott.
+     :178. Csak e feltételek megváltozása vezetett a fegyverzet fokozatos átalakulásához is.
+     :179. Mindaddig azonban, amíg a gyors lovas harc volt a meghatározó, ez a fegyverzet maradt a magyar háborús sikerek kulcsa.
+     :180. A kard, a lándzsa és az íj jelentette tehát annak a hatalomnak az anyagi alapját, amelyet a korai magyar állam Európa nagy részén gyakorolt.
+        
+
+          
+          === 3.3.3 – A lovasság: a lovas taktika és a mobilitás mint erősség ===
+    
+
+      
+      :1. A lovasság képezte a korai magyarok hadviselésének valódi középpontját, és ezzel együtt katonai sikereik alapját. 
+     :2. A lovas mozgékonyság nem csupán egy eszköz volt a sok közül, hanem a magyar hadviselés mindent meghatározó alapja.
+     :3. Aki a magyar lovasságot vizsgálja, egyúttal annak a fölénynek a forrását is vizsgálja, amely fél évszázadon át rettegésben tartotta egész Európát.
+     :4. A magyar hadsereg – ellentétben a latin Nyugat haderejével – szinte teljes egészében lovas volt.
+     :5. Míg a nyugat-európai seregek túlnyomórészt gyalogosokból és egy kis lovas nemességből álltak, a magyarok szinte kivétel nélkül lóháton harcoltak.
+     :6. Ez a teljes körű lovasság az egész seregnek olyan gyorsaságot kölcsönzött, amely alapvetően felülmúlta az ellenfelek nehézkes gyalogos seregeit.
+     :7. E lovasság alapja a magyarok nomád életmódjában gyökerezett, amelyet a földfoglalás előtt a sztyeppéken folytattak.
+     :8. A lovas pásztorokból álló nép természetesen nagy lóállománnyal rendelkezett, és gyermekkortól kezdve képzett lovasokból állt.
+     :9. A ló a magyarok számára nem csupán lovaglóállat volt, hanem egyúttal megélhetésük alapja, státuszszimbólum és harcostárs is.
+     :10. Már a kisfiúk is korán megtanultak lovagolni, gyakran még mielőtt biztosan járni tudtak volna, amint azt a későbbi krónikások csodálkozva jegyezték meg.
+     :11. Ez az egész életen át tartó, a lóval való szoros kapcsolat szinte minden szabad férfit gyakorlott lovas harcosává tett.
+     :12. A sztyeppék lovai nem a véletlen művei voltak, hanem a zord körülményekhez való évszázadokon át tartó alkalmazkodás eredményei.
+     :13. Kicsi, zömök és rendkívül ellenálló állatokról volt szó.
+     :14. Ezek a sztyeppei lovak gyakran alulmaradtak a nagyobb nyugati lovaknál a sebesség tekintetében, de kitartásukban és szerény igényeikben messze felülmúlták őket.
+     :15. Szűkös takarmányból is meg tudtak élni, és télen önállóan turkálhattak a hó alatt élelem után.
+     :16. Ez az igénytelenség jelentősen csökkentette a hadsereg függőségét a magával vitt takarmánytól.
+     :17. Egy olyan hadsereg, amelynek lovai nagyrészt önellátóak voltak, mozgásában alig volt kötve az utánpótlási vonalakhoz.
+     :18. Ebben rejlett a magyar lovasság egyik döntő előnye a nyugati, utánpótlástól függő hadseregekkel szemben.
+     :19. A kis sztyeppelovak emellett biztos lábúak voltak, és képesek voltak a nehéz terepeken is átjutni.
+     :20. Kitartásuk lehetővé tette olyan napi menetutak megtételét, amelyek a nyugati hadseregek számára elképzelhetetlenek lettek volna.
+     :21. A magyar lovasság döntő előnye azonban abban állt, hogy harcosonként több lovat is magukkal vittek.
+     :22. Minden lovas általában több tartalék lóval rendelkezett, amelyeket a menet során magával vitt.
+     :23. A lovak folyamatos cseréjének köszönhetően a harcos mindig friss, kipihent lovat ülhetett meg.
+     :24. A tartalék lovak rendelkezésre állása megsokszorozta a hadsereg hatótávolságát és kitartását.
+     :25. Egy hadtest így napokig képes volt fenntartani a magas menetsebességet anélkül, hogy állatai kimerültek volna.
+     :26. Ily módon a magyar seregek rövid idő alatt olyan távolságokat tettek meg, amelyek rendszeresen meglepték az ellenséget.
+     :27. A távoli célpontok elleni hirtelen rajtaütésekről szóló beszámolók e rendkívüli menetsebességgel magyarázhatók.
+     :28. Az ellenségek még messze hitték a magyarokat, miközben azok már a falak vagy táborok előtt jelentek meg.
+     :29. Ez a gyors távolságleküzdési képesség képezte a magyar portyák stratégiai alapját.
+     :30. Lehetővé tette, hogy mélyen behatoljanak az ellenséges területre, és ugyanolyan gyorsan visszavonuljanak onnan.
+     :31. A mobilitás tehát nem csupán taktikai, hanem elsősorban stratégiai eszköz volt.
+     :32. Stratégiai szinten meglepetésszerű előrenyomulásokat és hihetetlenül gyors visszavonulásokat tett lehetővé.
+     :33. Taktikai szinten pedig az egész csatavitel módját meghatározta.
+     :34. A magyar lovas harc taktikai alapformája a laza alakzatban felálló lovas íjász volt.
+     :35. Ahelyett, hogy sűrű sorban rohantak volna az ellenségre, a lovasok mozgékony rajokban vették körül az ellenfelet.
+     :36. Biztonságos távolságból sűrű nyílzáporral árasztották el az ellenséges sorokat.
+     :37. Ez a távolsági tűz célja az volt, hogy felbomlassza az ellenség zárt alakzatát, mielőtt közelharcra kerülne sor.
+     :38. Csak akkor váltottak át közelharcra, amikor az ellenség sorait a veszteségek és a zavar felbomlasztotta.
+     :39. A távolsági tűz és az azt követő lovasroham ötvözete képezte a magyar taktika alapját.
+      :40. E mozgékonyság egyik különösen rettegett alkalmazása a színlelt visszavonulás volt.
+     :41. A lovasok látszólag támadtak, majd menekülésnek tették magukat, és így csalogatták ki az ellenséget biztonságos állásából.
+     :42. A óvatlanul üldöző ellenség eközben elvesztette zárt alakzatát, és nyílt terepre került.
+     :43. Amint az ellenséges üldözők elég messzire szétszóródtak, a magyarok hirtelen megfordultak és lecsaptak rájuk.
+     :44. A visszavonulás során a lovasok ráadásul hátrafelé lőttek lovuk farokrészéről.
+     :45. Ez az úgynevezett „parth lövés” még a menekülést is hatékony támadási formává tette.
+     :46. Az látszólag menekülő ellenség így az utolsó pillanatig veszélyes maradt.
+     :47. Ez a színlelt visszavonulás taktikája nagyfokú fegyelmet és összehangoltságot igényelt.
+     :48. Csak jól összeszokott alakulatok tudták végrehajtani a menekülést és a hirtelen irányváltást anélkül, hogy felbomlott volna a saját rendjük.
+     :49. A magyar lovasrajok látszólagos rendezetlensége ezért gyakran egy jól begyakorolt megtévesztés volt.
+     :50. A vad, szabálytalan mozgás látszatának hátterében egy átgondolt és begyakorolt hadvezetés rejtőzött.
+     :51. Egy másik taktikai eszköz a sereg több, önállóan működő részlegre való felosztása volt.
+     :52. Ezek az alegységek egyszerre több oldalról is megtámadhatták és bekeríthették az ellenséget.
+     :53. A nagy mozgékonyság lehetővé tette, hogy feloszlanak, külön-külön működjenek, majd előre megbeszélt pontokon újra egyesüljenek.
+     :54. Így egy létszámban alulmaradt hadsereg is azt a benyomást kelthette, mintha minden irányból támadna.
+     :55. Az ellenség bekerítése és körbezárása a magyar lovas taktika egyik legfontosabb célja volt.
+     :56. A körbezárt ellenséget minden oldalról lőni lehetett, és nem talált biztonságos visszavonulási útvonalat.
+     :57. Ez a bekerítési taktika a sztyepp népek által ősidők óta alkalmazott hajtóvadászatra emlékeztet.
+     :58. A nagy bekerítő vadászat, amelynek során a vadat lovas hajtók kerítették be, egyben katonai gyakorlatként is szolgált.
+     :59. A vadászat során a harcosok pontosan azokat a mozdulatokat tanulták meg és gyakorolták, amelyeket a háborúban is alkalmaztak.
+     :60. A vadászat és a háború így egy egységes, begyakorolt lovas készségekből álló komplexummá olvadt össze.
+     :61. A terep döntő szerepet játszott a lovasság bevetésében.
+     :62. A nyílt, széles síkságok ideálisan megfeleltek a mozgékony lovas taktikának.
+     :63. A Kárpátok-medence széles síkságán a hadosztályok teljes mértékben kihasználhatták mozgékonyságukat.
+     :64. Ott a lovasságnak területe nyílt a bekerítésekre, a látszólagos visszavonulásokra és a gyors irányváltásokra.
+     :65. Szűk, hegyvidéki vagy sűrűn erdős terepen viszont a lovasság elvesztette előnyeinek egy részét.
+     :66. A keskeny hágók, a mocsarak és a sűrű erdők akadályozták a lovasrajok szabad mozgását.
+     :67. Az okos ellenségek ezért igyekeztek a magyarokat ilyen kedvezőtlen terepre csalogatni, vagy ott megállítani őket.
+     :68. Hasonlóképpen, az erődített városok és kővárak is megnehezítették a nyílt terepre szoruló lovasok sikerét.
+     :69. A szilárd falak ellen a lovas íjászok taktikája nagyrészt hatástalan volt.
+     :70. A magyaroknak alig állt rendelkezésükre a szükséges felszerelés és a türelem egy hivatalos ostromhoz.
+     :71. Erősségük a gyors támadásban rejlett, nem pedig az erődökért folytatott hosszan elhúzódó küzdelemben.
+     :72. Ezért hadjárataik elsősorban a nyílt terepre, a védtelen településekre és a gyengén megerősített területekre irányultak.
+     :73. Ahol az ellenség falak mögé ásta be magát, a lovasoknak gyakran be kellett érniük a környék feldúlásával.
+     :74. Ez a nyílt terephez való kötődés döntő mértékben meghatározta a támadási célpontok kiválasztását.
+     :75. A terep és az ellenség felderítése rendkívül fontos volt a mozgékony hadviselés szempontjából.
+     :76. Az előre lovagló felderítők felderítették az utakat, a gázlókat, az ellenséges állásokat és a lehetséges zsákmányt.
+     :77. Ezek a lovas felderítők a hadsereg szemei voltak, és biztosították annak mozgékonyságát.
+     :78. Csak az tudott gyors előrenyomulásokat és visszavonulásokat tervezni, aki ismerte a terepet és az ellenség helyzetét.
+     :79. A felderítés biztosította a magyaroknak azt az információs előnyt, amely egyáltalán lehetővé tette meglepetésszerű támadásaikat.
+     :80. A lovas mozgékonyság emellett lehetővé tette a folyók és a természetes akadályok gyors átkelését is.
+     :81. A megfelelő gázlókon a lovasok lovukkal átkeltek, gyakran gyorsabban, mint az ellenség várta.
+     :82. A beszámolók szerint a magyarok lovukkal úszva is átkeltek szélesebb vízfolyásokon.
+     :83. Ez az akadályok leküzdésére való képesség tovább növelte tevékenységi körüket.
+      :84. Végül a hadsereg mozgékonyságához hozzájárult a harcosok szerény ellátása is.
+     :85. A lovasok tartós élelmiszereket, például szárított húst és kancatejből készült termékeket vittek magukkal.
+     :86. Ez a könnyű és tartós ellátmány függetlenné tette a hadsereget a nehézkes utánpótlási konvojoktól.
+     :87. A csupán könnyű terheléssel rendelkező lovasság sokkal gyorsabban haladt, mint a szállítókonvojok által kísért gyalogság.
+     :88. Így a ló, a fegyverzet és az ellátás egy harmonikus, a gyorsaságra épülő rendszerré állt össze.
+     :89. E rendszer minden eleme ugyanazt a célt szolgálta, nevezetesen a mozgékonyságon alapuló fölényt.
+     :90. Ez a fölény eleinte szinte felfoghatatlanná tette a magyar lovasságot az ellenfelek számára.
+     :91. A nehéz fegyverzetű nyugati lovasok alig tudták a mozgékony íjászokat döntő közelharcra kényszeríteni.
+     :92. Amint a nehéz lovas támadott, a könnyű magyarok kitértek, és mozgás közben lőtték meg.
+     :93. Az ellenfél hiábavaló üldözés közben elfáradt, míg a magyar lovak a váltásnak köszönhetően frissek maradtak.
+     :94. Az ellenség állandó mozgással és lövöldözéssel való kimerítése a taktika központi eleme volt.
+     :95. A kimerült és megfogyatkozott ellenséget végül a megfelelő pillanatban közelharcra kényszerítették.
+     :96. Így a magyar lovasság ötvözte a távolsági harc előnyeit a döntő lovasroham előnyeivel.
+     :97. Ez a harci módszer eleinte teljesen idegen volt a kora középkori nyugat-európai seregek számára.
+     :98. A nyugati ellenfelek a zárt sorok közvetlen összecsapására voltak felkészülve.
+     :99. Egy olyan ellenséggel szemben, aki nem állt a helyén, hanem kitért és távolról ölt, kezdetben nem álltak rendelkezésükre a megfelelő eszközök.
+     :100. Ez a taktikai tanácstalanság magyarázza Európa kezdeti tehetetlenségét a magyar betörésekkel szemben.
+     :101. Az ellenfelek csak fokozatosan tanultak meg alkalmazkodni a mozgékony harci stílushoz.
+     :102. Az egyik válasz a szilárd erődítmények kiépítése volt, amelyek ellen a lovasság alig tudott tenni valamit.
+     :103. A megerősített várak és a fallal körülvett városok védelmet nyújtottak a lakosságnak, és megfosztották a lovasokat a zsákmánytól.
+     :104. Egy másik megoldás az volt, hogy a magyarokat kedvezőtlen terepen vagy folyók átkelésekor támadták meg.
+     :105. De mindenekelőtt az ellenfelek megtanulták, hogyan kell a magyar lovasokat közelharcban nehéz lovassággal lekötni.
+     :106. Ha sikerült a mozgékony íjászokat megállítani, akkor azok elvesztették döntő előnyüket.
+     :107. Pontosan ez történt a Lechfeld-i nagy csatában 955-ben.
+     :108. Ott a magyar sereget sarokba szorították és közelharcba kényszerítették, amelyben mozgékonysága már nem tudott érvényesülni.
+     :109. A kelet-frank király nehéz lovassága a védők javára döntötte el a csatát.
+     :110. A kedvezőtlen időjárás és a megduzzadt folyó is akadályozta a lovasok visszavonulását.
+     :111. A Lechfeld-i vereség rámutatott a tisztán lovas taktikák korlátaira kedvezőtlen körülmények között.
+     :112. Világossá tette, hogy a mozgékonyság csak ott jelentett erőt, ahol a terep és a körülmények megengedték.
+     :113. Ha a lovasság elvesztette mozgási terét, erőssége gyengeséggé változott.
+     :114. A gyorsaságot szolgáló könnyű páncélzat kényszerű közelharcban hátrányossá vált.
+     :115. Így a mobilitásra való egyoldalú összpontosítás egyben a magyar hadsereg sebezhető pontját is jelentette.
+     :116. Mindaddig azonban, amíg a körülmények kedvezőek voltak, a lovasság szinte legyőzhetetlen maradt.
+     :117. Évtizedeken át a magyar lovasok végigvonultak Európán, Olaszországtól a Északi-tengerig.
+     :118. E hadjáratok hatalmas kiterjedését csupán a lovas alakulatok teljesítőképessége magyarázhatja.
+     :119. Azok a seregek, amelyek egyetlen hadjárat során fél Európát átszeltek, páratlan mobilitást feltételeztek.
+     :120. Ez a mobilitás végső soron a lovas, a ló és a sztyeppén élő nomád hagyományok egységén alapult.
+     :121. A magyarok így az eurázsiai lovas népek hosszú sorába illeszkedtek.
+     :122. Taktikájuk hasonlított a hunok, az avarok, a kazárok, valamint a későbbi pechenegek és kunok taktikájához.
+     :123. Mindezek a népek katonai erejüket a mozgékony, lovas íjászokra alapozták.
+     :124. A magyarok ezt a sztyeppék közös örökségét magas fokú tökéletességig fejlesztették.
+     :125. Ami megkülönböztette őket, az a gyorsaság, a fegyelem és a ravaszság művészi ötvözete volt.
+     :126. Ez az ötvözet lovasságukat kortársaik számára szinte emberfeletti rettegéssé tette.
+     :127. Az ellenfelek beszámolóiban a magyar lovasok gyakran természeti erőként jelennek meg.
+      :128. Hirtelen megjelenésük és ugyanolyan hirtelen eltűnésük táplálta a velük szembeni félelmet.
+     :129. A lovak gyorsasága a forrásokban szinte démoni képpé alakult.
+     :130. E kép mögött azonban egy józan, racionálisan átgondolt haditechnika állt.
+     :131. A mozgékonyság nem varázslat volt, hanem a tenyésztés, a gyakorlás és a szervezés eredménye.
+     :132. A lótenyésztés biztosította a megfelelő, kitartó állatok állományát.
+     :133. Az egész életen át tartó gyakorlás biztosította a lovasok jártasságát a ló és az íj kezelésében.
+     :134. A szigorú szervezés biztosította az egyes egységek rendezett együttműködését.
+     :135. Csak e három feltétel együttes jelenléte eredményezte a híres mobilitást.
+     :136. Ha e feltételek közül bármelyik hiányzott, az az egész hadsereg harci erejét közvetlenül gyengítette.
+     :137. A lovasság ezért nem csupán eszköz volt, hanem egy egész életmód kifejeződése.
+     :138. Benne sűrűsödtek a nyílt sztyeppén eltöltött évszázadok tapasztalatai.
+     :139. A Kárpát-medencében való letelepedéssel azonban ez az életmód fokozatosan átalakulni kezdett.
+     :140. A vándorló állattenyésztésről az állandó letelepedésre való áttérés hosszú távon a hadviselést is megváltoztatta.
+     :141. A egyre növekvő letelepedettség következtében a nomád lovas hagyomány egy része fokozatosan elveszett.
+     :142. Az idő múlásával a könnyű íjász lovas helyét egyre inkább a nyugati mintára épülő, nehezebb felszerelésű lovas vette át.
+     :143. Ez a változás a keresztényesítés és a latin Európába való beilleszkedés során ment végbe.
+     :144. A régi lovas taktika helyét az európai lovagok nehezebb harci stílusa vette át.
+     :145. Mindazonáltal a könnyű lovasság öröksége Magyarországon hosszabb ideig maradt életben, mint sok más országban.
+     :146. A birodalom határain a könnyű lovas alakulatok továbbra is a régi mintát követve szolgáltak.
+     :147. Bennük évszázadokon át tovább élt a mozgékony íjászlovasok hagyománya.
+     :148. Még a későbbi magyar történelem híres huszárjai is sokak szerint e lovas hagyomány távoli örökösei.
+     :149. Így a kora középkori lovasság hatása messze túlnyúlik saját korszakán.
+     :150. A földhódítás és a portyázások idején azonban a könnyű íjász lovas maradt a meghatározó alak.
+     :151. Ő testesítette meg egy olyan hadviselés lényegét, amely teljes mértékben a gyorsaságon és a meglepetésen alapult.
+     :152. Erőssége nem az ütközés erejében rejlett, hanem a mozgás művészetében.
+     :153. Nem az ellenállás, hanem az ügyes kitérés volt taktikájának lényege.
+     :154. Nem a tömeg, hanem a gyorsaság döntött a győzelemről és a vereségről.
+     :155. A szokásos hadviselési logika ezen megfordításában rejlett a magyar lovasság sajátossága.
+     :156. Az ellenfeleknek először meg kellett tanulniuk, hogyan szálljanak szembe saját eszközeikkel ezzel az idegen logikával.
+     :157. Amíg erre nem voltak képesek, a magyar lovasok fölényben maradtak velük szemben.
+     :158. A portyák története ezért egyben egy taktikai verseny története is.
+     :159. A magyarok kihasználták mozgékonyságukat, az ellenfelek pedig módszereket kerestek ennek semlegesítésére.
+     :160. Várak építésével, a nehéz lovasság kiképzésével és a közelharcban való felállással ez végül sikerült is.
+     :161. A Lechfeld jelölte azt a pontot, ahol az ellenfelek válasza diadalmaskodott a magyar taktika felett.
+     :162. Ez a diadal azonban csak évtizedekig tartó magyar fölény után vált lehetségessé.
+     :163. Ezen hosszú idő alatt a lovasság zsákmányt, hatalmat és tekintélyt biztosított a magyaroknak.
+     :164. A lovasság volt terjeszkedésük eszköze és egyben korai történelmük alapja.
+     :165. A lovas mozgékonyság nélkül sem a földhódítás, sem a portyázások korszaka nem lett volna elképzelhető.
+     :166. A lovasság összekötötte a távoli sztyeppét az új, Európa szívében fekvő települési területtel.
+     :167. A lovasság vitte a magyarokat nagy távolságokra és idegen országokba, ahová egyébként soha nem jutottak volna el.
+     :168. Ebben rejlett az a mozgás valódi hajtóereje, amely a korai magyar identitást meghatározta.
+     :169. A lovas taktika így jóval több volt, mint pusztán harci technika kérdése.
+     :170. Egy olyan világszemlélet kifejeződése volt, amelyben a teret és a távolságot a ló uralta.
+     :171. Ami más népek számára leküzdhetetlen távolságnak tűnt, az a lovas magyarok számára megszokott cselekvési tér volt.
+     :172. A térnek a ló általi uralma volt a valódi titkuk.
+     :173. Ebből fakadt az a képesség, hogy látszólag egyszerre mindenhol és sehol sem voltak.
+     :174. Ebből fakadt az a rettegés, amelyet a magyarok több mint fél évszázadon át terjesztettek Európában.
+      :175. És ebből fakadt egyúttal az a sebezhetőség is, amely akkor nyilvánult meg, amint ezt a teret elvették tőlük.
+     :176. A mobilitás így egyaránt a magyar lovasság legnagyobb erőssége és rejtett gyengesége volt.
+     :177. Amíg szabadon mozoghatott, legyőzhetetlen volt; amint azonban mozgását korlátozták, sebezhetővé vált.
+     :178. Ebben a feszültségkapcsolatban rejlik a kulcs a 10. századi magyar hadviselés megértéséhez.
+     :179. A lovasság a mozgáson alapuló hatalom megtestesítője volt.
+     :180. A ló fegyverré, a mozgás pedig stratégiává alakításának művészetében rejlett a korai magyar lovasság igazi nagysága.
+        
+
+          
+          === 3.3.4 – Harci technikák: egyéni küzdelem és csatamezői felállás ===
+    
+
+      
+      :1. A korai magyarok harci ereje az egyes lovasok és a teljes sereg hadrendje közötti összhangból fakadt.
+     :2. A magyar hadviselés egyaránt a harcosok egyéni ügyességén és a haderőegységek átgondolt elrendezésén alapult a csatatéren.
+     :3. A magyar harci technikákat vizsgálva ezért mindig szem előtt kell tartani mindkét szintet: az egyéni harcosét és a csatamezőn kialakított hadrendét.
+     :4. Minden harci technika alapját az egyes harcosok már a legkorábbi ifjúságtól kezdve történő kiképzése jelentette.
+     :5. A magyar fiú bizonyos értelemben a lóháton nőtt fel, és még mielőtt más készségeket sajátított volna el, megtanult lovagolni.
+     :6. A lovaglás és a lövészet számára egyetlen, természetes mozdulattá olvadt össze.
+     :7. A vadászat eközben a háború állandó iskolájaként szolgált, és pontosan azokat a készségeket gyakorolta, amelyekre a csatában szükség volt.
+     :8. A vadászat során a harcos megtanulta, hogyan kell galoppból eltalálni egy mozgó célt, és hogyan kell kezek nélkül irányítani a lovát.
+     :9. Hiszen az íjjal való lövéshez a lovasnak el kellett engednie a gyeplőt, és kizárólag a combjával gyakorolt nyomással és a testsúly áthelyezésével kellett irányítania a lovát.
+     :10. A ló kéz nélküli irányítása volt a lovas íjharc alapvető feltétele.
+     :11. Csak a nyereg és a kengyel által biztosított szilárd tartás tette lehetővé a vágtázó lóról való biztonságos lövöldözést.
+     :12. A gyakorlott lovas teljes sebességből előre, oldalra és hátra is tudott lőni.
+     :13. Különösen rettegett volt a menekülő ló farán át hátra irányuló lövés.
+     :14. Ez az úgynevezett „parth-lövés” lehetővé tette, hogy visszavonulás közben is hatékonyan találjanak el.
+     :15. Az látszólag menekülő lovas így az utolsó pillanatig halálos veszélyt jelentett üldözőjére.
+     :16. A mozgás közbeni célzás volt a magyar harcos legfontosabb egyéni képessége.
+     :17. Egy gyakorlott íjász gyors egymásutánban több nyílvesszőt is kilőhetett anélkül, hogy lassított volna.
+     :18. Ennél kevésbé számított a legnagyobb lőtávolság, mint inkább a mozgó harcban való biztos találat.
+     :19. Az egyes harcosok emellett a nyíl gyors újratöltését is elsajátították.
+     :20. Az övön hordott tegezéből a következő nyílhoz nyúlt, anélkül, hogy elvette volna a tekintetét a célról.
+     :21. Ez a begyakorolt rutin a lovast szinte szünet nélküli lövésforrássá tette.
+     :22. Az íjharc mellett a harcos a karddal való közelharcot is mesteri szinten űzte.
+     :23. Ha az ellenséghez való távolság túl kicsi volt az íj használatához, a lovas a görbe kardhoz nyúlt.
+     :24. A kardcsapást a ló mozgásából hajtotta végre, ami további erőt adott neki.
+     :25. A penge görbülete biztosította, hogy a csapás áthatoljon a célponton, és mély vágást ejtsen.
+     :26. Elhaladva így a harcos egyetlen, gyakran döntő csapást tudott mérni az ellenfélre.
+     :27. A lándzsa a rohanásból történő szúrásra szolgált, és áthidalta a távolságot a távolsági harc és a szablyacsapás között.
+     :28. Néhány harcos könnyebb dobólándzsákat hordott magánál, amelyeket rövid távolságra az ellenség felé hajítottak.
+     :29. A közelharc zűrzavarában csatabárdok, balták és kések is bevetésre kerülhettek.
+     :30. Az egyes harcosok így a csata minden szakaszára és minden távolságára fel voltak készülve.
+     :31. A távolsági lövöldözéstől a lándzsadöfésig, majd végül a kardcsapásig haladt, attól függően, hogy milyen közel volt az ellenfél.
+     :32. A fegyvereknek ez a fokozatos használata az egyéni küzdelemben megfelelt a lovas csata tipikus lefolyásának.
+     :33. Az egyéni harcosok további képessége a hurok ügyes használata volt.
+     :34. A lasszóval le lehetett rántani az ellenfelet a lóról, vagy fogságba lehetett ejteni.
+     :35. Ez a technika különösen hasznos volt, amikor nemes ellenfeleket kellett foglyul ejteni, hogy váltságdíj forrásaként szolgáljanak.
+     :36. Az egyes harcosok azonban soha nem harcoltak teljesen egyedül, hanem mindig a klánjuk tagjaival együtt.
+     :37. A család és a klán tagjai általában egymás mellett, zárt csoportban harcoltak.
+     :38. Ez a kötődés a megszokott rokoni csoporthoz támaszt és biztonságot nyújtott az egyénnek a csatában.
+     :39. A harcos rokonai szeme láttára harcolt, ami erősítette bátorságát és kitartását.
+     :40. Így az egyén harci képességei beilleszkedtek a kis harci közösség összetartásába.
+     :41. Ezekből a nemzetségi csoportokból állt össze a hadsereg nagyobb harci rendje.
+     :42. A magyarok harci felállása alapvetően különbözött a nyugati hadseregek sűrű vonalától.
+      :43. Míg a nyugati gyalogságok zárt, sűrű fronton vonultak az ellenség felé, a magyarok laza, széles lépésű rendben harcoltak.
+     :44. A magyar lovasok mozgékony rajokban működtek, amelyek körbevették az ellenséget, ahelyett, hogy frontálisan rohantak volna neki.
+     :45. Ez a laza felállás lehetővé tette, hogy bármikor kitérjenek, szétváljanak, majd újra összegyűljenek.
+     :46. Ami az ellenfelek számára rendezetlen zűrzavarnak tűnt, valójában egy jól átgondolt és begyakorolt felállás volt.
+     :47. A vad rendetlenség látszatának hátterében a haderő szigorú belső felépítése rejtőzött.
+     :48. A hadsereg több részlegre volt felosztva, amelyek mindegyike saját parancsnoka alatt önállóan tudott működni.
+     :49. Ez a mozgékony részlegekre való felosztás volt a magyar csatamezői felállás legfontosabb szerkezeti jellemzője.
+     :50. Az egyes részlegek egyszerre tudták megtámadni az ellenséget elölről, oldalról és hátulról.
+     :51. Az ellenség bekerítése és körbezárása volt a magyar hadvezetés elsődleges célja.
+     :52. A minden oldalról körbezárt ellenséget lőni lehetett anélkül, hogy az hatékonyan visszavághatott volna.
+     :53. Ez a bekerítési taktika közvetlenül a sztyeppék nagy hajtóvadászatából származott.
+     :54. Ahogy a vadászat során bekerítették a vadat, úgy a háborúban is bekerítették az ellenséget.
+     :55. Az egyes egységek jelzésekkel kommunikáltak egymással, amelyek irányították a csata menetét.
+     :56. Jelzésként zászlók, lobogók és hangjelzések, például kürtök és dobok szolgáltak.
+     :57. Rúdra erősített lófarok jelölte a parancsnokok helyét, és tájékozódási pontként szolgált.
+     :58. Előre megbeszélt jelekre a csapatok támadni, kitérni vagy újrarendeződni tudtak.
+     :59. Ez a jelekre történő rendezett együttműködés magas fokú fegyelmet igényelt.
+     :60. A lovasrajok látszólagos vadászatát ezért valójában vasfegyelem jellemezte.
+     :61. A csata tipikus lefolyása a körbevevő íjászok távoli lövöldözésével kezdődött.
+     :62. Biztonságos távolságból a lovasok sűrű nyílzáporral árasztották el az ellenséges sorokat.
+     :63. Ez a nyílzápor célja az volt, hogy felbomlassza az ellenség zárt alakzatát és veszteségeket okozzon neki.
+     :64. A nyilak egyaránt a harcosokra és a lovakra is céloztak.
+     :65. Egy eltalált ló a lovasát a földre rántotta, és zavart keltett az ellenséges sorokban.
+     :66. Csak akkor váltottak közelharcra, amikor az ellenséget a lövöldözés és a veszteségek megzavarták és meggyengítették.
+     :67. A döntő lovasrohamot ezután a már megrendült és szétszórt sorok ellen hajtották végre.
+     :68. Az előkészítő távolsági lövöldözés és az azt követő roham összekapcsolása képezte a csata alapvető mintáját.
+     :69. Ha azonban a lovas támadás váratlan ellenállásba ütközött, az egységek azonnal visszavonultak.
+     :70. Ahelyett, hogy reménytelen közelharcba keveredtek volna, felbomlottak, és újra megkezdték a távoli tüzet.
+     :71. Ez a rugalmas váltás a támadás és a visszavonulás között jellemezte a magyar hadvezetést.
+     :72. E mozgékony taktika leghatékonyabb eszköze a színlelt visszavonulás volt.
+     :73. A lovasok látszólag támadtak, majd menekülésnek tették magukat, és így csalogatták ki az ellenséget állásából.
+     :74. A figyelmetlenül üldöző ellenség eközben elvesztette zárt alakzatát, és hosszú sorba rendeződött.
+     :75. Amikor az ellenséges üldözők elég messzire szétszóródtak, a magyarok hirtelen megfordultak és lecsaptak rájuk.
+     :76. A színlelt menekülés során a lovasok hátulról, parth-lövéssel lőtték az üldözőket.
+     :77. Így a látszólagos vereség egy jól előkészített ellentámadássá változott.
+     :78. A megtévesztett ellenség a visszaforduló menekülők és az utánuk támadó friss csapatok közé szorult.
+     :79. Ez a hadicsel feltételezte, hogy a menekülő alakulatok a látszólagos felbomlás ellenére is megőrizzék rendjüket.
+     :80. Csak jól összeszokott, fegyelmezett harcosok tudták a menekülést és a hirtelen irányváltást valódi káosz nélkül végrehajtani.
+     :81. A színlelt visszavonulás ezért a sztyeppeháborúzás egyik legigényesebb technikája.
+     :82. Ehhez szorosan kapcsolódott a rejtett tartalékokból kialakított lesek felállítása.
+     :83. Míg a hadsereg fő része lekötötte az ellenséget, kiválasztott egységek rejtőzködve leselkedtek.
+     :84. A döntő pillanatban ezek a rejtett egységek előtörtek a lesből.
+     :85. Az ilyen lesek váratlanul értek az ellenséget oldalról vagy hátulról.
+     :86. A rejtett egységek tartalékban tartása a magyar hadvezetés taktikai érettségét mutatja.
+      :87. Egy másik taktika a saját sereg célzott felosztása volt, hogy megtévesztsék az ellenséget.
+     :88. Ügyes manőverekkel a magyarok azt a látszatot keltették, mintha minden irányból támadnának.
+     :89. Így egy létszámban alulmaradt haderő is sokkal nagyobb erőt tudott színlelni.
+     :90. Az ellenség megzavarása a hadsereg valódi erejét és helyzetét illetően önálló taktikai cél volt.
+     :91. A nagy mozgékonyság lehetővé tette, hogy külön-külön műveleteket hajtsanak végre, majd előre megbeszélt pontokon újra egyesüljenek.
+     :92. Ez a felosztásra és újraegyesülésre való képesség volt a magyar csatamezői felállás lényege.
+     :93. Ez ötvözte az egyes egységek önállóságát a teljes terv egységével.
+     :94. Minden felett a hadvezér állt, aki jelekkel és parancsokkal irányította a csata menetét.
+     :95. A parancsnoki hatalom a hadvezértől a törzsfőnökökön keresztül a nemzetségvezetőkig és az egyes harcosokig terjedt.
+     :96. Így kapcsolódott össze az egyes vezetők kezdeményezőkészsége a felettük álló irányítással.
+     :97. A magyar csatamező-felállás tehát sem merev, sem rendezetlen nem volt, hanem rugalmasan szervezett.
+     :98. Egyesítette a fegyelmet és a saját kezdeményezést egy rugalmas, mozgáson alapuló rendszerben.
+     :99. A terep döntő mértékben meghatározta, hogy ez a taktika teljes mértékben kibontakozhat-e.
+     :100. A nyílt síkságok a köröző lovasoknak a manőverekhez szükséges teret biztosítottak.
+     :101. Szűk, hegyvidéki vagy mocsaras terepen viszont a rajok elvesztették mozgásszabadságukat.
+     :102. Az okos ellenfelek ezért arra törekedtek, hogy a magyarokat szűk terepre szorítsák, ahol nem tudtak kitérni.
+     :103. Ha a lovasságot megállásra és puszta közelharcra kényszerítették, elvesztette legfontosabb előnyét.
+     :104. Pontosan ez a közelharcra való kötöttség lett a magyarok végzete a Lechfeldnél.
+     :105. Ott már nem tudták kihasználni mozgékony hadrendjüket, és vereséget szenvedtek a nehéz lovasságtól.
+     :106. A vereség megmutatta, hogy a magyar taktika ereje a mozgás lehetőségéhez kötődött.
+     :107. Amíg a lovasok kitérhettek, körözhettek és látszólag menekülhettek, addig fölényben maradtak.
+     :108. Ha viszont megakadályozták őket ebben, és állóharcra kényszerítették őket, erősségük gyengeséggé változott.
+     :109. Az egyéni küzdelemben éppúgy, mint a hadrendben, a titok mindig a mozgékonyságban rejlett.
+     :110. Az egyes harcos a gyorsaság és a célzóképesség révén győzött, nem pedig nyers fizikai erővel.
+     :111. A hadsereg manőverekkel és ravaszsággal győzött, nem pedig pusztán a tömeg erejével.
+     :112. Így mindkét szint – az egyéné és a csapaté – ugyanazt az alapelvet követte.
+     :113. Ez az elv az volt, hogy a saját mozgást az ellenfél tehetetlensége ellen kellett kijátszani.
+     :114. Az ellenfelet meg kellett fárasztani, összezavarni és szétzúzni, mielőtt a döntő csapást mérték volna rá.
+     :115. Ez a folyamatos mozgással és tűzzel történő kimerítés volt a magyar taktika valódi lényege.
+     :116. Ez az egyes harcosoktól kitartást, ügyességet és hidegvérűséget követelt meg.
+     :117. A hadtesttől pedig fegyelmet, összehangoltságot és a jelzések iránti feltétlen engedelmességet követelt meg.
+     :118. Csak e két erény együttes jelenléte hozta létre a hadsereg rettegett tűzerejét.
+     :119. A legbátrabb magányos harcos is kevés hasznot hozott a hadtest rendje nélkül.
+     :120. A legjobb csatamezői felállás is hatástalan maradt tehetséges egyéni harcosok nélkül.
+     :121. Így az egyéni harc és a hadrend kölcsönösen feltételezték egymást, és elválaszthatatlan egységet alkottak.
+     :122. Ez az egység az eurázsiai sztyepp népek hosszú hagyományának eredménye volt.
+     :123. Hasonló technikák találhatók a hunok, az avarok, a kazárok és a későbbi lovas népek körében is.
+     :124. A magyarok ezt a közös örökséget magas taktikai tökéletességig fejlesztették tovább.
+     :125. Harci technikájuk kezdetben teljesen idegen volt a kora középkori nyugati seregek számára.
+     :126. A nyugati harcosok a zárt vonalak közvetlen összecsapására voltak felkészülve.
+     :127. Egy olyan ellenséggel szemben, aki kitért, körbejárta őket és távolról ölt, kezdetben nem álltak rendelkezésükre a megfelelő eszközök.
+     :128. A látszatvisszavonulás trükkjét gyakran csak akkor látták át, miután már áldozatul estek neki.
+     :129. Ez a taktikai fölény magyarázza Európa kezdeti védtelenségét a magyar betörésekkel szemben.
+     :130. Csak évtizedek múlva tanulták meg az ellenfelek, hogyan kell hatékonyan szembeszállni ezzel a mozgékony harci stílussal.
+     :131. Szilárd várakat építettek, saját nehéz lovasságukat képezték ki, és elkerülték a meggondolatlan üldözést.
+     :132. Mindenekelőtt megtanulták, hogyan kell a magyar lovasokat álló közelharcra kényszeríteni.
+      :133. A Lechfeldi csatában ez döntő módon sikerült, és véget vetett a portyázások korszakának.
+     :134. Ez a siker azonban csak a magyarok hosszú ideig tartó taktikai fölénye után vált lehetségessé.
+     :135. A korai magyarok harci technikáinak emléke élénken megmaradt a történelmi tudatban.
+     :136. A későbbi krónikák részben félelemmel, részben vonakodó csodálattal írtak a lovasokról.
+     :137. A modern kutatás igyekszik a források és leletek alapján rekonstruálni a tényleges technikákat.
+     :138. Az írásos források túlnyomórészt az ellenfelektől származnak, és elsősorban az idegen jellegű dolgokat írják le.
+     :139. A bizánci császár, aki a hadművészetről szóló tankönyvet írt, meglehetősen pontosan leírta a magyar haditaktikát.
+     :140. Különösen kiemelte az íjászati taktikát, a lesbenállásokat és a színlelt visszavonulást.
+     :141. Az ilyen leírások értékesek, de egyoldalú szemléletük miatt óvatosan kell értékelni őket.
+     :142. A régészeti leletek a fennmaradt fegyverek és a lószerszámok révén kiegészítik a képet.
+     :143. A két forrásfajta együttes vizsgálata alapján meglehetősen világos kép alakul ki a magyar harci módszerről.
+     :144. Ez a harci módszer átgondolt rendszernek tűnik, amely összehangolta az egyes harcosokat és a hadsereget.
+     :145. Az egyes lovasok sokoldalúan képzett harcosok voltak, bármilyen távolságra és bármilyen helyzetben.
+     :146. A hadsereg önálló, de összehangolt egységekből álló, mozgékony szervezet volt.
+     :147. Mindkettő felett a mozgékonyság elve állt, mint minden cselekvés legfőbb irányadó elve.
+     :148. Magyarország beilleszkedésével a keresztény Európába ez a harci módszer is átalakulni kezdett.
+     :149. A könnyű íjász lovas fokozatosan háttérbe szorult a nyugati mintára nehezebben felszerelt lovasok mögött.
+     :150. A lovagkor zárt harci rendje fokozatosan kiszorította a laza lovasrajokat.
+     :151. Mindazonáltal a régi harci technika elemei a határokon és a könnyű lovas alakulatokban fennmaradtak.
+     :152. Bennük a mozgékony lovas harc művészete évszázadokon át tovább élt.
+     :153. A földhódítás és a portyázások idején azonban ez maradt a harc meghatározó formája.
+     :154. Ez ötvözte az egyes harcosok ügyességét a hadvezetés bölcsességével.
+     :155. Ebben az egyéni ügyesség és a kollektív fegyelem egy egységgé olvadt össze.
+     :156. Ez az egység egy olyan életmód eredménye volt, amelyben a vadászat, a lovaglás és a háború elválaszthatatlanul összekapcsolódtak.
+     :157. Amit az egyén a vadászat során megtanult, azt a hadsereg a háborúban közösen alkalmazta.
+     :158. Így a csatamezőn kialakított felállás nagy léptékben tükrözte azt, amit az egyéni küzdelem kis léptékben megkövetelt.
+     :159. Mindkettő mozgékonyságot, jelenléti érzéket és a lovas és a ló pontos összhangját igényelte.
+     :160. A rész és az egész ezen összhangjában rejlett a magyar harci technika belső egysége.
+     :161. Minden egyes harcos mintegy magában hordozta az általános taktika alapelveit.
+     :162. Az egész sereg pedig nem volt más, mint ezeknek a gyakorlott egyéni harcosoknak a rendezett mozgásban való összessége.
+     :163. Ez az egymásba fonódás tette a magyar hadviselést a kortársak számára annyira megfoghatatlanná.
+     :164. Vad lovasrajokat láttak, és nem sejtették, milyen szigorú rend áll mögöttük.
+     :165. Hirtelen menekülést tapasztaltak, és gyanútlanul követték azt az előre elkészített csapdába.
+     :166. Olyan ellenséggel harcoltak, aki soha nem ott állt, ahol feltételezték.
+     :167. Ebben a folyamatos megtévesztésben rejlett a magyar harci technika pszichológiai hatása.
+     :168. Az ellenfél nemcsak harcosokat vesztett, hanem a saját, megszokott harci módszerébe vetett bizalmát is.
+     :169. A megszokott háborús logika megrendülése gyakran ugyanolyan hatékony volt, mint maguk a nyilak.
+     :170. Csak az tudott hatékonyan szembeszállni ezzel az idegen logikával, aki átlátta azt.
+     :171. A korai magyarok harci technikái így éppúgy a szellem, mint a fegyverek kérdései voltak.
+     :172. Okosságot, önuralmat és azt a hajlandóságot igényelték, hogy látszólagos visszavonulás közben keressék a győzelmet.
+     :173. Egyéni küzdelemben a harcos ügyességével és hidegvérű számításával bizonyított.
+     :174. A csatamezőn a sereg fegyelmezettségével és átgondolt manővereivel bizonyított.
+     :175. Ebből a kettőből együttesen fakadt az a rettegett ütőerő, amely a korai magyarokra jellemző volt.
+     :176. Ez tette egy számbeli fölényben gyakran alulmaradó népet évtizedeken át fölényben lévő ellenféllé.
+     :177. Összekapcsolta a sztyeppék ősi tapasztalatait a Kárpát-medence sajátos földrajzi helyzetével.
+     :178. Ugyanakkor mindenütt megmutatta határait, ahol a lovasságtól elvették a mozgáshoz szükséges teret.
+      :179. Az egyéni küzdelem és a csatamezői felállás kölcsönhatásában rejlett tehát a korai magyarok katonai lényegének kulcsa.
+     :180. Pontosan ez a kölcsönhatás magyarázza, miért tartották ezeket a lovasokat fél évszázadon át legyőzhetetlennek. 
+
+          === 3.3.5 – Stratégiai tervezés: felderítés, meglepetésszerű támadások és visszavonulás ===
+    
+
+      
+      :1. A korai magyarok katonai sikereinek teljes jelentősége nem csupán az egyes csatákon alapult, hanem a stratégiai tervezés szintjén is. 
+     :2. A magyar hadviselés ereje nem csupán magában a csatában rejlett, hanem már a kiterjedt hadműveleteik gondos előkészítésében és irányításában is.
+     :3. Aki a magyarok stratégiáját vizsgálja, az azt a művészetet látja, ahogyan a teret, az időt és a meglepetés erejét tervszerűen saját előnyükre használják fel.
+     :4. A stratégia itt egy egész hadjárat átfogó tervezését jelenti, ellentétben az egyes csaták taktikájával.
+     :5. Míg a taktika meghatározza, hogyan folyik egy csata, addig a stratégia azt határozza meg, hogy egyáltalán mikor, hol és kivel szemben harcolnak.
+     :6. Ezen a stratégiai szinten a magyar hadvezérek figyelemre méltó tervezési képességről tettek tanúbizonyságot.
+     :7. Minden stratégiai tervezés alapja az ellenség és országának pontos ismerete volt.
+     :8. Mielőtt nagyobb hadjáratot indítottak volna, a magyarok hírszerzési információkat gyűjtöttek a kitűzött célpontokról.
+     :9. Ez a hadjáratot megelőző hírszerzés a magyar hadművészet lényeges, gyakran alábecsült része volt.
+     :10. Felderítették a politikai helyzetet, a szövetségeket, a gyenge pontokat és a kihasználható célpontokat.
+     :11. A szomszédos országokban dúló belső viszályok és trónöröklési viták különösen kedvező alkalmakat nyújtottak a betörésre.
+     :12. A magyarok gyakran célzottan kihasználták egy polgárháború vagy trónváltás miatt megbénított birodalom gyengeségét.
+     :13. Néha egy-egy párt még szövetségesként is behívta őket az országba, ami egyszerre nyitott utat és zsákmányt is számukra.
+     :14. Az ilyen, egymással viszályban álló fejedelmek meghívásai értékes helyismeretet és ürügyet szolgáltattak a magyaroknak a betöréshez.
+     :15. A stratégiai tervezés tehát jóval a hadsereg tényleges indulása előtt megkezdődött.
+     :16. A második lényeges elem a terep felderítése volt az előre lovagló felderítők által.
+     :17. Ezek a lovas felderítők a hadsereg előtt haladtak, és felderítették az utakat, a gázlókat és az ellenséges állásokat.
+     :18. Ők voltak a hadsereg szemei, és biztosították annak akadálytalan mozgékonyságát.
+     :19. A felderítők felderítették, hol lehet átkelni a folyókon, hol vannak nyitott hágók, és hol fenyegetnek akadályok.
+     :20. Ugyancsak jelentették az ellenséges csapatok létszámát és helyzetét, valamint a kincses zsákmányok helyét.
+     :21. Ezen előzetes felderítés nélkül a magyarok gyors előrenyomulásai nem lettek volna lehetségesek.
+     :22. Csak az tudott biztonságosan megtervezni a gyors meneteléseket, aki ismerte a terepet és az ellenség helyzetét.
+     :23. A felderítés biztosította a magyaroknak azt az információs előnyt, amely egyáltalán lehetővé tette meglepetésszerű támadásaikat.
+     :24. A felderítők mellett a foglyok és az átállók is értékes információforrásként szolgáltak.
+     :25. A fogságba ejtett helyieket az utakról, az ellátmányról és a védelmi építményekről faggatták ki.
+     :26. Így a hadsereg képet kapott arról a vidékről, amelyen át akart vonulni.
+     :27. A menetútvonalak tervezése ezeken az ismereteken és a terep adottságain alapult.
+     :28. Előnyben részesítették a nyílt terepen vezető utakat, amelyek kedveztek a mozgékony lovasságnak.
+     :29. Kerülték a szűk hágókat, a sűrű erdőket és a mocsaras területeket, ahol a lovasság elvesztette előnyeit.
+     :30. Az útvonal kiválasztása így már önmagában is nagy horderejű stratégiai döntés volt.
+     :31. A magyar stratégia további alapvonása a saját, kiemelkedő mozgékonyság kihasználása volt.
+     :32. A nagy távolságok rövid idő alatt történő megtételének képessége volt az összes tervezés stratégiai kulcsmutatója.
+     :33. Több tartalék ló magukkal vitelének köszönhetően a seregek napokig képesek voltak fenntartani a magas tempót.
+     :34. Ez a menetelési teljesítmény messze felülmúlta azt, amire a nyugati, nehézkes seregek képesek voltak.
+     :35. A magyarok ezért gyakran olyan helyeken jelentek meg, ahol még messze távolinak hitték őket.
+     :36. Ez a gyorsaságból fakadó meglepetés a magyar stratégia központi eleme volt.
+     :37. Az ellenséget még mielőtt összeszedhette volna magát, megerősödhetett volna vagy szövetségeket köthetett volna, megtámadták.
+     :38. Az előrenyomulás sebessége megfosztotta az ellenséget a védelem előkészítéséhez szükséges időtől.
+     :39. Így a mozgékonyság taktikai eszközből stratégiai eszközzé vált.
+     :40. Stratégiai szinten ez lehetővé tette a mélyen az ellenséges területre irányuló meglepetésszerű előrenyomulásokat.
+     :41. A magyarok gyakran hatoltak be olyan távoli vidékekre is, amelyek biztonságban hittek magukat előttük.
+     :42. Az előrenyomulások ilyen mélységét csak a lovas alakulatok rendkívüli hatótávolságával lehetett megmagyarázni.
+      :43. Egyes hadjáratok egyetlen hadművelet keretében fél Európán átvezettek.
+     :44. Az ilyen kiterjedt vonulások az egyes szakaszok és célpontok gondos stratégiai tervezését igényelték.
+     :45. A hadsereg ekkor gyakran több oszlopra oszlott, amelyek külön-külön haladtak előre, és hatalmas területet fedtek le.
+     :46. Ez a külön-külön menetelő alakzatokra való felosztás megsokszorozta a hadjárat hatását.
+     :47. Több oszlop egyszerre tudott különböző területeket kifosztani, és így az ellenséget a fő támadási irányt illetően bizonytalanságban tartani.
+     :48. Előre megbeszélt pontokon és időpontokban a különálló alakzatok újra egyesülhettek.
+     :49. Ez a nagy területeken átívelő, összehangolt szétválás és újraegyesülés a kiváló tervezési képességről tanúskodik.
+     :50. Ehhez megbízható kommunikációra volt szükség az egyes egységek között.
+     :51. A hírvivők és az előre megbeszélt találkozási pontok tartották össze az egymástól függetlenül működő oszlopokat.
+     :52. A meglepetésszerű támadás volt a legkedveltebb eszköz arra, hogy az ellenséget gyenge pontján érjék el.
+     :53. A magyarok lehetőség szerint akkor próbálták meglepni az ellenséget, amikor az felkészületlen és szétszórt volt.
+     :54. A legkedvezőbb időpontok a kora reggeli órák voltak, amikor az ellenség ébersége alábbhagyott.
+     :55. A fontos egyházi ünnepnapokat is célzottan választották ki a rajtaütésekhez, mivel ilyenkor a lakosság összegyűlt és felkészületlen volt.
+     :56. Az ilyen alkalmak kihasználása a magyar hadvezérek higgadt, kiszámító tervezését mutatja.
+     :57. A meglepetésszerű támadás célja az volt, hogy az ellenségnek ne maradjon ideje az ellenállásra.
+     :58. A váratlanul megtámadott ellenség nem tudta megszervezni védekezését, és gyakran már az első megrázkódtatás után vereséget szenvedett.
+     :59. A támadás hirtelensége ezért önmagában is jelentős hatással bíró fegyver volt.
+     :60. Rettegést és zavart keltett, még mielőtt az első nyíl elrepült volna.
+     :61. A meglepetésszerű megjelenésnek ez a pszichológiai hatása a stratégia kiszámított része volt.
+     :62. A magyarok tudatosan használták ki az irántuk érzett félelmet a hadviselés eszközeként.
+     :63. Már pusztán a közeledésükről szóló pletyka is egész vidékeket rémületbe és tehetetlenségbe taszíthatott.
+     :64. A megbénított és megrémült lakosság kevesebb ellenállást tanúsított, és könnyebben zsákmányt adott át.
+     :65. Egyes helyeken a fejedelmek és városok adófizetéssel vásárolták ki magukat a támadás elkerülésétől.
+     :66. Az ilyen adók gyakran jelentették a hadjárat valódi stratégiai célját, és jövedelmezőbbek voltak, mint maga a fosztogatás.
+     :67. A betöréssel való fenyegetés így olyan eszközzé vált, amellyel harc nélkül is jelentős hozamot lehetett elérni.
+     :68. A stratégiai tervezés mindig figyelembe vette a nyereség és a kockázat arányát is.
+     :69. Elsősorban a jövedelmező, de gyengén védett célpontokat részesítették előnyben, az erősen megerősített helyeket pedig elkerülték.
+     :70. A lovas íjászok taktikája szilárd falak és kővárak ellen alig tudott eredményt elérni.
+     :71. A magyaroknak alig volt meg a felszerelésük és a türelmük egy hosszadalmas, hivatalos ostromhoz.
+     :72. Ezért általában elkerülték az erődített helyeket, és a védtelen, nyílt vidékre fordultak.
+     :73. A nehezen bevehető célpontok tudatos elkerülése a magyar stratégia jellegzetes vonása volt.
+     :74. A gyors, biztos győzelmet keresték, és kerülték a bizonytalan, veszteséges küzdelmet.
+     :75. A hadjárat gazdaságossága, azaz a zsákmány és a veszteség kedvező aránya állt a tervezés középpontjában.
+     :76. A támadáshoz hasonlóan fontos volt a visszavonulás megtervezése is.
+     :77. Az időben végrehajtott és rendezett visszavonulás ugyanolyan lényeges része volt a stratégiának, mint a támadás.
+     :78. Egy rablóhadjárat csak akkor számított sikeresnek, ha a sereg a zsákmánnyal együtt biztonságban visszatért a hazájába.
+     :79. A hazafelé vezető út biztosítása ezért a kezdetektől fogva része volt a stratégiai megfontolásoknak.
+     :80. A magyarok kerültek minden olyan helyzetet, amelyben túlzottan hosszú tartózkodásuk az ellenséges területen veszélybe sodorhatta volna őket.
+     :81. Amint a zsákmányt begyűjtötték, gyorsan és a lehető legbiztonságosabb útvonalakon vonultak vissza.
+     :82. A zsákmányt és foglyokat szállító, megterhelt kíséret azonban lassította az egyébként gyors hadsereget.
+     :83. Éppen a visszatérés során volt ezért a zsákmányt szállító hadsereg a legsebezhetőbb.
+     :84. Az okos ellenségek ezért nem a felvonulás során, hanem a megterhelt visszavonulás során próbálták meg támadni a magyarokat.
+     :85. A magyarok több jelentős vereséget nem a betörés során, hanem a zsákmányt szállító hazafelé vezető úton szenvedtek el.
+     :86. A stratégiai tervezésnek ezért a visszavonulást éppoly gondosan kellett biztosítania, mint az előrenyomulást.
+     :87. A visszaútra gyakran más útvonalakat választottak, mint az előrenyomuláshoz, hogy elkerüljék a lesbenállásokat.
+      :88. Az előre lovagló felderítők a visszavonulási útvonalat is biztosították, és jelentették az összegyűlő ellenséges erőket.
+     :89. Ahol üldözés fenyegetett, az utóvédek fedezték a fő hadsereg és a zsákmány visszavonulását.
+     :90. A Kabarok, mint harcedzett előőrs és utóvéd, ebben különleges szerepet játszottak.
+     :91. A rendezett visszavonulás alapvetően különbözött a csatában alkalmazott ál-visszavonulástól.
+     :92. Míg az ál-visszavonulás a csatában alkalmazott hadicsel volt, addig a stratégiai visszavonulás a siker biztosítását szolgálta.
+     :93. Mindkettő azonban ugyanazon mozgásirányítás mesteri alkalmazását bizonyította, mint a hadviselés egyik eszközét.
+     :94. A magyarok a visszavonulást nem szégyennek tekintették, hanem egy sikeres hadjárat természetes részének.
+     :95. Ez a józan hozzáállás megkülönböztette őket azoktól a harcosoktól, akik számára a visszavonulás becstelen cselekedetnek számított.
+     :96. A sztyeppén élő nomádok hadművészetében a kitérés legitim és hatékony eszköz volt.
+     :97. A minden áron való kitartás nem számított erénynek, viszont a saját erők okos megőrzése igen.
+     :98. A mozgékonyság – akár visszavonulás közben is – ilyen mértékű értékelésében rejlett a nyugati harcos-etika iránti mély különbség.
+     :99. A magyarok teljes stratégiája a saját erők kímélésére és a zsákmány növelésére irányult.
+     :100. A lehető legnagyobb nyereségre törekedtek a lehető legkisebb saját veszteség mellett.
+     :101. A kiszámított zsákmányszerzés ezen logikája áthatotta a tervezés minden szakaszát.
+     :102. Ez határozta meg a cél, az időpont, az útvonal és a visszatérési út kiválasztását.
+     :103. Az időbeli tervezés emellett figyelembe vette az évszakokat és azok körülményeit is.
+     :104. Sok hadjárat olyan időszakokban zajlott, amikor bőségesen állt rendelkezésre takarmány a lovak számára.
+     :105. A betakarítás ideje is szerepet játszott, mivel a teli élelmiszerraktárak ígéretes zsákmányt jelentettek.
+     :106. A télen befagyott folyók és a kemény talaj megkönnyíthették azokat a hadjáratokat, amelyeket nyáron a mocsarak akadályoztak.
+     :107. Az ilyen természeti körülmények figyelembevétele a stratégiai előkészületek gondosságát mutatja.
+     :108. A magyar stratégia tehát nem puszta vakmerő roham volt, hanem átgondolt tervezés.
+     :109. A vad lovas horda képe mögött egy átgondolt hadviselési rendszer rejtőzött.
+     :110. A hadvezérek mérlegelték a célokat, az útvonalakat, az időpontokat és a kockázatokat.
+     :111. A lovasaik mozgékonyságát az egész hadművelet okos irányításával ötvözték.
+     :112. A gyorsaság és a tervezés ezen ötvözete képezte stratégiai fölényük valódi lényegét.
+     :113. A nyugati ellenfelek hosszú ideig nem tudtak megbirkózni ezzel a tervszerű mozgékonysággal.
+     :114. Hadseregeik lassúak voltak, felderítésük hiányos, reakciójuk pedig mindig késedelmes.
+     :115. Mire összeszedték erőiket, a magyarok már rég eltűntek.
+     :116. A védők állandó késedelme a magyar stratégia közvetlen következménye volt.
+     :117. Az ellenfelek csak fokozatosan dolgoztak ki hatékony stratégiai ellenintézkedéseket.
+     :118. Ezek egyike a szilárd várak és erődített helyek hálózatának szisztematikus kiépítése volt.
+     :119. Az ilyen várak menedéket nyújtottak a lakosságnak, és megfosztották a lovasokat a zsákmányuktól.
+     :120. I. Henrik királyt, a Kelet-Frank Birodalom uralkodóját e várstratégia egyik fontos támogatójának tartják.
+     :121. A falak mögött a lakosság menedéket talált, míg a lovasok a bezárt kapuk előtt álltak.
+     :122. Egy második ellenintézkedés egy saját, harcképes lovasság felállítása és kiképzése volt.
+     :123. Páncélos lovassággal a magyarokat a rettegett közelharcra lehetett kényszeríteni.
+     :124. A harmadik intézkedés a saját felderítés javítása volt, hogy időben felismerjék a magyarokat.
+     :125. De mindenekelőtt az ellenfelek megtanulták, hogyan kell a zsákmányt szállító visszatérő magyarokat csapdába ejteni.
+     :126. Először hagyták, hogy a betörés megtörténjen, majd akkor csapottak le, amikor a sereg nehézkesen vonult vissza.
+     :127. A magyar logika ezen megfordítása megfosztotta a lovasokat legfontosabb előnyüktől, a mozgékonyságtól.
+     :128. A 955-ös lechfeldi csata volt ennek a sikeres ellenstratégiának a csúcspontja.
+     :129. Ott a magyar sereget sarokba szorították, és elvágták a rendezett visszavonulás útját.
+     :130. A kelet-frank király nehézlovassága a magyarokat veszteséges közelharcra kényszerítette.
+     :131. A beszámolók szerint ráadásul az árvíz és az átázott íjak is megnehezítették a legyőzöttek visszavonulását.
+     :132. Éppen a visszavonulás kudarca változtatta a vereséget katasztrófává.
+     :133. A Lechfeldi csata megmutatta, hogy a magyar stratégia határait elérte, amint a visszavonulást megakadályozták.
+      :134. Amíg az előrenyomulás, a meglepetés és a visszavonulás zökkenőmentesen illeszkedett egymáshoz, a magyarok fölényben maradtak.
+     :135. Ha azonban e lánc egyik láncszeme megszakadt, az erő gyengeséggé változott.
+     :136. A stratégiai fölény tehát az összes elem zavartalan együttműködésén alapult.
+     :137. A felderítés, a mozgékonyság, a meglepetés és a biztos visszavonulás egyetlen, összefüggő rendszert alkottak.
+     :138. Ha e rendszer valamely eleme kiesett, az egész hatékonysága csorbult.
+     :139. Ebben a kölcsönös függőségben rejlett egyúttal a magyar hadviselés sebezhető pontja is.
+     :140. Az ellenfeleknek csupán azt kellett megtanulniuk, hogyan avatkozzanak be e rendszerbe egy ponton.
+     :141. Azzal, hogy a hadsereget kedvezőtlen pillanatban állították fel, pontosan ezt sikerült elérniük.
+     :142. Az 955-ös vereség ezért nem csupán egy elvesztett csatát jelentett, hanem az egész stratégia kudarcát.
+     :143. Ennek következtében a magyarok nagyrészt felhagytak a nyugat felé irányuló nagy portyákkal.
+     :144. A portyák stratégiai alapja az ellenfelek alkalmazkodása miatt megszűnt.
+     :145. Ezzel véget ért az az korszak, amelyben a tervszerű mozgékonyság egész Európát izgalomban tartotta.
+     :146. Mindazonáltal a korai magyar hadvezérek stratégiai teljesítménye továbbra is figyelemre méltó.
+     :147. Több évtizeden át nagy sikerrel terveztek és hajtottak végre kiterjedt hadjáratokat.
+     :148. Olyan területeket uraltak, amelyek ellenfeleik számára mérhetetlenül kiterjedtnek tűntek.
+     :149. A meglepetést és a rettegést a hadviselés kiszámítható eszközeivé tették.
+     :150. És a visszavonulást is a győzelem egyenrangú részének tekintve beépítették terveikbe.
+     :151. Ez a stratégiai művészet az eurázsiai sztyepp népek hosszú hagyományába illeszkedett.
+     :152. A hunok, az avarok és a későbbi lovas népek is hasonló módon terveztek és harcoltak.
+     :153. A magyarok ezt az örökséget olyan tökéletességre fejlesztették, amely Európában hosszú ideig felülmúlhatatlan maradt.
+     :154. Stratégiájuk alapvetően idegen volt a nyugati letelepedett birodalmaktól.
+     :155. Ez a mobilitáson alapult, amelyet ilyen formában csak egy lovas nép tudott felmutatni.
+     :156. Csak akkor csökkent a magyar fölény, amikor a Nyugat maga is átvette e mobilitás egyes elemeit.
+     :157. A portyák története így két világ közötti hosszú stratégiai versengésként jelenik meg.
+     :158. A sztyeppék nomád világa találkozott az erődített birodalmak letelepedett világával.
+     :159. Mindkét fél tanult egymástól e versengés során, és megváltoztatta hadviselési módszereit.
+     :160. A magyarok elhozták Közép-Európába a kiterjedt, mozgékony hadjáratok művészetét.
+     :161. A nyugati birodalmak várakkal, nehéz lovassággal és fokozott éberséggel válaszoltak.
+     :162. E tanulási folyamat végén a tisztán lovas stratégia vereséget szenvedett a Lechfeldnél.
+     :163. De éppen a magyarok hosszú ideje tartó sikerei kényszerítették ki egyáltalán ezt a tanulási folyamatot.
+     :164. A magyarok stratégiai tervezése így nemcsak számukra, hanem egész Európára nézve is következményekkel járt.
+     :165. Arra kényszerítette a nyugati birodalmakat, hogy alapjaiban gondolják át saját védelmi és hadviselési módszereiket.
+     :166. Ebben az értelemben a magyar stratégia hatása messze túlmutatott saját közvetlen sikerein.
+     :167. Nyomot hagyott a kora középkori Európa erődítményépítésében és hadviselésében.
+     :168. Maguknak a magyaroknak évtizedeken át ez jelentette a zsákmány, a hatalom és a tekintély kulcsát.
+     :169. A felderítés, a meglepetés és a visszavonulás mesteri alkalmazása korában példátlan volt.
+     :170. Ez a képesség egy számbeli fölényben gyakran alulmaradó lovas népet messze-messze rettegett ellenféllé tett.
+     :171. A stratégiai éleslátás kiegészítette és kiteljesítette az egyes harcosok taktikai ügyességét.
+     :172. Amit az egyes lovasok a csatában teljesítettek, az stratégiai szinten beilleszkedett a nagy tervbe.
+     :173. Csak az egyéni küzdelem, a csatataktika és a hadjárat-stratégia együttes hatása eredményezte a teljes tűzerőt.
+     :174. Minden szinten ugyanaz a legfőbb elv érvényesült, nevezetesen a tér és az idő mozgás általi uralma.
+     :175. A felderítés során a tudást, a meglepetésszerű támadás során az időt, a visszavonulás során pedig a teret uralták.
+     :176. Ez a hármas uralom volt a magyar hadjárat-stratégia lényege.
+     :177. Összekapcsolta az előrelátó felderítést, a hirtelen csapást és a rendezett visszavonulást.
+     :178. Ebben a kombinációban rejlett a 10. századi magyar hadművészet valódi nagysága.
+     :179. Ez egyúttal azt is megmutatta, hogy a magyarok hatalma ugyanúgy a tervezésen és a számításon alapult, mint a bátorságon.
+      :180. A felderítés, a meglepetés és a visszavonulás együttesen alkották azt a rendszert, amely fél évszázadon át Európa stratégiai urává tette ezeket a lovasokat. 
+    
+
+      
+          === 3.3.6 – Összehasonlítás az európai harcosokkal: erősségek és gyengeségek ===
+
+:1. Ahhoz, hogy a korai magyar harcosok sajátosságait megfelelően értékelhessük, össze kell hasonlítanunk őket a kortárs európai harcosok képével.
+:2. Csak a latin Nyugat hadseregeivel való összehasonlítás során tűnnek ki egyértelműen a magyarok sajátos erősségei és gyengeségei.
+:3. Aki a két harcos világot egymás mellé helyezi, két alapvetően eltérő felfogást ismer fel arról, hogyan kell háborút vívni.
+:4. A legfontosabb különbség a lovasság és a gyalogság arányában rejlett.
+:5. A magyar hadsereg szinte teljes egészében lovas volt, míg a nyugat-európai hadseregek túlnyomórészt gyalogosokból álltak.
+:6. Nyugaton egy kis réteg lovas nemes alkotta a magot, akiket gyalogos harcosok tömege vett körül.
+:7. A magyaroknál viszont szinte minden szabad férfi lóháton harcolt.
+:8. Ez az átfogó lovasság alapvető mozgékonysági fölényt biztosított a magyar seregnek.
+:9. Egy teljes egészében lovas sereg sokkal gyorsabban haladt, mint egy gyalogosokkal kísért haderő.
+:10. A nyugati seregek menetsebességét jelentősen korlátozta a gyalogság és a hadtábor.
+:11. Míg a magyarok néhány nap alatt nagy távolságokat tettek meg, ellenfeleiknek erre gyakran hetekre volt szükségük.
+:12. Ebben a kiemelkedő menetelési teljesítményben rejlett a magyarok legnagyobb stratégiai erőssége.
+:13. Egy második alapvető különbség a preferált harci módszert érintette.
+:14. Az európai harcosok a közvetlen, közelharci összecsapásra támaszkodtak.
+:15. Ideáljuk a karddal, lándzsával és pajzzsal végrehajtott, elszánt, ember-ember elleni támadás volt.
+:16. A magyarok ezzel szemben a biztonságos távolságból történő, íjjal végzett távolsági harcot részesítették előnyben.
+:17. Arra törekedtek, hogy lőjék az ellenséget anélkül, hogy magukat közelharcnak tennék ki.
+:18. Míg a nyugati harcos szembeszállt az ellenséggel és le akarta győzni, a magyar lovas kitért és körbejárta őt.
+:19. Ezek az egymással ellentétes harci szemléletek teljesen különböző erősségekhez és gyengeségekhez vezettek.
+:20. A nyugati harcos erőssége a zárt közelharc erejében rejlett.
+:21. Ha nehéz lovassága ütközésbe került az ellenséggel, ütközési ereje hatalmas volt.
+:22. A magyar harcos erőssége ezzel szemben a mozgékonyságban és a távolsági lövészetben rejlett.
+:23. Távolról kimerítette és meggyengítette az ellenséget, mielőtt közelharcra került volna sor.
+:24. Ezek a különböző erősségek ugyanolyan különböző sebezhetőségeket is maguk után vontak.
+:25. A nehéz páncélzatú nyugati lovas közelharcban fölényben volt, de lassú és nehézkes volt.
+:26. Egy kitérő, lövöldöző ellenféllel szemben alig tudta érvényesíteni erősségét.
+:27. A könnyű magyar lovas mozgékony és célzott volt, de kényszerű közelharcban alulmaradt.
+:28. Ha sikerült álló harcra kényszeríteni, elvesztette döntő előnyét.
+:29. Így az egyik oldal minden erőssége egyben gyengeséggel is járt.
+:30. Egy harmadik fontos különbség a fegyverzetet és a védőfelszerelést érintette.
+:31. A nyugati harcos egyre nehezebb páncélzatot viselt, gyakran láncinget, sisakot és nagy pajzsot.
+:32. Fő fegyverei az egyenes, kétélű kard és a nehéz döfőlándzsa voltak.
+:33. A magyar harcos ezzel szemben könnyű felszereléssel rendelkezett, és a gyorsaságra volt kihegyezve.
+:34. Fő fegyvere a reflexív volt, amelyet a görbe szablya és a lándzsa egészített ki.
+:35. A nyugatiak nehéz páncélzata jobb védelmet nyújtott, de korlátozta a mozgékonyságot.
+:36. A magyarok könnyű felszerelése megőrizte a gyorsaságot, de közelharcban kevesebb védelmet nyújtott.
+:37. Itt is kiderült, hogy minden megoldásnak megvolt a maga ára, mégpedig egy megfelelő gyengeség formájában.
+:38. A magyarok ívelt szablyája mozgás közbeni csapásokra volt tervezve, a nyugatiak egyenes kardja pedig álló helyzetből történő csapásokra és szúrásokra.
+:39. A mozgásból történő lövészetben a magyarok messze felülmúlták a nyugat-európaiakat.
+:40. A lovas íjászat a latin Nyugaton alig fejlődött ki, és ott alig gyakorolták.
+:41. A kevés nyugati íjász többnyire gyalog harcolt, és nem lóhátáról.
+:42. A lovas távolsági harc művészetében rejlett a magyarok egyértelmű erőssége.
+:43. A negyedik különbség az ellátást és az utánpótlástól való függést érintette.
+:44. A nyugati seregek kiterjedt utánfutóra és állandó ellátási vonalakra voltak utalva.
+:45. Nagyobb testű lovaik és számos gyalogosuk bőséges élelmezést igényelt.
+:46. A magyarok ezzel szemben szerény sztyeppelovakat és tartós, könnyű élelmet vittek magukkal.
+:47. Táplálékukat nagyrészt az áthaladott területekről tudták biztosítani, és alig voltak függők az utánpótlástól.
+:48. Ez az ellátási vonalaktól való függetlenség jelentősen kiterjesztette tevékenységi körüket.
+:49. Míg egy nyugati hadsereg távol a hazájától éhen halhatott, a magyarok az ellenséges területeken éltek.
+:50. Ebben a szerénységben rejlett a magyarok egy további stratégiai erőssége.
+:51. Az ötödik különbség a seregek belső felépítését és szervezetét érintette.
+:52. A magyar sereg törzsekre és nemzetségekre volt felosztva, és a rokoni kötelékek tartották össze.
+:53. Egy nemzetség harcosai egymás mellett harcoltak, ami erősítette a belső összetartást.
+:54. A nyugati seregeket a hűbérkapcsolat és a hűséges követés kötötte urukhoz.
+:55. Mindkét rendszer összetartást teremtett, de különböző alapokon nyugodott.
+:56. A magyar törzsi felépítés rivalizáláshoz vezethetett a vezetők között.
+:57. A nyugati hűbérrendszer időnként szenvedett az egyes vazallusok megbízhatatlanságától.
+:58. Mindkét hadseregben tehát voltak belső feszültségek, amelyek ronthatták harci erejüket.
+:59. A hatodik különbség a támadáshoz és a visszavonuláshoz való hozzáállást érintette.
+:60. A nyugati harcos számára az állhatatosság erénynek, a visszavonulás pedig szégyennek számított.
+:61. Becsületfogalma megkövetelte, hogy szilárdan álljon szemben az ellenséggel, és ne hátráljon meg.
+:62. A magyar harcos számára viszont a kitérés legitim és bölcs eszköz volt.
+:63. A színlelt visszavonulás, amelyet Nyugaton becstelen menekülésként értelmeztek, a magyaroknál bevált hadicsel volt.
+:64. Ezek a különböző harcosetikák közvetlen következményekkel jártak a csatában.
+:65. A nyugati harcosokat a magyarok látszólagos menekülése gyakran meggondolatlan üldözésre késztette.
+:66. Az üldözés során felbomlott a rendjük, és előre elkészített csapdába kerültek.
+:67. A magyarok látszólagos visszavonulási hajlandósága így célzottan kihasználta a nyugatiak kitartását.
+:68. Amit Nyugaton bátorságnak tekintettek, azt a magyarok kihasználható gyengeségként kezelték.
+:69. Ezzel szemben a nyugat-európaiak számára a magyar harci módszer gyáva és alattomosnak tűnt.
+:70. Valójában itt két egyformán érvényes, de egymással ellentétes háborús szemlélet állt szemben egymással.
+:71. A hetedik különbség az erődített helyek ostromlására való képességet érintette.
+:72. A nyugati seregek jártasak voltak a várak és városok ostromlásában.
+:73. Rendelkeztek ostromeszközökkel és a szükséges türelemmel az erődített helyekért folytatott hosszan elhúzódó küzdelemhez.
+:74. A magyarok ezzel szemben alig rendelkeztek ostromtechnikával, és kerülték a hosszan elhúzódó ostromokat.
+:75. Erős falak ellen lovas íjász taktikájuk nagyrészt hatástalan volt.
+:76. Az ostromlás művészetében tehát a nyugat-európaiak egyértelműen felülmúlták a magyarokat.
+:77. A magyarok ezen gyengesége fontos kiindulóponttá vált a védők számára.
+:78. A szilárd várak és fallal körülvett városok kiépítése közvetlen válasz volt a magyar fenyegetésre.
+:79. A falak mögött a lakosság olyan védelmet talált, amelyet a lovasok nem tudtak áttörni.
+:80. Így a nyugati erő az erődítményépítés művészetében kiegyenlítette a magyarok nyílt terepen való fölényét.
+:81. A nyolcadik különbség a harci módszernek a tereptől való függőségét érintette.
+:82. A magyar lovas taktika csak nyílt, tágas terepen tudott teljes mértékben érvényesülni.
+:83. Szűk, hegyvidéki vagy erődített terepen a lovasok elvesztették előnyeiket.
+:84. A nyugati harci módszer kevésbé volt szorosan kötve a nyílt terephez.
+:85. A gyalogság és a nehéz lovasság erdőkben, szűk helyeken és falak előtt is hatékonyan tudott harcolni.
+:86. Ez a kisebb terepfüggőség a nyugati seregek egyik erőssége volt.
+:87. Az okos védők ezért arra törekedtek, hogy a magyarokat célzottan kedvezőtlen terepre csalogassák.
+:88. Ott semlegesíthették a lovas íjászok taktikáját, és kényszeríthették ki a közelharcot.
+:89. A különböző erősségek és gyengeségek így folyamatos taktikai versengéshez vezettek.
+:90. Mindkét fél arra törekedett, hogy saját előnyeit kihasználja, az ellenfélét pedig megkerülje.
+:91. A portyák első évtizedeiben ez a versengés egyértelműen a magyarok javára dőlt el.
+:92. Kiváló mozgékonyságuk és távolsági harci technikájuk túlterhelte a felkészületlen nyugati seregeket.
+:93. Az ellenfelek eleinte egyáltalán nem voltak felkészülve egy ilyen szokatlan harci stílusra.
+:94. Olyan ellenséggel harcoltak, aki soha nem ott állt, ahol várták.
+:95. Ez a kezdeti tehetetlenség magyarázza a magyarok hosszú éveken át tartó fölényét.
+:96. Az idő múlásával azonban az európai harcosok tanultak vereségeikből.
+:97. Felismerték a magyar harci módszer gyengeségeit, és stratégiájukat ezekre szabták.
+:98. Várakat építettek, hogy megfosszák a lovasokat a zsákmánytól, és védelmet nyújtsanak.
+:99. Gyakorolták nehézlovasságukat, hogy a magyarokat veszteséges közelharcra kényszerítsék.
+:100. Megtanulták, hogy ne kövessék meggondolatlanul a látszólagos menekülést.
+:101. És megtanulták, hogyan állítsák meg a zsákmányt szállító seregeket a visszatérésük során.
+:102. Ezekkel az alkalmazkodásokkal az erőviszonyok fokozatosan a Nyugat javára billentek.
+:103. A magyarok egykor elsöprő fölénye annyira csökkent, amennyire az ellenfelek tanultak a tapasztalatokból.
+:104. A 955-ös lechfeldi csata jelölte e fejlődés csúcspontját.
+:105. Ott a kelet-frank királynak sikerült a magyarokat álló közelharcra kényszerítenie.
+:106. A közelharcban azonban a nehéz nyugati lovasság fölényben volt a könnyű magyar lovassággal szemben.
+:107. A magyarok erőssége, a mozgékonyságuk, a kényszerű csatában nem tudott érvényesülni.
+:108. Így a közelharcban mutatkozó gyengeségük döntővé vált, míg erősségük hatástalan maradt.
+:109. A Lechfeld példásan megmutatta, hogyan használták ki a nyugati harcosok a magyarok gyengeségeit.
+:110. Ugyanakkor azt is megmutatta, hogy a magyar fölény soha nem volt abszolút, hanem mindig feltételes volt.
+:111. Ez az ellenfelek képtelenségén alapult, hogy szembeszálljanak az idegen harci stílussal.
+:112. Amint ezt a képtelenséget leküzdötték, a magyar erő határai nyilvánvalóvá váltak.
+:113. A két harci világ összehasonlítása tehát azt tanítja, hogy nem létezett abszolút fölényben lévő harci módszer.
+:114. Minden erő bizonyos feltételekhez volt kötve, és más körülmények között gyengeséggé változott.
+:115. A magyarok mozgékonysága nyílt terepen verhetetlen volt, kényszerű közelharcban azonban hátrányt jelentett.
+:116. A nyugatiak ereje közelharcban hatalmas volt, de egy kitérő ellenséggel szemben gyakran hiábavalónak bizonyult.
+:117. Csak a csata körülményei döntötték el, melyik erő érvényesült.
+:118. A hadvezetés művészete abban állt, hogy az ellenfélre rákényszerítsék a számára kedvezőtlen körülményeket.
+:119. A magyarok ezt úgy tették, hogy a harcot nyílt terepre és mozgásba helyezték át.
+:120. A nyugat-európaiak ezt úgy tették, hogy a harcot falak mellé és közelharcba kényszerítették.
+:121. Aki ráerőltette saját feltételeit az ellenfélre, az általában felülkerekedett.
+:122. A korai évtizedekben ez a magyaroknak sikerült, a későbbi időszakban pedig a nyugat-európaiaknak.
+:123. Az erőviszonyok változása így mindkét oldal tanulási folyamatát tükrözi.
+:124. A magyarok is idővel átvettek elemeket a nyugati hadviselésből.
+:125. Az Európához való közeledéssel a nehéz lovasság, a láncing és az egyenes kard náluk is egyre nagyobb jelentőségre tett szert.
+:126. Ezzel szemben egyes nyugati seregek megtanulták a könnyű lovasságot és az íjászokat hatékonyabban bevetni.
+:127. Így az egykor egymással ellentétes harci világok az idő múlásával egyre közelebb kerültek egymáshoz.
+:128. A könnyű lovasok és a nehéz lovagok közötti éles különbségtétel fokozatosan elmosódott.
+:129. Ez az egymáshoz való közeledés folyamata Magyarország átfogó beilleszkedésének része volt a latin Európába.
+:130. Az idegen lovas népből fokozatosan egy európai jellegű keresztény királyság lett.
+:131. Ezzel a változással a korai magyar hadviselés jellegzetes sajátossága is eltűnt.
+:132. A könnyű lovas íjász háttérbe szorult a nehezebben felfegyverzett lovasok mögött.
+:133. Ugyanakkor a régi lovas hagyomány elemei a határokon és a könnyű alakulatokban fennmaradtak.
+:134. Bennük tovább élt az egykor mozgékony lovasok fölényének emléke.
+:135. A magyar és az európai harcosok közötti összehasonlítás így továbbra is tanulságos mindkét világ megértése szempontjából.
+:136. Megmutatja, hogyan hozott létre két különböző életmód két különböző háborúzási módot.
+:137. A nyugat letelepedett világa teremtette meg a nehéz, helyhez kötött harcost.
+:138. A sztyeppék nomád világa a könnyű, mozgékony lovast hozta létre.
+:139. Mindkét világ olyan harcosokat hozott létre, akik tökéletesen alkalmazkodtak a saját körülményeikhez.
+:140. A két világ találkozásakor mindkettő erősségei és gyengeségei nyilvánvalóvá váltak.
+:141. Ez a találkozás egyben egy kölcsönös csere is volt, amelyből mindkét fél tanult.
+:142. A magyar portyák története ezért egyben az európai katonai átalakulás története is.
+:143. Rákényszerítette a Nyugatot, hogy újragondolja védelmét, erődítményeit és hadseregét.
+:144. A várak bővítéséhez és a saját lovasság megerősítéséhez vezetett.
+:145. Ebben az értelemben a magyar harcosok maradandó nyomot hagytak az európai hadtörténelemben.
+:146. Erősségük kihívást jelentett a Nyugat számára, és alkalmazkodásra, megújulásra kényszerítette azt.
+:147. Gyengeségük viszont megmutatta a Nyugatnak, hogyan lehet legyőzni őket.
+:148. Így a korai magyarok akaratuk ellenére is mesterekként hatottak ellenfeleik hadművészetére.
+:149. A két harci világ összehasonlítása ezért több, mint puszta fegyverek és taktikák egymás mellé állítása.
+:150. Ez a kulcs egy olyan korszak megértéséhez, amelyben két világ ütközött egymással.
+:151. Az egyik világ a sztyeppe régi szabadságát és mozgékonyságát testesítette meg.
+:152. A másik világ a letelepedett Európa szilárd rendjét és komolyságát testesítette meg.
+:153. A háborúban ez a két rend közvetlenül és teljes erővel ütközött egymással.
+:154. A korai magyar harcos egy olyan világ képviselője volt, amely Nyugaton széles körben ismeretlen volt.
+:155. Erőssége mindazon dolgokon alapult, amelyek a nyugati harcos számára idegennek tűntek: az íjon, a lovon és a mozgáson.
+:156. Gyengesége mindazon dolgokon alapult, amelyekben a nyugati harcos jártas volt: a közelharcban és az ostromlásban.
+:157. Erősségek és gyengeségek e tükörképszerű eloszlásában rejlett a két rendszer összehasonlításának teljes feszültsége.
+:158. Amit az egyik mesteri szinten űzött, az hiányzott a másikból, és fordítva.
+:159. Így a két harci világ egyszerre kiegészítette és harcolt egymással.
+:160. A tartós győzelem annak a félnek jutott, amelyik végül megértette, hogyan kell tanulni a másiktól.
+:161. A Nyugat megtanulta félni a mozgékonyságtól, és falakkal és lovassággal szembeszállni vele.
+:162. A magyarok csak későn és kényszer hatására tanultak meg alkalmazkodni a nyugati hadviseléshez.
+:163. Mivel azonban a Nyugatnak gyorsabban sikerült az alkalmazkodás, az erőviszonyok az ő javukra billentek.
+:164. A portyák vége ezért a tanulók győzelmét jelentette a hosszú ideig fölényben lévő fél felett.
+:165. Ez a győzelem azonban eleve a magyarok évtizedeken át tartó fölényét feltételezte.
+:166. A magyar nyomás nélkül a Nyugat nem hajtotta volna végre ilyen módon katonai megújulását.
+:167. Így a magyarok erősségei voltak az oka ellenfeleik későbbi erejének.
+:168. A magyarok gyengeségei pedig végső vereségük kiváltó okává váltak.
+:169. Az erő és a gyengeség ezen kölcsönhatásában rejlik az összehasonlítás valódi tanulsága.
+:170. Megmutatja, hogy a katonai fölény soha nem tartós, hanem mindig a körülményektől függ.
+:171. Megmutatja, hogy a gyengébb ellenfél tanulás és alkalmazkodás révén megfordíthatja a helyzetet.
+:172. És rámutat arra, hogy minden harci módszernek megvan a maga elkerülhetetlen hátránya.
+:173. A korai magyar harcos és a nyugat-európai harcos ebben egyenrangúak voltak.
+:174. Mindegyikük a saját világában és a saját feltételei között szinte legyőzhetetlen volt.
+:175. Ezen feltételeken kívül mindegyikük sebezhető volt és legyőzhető.
+:176. A köztük dúló háború ezért a harc feltételeiért folyó küzdelem volt.
+:177. Aki ezeket a feltételeket meghatározta, az egyúttal a küzdelem kimenetelét is meghatározta.
+:178. A korai évtizedekben a mozgékony magyarok saját akaratuk szerint határozták meg ezeket a feltételeket.
+:179. A későbbi időszakban a tanuló nyugat-európaiaknak sikerült ezeket a feltételeket megfordítaniuk.
+:180. A két harci világ összehasonlítása így egy korszak teljes lefolyását tükrözi, amelyben az egyik fél ereje váltotta ki a másikét.
+
+
+
+
+

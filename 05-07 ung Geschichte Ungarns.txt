@@ -1,0 +1,1478 @@
+== 5.7 – Kultúra és tudomány: A középkori Magyarország az európai kontextusban ==
+
+:1. Az 1000 körül alapított középkori Magyar Királyság szorosan beágyazódott Európa latin-keresztény kulturális térségébe, és ez a kapcsolódás évszázadokon át meghatározta kulturális és tudományos fejlődését. 
+:2. Míg alig egy évszázaddal korábban a magyarokat még pogány lovas nomádokként féltek, a megtérés után azok közé a népek közé tartoztak, amelyek részesültek a nyugati műveltségi és művészeti kánonban.
+:3. Magyarország kulturális orientációját kezdettől fogva kettős tényező határozta meg, mivel az ország a latin Nyugat és a görög-ortodox Bizánc között feküdt.
+:4. I. István, az első keresztény király, tudatosan a római-latin irányultság mellett döntött, amivel az országot kulturálisan Rómához, a Birodalomhoz és Észak-Olaszországhoz kötötte.
+:5. Ez az alapvető döntés évszázadokra meghatározta a közigazgatás, az egyház és a tudomány nyelvét, hiszen a latin lett a domináns írás- és oktatási nyelv.
+:6. A középkori Magyarországon a latin nem csupán egyházi nyelv volt, hanem egészen a kora újkorig a hivatalos, jogi és tudományos nyelv is.
+:7. A népnyelvi magyar irodalom csak későn fejlődött ki, mivel az írott művek hosszú ideig szinte kizárólag latinul jártas papok munkásságának eredményei voltak.
+:8. A kultúra hordozói kezdetben elsősorban az egyház és a királyi udvar voltak, mivel csak ott koncentrálódtak a szükséges erőforrások és az írástudás.
+:9. Az ország első oktatási központjai a püspökségek és a kolostorok voltak, amelyeket a keresztény hit terjedésével alapítottak.
+:10. Már I. István uralkodása alatt létrejöttek az első püspökségek, mint például Esztergom, Kalocsa, Veszprém és Pécs, amelyek egyházi és kulturális központokká váltak.
+:11. Esztergom, az érsek székhelye, a birodalom szellemi központjává fejlődött, és otthont adott az egyik legkorábbi dómiskolának.
+:12. A katedrálisiskolákban képezték ki az egyházi utódokat, mivel a fiatal királyságnak sürgősen írástudó papokra volt szüksége az igazgatáshoz és a lelkigondozáshoz.
+:13. Ezen iskolák tananyaga az artes liberales, azaz a hét szabad művészet alapján alakult ki, amelyek a középkori oktatás alapját képezték.
+:14. A hét szabad művészet a nyelvtanra épülő triviumra – amely a nyelvtanból, a retorikából és a dialektikából állt – valamint a matematikára épülő quadriviumra – amely az aritmetikából, a geometriából, a zenéből és a csillagászatból állt – tagolódott.
+:15. A katedrálisiskolák mellett a kolostorok is központi szerepet játszottak, mivel nem csupán imádkozóhelyek, hanem a tudás műhelyei is voltak.
+:16. A korai időszak legfontosabb kolostori alapítása a pannonhalmai bencés apátság volt, amelyet már 996-ban, tehát még István király koronázása előtt hoztak létre.
+:17. Pannonhalma a magyar szerzetesség szellemi központjává vált, és jelentős könyvtárral, valamint íróműhellyel rendelkezett.
+:18. A kolostori íróműhelyekben kéziratokat másoltak, mivel a könyvnyomtatás feltalálása előtt a könyvállományt csak fáradságos másolással lehetett szaporítani.
+:19. A szerzetesek liturgikus könyveket, Bibliákat, szentek életrajzait és joggyűjteményeket állítottak elő, és így biztosították a tudás továbbadását.
+:20. A legkorábbi fennmaradt magyar írásos emlék a Tihanyi apátság 1055-ös alapító okirata.
+:21. Ez a latin nyelvű okirat azért olyan jelentős, mert magyar szavakat és kifejezéseket tartalmaz, és így a magyar nyelv legrégebbi írásos tanúbizonyságát jelenti.
+:22. Az oklevél bizonyítja, hogy a népnyelv már régóta használatban volt a mindennapi életben, bár az írott nyelvet a latin uralta.
+:23. A magyar nyelv legkorábbi összefüggő nyelvi emléke az úgynevezett Halotti beszéd, amely 1195 körül keletkezett.
+:24. Ez a halotti beszéd, amely egy latin liturgikus kódexben maradt fenn, a magyar nyelv legrégebbi teljes szövegének, egyben a latin mellett egész Közép-Európa legrégebbi népnyelvi szövegének számít.
+:25. A 13. századból származik az ómagyar Mária-siralom, az első fennmaradt magyar vers, amely Mária siralmát énekli a keresztre feszített Krisztus miatt.
+:26. Ezek a korai népnyelvi emlékek azt mutatják, hogy a latin magas kultúra mellett fokozatosan megindult a magyar nyelvű irodalom kialakulása is.
+:27. A középkori magyar írott kultúra legfontosabb műfaja azonban a latin történetírás volt, amely kialakította a nemzet önálló történelmi tudatát.
+:28. A krónikák nem csupán a múlt megőrzését szolgálták, hanem a dinasztia és a királyság legitimálását is.
+:29. A legkorábbi átfogó krónika a Gesta Hungarorum, amelyet egy névtelen szerző írt, aki magát csupán Magister P.-ként jelölte meg, és akit a kutatásban Anonymusnak neveznek.
+:30. Anonymus, aki valószínűleg 1200 körül egy király jegyzőjeként tevékenykedett, leírta a magyarok országhódítását és eredetét, eközben azonban a történelmi hagyományt irodalmi kitalációval keverte össze.
+:31. Leírása forráskritikai szempontból vitatott, mivel helyneveket művészi módon személynevekké értelmezett át, és olyan legendás vezéreket teremtett, akikről nincs független bizonyíték.
+:32. Egy második fontos krónikát Kézai Szent Simon írt 1283 körül IV. László király megbízásából, aki kidolgozta a magyarok és a hunok rokonságára vonatkozó elméletet.
+:33. Kézai Szent István megalkotta azt a befolyásos elképzelést, miszerint a magyarok Attila és hunjai leszármazottai lennének, ami hősi eredetképet biztosított a magyar nemesség számára.
+:34. Ez a hun–magyar rokonsági elmélet történelmileg nem volt tartható, de a nemzeti önképet egészen a modern korig meghatározta, és számos későbbi műben tovább élt.
+:35. A 14. században készült el a csodálatos Képes Krónika, amelyet 1360 körül Nagy Lajos udvarában alkottak.
+:36. A Képes Krónika nemcsak történelmi, hanem művészeti szempontból is jelentős, mivel számos művészi miniatűr díszíti, amelyek az udvari életet és a királyi történelmet ábrázolják.
+:37. Ezek az illusztrált kéziratok tanúskodnak a magyarországi gótikus könyvfestészet magas színvonaláról és az udvar reprezentációs igényéről.
+:38. A történetírás mellett gazdag hagiográfiai irodalom is kialakult, vagyis szentek életrajzainak megírása.
+:39. Már I. István halála után nem sokkal latin nyelvű életrajzok, úgynevezett legendák születtek, amelyek megalapozták szentségét és előkészítették 1083-as szentté avatását.
+:40. A legfontosabbak közé tartozik a Legenda maior és a Legenda minor Istvánról, valamint Csanád-i Gerhard püspök legendája, akit vértanúként tiszteltek.
+:41. Gerhard püspök, a velencei származású tudós, egyben az ország egyik legkorábbi teológiai írójának is számít, akinek egy terjedelmes művet tulajdonítanak a bibliai énekek értelmezéséről.
+:42. István, fia Emmerich és Szent László király körüli szentkultuszok a magyar identitás és a dinasztikus önkép központi elemeivé váltak.
+:43. Ez a három szent, akiket gyakran Magyarország szent királyainak neveznek, összekapcsolta a vallási tiszteletet a nemzeti és politikai igényekkel.
+:44. Az európai szenttisztelet kiemelkedő alakja volt a királylány, Erzsébet töringiai hercegnő, aki 1207-ben született II. András király leányaként.
+:45. Erzsébet, aki jótékonyságáról és a szegények gondozásáról vált híressé, a középkor egyik leginkább tisztelt szentjei közé tartozik, és összekötötte Magyarországot a birodalom vallási életével.
+:46. IV. Béla lányát, a domonkos rendi Margitot is szentként tisztelték, és róla kapta a nevét a Budapesten, a Dunán fekvő Margit-sziget.
+:47. Az építészet a középkori magyar kultúra egy másik fontos területét képezte, és hűen tükrözte az európai stílusváltozásokat.
+:48. A legkorábbi monumentális építészetet a román stílus határozta meg, amelyet masszív falak, köríves nyílások és egyszerű, tömör formák jellemeztek.
+:49. Jelentős román stílusú építmények voltak az első királyi dómok, például Esztergomban, Székesfehérváron, Pécsen és Gyulafehérváron, amelyek koronázási és temetkezési templomként szolgáltak.
+:50. A székesfehérvári kolostortemplom kiemelkedő jelentőségű volt, mivel évszázadokon át a magyar királyok koronázási és temetkezési helyeként szolgált.
+:51. A pécsi dóm a legjobban megőrzött román stílusú épületek közé tartozik, és négy tornyával, valamint domborműveivel a korszak magas szintű kézműves mesterségét tükrözi.
+:52. A román építészet különleges gyöngyszeme a 13. században épült jáki apátsági templom, amelynek gazdagon díszített portálja a magyar román stílus csúcspontjának számít.
+:53. Az 1241-től 1242-ig tartó mongol betörés mélyreható változást jelentett az építészeti kultúrában, mivel számos fa- és földvár megsemmisült, és a pusztítás katasztrófaként hatott.
+:54. A mongol fenyegetésre reagálva IV. Béla király a támadók visszavonulása után nagyszámú kővárat építtetett, ami az erődépítés új szakaszát nyitotta meg.
+:55. Ezek a magaslaton álló kővárak tartósan megváltoztatták a tájképet, és a jövőben jobb védelmet nyújtottak a lakosságnak a betörések ellen.
+:56. A 13. és 14. század folyamán a gótika terjedt el, amely a hegyes ívekkel, a keresztbordás boltozatokkal és a támpillérekkel új magasságokat és fényességet hozott az egyházi építészetbe.
+:57. Gótikus városi plébániatemplomok elsősorban a virágzó városokban épültek, például a budai Mátyás-templom vagy a felső-magyarországi hegyvidéki városok nagy plébániatemplomai.
+:58. Erdélyben és a felső-magyarországi Zipsben a német telepesek, a szászok önálló későgótikus építészeti stílust alakítottak ki, amelynek jellegzetes elemei a pompás szárnyas oltárok voltak.
+:59. E faragott oltárok közül a leghíresebbet később Paul von Leutschau mester készítette, akinek műve a közép-európai későgótika csúcspontjai közé tartozik.
+:60. Az egyházi építészet mellett reprezentatív világi építészet is kialakult, elsősorban a királyi paloták formájában.
+:61. A budai királyi palota és a visegrádi rezidencia az udvari kultúra ragyogó központjaivá váltak, ahol a hatalom és a művészi igényesség ötvöződött.
+:62. A szobrászat és a szobrászati alkotások a nagy építőműhelyek környezetében virágoztak, amint azt a budai királyi palotában Zsigmond idejéből származó szoborleletek is bizonyítják.
+:63. Ezek a szobrok, amelyeket csak a 20. században tártak fel, tanúskodnak a nemzetközi gótika magas színvonaláról a magyar udvarban 1400 körül.
+:64. Az aranyművesség is figyelemre méltó szintre emelkedett, hiszen liturgiás eszközöket, ereklyetartókat és nemesfémből készült ékszereket készítettek nagy pompával.
+:65. E gazdagság alapját a magyar bányászat képezte, hiszen az ország jelentős arany- és ezüstkészletekkel rendelkezett, amelyek Európa legtermékenyebbjei közé tartoztak.
+:66. A felső-magyarországi bányavárosok, mint Kremnitz és Schemnitz, szállították a nemesfémet, amely nemcsak az érmeverést, hanem a kézművességet is táplálta.
+:67. Az érmekészítés kultúrája magasan fejlett volt, és a Károly Róbert Anjou alatt vert aranygulden a késő középkori Európa egyik legstabilabb pénznemének számított.
+:68. A zene is megkapta a maga helyét a középkori kultúrában, elsősorban liturgikus énekként a templomokban és kolostorokban.
+:69. A gregorián kórus képezte az egyházi zenei gyakorlat alapját, és István és László számára külön magyar szentek-offíciumokat komponáltak.
+:70. Az udvarokban a forrásokban Joculatorok néven szereplő zenészek és énekesek ápolták a világi zenét, és hősi dalokat adtak elő a múltbeli tettekről.
+:71. Ez a szájhagyomány útján terjedő dalhagyomány nagyrészt elveszett, mivel nem írták le, létezésére azonban a krónikák beszámolóiból lehet következtetni.
+:72. A tudomány szűkebb értelemben vett formáját a középkori Magyarországon elsősorban a teológia, a jog és az orvostudomány képviselte.
+:73. Mivel az országnak hosszú ideig nem volt saját egyeteme, a művelt magyaroknak külföldön kellett felsőfokú tanulmányaikat folytatniuk.
+:74. A legnépszerűbb tanulmányi helyszínek a nagy párizsi, bolognai és padovai egyetemek voltak, később pedig Bécs és Krakkó, ahová számos magyar hallgató iratkozott be.
+:75. Ezek a külföldön képzett tudósok gyakran tértek vissza hazájukba, és új ötleteket, könyveket és módszereket hoztak magukkal, ami folyamatos tudásátadást eredményezett.
+:76. Az első kísérlet egy saját egyetem alapítására 1367-ben történt, amikor Nagy Lajos király Pécsen létrehozott egy felsőoktatási intézményt.
+:77. A pécsi egyetem azonban csak néhány évtizedig működött, majd megszűnt, mert hiányzott a tartós pénzügyi és intézményi alapja.
+:78. Egy újabb alapítási kísérletre 1395-ben Óbudán került sor Zsigmond király idején, de ez az egyetem sem volt hosszú életű.
+:79. Csak Mátyás király idején, 1467-ben jött létre egy újabb egyetem, az Academia Istropolitana Pozsonyban (a mai Pozsony), amely azonban szintén nem maradt fenn.
+:80. Ezen alapítások ismételt kudarca jól mutatja, milyen nehéz volt egy periférián fekvő királyság számára tartós egyetemi hálózatot kiépíteni.
+:81. Ezen kudarcok ellenére voltak olyan kiemelkedő tudósok, akik nemzetközi elismertségre tettek szert, és növelték az ország tudományos hírnevét.
+:82. A középkor legjelentősebb magyar humanistája és költője Janus Pannonius volt, akinek valódi neve Johannes Cesinge volt, és 1434-ben született.
+:83. Janus Pannonius Olaszországban tanult, főként Ferrarában és Padovában, és európai rangú latin költőként ünnepelték, mielőtt Ötváros püspöke lett.
+:84. Epigrammái és elégiái a humanista költészet élvonalába tartoznak, és ő lett az első olyan magyar szerző, aki egész Európában jelentőségre tett szert.
+:85. Janus Pannonius révén az olasz reneszánsz humanizmus korán és ragyogóan meghódította Magyarországot, jóval azelőtt, hogy az Alpoktól északra általánosan elterjedt volna.
+:86. A középkori kulturális virágzás valódi csúcspontja Mátyás király uralkodási idejére esett, aki 1458-tól 1490-ig uralkodott.
+:87. Mátyás budai udvarát az Alpoktól északra fekvő reneszánsz egyik legragyogóbb központjává tette azzal, hogy olasz művészeket, építészeket és tudósokat hívott meg.
+:88. A döntő lökést második házassága adta Beatrix von Aragónnal, egy nápolyi hercegnővel, aki az olasz ízlést és számos művészt hozott az udvarba.
+:89. E virágzás leghíresebb megnyilvánulása a Bibliotheca Corviniana, a király könyvtára volt, amely korának legnagyobb és legpompásabb könyvgyűjteményei közé tartozott.
+:90. A Corvinenek, ahogyan a gyűjteményből származó értékes kéziratokat nevezték, gazdagon díszített miniatűrökkel, aranyozott kezdőbetűkkel és nemes kötésekkel voltak ellátva.
+:91. A könyvtár állománya becslések szerint több ezer kötetet tartalmazott, amelyekben ókori klasszikusok, teológiai, természettudományos és történelmi művek gyűltek össze.
+:92. Gazdagságát tekintve a Bibliotheca Corviniana csak a Vatikáni Könyvtár mögött állt, és a tudós világ csodálatát váltotta ki.
+:93. A király halála után, és különösen az 1526-os oszmán budai hódítás után a gyűjtemény tragikus módon szétszóródott, és a köteteknek ma már csak egy töredéke maradt fenn világszerte.
+:94. Mátyás udvarában külföldi humanisták is tevékenykedtek, mint például az olasz történetíró, Antonio Bonfini, aki egy terjedelmes latin nyelvű magyar történelmet írt.
+:95. Bonfini Rerum Ungaricarum decades című műve a magyar történelem meghatározó humanista ábrázolásává vált, és meghatározta a következő évszázadok történelemszemléletét.
+:96. A király környezetéhez tartozó másik tudós Galeotto Marzio volt, aki Mátyás bölcs mondásairól és tetteiről számolt be, és így terjesztette hírnevét.
+:97. Mátyás 1465-ben újra megkísérelte egy egyetem alapítását Pozsonyban, hogy tartósan támogassa a hazai tudományt, de a terv nem élte túl őt.
+:98. A könyvnyomtatás bevezetése jelentős technikai és kulturális esemény volt, hiszen már 1473-ban megjelent Budán az úgynevezett Budai Krónika, az első Magyarországon nyomtatott könyv.
+:99. Ez a Chronica Hungarorum, amelyet Andreas Hess nyomtatott, Magyarországot Európa egyik első országává tette, ahol alkalmazták az új könyvnyomtatási technikát.
+:100. Ezzel Magyarország korán csatlakozott azokhoz a haladó régiókhoz, amelyek röviddel Gutenberg találmánya után már saját nyomdákkal rendelkeztek.
+:101. A természettudományi és csillagászati érdeklődés Mátyás udvarában olyan tudósok kinevezésében nyilvánult meg, mint például Johannes Regiomontanus csillagász.
+:102. Regiomontanus, korának egyik legjelentősebb matematikusa és csillagásza, időnként Magyarországon tartózkodott, és támogatta a csillagászati tanulmányokat.
+:103. Esztergomi Vitéz János érsek, a tudományok művelt támogatója, humanisták körét gyűjtötte maga köré, és maga is jelentős könyvtárat hozott létre.
+:104. Vitéz, aki egyben a fiatal Mátyás nevelője és mentora is volt, a humanizmus egyik legfontosabb közvetítőjének számít Magyarországon.
+:105. Az orvosi ellátás és a gyógyászat hosszú ideig a kolostorok kezében volt, ahol a gyógynövénytant és az egyszerű gyógyászatot művelték.
+:106. A kórházak, amelyeket gyakran olyan szerzetesrendek tartottak fenn, mint a johanniták, egyszerre szolgáltak a betegápolásra, valamint a zarándokok és a szegények elszállásolására.
+:107. A jogtudomány önálló tudományággá fejlődött, amelyet képzett jogászok és jegyzők tartottak fenn.
+:108. Már I. István is törvénykönyveivel, az úgynevezett dekrétumokkal megalapozta a korai írásbeli jogkultúrát, amely egyesítette az egyházi és a világi jogot.
+:109. A jogtörténet egyik mérföldköve az 1222-es Aranybulla volt, amely írásban rögzítette a nemesség jogait, és alkotmánytörténeti dokumentumként európai jelentőségűnek számít.
+:110. A középkori jogi kultúra csúcspontját a jogtudós Werbőczy István 1514-ben megjelent Tripartitum című műve jelentette, amely szisztematikusan összefoglalta a magyar szokásjogot.
+:111. A Tripartitum évszázadokon át a magyar magán- és állásjog meghatározó alapja maradt, és a modern korig meghatározta a jogi gondolkodást.
+:112. A királyság igazgatása egyre növekvő számú, írástudó tisztviselőt igényelt, akik a királyi és egyházi kancelláriákban dolgoztak.
+:113. Magyarországon különlegességet jelentettek az úgynevezett hiteles helyek, latinul loca credibilia, azaz olyan egyházi intézmények, amelyek hitelesítő közjegyzői minőségben okiratokat állítottak ki és őriztek.
+:114. Ezek a loca credibilia – többnyire káptalanok és kolostorok – olyan funkciókat láttak el, amelyeket Európa más részein közjegyzők töltöttek be, és gondoskodtak a szerződések jogbiztonságáról.
+:115. Az írásbeliség az évszázadok során folyamatosan terjedt, így a késő középkorból egyre sűrűbb okiratok, nyilvántartások és levelek hálózata maradt fenn.
+:116. A külföldön tanuló magyarok jelenléte nyomot hagyott a bécsi, krakkói és az olasz egyetemek hallgatói névjegyzékeiben, amelyek számos magyar nevet tartalmaznak.
+:117. Különösen az 1365-ben alapított Bécsi Egyetem vonzott sok magyar hallgatót, mivel közel feküdt és ugyanahhoz a kulturális térséghez tartozott.
+:118. A hazatérő diplomások művelt elitet alkottak, akik az egyházban, a közigazgatásban és az udvarban kulcsfontosságú pozíciókat töltöttek be, és így a tudást az országban meghonosították.
+:119. Magyarország kulturális kapcsolatai messzire nyúltak, és magukban foglalták a német nyelvterületet, Olaszországot, Franciaországot, Lengyelországot és Csehországot, valamint a Bizánci Birodalmat is.
+:120. Az Árpádok és utódjaik házassági politikájának köszönhetően egész Európából érkeztek kulturális hatások a magyar udvarba, mivel a királynék magukkal hozták kíséretüket és szokásaikat.
+:121. A 14. századi Anjou-királyok olasz és francia hatásokat hoztak magukkal, mivel dinasztiájuk Nápolyból, végső soron pedig Franciaországból származott.
+:122. Zsigmond király, aki egyben a Római-Német Birodalom császára is volt, alatt Magyarország különösen megnyílt a birodalom és a nemzetközi diplomácia felé, ami tovább élénkítette a kulturális cserét.
+:123. Zsigmond összehívta a konstanzai zsinatot, és az európai politika középpontjában állt, aminek köszönhetően udvara a tudósok és művészek találkozási helyévé vált.
+:124. A 12. század óta Erdélyben és Felső-Magyarországon letelepedett német telepesek jelentősen hozzájárultak a városi és kézműves kultúrához.
+:125. Ezek a szászok magukkal hozták a nyugati városi jogokat, építészeti hagyományokat és kézműves technikákat, és virágzó városi központokat hoztak létre saját iskolákkal és templomokkal.
+:126. A városok fokozatosan a polgári műveltség hordozóivá váltak, még ha Magyarország Nyugat-Európához képest hosszú ideig túlnyomórészt agrárjellegű és alacsony városiasodottságú ország is maradt.
+:127. A széles népesség műveltségi szintje alacsony maradt, mivel az írás-olvasás képessége évszázadokon át a papság, a nemesség és egy szűk városi réteg kiváltsága volt.
+:128. A nép szóbeli kultúrája – dalaival, mondáival és szokásaival – párhuzamosan fejlődött a latin magas kultúrával, de csak nyomokban maradt fenn.
+:129. Egy különleges kutatási kérdés az ősi magyar rúnaírás, az úgynevezett vésőírás-jelek, amelyek székely-magyar vésőírás néven ismertek.
+:130. Ez a vésőírás, amelynek gyökerei feltehetően a sztyeppek korára nyúlnak vissza, elsősorban Erdély székelyföldjén maradt fenn, de elterjedése és jelentősége a kutatásokban továbbra is vitatott.
+:131. A hivatalos íráshasználatban a vésőírás nem játszott szerepet, mivel a keresztény hitre térés óta a latin ábécé korlátlanul dominált.
+:132. A naptár és az időszámítás az egyházi évet követte, és a kolostorok őrizték meg az ünnepek kiszámításához szükséges csillagászati és naptári ismereteket.
+:133. A földrajz és a kozmológia terén a művelt magyarok átvették az ókori és keresztény világképet, amelyet a latin iskolák és egyetemek közvetítettek.
+:134. A kulturális csere azonban nem csak egy irányban zajlott, hiszen Magyarország is tudósokat, diplomatákat és művészeket küldött külföldre, és így hatást gyakorolt szomszédaira.
+:135. A vallási rendek sűrű európai hálózatot alkottak, amelyen keresztül emberek, könyvek és eszmék folyamatosan áramlottak, és szorosan bekötötték Magyarországot.
+:136. A bencés rend mellett a késő középkorban egyre nagyobb jelentőségre tettek szert a ciszterciek, akik kolostoraikkal új mezőgazdasági és építészeti technikákat is terjesztettek.
+:137. A 13. században csatlakoztak hozzájuk a kolduló rendek, elsősorban a domonkosok és a ferencesek, akik a városokban prédikáltak, tanítottak és felélénkítették a szellemi életet.
+:138. A domonkosok saját tanulmányi házakat tartottak fenn és előmozdították a teológiai tudományt, míg a ferencesek főként az egyszerű nép körében tevékenykedtek.
+:139. Domonkos szerzetesek voltak azok, akik a 13. században a Keleten maradt magyar törzseket keresték, ami Julianus szerzetes utazását híressé tette.
+:140. Julianus testvér 1235 körül eljutott a Volga-vidékre, és arról számolt be, hogy ott még magyarul beszélő rokonokat talált, ami a földrajzi és nyelvészeti kutatások iránti érdeklődés korai tanúbizonyságának számít.
+:141. Az ilyen utazási beszámolók bővítették a földrajzi ismereteket, és összekapcsolták a tudományos kíváncsiságot a saját gyökerek keresésével.
+:142. A falfestészet művészete különösen a falusi és városi templomokban virágzott, ahol a freskók bibliai jeleneteket és szentlegendákat ábrázoltak az írástudatlan lakosság számára.
+:143. Különösen népszerűek voltak a Szent László királyról szóló képciklusok, akinek legendáját számos erdélyi és felső-magyarországi templom falára festették.
+:144. Ezek a László-legendák a vallási felépülést ötvözték a lovagi királyi eszmény dicsőítésével, és a magyar képzőművészet egyedülálló tanúbizonyságát jelentik.
+:145. A késő középkori udvari lovagi kultúra Magyarországon is meghonosodott, lovagi tornákkal, udvari ünnepségekkel és a keresztény lovag eszményével.
+:146. Az Anjou-királyok uralkodása alatt érte el csúcspontját ez a lovagi kultúra, ami a lovagrendek alapításában és a pompás udvari szertartásokban nyilvánult meg.
+:147. Nagy Lajos saját lovagrendet alapított, és a lovagi ethost összekapcsolta Szent György, a lovagság védőszentjének tiszteletével.
+:148. A divat, az asztali kultúra és az udvari szertartások az európai mintákat követték, de saját, a sztyeppei hagyományokból származó elemekkel ötvöződtek.
+:149. A keleti eredet és a nyugati kereszténység ezen összeolvadása a magyar kultúrának egy megkülönböztethetetlen, a világok között közvetítő jelleget kölcsönzött.
+:150. A nyelv területén az évszázadok során a magyar nyelv lassú felemelkedése ment végbe, amely a tisztán szóbeli szerepéből fokozatosan behatolt az írott nyelvbe.
+:151. Eleinte a magyar szavak csak szórványosan jelentek meg latin szövegekben, mielőtt teljes szövegeket, például imákat, prédikációkat és énekeket írtak volna a népnyelven.
+:152. A 15. században terjedelmesebb népnyelvű művek születtek, főként a női kolostorokban, ahol az apácák vallási szövegeket fordítottak magyar nyelvre.
+:153. Ezek az úgynevezett kódexek, például a Szent Ferenc életéről szóló Jókai-kódex, a korai magyar próza legfontosabb emlékei közé tartoznak.
+:154. A Jókai-kódex a legrégebbi fennmaradt, összefüggő magyar kézirat könyv formájában, és tanúskodik a saját nyelven való vallásgyakorlás iránti növekvő igényről.
+:155. Ezzel a késő középkor előkészítette a magyar írott nyelv felvirágzását, amely aztán a 16. században a reformációval és a könyvnyomtatással érte el teljes kibontakozását.
+:156. Ha a magyar kultúrát összehasonlítjuk a többi európai országgal, a stíluskorszakok figyelemre méltó egyidejűsége tűnik fel, hiszen a román, a gótikus és a reneszánsz stílusok mindössze kis késéssel értek el az országba.
+:157. Az európai áramlatok ilyen gyors befogadása cáfolja azt a régi előítéletet, miszerint Magyarország kulturális periféria lett volna, hiszen bizonyos tekintetben a haladás élvonalában állt.
+:158. Így Mátyás király uralkodása alatt Magyarország az első olyan országok közé tartozott Olaszországon kívül, ahol a reneszánsz megvetette a lábát, ami aláhúzza kulturális úttörő szerepét.
+:159. Ugyanakkor a kulturális virágzás túlnyomórészt az udvarra, az egyházra és néhány központra korlátozódott, így nem sikerült széles körű társadalmi gyökeret vernie.
+:160. Ez a szűk hordozóréteg sebezhetővé tette a magyar magas kultúrát, ami 1526-ban, a mohácsi csata után keserűen bebizonyosodott.
+:161. Az oszmán hódítás és az ország felosztása során a középkor alkotásainak nagy része megsemmisült, a könyvtáraktól kezdve a templomokon át egészen városokig.
+:162. A Bibliotheca Corviniana, a magyar reneszánsz legbüszkébb emlékműve, eközben a kulturális veszteség szimbólumává vált, mivel kincsei a világ minden tájára szétszóródtak.
+:163. Mindazonáltal a középkor szellemi öröksége tovább élt, mivel a krónikák, a jogkönyvek és a szentek imádata tartósan meghatározták a nemzeti önképet.
+:164. A középkori történetírás szolgáltatta azokat a történeteket a földhódításról, a szent királyokról és a hun eredetről, amelyek a mai napig befolyásolják a magyar történelemszemléletet.
+:165. A Tripartitum és az Aranybulla jogi emlékműként életben maradtak, és a későbbi alkotmányos küzdelmek során újra és újra hivatkoztak rájuk a régi szabadságjogok bizonyítékaként.
+:166. A szent királyok – István, Emmerich és László –, valamint a Szent Korona a magyar államiság és identitás megingathatatlan szimbólumaivá váltak.
+:167. Így látható, hogy a középkori Magyarország kulturális és tudományos vívmányai messze túlmutattak keletkezésük korán.
+:168. A latin íráskultúra évszázadokon át biztosította a kapcsolatot az ókor és a kereszténység közös európai örökségével.
+:169. A népnyelv lassan, de megállíthatatlanul kilépett az árnyékból, és megteremtette az alapját a későbbi nemzeti irodalomnak.
+:170. Az építészet templomokban, várakban és városi templomokban hagyott hátra látható nyomokat, amelyek a mai napig jellemzik az országot.
+:171. A sztyeppei örökség és a nyugati kereszténység ötvözete Magyarországot Kelet és Nyugat közötti kulturális közvetítővé tette.
+:172. Az ismételt egyetemalapítások – bármennyire is rövid életűek voltak – tanúskodnak az ország saját tudás iránti kitartó törekvéséről.
+:173. A külföldön tanuló magyarok sűrű kapcsolati hálót építettek ki, amely biztosította az új tudás folyamatos beáramlását.
+:174. Olyan királyok támogatása, mint Nagy Lajos, Zsigmond és Mátyás Corvinus, bizonyította, hogy az uralkodók a kultúrát a hatalom és a presztízs eszközeként értelmezték.
+:175. A Bibliotheca Corviniana, mint elveszett kincs, továbbra is annak szimbóluma marad, milyen magasra emelkedett a magyar kultúra virágkorában.
+:176. A szerzetesrendek eljuttatták a műveltséget és a jámborságot az ország minden részébe, és szellemi kapcsolatot tartottak fenn a Nyugattal.
+:177. A szentek imádata, a krónikák és a joggyűjtemények olyan nemzeti emlékezetet alakítottak ki, amely túlélte a politikai katasztrófákat.
+:178. Összességében a középkori Magyarország az európai kulturális közösség teljes jogú és kreatív tagjának bizonyul, amely adott és kapott is.
+:179. Teljesítményei a keleti eredet, a nyugati hit és a folyamatos külső fenyegetés közötti feszültségmezőben születtek, ami különleges mélységet kölcsönzött nekik.
+:180. A középkori Magyarország kultúrája és tudománya az európai történelem egyik lenyűgöző fejezetét alkotta, amelynek öröksége a mai napig hatással van, és a mai napig is meghatározza a nemzeti önértelmezést. 
+
+=== 5.7.1 – Építészet: román stílus és kora gótika Magyarországon ===
+
+:1. A középkori Magyarországon az építmények egyrészt a fiatal keresztény állam kifejezői voltak, másrészt pedig összekötő kapocs a nyugati kultúrához. 
+:2. A kőtemplomok építése a nomád múlttal való szakítást jelezte, mivel az állandó egyházi épületek egy letelepedett, egyházi szervezetű társadalmat feltételeztek.
+:3. A román stílus a 11. század elején érkezett Magyarországra, amikor I. István király országszerte püspökségek és templomok hálózatát kezdte kiépíteni.
+:4. A minták eleinte a Szent Római Birodalomból, nevezetesen Bajorországból és a Rajna-vidékről érkeztek, ahonnan az építészeti hagyományok papok és kézművesek révén jutottak el Magyarországra.
+:5. Emellett észak-olasz és lombard hatások is érvényesültek, mivel a déli építőmesterek a régi kereskedelmi útvonalakon keresztül vándoroltak a Kárpát-medencébe.
+:6. A román stílust masszív falak, kis köríves ablakok és egy nehéz, a földhöz kötött összkép jellemzi, amely stabilitást és tartósságot sugároz.
+:7. A portálok, ablakok és árkádok felett megjelenő körív e stílus meghatározó formai eleme, mivel a terheléseket egyenletesen osztja el a falak között.
+:8. A hordóboltozatok, majd később a keresztboltozatok fokozatosan felváltották a legrégebbi templomok fa síkmennyezeteit, aminek köszönhetően az épületek tűzbiztonságosabbá és reprezentatívabbá váltak.
+:9. Az ország legrégebbi egyházi épületei gyakran egyszerű teremtemplomok voltak, keleti oldalukon félköríves apszissal, amely a liturgia középpontját képezte.
+:10. Az egyház gazdagságának növekedésével háromhajós bazilikák épültek, amelyek emelt középső hajóját pillérek vagy oszlopok választották el az oldalsó hajóktól.
+:11. A királyi alapítású Stuhlweißenburg, a magyar Székesfehérvár ad otthont az Árpádok legjelentősebb koronázási és temetkezési helyének, amelynek bazilikája birodalmi szentélynek számított.
+:12. Ez a koronázási bazilika, amelynek építése a 11. században kezdődött és generációkon át bővült, királyi koronázások színhelyeként és számos uralkodó temetkezési helyeként szolgált.
+:13. Az egykor monumentális építményből ma már csak az alapok és néhány töredék maradt fenn, mivel az oszmán korszak és a későbbi pusztítások az épületet nagyrészt eltüntették.
+:14. A Pannonhalmai apátság, amelyet 996-ban Géza fejedelem és I. István alapított, az ország egyik legrégebbi és legjelentősebb kolostorépülete.
+:15. A Pannon-síkság fölötti dombon fekvő elhelyezkedése alátámasztotta a bencés rend igényét, hogy egy új keresztény birodalom szellemi központja legyen.
+:16. Noha a mai pannonhalmai épületegyüttes erősen gótikus átalakításon esett át, a kriptában és az alapokban még felismerhetők a román stílusú rétegek.
+:17. A Pécs püspöki székesegyháza, amely az ország déli részén található, a magyar román stílus egyik legimpozánsabb emléke.
+:18. Háromhajós, oszlopos bazilika alaprajza és négy jellegzetes tornya évszázadokon át meghatározta a Mecsek lábánál fekvő város arculatát.
+:19. A pécsi kripta figurális domborművei, amelyek bibliai jeleneteket és szent alakokat ábrázolnak, a magyar román kőfaragóművészet kiemelkedő alkotásai közé tartoznak.
+:20. Ezek a szobrászati alkotások a lombard formanyelvet ötvözik a helyi sajátosságokkal, ezért Pécs a különböző műhelyhagyományok találkozási pontjának számít.
+:21. Az esztergomi királyi palotában és a bazilikában, az ország legrégebbi érsekségének székhelyén, összpontosult a világi és egyházi hatalom igénye.
+:22. Esztergom az érsek székhelye volt, aki egyben a magyar egyház legfontosabb méltóságaként a királyokat is megkoronázta.
+:23. Az esztergomi román stílusú várkápolna, amelynek maradványai ma is megtekinthetők, oszlopai és boltívei révén a udvari építészet magas színvonalát tükrözi.
+:24. Az esztergomi híres márványportál, az úgynevezett Porta speciosa, ötvözte a román és a kora gótikus elemeket, és rendkívüli pompájáról volt híres.
+:25. Noha ezt a portált később lerombolták, a leírások és a fennmaradt töredékek képet adnak a színes márványberakásokról és a gazdag szobrászati díszítésről.
+:26. A nyugat-magyarországi Ják-i bencés apátság az ország legjobban megőrzött román stílusú temploma és e korszak egyik fő műve.
+:27. Két tornyos nyugati szárnya és az apostolok szobrai által díszített, gazdagon lépcsőzetes portál a királyság késő román építészeti szobrászatának csúcspontját jelenti.
+:28. A jáki portál, amelynek oszlopait és íveit geometrikus és növényi díszítés borítja, a kőfaragói munka gazdagságának mintapéldájának számít.
+:29. A bejárat felett Krisztus-szobor trónol, oldalán az apostolokkal, akik szigorú frontális ábrázolása még teljes mértékben a román képalkotási hagyománynak felel meg.
+:30. Az apátsági templom közvetlen közelében áll a jakai kis körkápolna, egy kétszintes, központi alaprajzú épület, amelyet Szent Jakabnak szenteltek.
+:31. Az ilyen kör alakú templomok, amelyeket magyarul rotundának neveznek, önálló csoportot alkotnak az ország román stílusú építészetén belül.
+:32. A rotundák részben bizánci és közép-európai mintákra vezethetők vissza, mivel a korai Magyarország közvetítő szerepet töltött be Kelet és Nyugat között.
+:33. E kis, központi alaprajzú épületek közül sok keresztelő-, csontkamra- vagy temetői kápolnaként szolgált, és gyakran egy nagyobb plébániatemplom mellett állt.
+:34. Az ösküi körkápolna vagy a kallósdi rotunda jól mutatja, milyen elterjedt volt ez az egyszerű, de hatásos építészeti típus a vidéken.
+:35. A mai Szlovákia és Erdély területén, amelyek akkoriban a királysághoz tartoztak, szintén számos román stílusú falusi templom épült.
+:36. Az erdélyi szász telepesek magukkal hozták saját építészeti hagyományaikat, ezért ott különösen sűrű csoportja maradt fenn a román stílusú templomoknak.
+:37. A román stílusú építészet nem csupán a liturgiát szolgálta, hanem az alapítók önkifejezését is, akik a templomépítkezésekkel rangjukat és jámborságukat mutatták meg.
+:38. Királyok, püspökök és nemesi földesurak léptek fel építtetőként, így a szakrális épületek az egész királyság területén elterjedtek.
+:39. Különlegességnek számított a nyugati karzatot tartalmazó nemesi templom, ahonnan a földesúri család emelt helyről és elkülönítve vett részt az istentiszteleten.
+:40. Ezek a karzatok jól illusztrálják, hogy a templom egyben társadalmi helyszín is volt, ahol a társadalmi hierarchia láthatóan tükröződött a térben.
+:41. A román stílus építőanyaga túlnyomórészt kő volt, főként mészkő és homokkő, amelyet helyi kőbányákból bányásztak ki és a helyszínen faragtak meg.
+:42. A fában gazdag, kőben szegény vidékeken az építők továbbra is fa templomokkal oldották meg a problémát, amelyekből az anyag mulandósága miatt alig maradt fenn valami.
+:43. A kőfaragók építőműhelyekbe szerveződtek, amelyek továbbadták az építkezésről és a díszítésről szóló tudásukat, és építkezésről építkezésre vándoroltak.
+:44. Ezeknek a vándorló műhelyeknek köszönhetően a formák és motívumok nagy távolságokra terjedtek el, ami magyarázza a sok épület hasonlóságát.
+:45. Az 1241-es és 1242-es mongol betörés mélyreható változást jelentett, mivel számos korábbi templom és kolostor megsemmisült vagy súlyosan megrongálódott.
+:46. A katasztrófa után IV. Béla király uralkodása alatt intenzív újjáépítési szakasz vette kezdetét, amelynek során egyre több szilárd, védelmi célra alkalmas épület épült.
+:47. Ebben az időszakban a kővárak és az erődített templomok jelentőségre tettek szert, mivel az emberek védelmet kerestek egy újabb invázió ellen.
+:48. Az erődített templom, amelynek falai és tornyai egyúttal védelmi célokat is szolgáltak, különösen Erdélyben vált jellegzetes építészeti típussá.
+:49. Az ilyen erődített egyházi épületek ötvözték a lelki funkciót és a védelmi igényt, mivel háborús időkben menedékként szolgáltak a falusi közösség számára.
+:50. A mongolok utáni újjáépítéssel egyidejűleg bejelentkezett a román stílustól a gótikához való átmenet, amely Magyarországon fokozatosan és szakaszosan zajlott le.
+:51. A korai gótika a Francia Királyságon és a Német-római Birodalmon keresztül jutott el Magyarországra, elsősorban a kolduló rendek és a ciszterciek közvetítésével.
+:52. A ciszterciek, a bencés rend reformált ága, a 12. és 13. században több kolostort alapítottak, és új építészeti formákat hoztak az országba.
+:53. Épületeiket tudatos egyszerűség jellemezte, mivel a rend lemondott a gazdag építészeti díszítésekről, és a tiszta arányokra koncentrált.
+:54. A hegyes boltív, a gótika egyik jellegzetes eleme, magasabb és világosabb tereket tett lehetővé, mivel a nyomóerőket célzottabban vezette el, mint a körív.
+:55. A masszív román stílusú fal helyébe oszlopokból és támpillérekből álló váz lépett, amely viselte a terhelést és nagy ablakfelületeket tett lehetővé.
+:56. Ezzel a vázszerkezetes építési móddal a falazatot fel lehetett oldani és színes üvegablakokkal helyettesíteni, így a belső térbe bőségesen áramlott a fény.
+:57. A bordás boltozat, amelyben kőbordák tagolják és tartják a boltozatot, a gótikus építészeti technika egyik legszembetűnőbb újítása.
+:58. A hegyes ív ettől kezdve meghatározta a portálokat, ablakokat és árkádokat, és felemelkedő, vertikális jelleget kölcsönzött az épületeknek.
+:59. A Bükk-hegységben található Bélapátfalvai ciszterci apátság az egyik legkorábbi és legjobban megőrzött példája ennek a kora gótikus kolostorépítészetnek.
+:60. Szigorú formanyelve és tiszta alaprajza tükrözi a rend ideálját, amely a pompát a szigor és a funkcionalitás javára háttérbe szorította.
+:61. A zirci apátság és más ciszterci alapítások is hozzájárultak ahhoz, hogy az új építészeti elvek elterjedjenek az országban.
+:62. A ferences és domonkos kolduló rendek a növekvő városokban prédikációs templomokat emeltek, tágas, osztatlan teremmel a nagy hallgatóság számára.
+:63. Ezek a rendi templomok gyakran lemondtak a tornyokról és a gazdag díszítésről, mivel a prédikáció, és nem a monumentális hatás állt az előtérben.
+:64. A 13. századi királyi udvari művészet különösen gyorsan vette át a gótikus formákat, mivel az udvar a nyugati divatirányzatok közvetítőjeként működött.
+:65. Gertrud királyné, majd később az Árpád-ház udvarai támogatták azokat a művészeket és építőmestereket, akik ismertek a legújabb technikákat.
+:66. A lébényi templomban és a jáki apátsági templomban különösen jól tanulmányozható a román és a kora gótikus elemek átmenete és egymás mellett élése.
+:67. Az ilyen vegyes stílusú épületek azt mutatják, hogy a stílusváltás nem hirtelen törés volt, hanem az új formák fokozatos beépülése a meglévő hagyományokba.
+:68. A kora gótika építészeti szobrászata élénkebbé és természetközeliabbá vált, mert a figurák mozgásosabbá váltak, a növényi díszítés pedig egyre élethűbbé.
+:69. A rügyes kapitélek és a valódi növényekről mintázott lombozat fokozatosan felváltotta a román stílus szigorú geometriai mintáit.
+:70. A kőfaragók jobban kiemelték az alakokat a háttérből, így a domborművek és szobrok plasztikusabbnak és testteljesebbnek tűntek.
+:71. Az üvegfestészetben új képi hordozó jött létre, amely ragyogó színekkel mesélte el a bibliai történeteket, és egyúttal megvilágította a belső teret.
+:72. A korai magyar üvegfestészetből kevés maradt fenn, de írásos források és töredékek bizonyítják, hogy itt is a nyugat-európai példát követték.
+:73. A falfestészet emellett továbbra is jelentős maradt, mivel számos falusi templomot freskóciklusokkal láttak el, amelyek a hívők elé tárták az üdvösség történetét.
+:74. Gyakran ábrázolták Szent László, a király és lovagszent legendáját, akinek a kumánok elleni küzdelme egész képsorozatokat töltött ki.
+:75. Ez a László-legenda számos felső-magyarországi és erdélyi templomban megjelenik, és ötvözi a keresztény jámborságot a nemzeti hősi emlékezéssel.
+:76. Az ilyen képi programok elterjedése azt mutatja, hogy az építészet és a festészet együttesen olyan összképet alkotott, amelyben a hit és a történelem összeolvadt.
+:77. A várépítés a 13. században fellendülést élt meg, mivel IV. Béla király a mongol betörés után arra ösztönözte a nemességet, hogy kőerődöket építsenek.
+:78. Ezek a magaslati várak toronnyal, körfalakkal és lakószárnyakkal ötvözték a katonai funkciót a nemesség lakókultúrájával.
+:79. A Duna partján fekvő visegrádi vár, amelyet IV. Béla uralkodása alatt emeltek, e védelmi építészet egyik legimpozánsabb emléke.
+:80. Az esztergomi erődöt és más királyi várakat is a várépítés legújabb ismeretei szerint újították fel és erősítették meg.
+:81. A védelmi építészet átvette a gótikus építési módszereket, hegyes íveket és boltozatokat alkalmazva a kapukban, kápolnákban és termekben.
+:82. Így a gótikus formanyelv nemcsak a templomokban, hanem a nemesség és a király világi építészetében is otthonra lelt.
+:83. A birodalom városai, amelyeket a mongol betörés után királyi kiváltságokkal támogattak, saját építészeti formákat fejlesztettek ki a városházák, polgári házak és városfalak számára.
+:84. Felső-Magyarország felemelkedő polgári városaiban, például Kassa és Lutocsa városokban, később jelentős gótikus plébániatemplomok épültek, amelyek kezdetei erre a korszakra nyúlnak vissza.
+:85. A városi plébániatemplom a polgári önbizalom kifejezőjévé vált, mivel a gyülekezet nagy erőfeszítéssel és büszkeséggel építette templomát.
+:86. Magyarországon a román stílustól a gótikához való átmenet időben később következett be, mint Franciaországban, mivel az ország földrajzilag és kulturálisan a latin Nyugat peremén feküdt.
+:87. Míg az Île-de-France-ban már a 12. században nagy katedrálisok épültek, Magyarországon a gótika csak a 13. században terjedt el szélesebb körben.
+:88. Ez az időbeli késés azonban nem jelentette a színvonal csökkenését, mivel Magyarország gyorsan átvette az idegen formákat, és saját hagyományaival ötvözte azokat.
+:89. A magyar fejlődésre jellemző volt a román és a gótikus elemek hosszú ideig tartó egymás mellett élése, ami számos épületet átmeneti műemlékké tesz.
+:90. A kutatás ezért gyakran egy magyar átmeneti stílusról beszél, amelyben a köríves és a hegyesíves formák ugyanazon az épületen találkoznak.
+:91. Ennek az egymás mellett létezésnek az egyik oka a hosszú építési idő volt, mivel a nagy templomokat gyakran több generáció alatt építették fel.
+:92. Ha egy templomot román stílusban kezdtek el építeni, nem ritkán gótikus formákban fejezték be, így mindkét korszak egy épületben találkozott.
+:93. Magyarország földrajzi elhelyezkedése emellett a hatások keveredését is elősegítette, mivel a Birodalomból, Franciaországból, Olaszországból és Bizáncból érkező inspirációk ötvöződtek.
+:94. A példaképek ezen sokfélesége a magyar építészetnek olyan önálló jelleget kölcsönzött, amely nem vezethető vissza egyetlen forrásra sem.
+:95. A műhelyek gyakran használtak kőfaragói jeleket, apró, bevésett jelöléseket, amelyek segítségével nyomon követhető az egyes mesterek tevékenysége.
+:96. Ezek a jelek a kutatók számára utalásokat nyújtanak az építők vándorlásaira és a különböző építkezések közötti összefüggésekre.
+:97. A liturgiának megfelelően szinte minden templom keleti tájolású volt, vagyis az oltárteret kelet felé, a napfelkeltéhez és a feltámadás szimbólumához igazították.
+:98. A főbejárat általában nyugaton helyezkedett el, így a belépő szimbolikusan a keleti fény, és ezzel Krisztus felé haladt.
+:99. A belső terek eredetileg színesek voltak, hiszen a falakat, a boltozatokat és a szobrokat festmények díszítették, amelyekből ma már többnyire csak maradványok láthatók.
+:100. A mai, csupasz kőfalak által keltett benyomás ezért eltereli a figyelmet az egykori színességről, amely a templombelsőt élettel teli és ünnepélyesnek mutatta.
+:101. A román stílus építészeti díszítései a geometrikus mintákat részesítették előnyben, mint például a cikk-cakk szalagok, a kockás frízek és a fonott minták, amelyek a portálok és ablakok körül húzódtak.
+:102. Az ilyen fonott szalagmotívumok részben régebbi, kereszténység előtti hagyományokra utalnak, amelyeket a keresztény formanyelvbe is átvettek.
+:103. A román szobrászat állatábrázolásai – oroszlánok, griffek és mitológiai lények – szimbolikus jelentéssel bírtak, és az istentiszteleti hely védelmét szolgálták.
+:104. A gótika megjelenésével a növényi és figurális díszítés egyre nagyobb szerepet kapott, mivel a természet tanulmányozása egyre nagyobb jelentőségre tett szert.
+:105. A román stílus oszlopai többnyire zömökek és erőteljesek voltak, míg a gótikus pillérek egyre inkább kötegszerűek és karcsúak lettek.
+:106. A tartóelemek ezen változása a magasságra való törekvéssel járt együtt, ami megkülönböztette a gótikát a román stílus földhöz kötött jellegétől.
+:107. A kapitélek, azaz az oszlopok felső záróelemei a román stílus tömör, kocka alakú kapitélejétől a gótika természetközeli levélkapitéléig alakultak át.
+:108. Ezeken a részleteken gyakran pontosabban felismerhető a stílusváltás, mint az épület egészén, mivel az építészeti szobrászat érzékenyen reagált az új divatirányzatokra.
+:109. A kripta, a kórus alatt elhelyezkedő tér, a relikviák őrzésére és jelentős személyiségek eltemetésére szolgált.
+:110. Például a pécsi kriptában a zarándokok közel kerülhettek a relikviákhoz, ezért az ilyen terek egyben a tisztelet tárgyai is voltak.
+:111. A relikviák központi szerepet játszottak a szakrális építészetben, mivel a szent maradványok birtoklása révén a templom tekintélyt és vonzerőt nyert.
+:112. A híres relikviákat őrző zarándoktemplomokat gyakran kellett bővíteni, hogy befogadni tudják a növekvő zarándokáradatot.
+:113. Az építészet körfolyosókkal és kápolnasorokkal reagált ezekre az igényekre, amelyek rendezett útvonalat biztosítottak a zarándokok számára a szentély körül.
+:114. Az ilyen bonyolult kórusmegoldások azonban Magyarországon ritkábban fordultak elő, mint Nyugaton, mivel sok templom kisebb és egyszerűbb kialakítású volt.
+:115. Az építtető és a műhely közötti kapcsolat meghatározta az eredményt, hiszen az alapító anyagi lehetőségei határozták meg az épület méretét, anyagát és díszítését.
+:116. A királyi és püspöki épületek ezért gazdagabb kialakítást kaphattak, mint a szegényebb vidéki nemesek vagy falusi közösségek templomai.
+:117. Ezen különbségek ellenére sűrű egyházi épületek hálózata jött létre, amely az ország keresztényesítését kőben is láthatóvá tette.
+:118. Minden plébániatemplom annak a jele volt, hogy az egyházi szervezet egészen a falvakig eljutott, és meghatározta az emberek életét.
+:119. Az építészet így nem csupán az istentiszteletet szolgálta, hanem az új keresztény rend érvényesítését és megszilárdítását is.
+:120. A püspöki székhely és a székesegyház minden egyházmegyében az építészeti központot alkották, amely körül a lelkipásztori igazgatás összpontosult.
+:121. A székesegyház körül csoportosult a püspöki palota, a székesegyházi iskola és a papság lakóépületei, így létrejött egy egyházi negyed.
+:122. Ezek az épületegyüttesek többek voltak, mint egyszerű templomok, mert magukban foglalták az igazgatás, az oktatás és a liturgia teljes komplexumát.
+:123. A kolostorépületek pedig szabályos elrendezést követtek, amelynek közepén a kolostorkert helyezkedett el, körülötte pedig a templom, a hálóterem és az étkező sorakozott.
+:124. A kolostorkert összekötötte az egyes épületeket, és egyúttal a meditációra, valamint a szerzetesek imaidők közötti sétájára is szolgált.
+:125. Pannonhalmában és a ciszterci apátságokban ez a kolostorépítészet egyértelmű rendezési elve a mai napig nyomon követhető.
+:126. A kolostorok építészete tükrözte a szerzetesek szabályozott életét, mivel minden helyiséget egy meghatározott tevékenységhez és napszakhoz rendeltek.
+:127. A 13. század előrehaladtával nőtt a gótikus épületek aránya, de a román stílus a vidéken még hosszú ideig életben maradt.
+:128. Számos falusi templom megőrizte román stílusát, és csak később – ha egyáltalán – építették át gótikus stílusra.
+:129. A régebbi formák ezen kitartása magyarázza, miért éppen a távoli vidékeken maradtak fenn számos román stílusú templom.
+:130. A hatalmi központokban viszont, a királyi udvarokban és a püspöki székhelyeken a gótika gyorsabban és következetesebben terjedt el.
+:131. A központ és a periféria közötti különbség így az építészetben is láthatóvá válik, mivel az új divatirányzatok először az elit rétegeket érték el.
+:132. Magyarország korai gótikus épületei visszafogott, gyakran szigorú jelleget mutatnak, amely eltér a nyugati túlzottan dús magas gótikától.
+:133. Ez a mértékletesség a ciszterciek erős hatásával függ össze, akiknek az egyszerűségre irányuló eszménye hosszú ideig hatást gyakorolt.
+:134. Csak a 14. és 15. század későbbi gótikájában bontakozott ki Magyarországon egy gazdagabb, pompásabb formanyelv, amelynek gyökerei azonban itt találhatók.
+:135. A korai gótika így megteremtette az alapot a későbbi virágzáshoz, mivel bevezette a műszaki és formatervezési alapokat.
+:136. A kőfaragóművészet ebben az időszakban magas kézműves színvonalra fejlődött, ami a profilok és díszek pontosságában tükröződött.
+:137. A technika és a formatervezés ötvözete a gótikus építészetet a középkor egyik legigényesebb művészetévé tette.
+:138. Az építőknek egyszerre kellett elsajátítaniuk a statikát, a geometriát és az esztétikát, mivel egy hiba a boltívben az egész épület összeomlását jelenthette.
+:139. Ezt a tudást az építőmester-céhek őrizték és adták tovább, anélkül, hogy könyvekben rögzítették volna.
+:140. Az építészeti tudás szóbeli és gyakorlati átadása magyarázza, miért terjedtek el a formák a műhelyek között anélkül, hogy írásban rögzítették volna őket.
+:141. E korszak magyar építészete így szoros kapcsolatban áll az egész Európára kiterjedő fejlődéssel, anélkül, hogy elveszítené sajátosságait.
+:142. Ez azt mutatja, hogy a fiatal királyság nem csupán idegen ösztönzések befogadója volt, hanem azokat önállóan is feldolgozta.
+:143. A Jákból, Lébényből, Pécsről és Pannonhalmáról fennmaradt épületek kulcsfontosságú műveknek számítanak, amelyekből a stílus története leolvasható.
+:144. Ezen építmények mindegyike a fejlődés egy-egy meghatározott szakaszát testesíti meg, a nehéz román stílusú építményektől a gótikába való átmenetig.
+:145. Az oszmán korszak és a későbbi háborúk pusztításai miatt azonban az egykori épületek csupán töredéke maradt fenn.
+:146. Számos jelentős templom, mint például a Stuhlweißenburgi koronázási bazilika, ma már csak régészeti maradványokként vagy leírásokból ismeretes.
+:147. Az régészet ezért fontos szerepet játszik, mivel a feltárások révén újra láthatóvá válnak az eltűnt templomok alaprajzai és építési technikái.
+:148. Az alapok, az építési törmelék és az egyes építőelemek alapján a kutatók rekonstruálják a már régóta eltűnt épületek kinézetét.
+:149. Az írásos források, például a krónikák és oklevelek, kiegészítik ezeket a leleteket azzal, hogy megőrzik az alapítók, az építkezés ideje és az alkalmak adatait.
+:150. A régészeti leletek és az írásos hagyományok összekapcsolása egyre pontosabb képet ad a középkori építészetről.
+:151. A román és a kora gótikus építészet egy olyan társadalomba ágyazódott, amelyben a vallás áthatotta a köz- és a magánéletet.
+:152. A templomépítés ezért nem csupán esztétikai, hanem teológiai elképzeléseket is tükrözött, mivel a méreteket és formákat szimbolikusan értelmezték.
+:153. A tájolás, az oszlopok száma és a terek elrendezése az isteni rendre utaló jelként értelmezhető volt.
+:154. Így az épület a mennyei Jeruzsálem képmásává vált, amelyet a hívőknek már a földön is meg kellett érzékeltetniük.
+:155. Ez a szimbolikus értelmezés olyan jelentőséget kölcsönzött az építészetnek, amely messze túlmutatott gyakorlati funkcióján.
+:156. Az ablakokon át beáramló fény, amely a gótika idején egyre nagyobb jelentőségre tett szert, az isteni jelenlét szimbólumának számított a térben.
+:157. A falak lebontásával és az ablakok megnagyobbításával a sötét román stílusú tér fényárban úszó gótikus belső térré alakult át.
+:158. A térérzékelés ezen változása a középkori építészet egyik leglenyűgözőbb vívmánya.
+:159. Magyarországon ez a változás lassabban és óvatosabban ment végbe, mivel a román hagyomány hosszú ideig hatással maradt.
+:160. Éppen ez a korszakok egymásba fonódása teszi a késő középkori magyar építészetet különösen vonzó kutatási tárgyává.
+:161. Az épületek egyaránt szolgáltak a közösség gyülekezőhelyeként, temetkezési helyként és levéltárként, ahol az okmányokat őrizték.
+:162. Ezek a sokrétű funkciók a templomot a falusi és városi élet középpontjává tették.
+:163. A templomok körül temetők, piacok és gyülekezőhelyek alakultak ki, így a szakrális épület képezte a társadalmi központot.
+:164. Így az építészet nemcsak a települések megjelenését, hanem térbeli elrendezését is meghatározta.
+:165. A templomok országszerte történő eloszlása a mai napig is nyomon követi a középkori településhálózatot.
+:166. A szakrális épületek sűrűségéből és költségigényéből következtetéseket lehet levonni az egyes régiók jólétére és népességére vonatkozóan.
+:167. A gazdagabb vidékeken nagyobb és művészibb templomok épültek, míg a szegényebb térségeknek be kellett érniük egyszerű hajós templomokkal.
+:168. Az építészet így fontos forrása a középkori Magyarország gazdasági és társadalomtörténetének.
+:169. Elárulja, hol koncentrálódott a hatalom és a gazdagság, és hogyan változtak ezek az idők folyamán.
+:170. Az egyházi épületek összekötötték a szellemi és a világi szférát, mivel az uralkodók és a nemesek adományozással egyidejűleg biztosították lelki üdvösségüket és dicsőségüket.
+:171. Egy templom alapítása jámbor cselekedetnek számított, amely egyúttal az alapító társadalmi rangját is megörökítette az utókor számára.
+:172. Így az építészet és a memoria, azaz a halottak megemlékezése szorosan összekapcsolódott.
+:173. A királyok sírhelyei Stuhlweißenburgban és a püspököké a katedrálisokban egy építményben egyesítették a hatalmat, a hitet és az emlékezetet.
+:174. Magyarország román és kora gótikus építészete ezért egyben az ország politikai és vallási történelmének tükre is.
+:175. Kőbe vésett formában mutatja be az utat a pogány törzsi társadalomtól a keresztény, Európába beágyazott királyságig.
+:176. Minden templom, kolostor és vár e mélyreható átalakulás dokumentuma, amely több évszázadon át hatott az országra.
+:177. A kevés, teljes egészében fennmaradt épület őrzi egy olyan korszak ismereteit, amelynek többi tanúja nagyrészt elveszett.
+:178. Lehetővé teszik, hogy a középkori építők művészi és műszaki teljesítményét ma is közvetlenül megtapasztalhassuk.
+:179. Ezekben a nyugati minták és a helyi sajátosságok olyan szintézisben találkoznak, amely a magyar kultúra jellegzetességévé vált.
+:180. A román és a kora gótikus építészet így megteremtette azt a kőalapot, amelyre a magyar építészet későbbi virágzása épülhetett. 
+
+=== 5.7.2 – Kolostorok és iskolák: a tudás és a műveltség központjai ===
+
+:1. A középkori Magyarországon a kolostorok az írásbeliség szigetei voltak egy túlnyomórészt szóbeli társadalomban. 
+:2. Egy olyan korszakban, amikor csak kevesen tudtak olvasni és írni, a kolostorok őrizték és terjesztették az ókori és a keresztény világ tudását.
+:3. I. István uralkodása alatt az ország keresztényesítése kéz a kézben járt a kolostorok alapításával, mert művelt papok nélkül elképzelhetetlen volt egy keresztény állam létrejötte.
+:4. Az első szerzetesek külföldről érkeztek, főként a Birodalomból, Csehországból és Olaszországból, és magukkal hozták a liturgia, az írás és az igazgatás terén szerzett tudásukat.
+:5. A korai időszak legjelentősebb és legbefolyásosabb rendje a bencés rend volt, amelynek szabályzata egész Nyugat-Európában meghatározta a kolostori életet.
+:6. A bencés szabályzat, amelyet a 6. században Nursiai Szent Benedek fogalmazott meg, a szerzetesek napját imádságra, munkára és olvasásra osztotta fel.
+:7. A szabály vezérmotívuma, amely összekapcsolta az imádkozást és a munkát, a kolostorokat olyan helyekké tette, ahol a lelki áhítat és a gyakorlati tevékenység összefolyt.
+:8. A 996-ban alapított Pannonhalmai főapátság a magyar bencés rend anyakolostorának és az ország legrégebbi lelki központjának számít.
+:9. Pannonhalmából, amely egy dombon trónol a táj felett, a szerzetesi élet elterjedt az ifjú királyságban.
+:10. I. István birtokokkal és kiváltságokkal ruházta fel a kolostort, mert a szerzetesekben megbízható segítőket látott az egyházi rend felépítésében.
+:11. A pannonhalmai szerzetesek missziós, oktatási és igazgatási feladatokat vállaltak, így a kolostor hatása messze túlnyúlt falain.
+:12. Hamarosan további bencés apátságok jöttek létre, például Pécsváradon, Bakonybélben, Zalaváron és Tihanyon, amelyek egy lelki támaszpontokból álló hálózatot alkottak.
+:13. A Balatonparti Tihanyi apátság különösen híres arról, hogy 1055-ös alapító okirata tartalmazza a latin szövegben fennmaradt legrégebbi magyar szavakat.
+:14. Ez az okirat, amelyben egyes magyar hely- és földnévek is megjelennek, a nyelvtörténet legjelentősebb emlékművének számít.
+:15. A kolostorok tehát nem csupán imádkozás helyszínei voltak, hanem a latin nyelvű íráskultúrában a magyar nyelv korai őrzői is.
+:16. A bencés mellett később a ciszterciek is tevékenykedtek, egy reformált ág, amely az egyszerűség és a kézimunka eredeti eszményét kívánta újjáéleszteni.
+:17. A ciszterciek, akik tudatosan távoli vidékeken telepedtek le, erdőket irtottak, mezőket alakítottak ki és fejlett mezőgazdaságot folytattak.
+:18. Az olyan kolostorok, mint Zirc, Pilis, Pásztó vagy Bélapátfalva, a gazdasági fejlesztés központjaivá váltak, mert a szerzetesek új termesztési módszereket vezettek be.
+:19. Munkájukkal a ciszterciek hozzájárultak ahhoz, hogy az addig műveletlen földeket megműveljék és benépesítsék.
+:20. A premonstrátusok, egy másik 12. századi rend, a kolostori életet lelkipásztori tevékenységgel ötvözték kolostoraik környékén.
+:21. A premonstrátusokkal és a ciszterciekkel egyidejűleg új szellemi áramlatok és oktatási tartalmak is eljutottak Nyugatról Magyarországra.
+:22. A 13. században csatlakoztak hozzájuk a kolduló rendek, nevezetesen a domonkosok és a ferencesek, akik a növekvő városokban telepedtek le.
+:23. A vidéki kolostorokkal ellentétben a kolduló rendek az emberek közelségét keresték, mert prédikációjukkal és lelkipásztori munkájukkal közvetlenül akartak hatást gyakorolni a lakosságra.
+:24. A domonkosok különös hangsúlyt fektettek az oktatásra és a teológiára, mivel az eretnekségek elleni küzdelem alapos tanulmányokat igényelt.
+:25. A híres királylány, Margit, aki domonkosnőként élt a Budánál fekvő Margit-szigeten, később szentté avatták, és tisztelt alakká vált.
+:26. A ferencesek viszont elsősorban a szegények felé fordultak, és a vagyontalanság példájukkal meghatározták a városok vallási életét.
+:27. A rendek sokfélesége azt mutatja, hogy a szerzetesi élet Magyarországon nem egységes képet mutatott, hanem különböző feladatokat és eszményeket követett.
+:28. Minden rend saját hangsúlyait hozta magával, legyen az a tudomány, a mezőgazdaság, a prédikálás vagy a szegénygondozás.
+:29. Közös bennük azonban az Írás ápolása és a tudás megőrzése volt, amelyek minden szerzetesi tevékenység alapját képezték.
+:30. E tudásmegőrzés középpontjában a skriptórium, az íróterem állt, ahol a szerzetesek könyveket másoltak és készítettek.
+:31. Mivel a könyvnyomtatást még nem találták fel, minden könyvet kézzel kellett lemásolni, ami a másolók munkáját nélkülözhetetlenné tette.
+:32. Az írnokok – akik gyakran kifejezetten erre a célra képzett szerzetesek voltak – szó szerint átmásolták a szövegeket az állatbőrből készült pergamenre.
+:33. Egyetlen könyv elkészítése hónapokig is eltarthatott, mert a pergamentet nagy gonddal kellett előkészíteni, és minden oldalt gondosan be kellett írni.
+:34. A puszta másolás mellett a szerzetesek művészi kezdőbetűkkel és miniatűrökkel, azaz apró festett képekkel díszítették kéziratukat.
+:35. Ez a könyvfestészet, amelyet drága festékekkel és részben aranyfóliával végeztek, egyes kéziratokat igazi műalkotásokká tett.
+:36. A legértékesebb könyvek a liturgiában használt művek voltak, például misekönyvek, zsoltároskönyvek és evangéliumkönyvek.
+:37. Emellett a szerzetesek az egyházatyák teológiai írásait is másolták, akik műveikkel őrizték a késő antikvitás szellemi örökségét.
+:38. Az ókori szerzők műveit is másolták, így a kolostorok egyúttal a görögök és a rómaiak pogány tudását is továbbadták.
+:39. Ezen türelmes másolási munka nélkül az ókori és kora keresztény irodalom nagy része örökre elveszett volna.
+:40. A kolostorkönyvtár, amelyben a kész könyveket őrizték, az apátság legértékesebb kincsének számított.
+:41. Generációkon át gyűltek össze benne azok a művek, amelyek a közösség szellemi tőkéjét alkották.
+:42. A könyvtár mérete a kolostor tekintélyének és szellemi jelentőségének mércéje volt.
+:43. A könyveket részben vásárolták, részben cserélték, részben pedig ajándékba adták, így a tudás vándorolt a kolostorok között.
+:44. Ez a csere egy szellemi kapcsolatokból álló hálózatot hozott létre, amely összekötötte az ország kolostorait és a határokon túl is kiterjedt.
+:45. Szoros kapcsolatban állt a könyvtárral a kolostori iskola, amely az utódok képzését és a szerzetesek nevelését szolgálta.
+:46. Ezekben az iskolákban a tanulók először latinul tanultak, mivel az egész tudományos és liturgikus kultúra ebben a nyelven íródott.
+:47. A latin volt az egyház, a tudomány és a közigazgatás nyelve, így ennek elsajátítása nélkül nem lehetett hozzáférni a magasabb szintű tudáshoz.
+:48. Az oktatás az olvasással és az írással kezdődött, majd a nyelvtanra tért át, és végül a magasabb szintű tanulmányokhoz vezetett.
+:49. Az oktatás alapját a hét szabad művészet képezte, amelyek két csoportra voltak felosztva.
+:50. Az első csoport, a trivium, a nyelvtan, a retorika és a dialektika, azaz a nyelv és a gondolkodás művészetét foglalta magában.
+:51. A második csoport, a quadrivium, az aritmetikából, a geometriából, a csillagászatból és a zenéből állt, vagyis a számok és a mértékek művészetéből.
+:52. Ez a hét művészet a legfőbb tudomány, a teológia előkészítőjének számított, amelyet az összes tudományág királynőjének tekintettek.
+:53. A kolostori iskolák így az ókori és kora keresztény hagyományból származó, rendszerezett tudásrendszert közvetítettek.
+:54. A kolostori iskolák mellett a püspöki székhelyeken megjelentek a dómiskolák, amelyek a világi papság képzését szolgálták.
+:55. Az esztergomi dómiskola, az érsek székhelye, az ország egyik legjelentősebb oktatási intézménye volt.
+:56. A veszprémi, pécsi és más egyházmegyék katedrálisiskolái is olyan papokat képeztek, akik később közigazgatási és lelkipásztori tevékenységet folytattak.
+:57. A veszprémi iskola különös tekintélynek örvendett, és alkalmanként a nyugati nagy tanulmányi központokhoz hasonlították.
+:58. Ezekből az iskolákból kerültek ki azok a művelt férfiak, akik jegyzőként, bíróként és tanácsadóként álltak a király és az egyház szolgálatában.
+:59. Az oktatás ezért nem csupán vallási, hanem politikai érték is volt, mivel az állam írástudó tisztviselőkre szorult.
+:60. Az írástudók, az úgynevezett litterati, egy szűk elitet alkottak, akik az írásbeliség monopóliumával rendelkeztek.
+:61. Aki tudott olvasni és írni, tudásbeli és befolyásbeli előnnyel rendelkezett, ami megnyitotta előtte a hivatalok és méltóságok kapuit.
+:62. A kolostorok és a dómiskolák így képezték ki ezt a művelt réteget, amely a birodalom szellemi és közigazgatási gerincét alkotta.
+:63. Aki felsőfokú oktatásra vágyott, annak először külföldön kellett keresnie azt, mivel Magyarországnak hosszú ideig nem volt saját egyeteme.
+:64. A magyar diákok a híres párizsi, bolognai, padovai, majd később bécsi egyetemekre mentek, hogy teológiát, jogot vagy orvostudományt tanuljanak.
+:65. Ezeken a felsőoktatási intézményeken kapcsolatba kerültek a legújabb szellemi áramlatokkal, és ezt a tudást hozták vissza Magyarországra.
+:66. A hazatérők püspökként, kancellárként és tudósokként hozzájárultak ahhoz, hogy az európai tudomány Magyarországon is gyökeret verjen.
+:67. A külföldi tanulmányok azonban költségesek voltak, és csak keveseknek voltak fenntartva, így a papság csupán kis része jutott hozzá ehhez a képzéshez.
+:68. Csak a késő középkorban tettek kísérleteket arra, hogy saját egyetemet alapítsanak az országban, és ezzel megerősítsék a képzési központot.
+:69. Az első magyar egyetemet 1367-ben Pécsen alapította Nagy Lajos király.
+:70. Ez a pápai engedéllyel történt alapítás célja az volt, hogy csökkentse a külföldi tanulmányi helyszínektől való függőséget, és elősegítse a hazai oktatást.
+:71. A pécsi egyetem azonban kicsi maradt, és csak rövid ideig működött, mert hiányzott belőle a szükséges anyagi és személyzeti alap.
+:72. A későbbi alapítások, például Óbudán, szintén csak korlátozott sikert arattak, és nem tudtak tartósan meghonosodni.
+:73. Csak Mátyás király uralkodása alatt, a 15. században nyert újra lendületet a magyar felsőoktatási intézmény létrehozásának gondolata.
+:74. Ezek a korai kísérletek azonban azt a növekvő tudatosságot tükrözik, hogy egy jelentős birodalomnak saját felsőoktatási intézményekre van szüksége.
+:75. A nehézségek ellenére a kolostorok és a katedrálisiskolák a késő középkorig az ország legfontosabb oktatási intézményei maradtak.
+:76. Jelentőségük nem csupán a papok képzésében rejlett, hanem a kulturális tudás megőrzésében és továbbadásában is.
+:77. A kolostorokban születtek az első magyar történeti művek, mivel itt álltak rendelkezésre a feljegyzésekhez szükséges eszközök és személyzet.
+:78. A szerzetesek és a katedráliskanonokok krónikákat írtak, amelyek az utókor számára megőrizték a királyok és az események emlékét.
+:79. Így a kolostorok a történelmi emlékezet őrzőivé és a történetírás műhelyeivé is váltak.
+:80. A kolostorok emellett az orvostudományt is ápolták, mivel a szerzetesek az ókori írásokból merítettek orvosi ismereteket, és gondoskodtak a betegekről.
+:81. A kolostorkertekben gyógynövényeket termesztettek, amelyek hatását a hagyományból származó gyógynövénykönyvekből ismerték, és a betegeken kipróbálták.
+:82. Ez az orvosi tevékenység a kolostorokat a betegápolás korai központjaivá tette, jóval azelőtt, hogy világi kórházak jöttek volna létre.
+:83. A szegénygondozás is a kolostorok feladatai közé tartozott: ételt adtak a rászorulóknak, és szállást biztosítottak az utazóknak.
+:84. A vendégszeretet kötelezettsége arra kötelezte a szerzeteseket, hogy fogadják be a zarándokokat és az átutazókat, így a kolostorok fontos állomásokká váltak az utak mentén.
+:85. Ily módon a kolostorok egyetlen intézményben egyesítették a lelki, társadalmi és gazdasági funkciókat.
+:86. A kolostorok gazdasági alapját kiterjedt birtokok képezték, amelyeket királyok és nemesek adományoztak nekik.
+:87. Ezeket a birtokokat parasztok művelték, és biztosították a szerzetesek megélhetését, lehetővé téve számukra az imádság és a tanulás életét.
+:88. Egyes kolostorok ilyen adományok révén olyan gazdaggá váltak, hogy birtokaik felvették a versenyt a nagy világi urakéval.
+:89. A gazdagság azonban veszélyeket is rejtett magában, mert alááshatta a szegénység és a szerénység eredeti eszményét.
+:90. Ezért újra és újra reformmozgalmak alakultak ki, amelyek a kolostori életet vissza akarták vezetni szellemi gyökereihez.
+:91. Maga a ciszterciek rendjének alapítása is egy ilyen reform kifejeződése volt, amely a régebbi kolostorok világiasodása ellen irányult.
+:92. Az ideál és a valóság közötti viszony így a középkori szerzetesség állandó feszültségforrása maradt.
+:93. A kolostorok emellett szoros kapcsolatban álltak a világi hatalommal, mivel a királyok támogatták őket, és egyúttal saját céljaikra is felhasználták őket.
+:94. Az apátok gyakran az uralkodó szűk tanácsadói köréhez tartoztak, és részt vettek a birodalmi közigazgatásban.
+:95. A szellemi és a világi szféra így szorosan összefonódott, így a kolostorok politikai jelentőségre is szert tettek.
+:96. Különösen jelentős hazai rend volt a bencés rend, az egyetlen Magyarországon alapított szerzetesrend.
+:97. A 13. században alakult bencések a thébai Pál remete példáját követték, és visszavonult életet éltek.
+:98. A szerény kezdetektől a bencés rend jelentős egyházi közösséggé fejlődött, amely határain túl is hatást gyakorolt.
+:99. Az a tény, hogy Magyarország saját rendet hozott létre, a szellemi kultúra érettségének jeleként tekinthető.
+:100. A bencések szintén ápolták a műveltséget és az írásbeliséget, és így hozzájárultak a tudás terjedéséhez.
+:101. Az 1241-es mongol támadás súlyosan érintette a kolostori életet, mivel számos kolostort kifosztottak, leromboltak, lakóikat pedig megölték.
+:102. Az épületekkel együtt gyakran könyvtárak és levéltárak is odavesztek, így értékes tudás veszett el visszavonhatatlanul.
+:103. A katasztrófa utáni újjáépítés évtizedekig tartott, és tartósan megváltoztatta a magyar szerzetesség arculatát.
+:104. Ebben az időszakban a kolduló rendek teret nyertek, mivel városi telephelyeiket könnyebb volt helyreállítani, mint a távoli apátságokat.
+:105. A szellemi élet városokba való áthelyeződése az oktatási rendszer mélyreható változását jelezte.
+:106. A városok növekedésével fokozatosan városi plébániai iskolák is létesültek, amelyeket már nem kizárólag kolostorok tartottak fenn.
+:107. Ezek a plébániai iskolák az olvasás, írás és számolás alapjait tanították, és egyre inkább a polgári gyermekekhez szóltak.
+:108. Ezzel az oktatás lassan kezdett kiszabadulni a kolostorok kizárólagos befolyási köréből.
+:109. Mindazonáltal a kolostorok és a katedrálisiskolák még hosszú ideig a felsőfokú tanulmányok meghatározó intézményei maradtak.
+:110. A tudásanyag szorosan az egyházi hagyományhoz kötődött, mivel a teológia és a hit képezte minden tudomány keretét.
+:111. A kora középkorban még nem létezett önálló, az egyháztól független tudomány.
+:112. Még a természetmegfigyelés és az orvostudomány is beágyazódott abba a teológiai világképbe, amely Istenben látta minden dolog eredetét.
+:113. A kolostorok így olyan tudást közvetítettek, amely mindig a lélek üdvösségére és Isten dicsőségére irányult.
+:114. Ez a vallási jelleg azonban nem takarhatja el azt a tényt, hogy a kolostorok gyakorlati és tudományos ismereteket is őriztek.
+:115. Falai között fennmaradt az ókori örökség, amely később a tudományok újjáéledésének alapját képezte.
+:116. A szerzetesek türelmes megőrző munkája nélkül a későbbi reneszánsz aligha lett volna elképzelhető.
+:117. A magyar kolostorok részt vettek ebben az egész Európára kiterjedő feladatban, és beillesztették az országot a keresztény tudósok világába.
+:118. Könyvek, tanítványok és szerzetesek cseréje révén Magyarország kapcsolódott a Nyugat szellemi központjaihoz.
+:119. Magyar papok Párizsban és Bolognában tanultak, míg külföldi tudósok viszont Magyarországra jöttek.
+:120. Ez a kölcsönös csere biztosította, hogy az ország ne legyen elszigetelve, hanem egy európai oktatási térség része legyen.
+:121. E csere nyelve végig a latin volt, amely közös közegként összekötötte az összes ország tudósait.
+:122. Egy magyar pap ezért Párizsban vagy Rómában is könnyedén tudott kommunikálni, mivel mindenki ugyanazt a tudományos nyelvet beszélt.
+:123. Ez a nyelvi egység megkönnyítette a tudás szabad áramlását minden politikai határon át.
+:124. A magyar anyanyelv az iskolákban eleinte háttérbe szorult, mivel még nem alakult ki tudományos nyelvként.
+:125. Mindazonáltal a magyart használták a lelkigondozásban és az egyszerű hívők oktatásában, így a háttérben továbbra is jelen volt.
+:126. Csak fokozatosan kezdték el a vallási szövegeket magyarra fordítani, ami megalapozta a későbbi népnyelvi irodalmat.
+:127. A kolostorok ebben is szerepet játszottak, mivel bennük születtek az első fordítások és népnyelvű feljegyzések.
+:128. Így tudat alatt előkészítették a magyar írott nyelv fejlődését.
+:129. A kolostori mindennapi élet szigorú napirendet követett, amelyet az imaidők tagoltak.
+:130. Naponta és éjszaka többször is összegyűltek a szerzetesek a közös kórusimádságra, amely meghatározta az élet ritmusát.
+:131. Az imaidők között a munkának, a tanulásnak és a könyvek másolásának szentelték magukat.
+:132. Ez a szigorú rend szabályozott keretet teremtett, amelyben a műveltség és a szellemi élet kibontakozhatott.
+:133. A kolostor csendje és elzártsága ideális feltételeket biztosított a koncentrált olvasáshoz és íráshoz.
+:134. Míg odakint háború és bizonytalanság uralkodott, a kolostor falai a tudás védett terét alkották.
+:135. Ez a védelmi funkció a kolostorokat a kultúra menedékeivé tette a zavaros időkben.
+:136. De még ők sem voltak sebezhetetlenek, amint azt a mongolok, majd később az oszmánok által okozott pusztítások is megmutatták.
+:137. A kolostorok története ezért egyben a visszatérő veszteségek és a fáradságos újrakezdések története is.
+:138. Minden visszaesés ellenére újra és újra sikerült újjáéleszteni a szellemi életet és továbbadni a tudást.
+:139. Az oktatás évszázadokon át tartó folytonossága a vallási intézményeknek köszönhető.
+:140. A kolostorok nemcsak a könyveket őrizték meg, hanem az írnokok, festők és tanárok szakértelmét is, amelyet generációról generációra adtak át.
+:141. Ez az élő tudás éppoly értékes volt, mint maguk a kéziratok, mert ez tette lehetővé azok elkészítését.
+:142. Egy képzett írnokok és tanárok nélküli kolostor nem tudta volna betölteni oktatási központként betöltött szerepét.
+:143. Az utódok képzése ezért minden kolostori közösség egyik legfontosabb kötelessége volt.
+:144. A tanulók gyakran már gyermekkorukban beléptek a kolostorba, és annak szellemi világában nőttek fel.
+:145. Ez a korai nevelés biztosította, hogy a tudás mélyen beivódjon és megbízhatóan továbbadódjon.
+:146. Nem minden tanuló lett később szerzetes, hiszen néhányan művelt laikusként tértek vissza a világba.
+:147. Így a kolostori oktatás hatással volt a világi társadalomra is, és emelte annak általános tudásszintjét.
+:148. A nemesség fokozatosan kezdte felismerni a műveltség értékét, és fiait iskolákba küldte tanulni.
+:149. A katonai állomány azonban sokáig tartózkodóan viszonyult a műveltséghez, mert a fegyveres mesterséget magasabb rangúnak tartották, mint a könyvből szerzett tudást.
+:150. Csak a késő középkorban változott meg ez a hozzáállás, amikor a művelt tudást egyre inkább az udvarban is nagyra értékelték.
+:151. A katedrálisiskolák és a kolostori iskolák rakták le azokat az alapokat, amelyekre a műveltség későbbi elismerése épülhetett.
+:152. Végzőseik meghatározó szerepet játszottak az egyházban, a közigazgatásban és a jogban, és ezzel a közélet legfontosabb területein.
+:153. Az írástudó elit, amely ezekből az iskolákból került ki, lehetővé tette egy rendezett állam felépítését.
+:154. Az okleveleket, törvényeket és szerződéseket csak azért lehetett megfogalmazni, mert voltak olyan emberek, akik értettek ezekhez a szövegekhez.
+:155. Az iskola így láthatatlan, de elengedhetetlen előfeltétele volt a királyság megszilárdításának.
+:156. Ebben az értelemben az oktatási intézmények nemcsak a hitnek, hanem a politikai és jogi rendnek is szolgáltak.
+:157. Az egyház, az oktatás és az uralom összekapcsolódása jellemzi az egész középkori Magyarországot.
+:158. A kolostorok e hálózat középpontjában álltak, mert összekapcsolták a hitet, a tudást és a hatalmat.
+:159. Történetük ezért tükrözi az ország fejlődését a keresztényesítéstől egészen egy európai állam kialakulásáig.
+:160. Minden újonnan alapított kolostorral nőtt az országot behálózó szellemi háló sűrűsége.
+:161. A kolostorok földrajzi eloszlása egyúttal azt is mutatja, hol koncentrálódott legerősebben a hatalom, a gazdagság és a jámborság.
+:162. A gazdag régiók több és nagyobb kolostort hoztak létre, mint a szegényebb, ritkán lakott vidékek.
+:163. A kolostorok elhelyezkedéséből és felszereltségéből így leolvasható a középkori Magyarország szerkezete.
+:164. A kolostorok olyan csomópontok voltak, ahol a szellemi élet, a gazdasági tevékenység és a kulturális munka összpontosult.
+:165. Jelentőségük messze túlmutatott a vallási életen, és az egész társadalmat meghatározta.
+:166. Az írás őrzőiként fenntartották a kapcsolatot az ókori és a keresztény hagyományokkal.
+:167. Iskolaként képezték ki azokat az embereket, akik az országot irányították és történelmét rögzítették.
+:168. Gazdasági vállalkozásként művelték a földet, és bevezettek új technikákat, amelyek a jólétet szolgálták.
+:169. Szociális intézményekként gondoskodtak a betegekről, a szegényekről és az utazókról, és enyhítették az élet nehézségeit.
+:170. E feladatok sokféleségében gyökerezik a kolostorok kiemelkedő helyzete a középkori Magyarországon.
+:171. A székesegyházi iskolák kiegészítették ezt a munkát azzal, hogy a világi papságot lelkipásztori és igazgatási feladatokra képezték ki.
+:172. A kolostorok és a katedrálisiskolák együttesen egy átfogó tudásátadási rendszert alkottak, amely megfelelt a kor igényeinek.
+:173. Ez a rendszer ugyan elitisztikus volt és kevesekre korlátozódott, de biztosította az oktatás folytonosságát az évszázadok során.
+:174. A kevés művelt ember őrizte a szellemi örökséget, és adta át azt a következő generációknak.
+:175. Így jött létre a hagyomány átadásának megszakítás nélküli lánca, amely a keresztény hitre téréstől egészen a modern korig nyúlt.
+:176. A késő középkori kolostorok és iskolák ezzel megteremtették a későbbi magyar szellemi és kulturális fejlődés alapjait.
+:177. Kitartó munkájuk nélkül az ország írásbeli kultúrája elképzelhetetlen lett volna.
+:178. A következő korszak krónikái, jogkönyvei és irodalmi művei közvetlenül abból a talajból nőttek ki, amelyet a kolostorok előkészítettek.
+:179. A kolostorok írótermeiben és tantermeiben ápolták azt a tudást, amelyből az ország valódi írott kultúrája kialakult.
+:180. Így a kolostorok és iskolák a tudás és a műveltség valódi központjaiként bizonyulnak, amelyekből minden további szellemi fejlődés kiindult.
+
+=== 5.7.3 – Írásbeli kultúra: krónikák, jogkönyvek és irodalmi művek ===
+
+:1. A középkori Magyarország írásbeli kultúrájának megértéséhez szem előtt kell tartani, hogy az írott nyelv hosszú ideig kizárólag a latin nyelvnek volt fenntartva.
+:2. A latin, az egyház és a tudomány nyelve, szilárd keretet alkotott, amelyen belül az ország teljes írásbeli kultúrája mozgott.
+:3. Az első írásos emlékek az egyház környezetében keletkeztek, mivel csak a papok rendelkeztek írás-olvasási képességgel.
+:4. I. István uralkodása alatt, a keresztény hitre téréssel kezdődött a törvények, okiratok és történelmi művek rögzítése, amelyek megőrizték a fiatal állam emlékét.
+:5. Az írásbeli kultúra nagyjából három nagy területre osztható: a történetírásra, a jogra és a tulajdonképpeni irodalomra.
+:6. A krónikák őrizték az uralkodók és események emlékét, míg a jogi szövegek rögzítették az együttélés rendjét.
+:7. Végül az irodalmi művek – amelyek kezdetben vallási jellegűek voltak – fokozatosan megnyitották az utat a saját nyelven írt költészet felé.
+:8. Magyarország legrégebbi fennmaradt írásos emlékei I. István király törvényei és rendeletei, amelyek a keresztény állam felépítését szabályozták.
+:9. Ezek a latin nyelven megfogalmazott törvényszövegek a hit, a tulajdon és a közrend kérdéseit szabályozták.
+:10. Ezekből kitűnik, hogy a király tudatosan használta az írást a hatalom eszközeként, hogy akaratát tartósan rögzítse.
+:11. István törvényei egyben lenyűgöző tanúbizonyságot nyújtanak arról, hogy a keresztényesítés és az államépítés milyen szorosan összefüggtek egymással.
+:12. Számos rendelkezésük az új hit érvényesítését szolgálta, például a templomba járás kötelezettségével és a pogány szokások tiltásával.
+:13. Mások a világi életet szabályozták azzal, hogy a lopást, a gyilkosságot és a jogvitákat szigorú büntetésekkel sújtották.
+:14. A Szent István-törvényeket a későbbi királyok, például I. László és Koloman rendeletei követték, amelyek továbbfejlesztették a jogot.
+:15. I. László törvényei különös szigorral jellemezhetők, mivel a rend és a tulajdon biztosítását célozták.
+:16. Koloman, a Tudós viszont enyhítette bizonyos szigorúságokat, és törvényeiben korszakának műveltségét tükrözte.
+:17. Híres Koloman egyik rendelkezése, amely korlátozta az állítólagos boszorkányok elleni eljárást, mivel ő maga is kétségbe vonta létezésüket.
+:18. Ez a hozzáállás a korához képest figyelemre méltóan felvilágosultnak számít, és aláhúzza e uralkodó művelt jellegét.
+:19. A királyi rendeletek együttesen egy egyre növekvő írott joganyagot alkottak, amely a közélet alapját képezte.
+:20. A törvények mellett az okirat is az írásbeli kultúra központi eszközévé fejlődött, mivel tartósan biztosította a jogokat és a tulajdonjogokat.
+:21. Az oklevél egy hitelesített írásos dokumentum volt, amely adományozásokat, adásvételeket vagy kiváltságokat rögzített, és bíróság előtt bizonyítékként szolgált.
+:22. Az írásbeliség terjedésével az oklevél felváltotta a pusztán szóbeli megállapodásokat, amelyeket könnyen meg lehetett vitatni.
+:23. A Tihanyi apátság 1055-ös alapító oklevele a leghíresebb ilyen dokumentumok közé tartozik, mivel a legrégebbi magyar nyelvi tanúvallomásokat tartalmazza.
+:24. Ebben a latin szövegben egyes magyar szavak és kifejezések jelennek meg, amelyek betekintést nyújtanak a nyelv korai alakjába.
+:25. Az ilyen, a szövegbe szőtt népnyelvi elemek felbecsülhetetlen értékűek a nyelvkutatás számára, mivel a magyar nyelv legrégebbi rétegét tanúsítják.
+:26. Az oklevelek kiállításához képzett írnokokra volt szükség, akik a király, az egyház és a nemesség kancelláriáiban dolgoztak.
+:27. A királyi kancellária a birodalom legfontosabb írószobájává fejlődött, mivel innen indultak ki a legfontosabb jogi okmányok.
+:28. Élén a kancellár állt, egy magas rangú egyházi személy, aki felügyelte az uralkodás írásbeli ügyleteit.
+:29. Magyarország sajátossága volt az úgynevezett hiteles helyek, latinul loca credibilia, amelyek közhitelesítő helyként szolgáltak.
+:30. Ezek a hiteles helyek általában kolostorok vagy székesegyházi káptalanok voltak, amelyek okiratokat állítottak ki és őriztek.
+:31. Ezzel olyan feladatot vállaltak magukra, amely máshol a közjegyzői hivatásra tartozott, és közjogi bizonyítóerőt kölcsönöztek a jogi ügyleteknek.
+:32. Ezen intézmény révén az egyház a jogbiztonság garanciájává vált, mivel hitelesítését általánosan elismerték.
+:33. A hiteles helyek levéltárai évszázadokon át gazdag okmányállományt őriztek, amely dokumentálta a jogviszonyokat.
+:34. A mai kutatás a középkori társadalomról szóló ismereteinek nagy részét ebből az állományból meríti.
+:35. Az okmányok tájékoztatást nyújtanak a tulajdonviszonyokról, a családi kapcsolatokról és a birtokok kezeléséről.
+:36. Ezek ugyanolyan fontosak, mint a krónikák, mert közvetlenül tükrözik a mindennapi életet és a jogrendet.
+:37. A királyi és egyházi jog mellett a nemesség egyre nagyobb jelentőségre tett szert saját jogi igényeinek képviselőjeként.
+:38. Fordulópontot jelentett az 1222-es Aranybulla, amellyel II. András király széles körű jogokat biztosított a nemességnek.
+:39. Ez a dokumentum, amely sok tekintetben az angol Magna Cartára emlékeztet, a magyar alkotmánytörténet alapvető szövegének számít.
+:40. Az Aranybulla szabadságjogokat biztosított a nemeseknek és korlátozta a király önkényét, ami megalapozta tartós jelentőségét.
+:41. Rendelkezéseire évszázadokon át hivatkoztak, így a magyar jog egyik alappillérévé vált.
+:42. Az ilyen alapvető jogok írásba foglalása azt mutatja, mennyire áthatotta már az íráskultúra a politikai életet.
+:43. Amit egyszer írásba foglaltak, arra kötelező érvényű hivatkozásként lehetett hivatkozni, és azzal védekezni lehetett a későbbi jogsértések ellen.
+:44. Az írás állandósága alapvetően megkülönböztette az írott jogot a szóbeli hagyomány mulandó szavától.
+:45. A késő középkorban a magyar jogot átfogó gyűjteményekbe foglalták össze, amelyek rendszert teremtettek a szétszórt tudásból.
+:46. E művek közül a legjelentősebb a 16. század elején élt jogtudós, Werbőczy István által írt Tripartitum.
+:47. A Tripartitum – amelynek neve három részre osztottságára utal – rendszerezett formában foglalta össze a nemesség szokásjogát.
+:48. Noha soha nem erősítették meg hivatalosan törvényként, gyakorlati alkalmazása révén évszázadokon át érvényben maradt.
+:49. A magyar nemesség jogfelfogását egészen a modern korig meghatározta, és megerősítette annak kiemelt helyzetét.
+:50. A Tripartitum egy hosszú fejlődési folyamat végpontját jelenti, amely I. István egyszerű rendeleteivel vette kezdetét.
+:51. Megmutatja, hogyan alakult ki az elszórt jogszövegekből egy átgondolt írott jogrendszer.
+:52. A jogi írásművekkel párhuzamosan fejlődött a történetírás is, amelynek célja a múlt emlékének megőrzése volt.
+:53. A magyar krónikáskodás az udvar és a kolostorok környezetében kezdődött, ahol rendelkezésre állt a tudás és az íráshoz szükséges eszközök.
+:54. A legrégebbi történelmi művek nem maradtak fenn teljes egészükben, de nyomuk fellelhető a későbbi krónikákban.
+:55. Feltételezik, hogy már a 11. században keletkeztek az első feljegyzések a királyokról és tetteikről.
+:56. Ezek a korai szövegek, amelyeket gyakran ős-krónikának neveznek, képezték az alapját minden későbbi műnek.
+:57. Ezekből merítettek a későbbi krónikások, akik összegyűjtötték, kiegészítették és újrarendezték a hagyományozott anyagot.
+:58. Az egyik leghíresebb mű a Gesta Hungarorum, azaz a magyarok cselekedetei, amelynek szerzője csak Anonymus néven ismert.
+:59. Ez az Anonymus, a 12. század végéről vagy a 13. század elejéről származó művelt egyházi személy, leírta a földhódítást és a nép korai történetét.
+:60. Személyazonossága a mai napig tisztázatlan, ezért a kutatásokban csak latin melléknevével szerepel.
+:61. Anonymus Gesta című műve ötvözi a történelmi hagyományt a mondák anyagával, így a történelem és a legenda egymásba olvad.
+:62. A szerző tudásának hiányosságait saját feltételezéseivel és a helynevekből levezetett magyarázatokkal pótolta.
+:63. Műve ezért fontos, de óvatosan kezelendő forrás, mivel keveri a költészetet és a valóságot.
+:64. Mindazonáltal élénk képet ad arról, hogyan értelmezték a magyarok saját korai történelmüket.
+:65. Egy másik jelentős mű a 13. század végéről származó Gesta Hungarorum, amelyet Kézai Szent Imre írt.
+:66. Kézai Szent Imre, IV. László király udvarának papja, összekapcsolta a magyarok történetét a hunokéval.
+:67. Merész tézist fogalmazott meg, miszerint a magyarok és a hunok egy és ugyanaz a nép, Attila pedig közös ősük.
+:68. Ezt a hun–magyar elméletet évszázadokon át továbbadták, és ez meghatározta a magyar nemzet önképét.
+:69. Noha a modern kutatás elveti ezt az azonosítást, legendaként hosszú ideig hatással maradt.
+:70. Simon műve arra is szolgált, hogy megalapozza a nemesség elsőbbségét, hangsúlyozva annak származását a szabad harcosoktól.
+:71. A történetírás így soha nem volt puszta feljegyzés, hanem mindig értelmezés és politikai állásfoglalás is.
+:72. A krónikások az uralkodók megbízásából vagy szellemében írtak, és a jelen igényeinek megfelelően formálták a múltat.
+:73. A 14. században keletkezett az úgynevezett Képkrónika, a középkori Magyarország egyik legpompásabb történelmi műve.
+:74. Ez a krónika, latinul Chronicon Pictum, nevét a számos művészi miniatűrnek köszönheti, amelyek díszítik.
+:75. Nagy Lajos király udvarában készült, és ragyogó formában foglalta össze a hagyományból származó történelmi ismereteket.
+:76. A krónika képei királyokat, csatákat és történelmi jeleneteket ábrázolnak, és maguk is kiemelkedő művészeti értékű alkotások.
+:77. A képkrónika így egyesíti a történetírást és a könyvfestészetet egy udvari reprezentációt szolgáló összetett művé.
+:78. Nem csupán oktatási célokat szolgált, hanem a dinasztia dicsőségét is, amelynek nagyságát szóban és képen egyaránt megünnepelte.
+:79. A szöveg és a kép ezen összekapcsolódása világosan mutatja, hogy az íráskultúra már régóta magas művészeti formává vált.
+:80. A 15. században Johannes von Thurócz átfogó krónikát írt, amely összefoglalta kora történelmi ismereteit.
+:81. Műve, a Chronica Hungarorum, összefoglalta a régebbi forrásokat, és a történetet egészen a saját koráig vezette tovább.
+:82. Később nyomtatásban is megjelent, és ezáltal olyan széles körű elterjedést ért el, amely a kéziratos művek számára elérhetetlen volt.
+:83. A könyvnyomtatás, amely a 15. század végén érkezett Magyarországra, teljesen új lehetőségeket nyitott meg az írásbeli kultúra számára.
+:84. Segítségével a szövegeket sokszorosítani lehetett anélkül, hogy mindegyiket egyenként kézzel le kellett volna másolni.
+:85. Az egyik első Magyarországon nyomtatott könyv a Budai Krónika volt, amely 1473-ban jelent meg.
+:86. Ez a korai nyomtatvány jól mutatja, milyen gyorsan csatlakozott Magyarország a könyvnyomtatás technikai újításához.
+:87. Az udvari íráskultúra csúcspontját a Bibliotheca Corviniana, azaz Mátyás király könyvtára jelentette.
+:88. Mátyás, a reneszánsz támogatója, értékes kéziratokat gyűjtött a világ minden tájáról, és létrehozta Európa egyik leghíresebb könyvtárát.
+:89. A Corvinus-kéziratok, ahogyan ezeket a köteteket nevezték, pompásan díszített kéziratok voltak, amelyek művészi színvonalukban a legmagasabb szintet képviselték.
+:90. Antik szerzők, egyházi atyák és kortárs tudósok műveit tartalmazták, és tükrözték a reneszánsz szellemét.
+:91. A könyvtár Mátyás udvarát európai jelentőségű humanista művelődési központtá tette.
+:92. A király halála után, és különösen az oszmán hódítás után a gyűjtemény szétszóródott és nagy részben megsemmisült.
+:93. A kevés megmaradt Corvinus-kézirat ma egy egykor ragyogó könyvkultúra értékes tanújaként számít.
+:94. Pompájuk arra emlékeztet, milyen nagyra értékelték a könyvet a késő középkori Magyarországon.
+:95. A történetírás és a jog mellett fokozatosan kialakult egy igazi irodalom is, amely kezdetben kizárólag vallási tartalmú volt.
+:96. A legkorábbi irodalmi szövegek prédikációk, szentek életei és vallási elmélkedések voltak, amelyek a lelki épülésre szolgáltak.
+:97. A szentek életrajzai, azaz a szentek életrajzi leírásai I. István királyról, Lászlóról és más tisztelt személyiségekről szóltak.
+:98. Ezek az életrajzi leírások ötvözték a jámbor tanítást a történelmi emlékezettel, és megerősítették az ország vallási önbizalmát.
+:99. Például Szent István életrajza az első királyt a keresztény uralom példaképeként ábrázolta.
+:100. Az ilyen szövegek a szentek tiszteletét szolgálták, és egyúttal a királyi méltóság megszilárdítását is.
+:101. Hosszú ideig ezeket a műveket kizárólag latin nyelven írták, mert a magyar nyelv még nem fejlődött ki írott nyelvként.
+:102. Csak fokozatosan kezdték el a vallási szövegeket a népnyelvre fordítani, hogy azok a nem hívők számára is hozzáférhetőek legyenek.
+:103. A legrégebbi összefüggő magyar nyelvi emlékmű a 12. század végéről származó gyászbeszéd, magyarul Halotti beszéd.
+:104. Ez a rövid, temetésen elhangzott beszéd az első teljes szöveg magyar nyelven.
+:105. Ez azt mutatja, hogy a magyar nyelv már akkor is képes volt a vallási gondolatokat méltóságteljes formában kifejezni.
+:106. A Halotti beszédet ezért a magyar írott nyelv születési anyakönyvi kivonatának tekintik, és a nyelvtörténetben nagy tiszteletnek örvend.
+:107. Egy másik korai emlékmű az ómagyar Mária-sírdal, amely egy latin egyházi vers fordítása.
+:108. Ez a Mária-síró, amelyben Mária fia halálát siratja, a legrégebbi fennmaradt magyar vers.
+:109. Bizonyítja, hogy a népnyelvet nemcsak prédikációkhoz, hanem költői szövegekhez is lehetett használni.
+:110. Ezzel a két művel kezdődik a magyar nyelvű irodalom története, amely eleinte még teljes mértékben a latin nyelv árnyékában állt.
+:111. A késő középkorban egyre több népnyelvű szöveg született, mert nőtt az igény a saját nyelven történő vallási oktatásra.
+:112. A női kolostorokban számos vallásos mű fordítása született, amelyek célja az volt, hogy megkönnyítsék a nővérek számára az olvasást.
+:113. Ezek az úgynevezett kódexek imákat, legendákat és elmélkedéseket tartalmaztak magyar nyelven.
+:114. Legtöbbször szerzetesek vagy nővérek írták őket, és gyakran ezek az egyetlen fennmaradt példányok bizonyos szövegekből.
+:115. Ezeknek a kódexeknek köszönhetően gazdag középkori vallási irodalmi örökség maradt fenn magyar nyelven.
+:116. Ezek mutatják, hogyan fejlődött a magyar nyelv fokozatosan képzett írott nyelvvé.
+:117. A fordítási tevékenység egyúttal elősegítette egy korábban hiányzó egyházi szókincs kialakulását.
+:118. Új fogalmakat kellett megalkotni vagy a latinból átvenni az elvont vallási tartalmak kifejezéséhez.
+:119. Így a nyelv a feladataival együtt fejlődött, és kifejezőereje és gazdagsága is nőtt.
+:120. A népnyelvi irodalom azonban hosszú ideig a vallási területre korlátozódott, míg a világi témák ritkák voltak.
+:121. A világi költészetet túlnyomórészt szájhagyomány útján adták át, például dalok és a vándorzenészek elbeszélései formájában.
+:122. Ez a szájhagyományban élő költészet nagyrészt elveszett, mert csak ritkán rögzítették írásban.
+:123. Csak a krónikákban és későbbi feljegyzésekben található szórványos nyomok engednek sejteni egykori gazdagságáról.
+:124. A földhódításról és a korai fejedelmek tetteiről szóló hősi dalok a szájhagyományban éltek tovább.
+:125. A krónikások felvették ezeket a történeteket, és feldolgozták őket latin nyelvű műveikben.
+:126. Így a szájhagyományos költészet maradványai közvetett módon fennmaradtak, még ha idegen nyelven is.
+:127. A szóbeli népi hagyomány és a latin írásbeli kultúra közötti feszültség áthatja az egész középkori irodalmat.
+:128. Csak az évszázadok folyamán tolódott el fokozatosan a hangsúly az írásban rögzített népnyelv javára.
+:129. A 15. században a reneszánsz hatására új hangok és témák jelentek meg az irodalomban.
+:130. A humanizmus, amely Olaszországon keresztül jutott el Magyarországra, megújult érdeklődést váltott ki az ókor és a latin költészet iránt.
+:131. A legjelentősebb magyar humanista és latin költő Janus Pannonius volt, egy püspök és tudós.
+:132. Az Olaszországban képzett Janus Pannonius magas művészi színvonalú latin verseket írt, amelyek egész Európában elismerést nyertek.
+:133. Versei ötvözték az ókori műveltséget a személyes érzelmekkel, és a humanista költészet csúcspontjai közé tartoznak.
+:134. Janus Pannonius révén a magyar latin irodalom olyan szintre emelkedett, amely egyenrangú volt a nagy európai humanistákéval.
+:135. Művei azt mutatják, hogy Magyarország teljes mértékben részt vett a reneszánsz szellemi mozgalmában.
+:136. Mátyás király udvarában számos tudós tevékenykedett, akik történelmi művek, beszédek és tudományos írások szerzői voltak.
+:137. Az olasz humanista, Antonio Bonfini például a király megbízásából írt egy terjedelmes magyar történelmet.
+:138. Ez a történelem, amelyet elegáns latin nyelven fogalmazott meg, a humanizmus szellemében ábrázolta a magyar múltat.
+:139. A mű alapos forráskutatást ötvözött az ókori történetírás retorikai igényeivel.
+:140. Bonfini műve a magyar történelem egyik legbefolyásosabb ábrázolásává vált, és hosszú ideig mérvadónak számított.
+:141. A humanista íráskultúra Mátyás udvarában jól mutatja, milyen messzire fejlődött Magyarország szellemi világa.
+:142. Az egyházi feljegyzések szerény kezdeteiből gazdag és sokszínű irodalom fejlődött ki.
+:143. Ezt a fejlődést azonban a 16. század politikai katasztrófái hirtelen megszakították.
+:144. Az 1526-os mohácsi vereség és az oszmán hódítás számos írott kultúra központját elpusztította.
+:145. A könyvtárakat kifosztották, a kolostorokat lerombolták, és az udvar, mint a szellemi élet központja, elveszett.
+:146. Sok minden, amit évszázadok alatt gyűjtöttek össze, ezekben a zűrzavarokban visszavonhatatlanul elveszett.
+:147. A középkori írott kultúra ezért csak töredékesen maradt fenn számunkra.
+:148. Számos művet csupán említésekből ismerünk, mivel maguk a kéziratok nem maradtak fenn.
+:149. Ezen elveszett irodalom rekonstruálása a kutatás egyik legnehezebb feladata.
+:150. A fennmaradt szövegekből, idézetekből és közvetett utalásokból próbálják visszanyerni a teljes képet.
+:151. E veszteségek ellenére a fennmaradt anyag lenyűgöző képet ad a középkori írásbeli kultúra érettségéről.
+:152. A krónikák egy olyan nemzet történelemtudatát mutatják, amely értelmezni igyekezett származását és rendeltetését.
+:153. A jogi szövegek egy rendezett állami és társadalmi struktúra kialakulásáról tanúskodnak.
+:154. Végül az irodalmi művek egy saját nyelvi és költői hang fokozatos ébredését tárják elénk.
+:155. Összességükben ezek a szövegek a középkori Magyarország szellemi önarcképét alkotják.
+:156. Egyúttal történelmi források és önmagukban is értékes műalkotások.
+:157. Az írásbeli kultúra így annak a társadalomnak a tükre volt, amelyben kialakult.
+:158. Megmutatta, mi volt fontos az emberek számára, miben hittek, és hogyan rendezték el a világukat.
+:159. A történetírás, a jog és az irodalom nem különálló területek voltak, hanem sokszor összefonódtak egymással.
+:160. A krónikák jogi érveket tartalmaztak, a jogi szövegek a történelemre hivatkoztak, az irodalom pedig mindkettőt feldolgozta.
+:161. Ez az összefonódás az írott kultúrát egy összefüggő szövedékké teszi, amelyben a kor gondolkodásmódja tükröződik.
+:162. E szövedék nyelve túlnyomórészt a latin volt, amely Magyarországot összekötötte a többi Európával.
+:163. A latin nyelv révén az ország részt vett a nyugati világ közös tudományos kultúrájában.
+:164. Ugyanakkor azonban a háttérben a saját nyelv is fejlődött, amely végül saját jogot követelt magának.
+:165. A sírbeszédtől a népnyelvű kódexirodalomig vezető út hosszú, de folyamatos volt.
+:166. Ez az út a latin okmányokban előforduló elszórt magyar szavaktól az anyanyelvű, összefüggő szövegekig vezetett.
+:167. Ez a fejlődés teremtette meg az alapot a magyar irodalom későbbi, újkori virágzásához.
+:168. A középkori írásbeli kultúra nélkül ez a későbbi felvirágzás nem lett volna lehetséges.
+:169. A középkori írnokok, krónikások és költők megteremtették azt az alapot, amelyre minden későbbi fejlődés épült.
+:170. Munkájuk gyakran fáradságos és névtelen volt, de eredményük túlélte a századokat.
+:171. A törvényekben, krónikákban és versekben egy távoli korszak szellemi öröksége él tovább a mai napig.
+:172. Összekötik a jelenet a magyar állam és nép kezdeteivel.
+:173. Aki ezeket a szövegeket olvassa, találkozhat azoknak az embereknek a gondolataival és reményeivel, akik megfogalmazták őket.
+:174. Az írott kultúra így egy híd az idő felett, amely összeköti a múltat és a jelent.
+:175. Megőrzi azt a tudást, amely egyébként az azt hordozó emberekkel együtt veszett volna el.
+:176. A krónikákban él az emlék azokról a királyokról és csatákról, amelyek már rég elmúltak.
+:177. A törvénykönyvekben egy olyan társadalom rendje szólal meg, amely tartósan szabályozni akarta viszonyait.
+:178. Az irodalmi művekben egy olyan kultúra hangja cseng, amely tudatára ébredt önmagának.
+:179. Így bizonyul az írott kultúra a középkori Magyarország valódi emlékezetének.
+:180. A krónikákban, a jogszabálygyűjteményekben és az irodalmi művekben ez az emlékezet olyan formát nyert, amely a jelenig hatással van.
+
+=== 5.7.4 – Művészeti fejlődés: kézművesség, szobrászat és festészet ===
+
+:1. A középkori Magyarország művészeti fejlődése a helyi sztyeppehagyományok és a behozott nyugat-európai formanyelvek kölcsönhatásában bontakozott ki. 
+:2. Mivel az országot csak 1000 körül keresztényesítették, a művészeti alkotás viszonylag későn indult be, de a késő középkor folyamán gyorsan felzárkózott a nyugati színvonalhoz.
+:3. Az államalapítás előtti időszakban a lovas nomádok mozgatható művészete dominált, melynek alkotásait könnyű volt szállítani.
+:4. A honfoglalás idején az aranyművesek és fémművesek nyeregvasakat, táskalapokat és szablyahüvelyeket készítettek, amelyeket palmetta-mintákkal és növényi díszekkel díszítettek.
+:5. Ez az úgynevezett palmetta-művészet, amely gyökereit a perzsa-szászánida és bizánci hagyományokban találta, a magyarok első önálló művészeti hozzájárulásának számít.
+:6. A Galgócból és más lelőhelyekről származó híres táskalapok – mivel aranyozott ezüstből voltak domborítva – e korai fémművészet csúcspontjai közé tartoznak.
+:7. Az I. István alatt államilag végrehajtott keresztény hitre való áttéréssel a művészeti feladatokban mélyreható változás ment végbe.
+:8. A sztyeppék pogány ékszerkészítő művészete háttérbe szorult, míg a latin Nyugat egyházi művészete vált a meghatározó példaképpé.
+:9. A keresztény Magyarország első jelentős műalkotásai a királyi alapítványok és az újonnan alapított egyházmegyék körében jöttek létre.
+:10. A magyar koronázási palást, amelyet eredetileg liturgikus kasulaként adományoztak, a korai textilművészet kiemelkedő emléke.
+:11. Mivel ezt a köpenyt 1031-ben Gisela királyné és István király a székesfehérvári Szent Mária-templomnak adományozta, rajta egy hímzett latin felirat található az évszámmal.
+:12. A köpenyen a legfinomabb aranyhímzéssel Krisztus, az apostolok és maguk az adományozók alakjai vannak ábrázolva, ami elsőrendű képi forrássá teszi.
+:13. A hímzőművészet, amely ilyen pompás ruhákat hozott létre, feltehetően kolostori vagy udvari műhelyekben virágzott.
+:14. Az építészet területén kezdetben a román stílus határozta meg a magyar művészeti tájképet.
+:15. Az első katedrálisok és királyi bazilikák nyugati mintákat követtek, miközben az építőmestereket és kőfaragókat gyakran a Birodalomból, Olaszországból és Franciaországból toborozták.
+:16. A székesfehérvári királyi bazilika, amelyet István koronázási és sírkápolnaként építtetett, a korai királyság legjelentősebb egyházi épülete volt.
+:17. Mivel ez az épület a török háborúk során nagyrészt megsemmisült, csupán töredékek és régészeti leletek maradtak fenn belőle.
+:18. A pannonhalmi bencés apátság, amelynek alapítása István apjára, Gézára vezethető vissza, kolostorkertjével és templomával jelentős román és kora gótikus építészeti elemeket őriz.
+:19. A 13. században befejezett jáki apátsági templom portálja a magyar késő román stílus legpompásabb példájának számít.
+:20. Ezen a portálon – mivel kereteit az apostolok alakjai és gazdag építészeti díszítés díszíti – jól látható az építészeti szobrászat magas színvonala.
+:21. A román stílusú építészeti szobrászat a portálfigurák mellett kapitéleket, timpanonokat és építészeti díszeket is magában foglalt, amelyeket gyakran növényi és állati motívumokkal díszítettek.
+:22. A szobrászatban a nyugati formakánon olyan mintákkal ötvöződött, amelyek még a helyi díszítő hagyományokra emlékeztettek.
+:23. A nagy építkezéseken dolgozó kőfaragó műhelyek tanítványokat képeztek ki, és generációkon át adták tovább a műhely szabályait.
+:24. Az esztergomi várból, az érsek székhelyéről származik a híres vörös márványportál, amely a kora gótika elemeit hordozza.
+:25. Esztergom a 12. és 13. században olyan központ volt, ahol példásan megfigyelhető a román stílustól a gótikához való átmenet.
+:26. A királyi paloták – mivel értékes kőfaragványokkal és falfestményekkel voltak díszítve – az uralkodói hatalom reprezentációját szolgálták.
+:27. A fal- és táblaképfestészetben Magyarország kezdetben erősen a bizánci mintákhoz igazodott, mielőtt a nyugati hatás felülkerekedett.
+:28. A királyság földrajzi elhelyezkedése a latin nyugat és a görög kelet között elősegítette a két képi hagyomány keveredését.
+:29. A falusi templomokban fennmaradt korai falfestmények szentlegendákat és bibliai jeleneteket ábrázolnak még sík, ikonikus stílusban.
+:30. Különösen elterjedt volt a Szent László-legendát ábrázoló képciklus, amely a szent királyt sárkányölőként és lovagként dicsőítette.
+:31. Ez a László-legenda – mivel számos templom falán, különösen az északi és erdélyi területeken jelenik meg – kifejezetten magyar képalkotási témának számít.
+:32. A freskókban az udvari lovagias hagyományok és a vallási tisztelet egyesültek egy nemzeti szentkultuszban.
+:33. A könyvfestészet a kolostorok és a székesegyházi káptalanok íróműhelyeiben igényes művészeti ággá fejlődött.
+:34. A kéziratokat kezdőbetűkkel, miniatűrökkel és szegélydíszekkel díszítették, amelyek kísérték a liturgikus vagy történelmi szöveget.
+:35. A 14. században az udvarban készült Magyar képkrónika színes miniatűrjeivel a középkori könyvművészet egyik fő műve.
+:36. Ez a krónika – mivel a földhódítástól az Anjou-korszakig terjedő magyar történelmi jeleneteket ábrázol – ötvözi a történelmi emlékezetet a művészi megjelenítéssel.
+:37. A Képkrónika miniatűrjei királyokat, csatákat és koronázásokat ábrázolnak a nemzetközi gótika udvari képi nyelvén.
+:38. Az aranyművesség a keresztény Magyarországon megőrizte magas rangját, de ekkor már a liturgikus eszközök készítése felé fordult.
+:39. A kehelyeket, ereklyetartókat, ostyásdobozokat és processziós kereszteket nemesfémből készítették, és zománccal, filigránnal és drágakövekkel díszítették.
+:40. Szent László herma, egy aranyozott fejekrelyt Győrben, a magyar ötvösművészet egyik legjelentősebb alkotása.
+:41. Az ilyen ereklyetartók – mivel a szentek csontjait őrizték – egyszerre voltak kultikus tárgyak és rendkívül nagy anyagi értékű műalkotások.
+:42. A Limoges-ban és Bizáncban virágzó zománcművészetet a magyar műhelyekben is utánozták és alkalmazták.
+:43. Az aranyműves, mint kézműves, nagy megbecsülésnek örvendett, mivel munkája értékes anyagokat és nagy technikai ügyességet igényelt.
+:44. A kézművesség általában a középkori Magyarországon kezdetben kevésbé volt fejlett, mint Nyugaton, mivel az ország hosszú ideig agrár- és vidéki jellegű maradt.
+:45. A 13. és 14. században a városok növekedésével – amelyet a német vendégek letelepedése ösztönzött – differenciált kézműves céhek alakultak ki.
+:46. A német telepesek, akiket hospitesnek neveztek, nyugati technikákat hoztak magukkal az építőiparban, a fémmegmunkálásban és a szövetgyártásban.
+:47. Felső-Magyarország bányavárosaiban a bányászat és a fémmegmunkálás köré egy magasan specializált kézművesség alakult ki.
+:48. A nyugati mintára szerveződő céhek szabályozták a kézműves termékek képzését, minőségét és értékesítését.
+:49. A céhek keretein belül – mivel mesterműveket és minőség-ellenőrzést követeltek – biztosítva maradt a kézművesség művészi színvonala.
+:50. A fazekasság és a kerámia-készítés mind a mindennapi életet, mind a jómódú háztartásokat ellátta edényekkel és csempékkel.
+:51. A késő középkorban figurális domborművel és színes mázzal ellátott kályhacsempék a fazekasok művészileg igényes termékei közé tartoznak.
+:52. Ofen műhelyeiből címerekkel, szentekkel és udvari jelenetekkel díszített csempék maradtak fenn, amelyek a polgárok és a nemesek gazdagságáról tanúskodnak.
+:53. A fafaragás különösen a vidéki templomokban és a bútorgyártásban játszott jelentős szerepet.
+:54. A késő középkorban a felső-magyarországi és erdélyi városokban készült faragott szárnyas oltárok a szobrászatot és a festészetet ötvözték egyetlen művészeti alkotássá.
+:55. Ezek a szárnyas oltárok – mivel festett és faragott jeleneteket tartalmazó, kinyitható szentélyekkel rendelkeztek – a dél-német műhelyek hatását tükrözik.
+:56. A fafaragó és a festő gyakran kéz a kézben dolgoztak, mivel egy oltár egyszerre igényelte a faragást, a keretezést és a festészetet.
+:57. A késő középkori táblaképfestészet fokozatosan elszakadt a bizánci szigorúságtól, és átvette a nyugati, természetközeli ábrázolási módokat.
+:58. A szentek arcát és ruházatát plasztikusabban formálták meg, a terek pedig mélységet és perspektívát nyertek.
+:59. Erdélyben és a Spiš-vidéken egész táblaképfestő iskolák alakultak ki, amelyek művei ma a középkori művészet legfontosabb alkotásai közé tartoznak.
+:60. Az építészetben a román stílustól a gótikához való átmenet a 13. század folyamán ment végbe.
+:61. A gótika – mivel bevezette a hegyes ívet, a bordás boltozatot és a támpilléreket – magasabb és fényárban úszó templomtereket tett lehetővé.
+:62. A 12. században az országba érkezett ciszterciek kolostorépületeikkel közvetítették a gótika korai építészeti stílusát.
+:63. A 13. században a városokban megtelepedett kolduló rendek, a ferencesek és a domonkosok, egyszerű, de hatásos gótikus teremtemplomokat emeltek.
+:64. Az Ofen várhegyén álló Mátyás-templom, amelyet a 13. és 14. században bővítettek, a magyar gótika jelentős műve.
+:65. A gótikus építészeti szobrászat – mivel traceryt, filigrán tornyocskákat és realisztikus alakokat igényelt – magas követelményeket támasztott a kőfaragókkal szemben.
+:66. Az ólomüvegfestészet színes bibliai jelenetekkel díszítette a gótikus templomok ablakait, amelyekből azonban csak kevés példa maradt fenn.
+:67. A szobrászat területén a 14. században a klausenburgi Martin és Georg testvérek bronzszobrai révén európai jelentőségű műalkotások születtek.
+:68. Ez a két szobrász – mivel 1373 körül elkészítették Szent György lovas szobrát Prágában – a legkorábbi, név szerint ismert magyar művészek közé tartozik.
+:69. A Szent György-szobor az európai művészettörténet egyik első szabadon álló lovasszobrának számít, és a magyar öntők mesterségbeli jártasságáról tanúskodik.
+:70. A 14. században uralkodó Anjou-királyok az olasz és francia példák szerint támogatták az udvari művészetet és a reprezentációt.
+:71. Uralkodásuk alatt – mivel kiterjesztették az aranybányászatot – bőséges nemesfém állt rendelkezésre a művészeti megbízásokhoz.
+:72. Az Anjou-ház, majd később Zsigmond udvari kultúrája tovább nyitotta Magyarországot a nemzetközi gótika és annak elegáns formái felé.
+:73. Zsigmond király az Ofeni várat pompás rezidenciává alakíttatta át, ahol számos országból érkezett szobrászok és festők dolgoztak.
+:74. A várhegyen végzett ásatások során – mivel ott számos szoborfragmentumot találtak – jelentős későgótikus udvari szobrászati anyag került napvilágra.
+:75. Ezek az úgynevezett ofeni szobrok lovagokat, szenteket és udvari személyiségeket ábrázolnak élethű, egyedi formában.
+:76. Az udvari művészet nem csupán a jámborságot szolgálta, hanem a hatalom, a gazdagság és a Nyugattal való kulturális egyenrangúság demonstrálását is.
+:77. A középkori Magyarország a 15. században, Mátyás király uralkodása alatt érte el művészeti csúcspontját.
+:78. Mátyás, mivel az olasz reneszánszot hozta udvarába, Magyarországot az Alpoktól északra fekvő országok közül az elsők közé emelte, amelyek befogadták ezt az új művészeti irányzatot.
+:79. Olasz művészek, építészek és tudósok érkeztek a király meghívására Ofenbe és Visegrádra.
+:80. A visegrádi királyi palotát reneszánsz udvarokkal, szökőkutakkal és olasz stílusú márványmunkákkal látták el.
+:81. A híres visegrádi Herkules-kút és az Oroszlán-kút – mivel vörös márványból faragták őket – tanúskodnak az udvar reneszánsz ízléséről.
+:82. A szobrászat ekkor már ötvözte az antik formákat, a klasszikus arányokat és a realisztikus portréművészetet olasz mintára.
+:83. A márványmedálok és domborművek az antik érmék mintájára a királyt és feleségét, Beatrixot profilból ábrázolták.
+:84. A könyvfestészet Mátyás uralkodása alatt érte el csúcspontját a Bibliotheca Corviniana pompásan illusztrált kézirataival.
+:85. Ezek a Corvina-kéziratok – mivel olasz miniatűrfestők díszítették őket aranyháttérrel, indákkal és portrékkal – a reneszánsz könyvművészet remekműveinek számítanak.
+:86. Az udvari aranyművesek asztali edényeket, ékszereket és liturgikus eszközöket készítettek, amelyek a királyság dicsőségét hirdették a külvilág felé.
+:87. A 15. századi festészet egyre inkább átvette a reneszánsz természetközeli, perspektívás ábrázolási módját.
+:88. Felső-Magyarország és Erdély városaiban azonban továbbra is élénk maradt a késő gótikus táblaképfestészet a szárnyas oltárképeivel.
+:89. A kassai plébániatemplom főoltára és a Leutschau-i mester oltárai e késő gótikus faragóművészet csúcspontjai közé tartoznak.
+:90. Mivel ezek a művek művészi faragott szobrokat és festett táblákat egyesítettek, tanúskodnak a dél-német művészeti központokkal való szoros kapcsolatról.
+:91. A középkori Magyarország művészeti alkotásait így a hazai hagyományok és a nyugati hatások közötti állandó feszültség jellemezte.
+:92. Az aranyművesek korai sztyeppeművészete helyet adott a nyugati egyházi művészetnek, mielőtt végül a reneszánsz határozta meg az udvari ízlést.
+:93. Számos mű a későbbi háborúkban, főként a török időkben veszett el, így a ránk maradt kép hiányos marad.
+:94. Éppen a királyi palotákból származó régészeti leletek – mivel eltemetett képalkotásokat tártak fel – egészítik ki jelentősen az írásos forrásokat.
+:95. A magyar középkori művészet kutatása ezért a fennmaradt épületekre, régészeti leletekre, kéziratokra és értékes ötvösmunkákra támaszkodik.
+:96. Az ötvösművészetet tekintik annak a területnek, amelyen a magyar műhelyek a legkövetkezetesebben értek el magas európai szintet.
+:97. A liturgikus eszközök zománcmunkái gyakran bizánci mintákat tükröztek, ami aláhúzza az ország kelet és nyugat közötti közvetítő szerepét.
+:98. A szobrászat fejlődése a román stílus díszítő építészeti szobrászatától a késő gótika élethű szobraiig terjedt.
+:99. A klausenburgi mesterek lovasszobra bizonyította, hogy a magyar művészek az európai szobrászat élvonalában tudtak helytállni.
+:100. A festészet a bizánci hatású ikonikus szigorúságtól a gótika elbeszélő jellegű képi nyelvéig fejlődött.
+:101. A László-legenda – mivel a lovagi szentideált ábrázolta – egyedülálló módon ötvözte a nemzeti történelmet a vallási tisztelettel.
+:102. A könyvfestészet a képkrónikák és a Corvin-kézikönyvek révén egyaránt dokumentálta a történelmi emlékezetet és az udvari pompára való igényt.
+:103. A városok kézművessége, amelyet a német telepesek is formáltak, emelte a fazekasság, a szövés és a fémmegmunkálás színvonalát.
+:104. A céhek szabályaikkal biztosították a minőséget, és generációkon át adták tovább a kézműves tudást.
+:105. A szárnyas oltárok fafaragása egyesítette a művészeteket olyan összetett műalkotásokká, amelyek meghatározták a késő középkori közösségek vallási életét.
+:106. A királyi támogatás minden korszakban a művészeti fejlődés döntő hajtóereje volt, mivel csak az udvar adhatott ki a legértékesebb megbízásokat.
+:107. István uralkodása alatt az egyházi alapítványok álltak a középpontban, az Anjou-ház idején az udvari reprezentáció, Mátyás uralkodása alatt pedig a humanista reneszánsz.
+:108. Magyarország földrajzi központi elhelyezkedése biztosította, hogy a bizánci, olasz, francia és német hatások összefolyjanak.
+:109. Ezen hatások sokféleségéből – mivel azok összekapcsolódtak a helyi igényekkel – önálló művészeti kultúra alakult ki.
+:110. Maguk a művészek a késő középkorig többnyire névtelenek maradtak, mielőtt egyes mesterek nevei ismertté váltak.
+:111. A Klausenburgi testvérek és a felső-magyarországi oltárok mesterei a legkorábbi azonosítható művészszemélyiségek közé tartoznak.
+:112. Az udvarokban, kolostorokban és városokban működő műhelyek képezték a művészeti termelés szervezeti gerincét.
+:113. A kolostorokban – mivel ott a kódexíró műhelyek és az építőműhelyek együtt működtek – a tudományos képzés összekapcsolódott a művészi gyakorlattal.
+:114. A művészet anyagi alapját az aranybányászat, a sókereskedelem és a korona növekvő bevételei képezték.
+:115. A nemesfémek bősége Magyarországot különösen az aranyművészet területén jelentős központtá tette.
+:116. A nagy templomok építészeti szobrászata – mivel tartós kőre készült – jobban megmaradt, mint a mulandó táblaképfestészet.
+:117. Sok falfestmény csak azért maradt fenn, mert a későbbi évszázadokban átfestették őket, és csak az újkorban fedezték fel újra.
+:118. E freskók restaurálása – mivel rejtett képsorozatokat tárt fel – jelentősen bővítette a középkori festészetről szóló ismereteket.
+:119. A művészeti fejlődés nem egyenletesen zajlott, hanem az 1241-es mongol betörés súlyosan megszakította.
+:120. Az ország pusztulása után – mivel számos épület megsemmisült – az újjáépítéssel egyidejűleg új művészeti fellendülés is bekövetkezett.
+:121. A várépítés, amely a tatárok után fokozódott, új feladatokat teremtett a kőfaragók és építőmesterek számára.
+:122. Az erődítményépítés eközben ötvözte a gyakorlati védelmi funkciót a kapuk és a palotatermek reprezentatív kialakításával.
+:123. A városokban kőből épült polgári házak keletkeztek, amelyek portáljait és ablakait művészi módon alakították ki.
+:124. A városi polgárság – mivel jólétet ért el – egyre inkább a művészet megrendelőjeként lépett fel az egyház és a nemesség mellett.
+:125. Az oltárok, kápolnák és síremlékek alapítása a polgári jámborság és a társadalmi felemelkedés kifejeződésévé vált.
+:126. A vörös márványból készült sírlapok és epitáfiumok élethű domborművekben ábrázolták az elhunytakat, címerrel és feliratokkal.
+:127. Ez a sírművészet – mivel a családok emlékét hivatott megőrizni – egyesítette a szobrászatot, a heraldikát és a betűművészetet.
+:128. A címerművészet önálló tervezési területté fejlődött, amely áthatotta a pecséteket, a zászlókat és az építészeti díszítéseket.
+:129. A heraldika ötvözte a művészi formát a nemesség jogi és társadalmi jelentőségével.
+:130. A zenei és liturgikus területen illusztrált kóruskönyvek születtek, amelyek egyesítették a kottaírást és a képi díszítést.
+:131. Ezek az antifonáriumok és graduale-könyvek – mivel a kórus szolgálatára készültek – a könyvfestészet legnagyobb méretű művei közé tartoznak.
+:132. A skriptóriumok írásművészete képezte azt az alapot, amelyre a könyvfestészeti díszítés épült.
+:133. Az idő múlásával – mivel a világi témák egyre nagyobb jelentőségre tettek szert – a vallási ábrázolások mellett megjelentek a profán ábrázolások is.
+:134. Az udvari lovagi kultúra tornák, vadászatok és hőstettek motívumait szolgáltatta a falfestészet és a könyvdíszítés számára.
+:135. A László-legenda éppen ezt a lovagi képi világot ötvözte a szentek kultuszával egy nemzeti narratív mintává.
+:136. Erdélyben a szász városok révén kialakult a késő gótikus művészet saját, magas színvonalú központja.
+:137. Az erdélyi szászok erődített templomai – mivel ötvözték a védelmi és a szakrális építészetet – meghatározó szerepet játszottak a keleti művészeti tájképben.
+:138. E régió szárnyas oltárai Közép-Európa egész területén a középkori fafaragásművészet legjelentősebb alkotásai közé tartoznak.
+:139. Az északi Zipsvidék Paul von Leutschau mester személyében olyan fafaragót adott a világnak, akinek főoltára a késő gótika csúcspontjának számít.
+:140. Ez az oltár – mivel Európa legmagasabb faragott szárnyas oltárai közé tartozik – jól szemlélteti a felső-magyarországi műhelyek művészi színvonalát.
+:141. A faragás, a festészet és az aranyozás ötvözete miatt ezek az oltárok egész műhelyek költséges közös munkáinak eredményei voltak.
+:142. Ezen oltárok festői – mivel holland és dél-német példaképek alapján képezték magukat – a realizmus iránti szeretetet és a részletek iránti figyelmet hozták be a magyar művészetbe.
+:143. Ezáltal Magyarország a korszak küszöbén művészeti szempontból szilárdan beágyazódott a közép-európai művészeti térbe.
+:144. Ugyanakkor a királyi udvar ragaszkodott az olasz reneszánszhoz, így két stílusvilág létezett egymás mellett.
+:145. Ez a kettősség – mivel egyszerre ápolta a késő gótikát és a reneszánszot – a 15. századi magyar művészet jellegzetes vonása.
+:146. Mátyás 1490-ben bekövetkezett halála az udvari művészetpártolás hanyatlását indította el.
+:147. Az ezt követő gyenge királyok – mivel hiányoztak tőlük az eszközök és az akarat – nem tudták fenntartani az udvar magas színvonalát.
+:148. Az 1526-os mohácsi csata és az azt követő országfelosztás véget vetett a középkori művészet virágzásának.
+:149. Az oszmán hódítás – mivel számos templomot mecsetekké alakított át és a szobrászati alkotásokat megsemmisítette – a művészeti örökség nagy részét elpusztította.
+:150. Ami fennmaradt, az többnyire a Habsburgok vagy Erdély uralma alatt álló peremvidékeken őrződött meg.
+:151. A magyar középkori művészet ezért különösen a töredékek és a rekonstrukció művészete.
+:152. A művészettörténet a kevés, teljes egészében fennmaradt műalkotásra támaszkodik, mint például a koronázási palást és a Corvin-táblák.
+:153. Emellett a régészeti leletek, a régi leltárak és az utazási beszámolók is utalásokat nyújtanak az elveszett kincsekre.
+:154. A koronázási palást – mivel állami szimbólumként mindig megőrizték – ritka példaként sértetlenül vészelte át a századokat.
+:155. A képkrónika kerülőutakon jutott idegen gyűjteményekbe, és csak az újkorban tért vissza Magyarországra.
+:156. Számos Corvin-képtáblát – mivel azokat Ofen elfoglalása után elhurcolták – ma Európa-szerte könyvtárakban őrzik.
+:157. Ez a szétszórt hagyomány megnehezíti a középkori udvari művészetről alkotott egységes kép kialakítását.
+:158. Mindazonáltal a fennmaradt emlékekből egyértelműen kiolvasható a középkori Magyarország magas szintű művészi teljesítménye.
+:159. Az aranyművesség, az építészeti szobrászat és a könyvfestészet e művészet legerősebb ágai közé tartoznak.
+:160. A szobrászat a klausenburgi testvérek és az ofeni szobrok révén európai szintre emelkedett.
+:161. A festészet a László-legendával egy önálló, széles körben elterjedt nemzeti témát alakított ki.
+:162. A városi kézművesség – mivel a nyugati telepesek gazdagították – emelte a művészeti alkotások általános színvonalát.
+:163. A művészeti fejlődés egyúttal tükrözte az ország politikai történelmét is, az államalapítástól az Anjou-házon át Mátyásig.
+:164. Minden korszak – mivel saját hangsúlyokat helyezett előtérbe – jellegzetes hozzájárulást hagyott hátra a művészeti örökséghez.
+:165. A román stílus az első katedrálisokat, a gótika a városi és kolostortemplomokat, a reneszánsz pedig a királyi palotákat formálta.
+:166. Minden korszakon át a hazai hagyomány és az európai csere kapcsolata maradt az alapvető minta.
+:167. A honfoglalás korszakának ötvösei és a Mátyás-udvar reneszánsz művészei jelzik e fejlődés két pólusát.
+:168. Közöttük évszázadok fekszenek, amelyek során Magyarország művészeti szempontból a keresztény Európa teljes jogú részévé vált.
+:169. A középkori művészet eközben mindig egyszerre több célt is szolgált: az istentiszteletet, az uralkodói hatalom megjelenítését és az emlékezetet.
+:170. Műveik egyaránt voltak vallási eszközök, politikai szimbólumok és a növekvő kulturális önbizalom kifejezői.
+:171. A koronázási palást például egyetlen tárgyban egyesítette a liturgiát, az uralkodói reprezentációt és a nemzeti identitást.
+:172. A Szent Korona – bár elsősorban hatalmi jelkép volt – művészi kialakításának köszönhetően maga is a legmagasabb rangú műalkotássá vált.
+:173. Így a középkori Magyarországon a művészet, a vallás és a politika sokféle módon áthatotta egymást.
+:174. A kézművesek, szobrászok és festők ezzel nem csupán szépséget teremtettek, hanem a jelentőség és a hatalom hordozóit is.
+:175. Műhelyeik olyan hálózatot alkottak, amely összekötötte az udvart, az egyházat és a várost.
+:176. Mivel e művészet hagyománya a háborúk következtében jelentősen megfogyatkozott, a fennmaradt források alapos áttekintésére van szükség.
+:177. Csak az építészet, a képzőművészet, a könyv és a nemesfémek kölcsönhatásából alakul ki a művészi alkotás megfelelő képe.
+:178. Ez a kép egy olyan országot mutat be, amely szerény kezdetektől eljutott egy gazdag, sokrétű művészeti kultúráig.
+:179. A középkori Magyarország művészeti fejlődése így példaként szolgál egy egykori sztyepp nép keresztény Nyugatba való kulturális integrációjára.
+:180. Ez a királyság kora- és késő középkorát jellemző kulturális virágzás lényeges részét képezi.
+
+=== 5.7.5 – Tudományos érdeklődés: orvostudomány, jog és teológia ===
+
+:1. A tudományt középkori értelemben elsősorban az egyházi és tudósok képzésének részeként értelmezték. 
+:2. A középkori tudomány magában foglalta a hét szabad művészetet, a teológiát, a jogot és az orvostudományt, amelyeket mind az iskolákban, mind a későbbi egyetemeken tanítottak.
+:3. Magyarországon ez a tudományos kultúra azért fejlődött ki, mert az országot csak későn keresztényesítették, Nyugat-Európához képest időbeli késéssel.
+:4. A tudás hordozói kezdetben szinte kizárólag egyházi személyek voltak, mivel csak az egyháznak voltak iskolái, könyvtárai és írószobái.
+:5. A kolostorok, élükön a pannonhalmai bencés apátsággal, képezték a tudás első központjait a királyságban.
+:6. E kolostorok írótermeiben – mivel ott másolták és gyűjtötték a kéziratokat – alakult ki a tudományos irodalom alapja.
+:7. A püspökségek katedrális-kapitulumai katedrálisiskolákat hoztak létre, ahol a papság utódjait latin nyelvből, nyelvtanból és teológiából oktatták.
+:8. A középkori tudományos érdeklődés Magyarországon leginkább három területen figyelhető meg: a teológiában, a jogban és az orvostudományban.
+:9. A teológiát a középkori oktatási rendszerben a tudományok legfőbbikének és minden tudományág királynőjének tartották.
+:10. A teológia a Szentírás értelmezésével, az egyházatyák tanításaival és a nagy hitbeli kérdésekkel foglalkozott.
+:11. Magyarországon – mivel az egyház uralta a szellemi életet – a teológiai képzés központi jelentőségű volt a papok képzésében.
+:12. Az ország első teológiai művei liturgikus könyvek, prédikációgyűjtemények és szentlegendák voltak.
+:13. Különösen jelentősek voltak István királyról, Emmerich hercegről és László királyról szóló legendák, amelyek szentségüket igazolták.
+:14. Mivel ezek a szentlegendák egyaránt szolgálták a lelki épülést és a politikai legitimációt, összekapcsolták a teológiát a történetírással.
+:15. A 13. századi úgynevezett Sermones-gyűjtemény a magyar prédikációs irodalom legkorábbi tanúi közé tartozik.
+:16. Az 1195 körül keletkezett Pray-kézirat liturgikus szövegek mellett a magyar nyelv legrégebbi összefüggő szövegét is tartalmazza.
+:17. Ez a szöveg, az úgynevezett „temetési beszéd” – mivel a népnyelven írt vallási imát ad vissza –, összekapcsolja a teológiai gyakorlatot a nyelvi hagyománnyal.
+:18. A magyarok teológiai műveltsége elmélyült, mivel sok pap nyugati egyetemeken folytatta tanulmányait.
+:19. A nyugaton a teológiát meghatározó skolasztikus módszer ezeken a diákokon keresztül fokozatosan Magyarországra is eljutott.
+:20. A skolasztika összekapcsolta a hitet az ésszel, és logikai érveléssel próbálta tisztázni a teológiai kérdéseket.
+:21. Aquinói Szent Tamás és más skolasztikusok művei – mivel azokat az egyetemeken tanították – a magyar teológiára is hatással voltak.
+:22. A domonkosok és a ferencesek kolduló rendjei a skolasztikus tudást eljuttatták kolostoraikba és iskoláikba.
+:23. A domonkos rendet a tanult prédikátorok rendjének tartják, mivel különös figyelmet fordított a teológiai képzésre.
+:24. A magyar domonkos, Paulus Ungarus a 13. században a bolognai egyetemen tanított egyházi jogot.
+:25. Ez a tudós – mivel írt egy kézikönyvet a gyónásról – Magyarország legkorábbi, név szerint ismert tudósai közé tartozik.
+:26. A teológia a missziós tevékenységet is szolgálta, mivel szerzeteseket küldtek ki a keleti pogányok megtérítésére.
+:27. Julianus domonkos szerzetes a 13. században keletre utazott, hogy felkutassa az ősi hazájukban maradt magyarokat.
+:28. Jelentése – mivel földrajzi és néprajzi megfigyeléseket rögzített – egyben a felfedezés tudományos dokumentuma is.
+:29. A teológiai tudomány így összekapcsolódott a földrajzzal, a nyelvészettel és a néprajzzal.
+:30. A saját származás kutatása – mivel érintette a nemzet önértelmezését – visszatérő tudományos érdeklődés tárgyává vált.
+:31. A jog a teológia mellett a középkori magyar tudomány második nagy területét képezte.
+:32. Már I. István király is kiadott törvénygyűjteményeket, amelyek a keresztény rendet és az állami közigazgatást hivatottak szabályozni.
+:33. Ezek a rendeletek – mivel a karoling kapitularumok mintájára készültek – a nyugati hatást tükrözik a korai jogra.
+:34. István törvényei a tulajdon, az egyház, az öröklési jog és a bűncselekmények büntetése kérdéseit szabályozták.
+:35. István utódai, különösen László és Koloman, kibővítették és finomították az írott jogot.
+:36. Koloman király, akit műveltsége miatt a „Műveltnek” neveztek, rendkívül mérsékelt törvényeket hirdetett ki.
+:37. Híres törvénye – amely korlátozta az állítólagos boszorkányok üldözését – a racionális jogfelfogás tanúbizonyságának számít.
+:38. A középkori jogtudomány két nagy forrásra támaszkodott: a római jogra és a kánonjogra.
+:39. A római jog, amelyet Bolognában fedeztek fel újra és tanítottak, egész Európa tudományos jogi kultúráját befolyásolta.
+:40. A kánonjog – mivel az egyház és a papság életét szabályozta – nagy jelentőséggel bírt az egyházi befolyás alatt álló társadalom számára.
+:41. Magyar diákok Bolognába és Padovába mentek, hogy ott mindkét jogágat tanulmányozzák.
+:42. A hazatérők – mivel magukkal hozták a tudományos jogot – hozzájárultak a magyar joggyakorlat finomításához.
+:43. Az úgynevezett hitelesítő helyek – azaz okirat-hitelesítési jogosultsággal rendelkező egyházi intézmények – átvették az igazságszolgáltatás és a dokumentáció feladatait.
+:44. Ezen a helyeken – mivel ott állítottak ki és őriztek okiratokat – kialakult egy professzionális íráskultúra.
+:45. Az okiratok kezelése és a jogi ügyletek hitelesítése képzett jegyzőket és írnokokat igényelt.
+:46. Az 1222-es Aranybulla, amely rögzítette a nemesség jogait, a magyar jogtörténet egyik mérföldkövének számít.
+:47. Ezt a dokumentumot – mivel korlátozta a királyi hatalmat és garantálta a kiváltságokat – gyakran hasonlítják az angol Magna Cartához.
+:48. A jogtudomány a szokásjoggal is foglalkozott, amelyet szóban adtak át, majd fokozatosan írásba is foglaltak.
+:49. A késő középkorban Stephan Werbőczy jogtudós híres Tripartitum című művében gyűjtötte össze a magyar szokásjogot.
+:50. Mivel ez a mű rendszerezte a nemesi jogot, évszázadokon át a magyar joggyakorlat meghatározó alapja maradt.
+:51. Werbőczy ebben a műben a római jogi fogalmakat a hazai jogi hagyományokkal ötvözte egy önálló művé.
+:52. A jogtudomány így nem csupán tudomány volt, hanem közvetlenül összefonódott az ország politikai rendjével.
+:53. A jogászok képzése részben külföldi egyetemeken, részben a kancellári gyakorlatban történt.
+:54. A királyi kancellária – mivel okiratokat és törvényeket állított ki – a jogi szakértelem fontos központja volt.
+:55. A kancellária tisztviselőinek latinul kellett tudniuk, és ismerniük kellett az okiratok kiállításának szabályait.
+:56. Az orvostudomány képezte a középkori tudományok harmadik nagy területét, amelyet Magyarországon gyakoroltak és tanultak.
+:57. A középkori orvostudomány az ókori négy testnedv-elméleten alapult, amely Hippokratészre és Galénoszra vezethető vissza.
+:58. E tanítás szerint – mivel az egészséget a testnedvek egyensúlyának tekintették – az orvostudomány célja ezek kiegyensúlyozása volt.
+:59. Az orvosi ellátás kezdetben nagyrészt a kolostorok és kórházaik kezében volt.
+:60. A szerzetesek – mivel gyógynövényismerettel és hagyományos receptekkel rendelkeztek – kolostori gyógyászatot folytattak.
+:61. A kolostorkertek, ahol gyógynövényeket termesztettek, biztosították az alapanyagot a gyógyszerekhez és tinktúrákhoz.
+:62. A gyógynövénygyógyászat ötvözte a hagyomány útján átadott ókori tudást a helyi növényvilágra vonatkozó gyakorlati tapasztalatokkal.
+:63. Az idő múlásával – mivel Olaszországból beszivárgott a tudományos orvosi ismeret – a szerzetesek mellé megjelentek a diplomás orvosok is.
+:64. A híres salernói orvosi iskolák, majd később a bolognai és padovai egyetemek képezték ki az európai orvosokat.
+:65. A magyar diákok, mivel ezeket az iskolákat látogatták, hazavitték a tudományos orvoslást szülőföldjükre.
+:66. A királyi udvarban tudományos orvosok dolgoztak, akik gyakran Olaszországból vagy más országokból származtak.
+:67. A királyok – mivel egészségükre kellett figyelniük – jól képzett udvari orvosokat alkalmaztak.
+:68. A késő középkorban, főként Mátyás király uralkodása alatt, olasz humanisták és orvosok érkeztek a magyar udvarba.
+:69. Ezek a tudósok – mivel magukkal hozták a reneszánsz legújabb orvosi ismereteit – emelték az orvostudomány színvonalát.
+:70. A reneszánsz orvostudomány egyre inkább visszatért az ókori eredeti szövegekhez, és kritikus szemmel kezdte vizsgálni a hagyományból származó tudást.
+:71. A tudományos orvostudomány mellett továbbra is létezett a népi gyógyászat, amely a tapasztalaton, a mágián és a hagyományos szokásokon alapult.
+:72. A városokban és a gyógyforrásoknál kialakult fürdőházak a betegek ápolását és kezelését szolgálták.
+:73. Magyarországnak, mivel gazdag volt termálforrásokban, kedvező feltételei voltak a fürdőkultúra kialakulásához.
+:74. A pestis és más járványok, amelyek sújtották a középkori Európát, Magyarországon is számos áldozatot követeltek.
+:75. Mivel ezeknek a járványoknak az okai ismeretlenek maradtak, a középkori orvoslás nagyrészt tehetetlen volt velük szemben.
+:76. Az orvosok ennek ellenére megpróbáltak segíteni vércsapolással, étrenddel és gyógynövényes gyógymódokkal.
+:77. A betegek ápolását gyakran azok a szerzetesrendek vállalták magukra, amelyek a karitásnak szentelték magukat.
+:78. A kórházi rendek – mivel kórházakat tartottak fenn – ötvözték a vallási gondoskodást az orvosi ellátással.
+:79. A teológia, a jog és az orvostudomány mellett széles körű érdeklődés mutatkozott a szabad művészetek és a természettudomány iránt is.
+:80. A hét szabad művészet a nyelvtant, a retorikát, a dialektikát, valamint az aritmetikát, a geometriát, a zenét és a csillagászatot foglalta magában.
+:81. Mivel ezek a művészetek képezték minden felsőfokú oktatás alapját, az ország iskoláiban tanították őket.
+:82. A csillagászat elsősorban a naptár és az egyházi ünnepek kiszámítását szolgálta.
+:83. A komputisztika, azaz az időszámítás tudománya elengedhetetlen volt a húsvét dátumának meghatározásához.
+:84. Az asztrológia, amely a középkorban szorosan kapcsolódott a csillagászathoz, Magyarországon is érdeklődést váltott ki.
+:85. Mátyás udvarában – mivel ott humanista tudósok tevékenykedtek – különösen virágzott az érdeklődés a csillagászat és az asztrológia iránt.
+:86. Regiomontanus csillagász időnként Magyarországon tartózkodott, és kapcsolatban állt a művelt János Vitéz érsekkel.
+:87. Vitéz János, mivel könyveket gyűjtött és tudósokat támogatott, az ország egyik első humanistájának számít.
+:88. Unokaöccse, Janus Pannonius költő a humanista műveltséget költői és természettudományos érdeklődéssel ötvözte.
+:89. Ezek a tudósok, mivel olasz egyetemeken tanultak, Magyarországra hozták a humanizmus szellemét.
+:90. A humanizmus a tudományos érdeklődést újra az ókori szövegek, a filológia és a természetmegfigyelés felé irányította.
+:91. A középkori Magyarország tudományos érdeklődése így az egyházi oktatásban gyökerezett, és humanista hatás alatt érlelődött.
+:92. A teológia évszázadokon át a meghatározó tudományág maradt, mivel az egyház irányította a szellemi életet.
+:93. A jog egyre nagyobb jelentőségre tett szert, mert egy rendezett államnak képzett jogászokra és írásos törvényekre volt szüksége.
+:94. Az orvostudomány a kolostori gyógyászatból az egyetemeken tanult, tudományos orvostudománnyá fejlődött.
+:95. Mindhárom terület a külföldi egyetemeken folytatott tanulmányokra volt utalva, mivel Magyarországnak hosszú ideig nem volt saját egyeteme.
+:96. Azok a diákok, akik Olaszországba, Franciaországba és a Birodalomba indultak, képezték a legfontosabb hidat az európai tudáshoz.
+:97. Püspökökként, bírákként, jegyzők és orvosokként tértek vissza, és meghatározó szerepet játszottak az ország tudományos életében.
+:98. A kolostorok és a székesegyházi káptalanok könyvtárai – mivel kéziratokat őriztek – biztosították a hagyományozott tudás megőrzését.
+:99. Mátyás király Bibliotheca Corviniana-ja terjedelmében és pompájában felülmúlta az ország összes korábbi gyűjteményét.
+:100. Ez a könyvtár – mivel teológiai, jogi, orvosi és természettudományi témájú több ezer kötetet tartalmazott – korának egyik legjelentősebbje volt.
+:101. Ebben tükröződött a középkori és humanista tudományok teljes spektruma.
+:102. Az ókori szerzők művei az egyházatyák és a középkori tudósok írásai mellett sorakoztak.
+:103. A gyűjtemény nemcsak a király, hanem udvarának tudósai számára is tanulmányi alapul szolgált.
+:104. Mátyás halála és az oszmán hódítás után ez a könyvtár szétszóródott, és nagy részét elhurcolták.
+:105. A gyűjtemény elvesztése – mivel a tudományos örökség nagy részét megsemmisítette – súlyos csapást jelentett.
+:106. A történetírás a tudományos érdeklődés egy másik területét képezte, amely szorosan kapcsolódott a teológiához.
+:107. A középkori krónikások – mivel a nép történetét rögzítették – maradandó értékű műveket alkottak.
+:108. Béla király névtelen jegyzője, akit Anonymus néven ismerünk, krónikát írt a magyarok országhódításáról.
+:109. Ez a mű – mivel keveri a legendát és a történelmet – forrásként vitatott, de a történelmi gondolkodás tanújaként értékes.
+:110. Kézai Szent Simon krónikás a 13. században megfogalmazta a magyarok és a hunok rokonságáról szóló elméletet.
+:111. Ez a hun-elmélet – mivel dicsőséges származást tulajdonított a magyaroknak – évszázadokon át meghatározta a nemzeti önképet.
+:112. A történetírás ezzel összekapcsolta a tudományos törekvést a politikai és identitásalkotó szándékkal.
+:113. Mindezen tudományok tudományos nyelve a latin volt, amely az egész latin kereszténységben kötelező volt.
+:114. A latin – mivel lehetővé tette a határokon átnyúló kommunikációt – Magyarországot az európai tudósok hálózatának részévé tette.
+:115. A magyar népnyelv tudományos művekben csak szórványosan és későn jelent meg.
+:116. Csak a késő középkorban, a népnyelvű oktatás iránti igény növekedése miatt, keletkeztek vallási szövegek fordításai.
+:117. Ezek a fordítások, amelyeket gyakran női kolostorokban készítettek, a vallási tudást szélesebb közönség számára tették hozzáférhetővé.
+:118. A tudomány azonban lényegében továbbra is latin és egyházi ügy maradt.
+:119. A természetfilozófia, amely a természeti világ megértésére törekedett, Arisztotelész írásain alapult.
+:120. Ez az arisztotelészi természettan – mivel az egyetemeken tanították – a hallgatókon keresztül Magyarországra is eljutott.
+:121. A természetről szóló tudás ötvözte a megfigyelést, az ókori tekintélyeket és a teológiai értelmezést.
+:122. Az alkímia, amely az anyagok átalakulására törekedett, a késő középkorban szintén híveire talált.
+:123. Mivel ezek a törekvések a természettudományt titkos tudással keverték össze, a tudományos kutatás peremén álltak.
+:124. A matematika elsősorban gyakorlati célokat szolgált, mint például a számítás, a földmérés és a naptárkészítés.
+:125. A geometria közvetlen jelentőséggel bírt a nagy templomok és várak építése szempontjából.
+:126. Az építőmesterek – mivel arányokkal és szerkezetekkel kellett foglalkozniuk – gyakorlati matematikai ismeretekkel rendelkeztek.
+:127. A zeneelmélet, mint az egyik szabad művészet, a tananyag részét képezte, és meghatározó hatással volt a liturgikus éneklésre.
+:128. Az egyházi zene kottázása – mivel azt is meg kellett tanulni – összekapcsolta az éneklés elméletét és gyakorlatát.
+:129. A tudományos érdeklődés így egy széles területre terjedt ki, amely a teológiától a gyakorlati művészetekig terjedt.
+:130. A középpontban mindig a papság képzése állt, amely a művelt kultúra gerincét képezte.
+:131. A laikusok – mivel ritkán tudtak olvasni és írni – hosszú ideig alig vettek részt a tudományos kultúrában.
+:132. Csak a városok és a nemesség felemelkedésével bővült fokozatosan a műveltek köre.
+:133. A polgárság – mivel a kereskedelemhez és az igazgatáshoz írástudókra volt szüksége – támogatta a gyakorlati képzést.
+:134. A nemesség – mivel hivatali és jogi ügyeket látott el – egyre inkább felismerte a műveltség hasznosságát.
+:135. Mátyás uralkodása alatt a tudományos érdeklődés a humanizmus révén elérte középkori csúcspontját.
+:136. Az udvar – mivel egész Európából vonzotta a tudósokat – a tudás és a viták központjává vált.
+:137. A királyi hatalom és a tudomány támogatása közötti kapcsolat kedvező feltételeket teremtett a tudomány számára.
+:138. Ez a virágzás azonban szorosan a király személyéhez kötődött, és halála után nem tartott sokáig.
+:139. A politikai zűrzavarok és az oszmán fenyegetés – mivel megrázták az országot – gátolták a további fejlődést.
+:140. A magyar középkori tudomány ennek ellenére jelentős örökséget hagyott hátra krónikák, törvények és tudományos művek formájában.
+:141. A királyok törvénygyűjteményei a jogtörténet egyik legfontosabb forrását képezik.
+:142. A krónikák őrzik a korai idők emlékét és a nép eredetéről alkotott elképzeléseket.
+:143. A teológiai és liturgikus szövegek a korszak szellemi életéről és vallásosságáról tanúskodnak.
+:144. Az orvosi írások és receptek betekintést nyújtanak a gyógyászati ismeretekbe és a betegségekről alkotott elképzelésekbe.
+:145. A tudományos kultúra szorosan összefonódott a külföldi tanulmányokkal, mivel a saját oktatási rendszer korlátozott maradt.
+:146. A diákok és a tudósok – mivel közvetítőként működtek Magyarország és a nyugati központok között – fenntartották a tudáscserét.
+:147. Az ország földrajzi elhelyezkedése – a latin nyugat és a görög kelet között – a tudományra is hatással volt.
+:148. Nyugatról érkezett a skolasztikus és humanista tudás, keletről pedig bizánci hatások.
+:149. Ez a kettős orientáció – mivel különböző hagyományokat ötvözött – sajátos jelleget kölcsönzött a magyar tudományos kultúrának.
+:150. A tudomány a középkorban mindig magasabb rendű célokat szolgált: a hitet, a rendet és a gyógyítást.
+:151. A teológia a lélek üdvösségét, a jog a rendezett államot, az orvostudomány pedig a testi jólétet tűzte ki célul.
+:152. Ebben a hármas egységben – mivel az az ember egész életét átfogta – tükröződött a középkori tudományfelfogás.
+:153. A szabad művészetek képezték azt az alapot, amelyre ezek a magasabb rendű tudományágak épültek.
+:154. Csak az, aki elsajátította a nyelvtant és a logikát, szentelhette magát a teológiának, a jognak vagy az orvostudománynak.
+:155. Az oktatás így fokozatosan haladt az alapvető művészetektől a magas szintű szak tudományok felé.
+:156. Az ország iskolái – mivel ezeket a szinteket közvetítették – felkészítettek az egyetemi tanulmányokra.
+:157. Mivel Magyarországnak hosszú ideig nem volt állandó egyeteme, a felsőfokú tanulmányok továbbra is a külföldre támaszkodtak.
+:158. A saját egyetemek alapítása Ötvörösön és Ofenben – mivel csak rövid ideig működtek – alig változtatott ezen a helyzeten.
+:159. Csak a Mátyás idején kialakult humanista mozgalom adott a hazai tudományos életnek erőteljes, bár rövid fellendülést.
+:160. A magyarok tudományos érdeklődése így mindig az egyházi hagyomány és az új tudományosság közötti feszültségmezőben mozgott.
+:161. A teológia összekapcsolódott a történetírással, a jog az államigazgatással, az orvostudomány pedig a gyakorlati gondoskodással.
+:162. Ez az összefonódás – mivel összekapcsolta a tudást és az életet – a tudományt a kultúra hatékony részévé tette.
+:163. A tudományos művek a könyvtárakban kerültek megőrzésre, és másolás útján generációkon át öröklődtek.
+:164. A könyvnyomtatás feltalálása, amely a késő középkorra ért el, új utakat nyitott a tudás terjesztése előtt.
+:165. Magyarországon is – mivel ott korán létrejött egy nyomda – gyorsan elterjedt az új technika.
+:166. Az első Magyarországon nyomtatott krónika, a Chronica Hungarorum, már 1473-ban megjelent Ofenben.
+:167. Ez a korai nyomtatvány – mivel Magyarországot Közép-Európa első saját könyvnyomdával rendelkező országai közé sorolja – jelentős tanúbizonyság.
+:168. A tudományos kultúra ezzel a középkor végén a terjesztés új szakaszába lépett.
+:169. A középkori tudományok lefektették azokat az alapokat, amelyekre a későbbi magyar tudományosság épülhetett.
+:170. Műveik, módszereik és az európai tudáshoz fűződő kapcsolataik hatása a középkoron túlra is kiterjedt.
+:171. A teológia a szellemi nevelést, a jog az állami rendet, az orvostudomány pedig a gyógyászatot formálta.
+:172. Együttesen olyan hálót alkottak, amely Magyarországot szorosan beágyazta a keresztény Európa tudományos világába.
+:173. A középkori Magyarország tudományos érdeklődése így tükrözte az európai tudományosság általános szintjét.
+:174. Ugyanakkor rámutattak egy olyan ország sajátos helyzetére, amely későn tért át a kereszténységre, és közvetítő szerepet töltött be a kultúrák között.
+:175. A magyar tudósok, mivel a nyugati tudásból merítettek, ezt hazájukba vitték és továbbfejlesztették.
+:176. Teológiai, jogi és orvostudományi eredményeik a királyság kulturális virágzásának fontos hozzájárulásai közé tartoznak.
+:177. A hit, a rend és a gyógyítás összekapcsolódása jellemezte e korszak tudományos gondolkodását.
+:178. A kolostorokból és a katedrálisiskolákból egy művelt kultúra fejlődött ki, amely Mátyás idején európai szintre emelkedett.
+:179. Így a tudomány a középkori Magyarországot jellemző kulturális fejlődés egyik alappillére lett.
+:180. Összekötötte az országot Európa szellemi életével, és megalapozta későbbi tudományos hagyományát.
+
+=== 5.7.6 – Kulturális kapcsolatok: csere Nyugat-Európával és Bizánccal ===
+
+:1. A középkori Magyarország kulturális kapcsolatait az ország különleges földrajzi elhelyezkedése határozta meg, amely a latin nyugat és a görög kelet között feküdt. 
+:2. Mivel Magyarország a Kárpát-medencét foglalta el Közép-Európa szívében, a római katolikus és a bizánci ortodox világ találkozási pontján helyezkedett el.
+:3. Ez a központi elhelyezkedés a királyság teljes kulturális fejlődését meghatározta az államalapítástól a középkor végéig.
+:4. Már a keresztény hitre térés előtt is a magyarok, mint lovas nomádok, kapcsolatokat ápoltak mindkét nagy kulturális körrel.
+:5. A dél-orosz sztyeppéken töltött idő alatt – mivel a Bizánci Birodalom határain éltek – kapcsolatba kerültek a görög kultúrával.
+:6. A bizánci kereskedők, diplomáciai képviselők és misszionáriusok már korán kapcsolatba léptek a sztyepp népekkel.
+:7. A magyar törzsfők – mivel Bizánc szövetségeseiként vagy ellenfeleiként léptek fel – megismerkedtek annak hatalmával és pompájával.
+:8. A Kárpát-medence elfoglalása után a királyság tartós kapcsolatba lépett a környező hatalmakkal.
+:9. A 10. századi portyák – bár eleinte pusztítást hoztak – a magyarokat mélyen bevezették a latin Nyugatba.
+:10. Ezen hadjáratok során – amelyek egészen Olaszországig, Franciaországig és Spanyolországig nyúltak – a magyarok benyomásokat szereztek a nyugati világról.
+:11. A 955-ös lechfeldi vereség után a Nyugattal való viszony az ellenségeskedésből közeledéssé változott.
+:12. A nyugati kereszténység mellett hozott döntés, amely Géza és István uralkodása alatt született, évszázadokra meghatározta a kulturális irányultságot.
+:13. I. István, mivel a pápától vette át a koronát, szorosan összekötötte Magyarországot a latin kereszténységgel.
+:14. A keresztényesítéssel misszionáriusok, szerzetesek és papok érkeztek az országba Nyugatról.
+:15. A megtérésben részt vevő prágai Szent Adalbert közép-európai egyházi hagyományokat közvetített.
+:16. Bajorországból, Olaszországból és a Birodalomból érkeztek papok, építészek és tudósok, akik a nyugati kultúrát hozták Magyarországra.
+:17. István házassága a bajor Gisela hercegnővel – mivel rokoni kapcsolatokat teremtett – megerősítette a Birodalommal való kapcsolatot.
+:18. A házassági politika a kulturális és politikai csere egyik legfontosabb eszközévé vált.
+:19. A magyar királyok leányait és fiaikat Európa nagy uralkodóházaival házasították össze.
+:20. Ezek a kapcsolatok – mivel összekötötték az udvarokat – lehetővé tették a szokások, a divat és a művészetek határokon átnyúló áramlását.
+:21. A bizánci kapcsolatok a nyugati orientáció ellenére is élénkek és jelentősek maradtak.
+:22. A Magyar Szentkorona – mivel alsó része bizánci eredetű – egy központi szimbólumban testesíti meg ezt a keleti kapcsolatot.
+:23. Ez a görög koronarész bizánci császárok és szentek zománcképeit hordozza görög feliratokkal.
+:24. A korona így egyesíti a latin és a bizánci elemeket egyetlen uralkodói jelképben.
+:25. A 11. és 12. században a magyar királyok szoros diplomáciai kapcsolatban álltak a konstantinápolyi császárokkal.
+:26. Több magyar herceg – mivel túszként vagy vendégként a bizánci udvarban éltek – ott keleti műveltségre tett szert.
+:27. A későbbi III. Béla királyt a konstantinápolyi udvarban nevelték fel, és időnként a császár lehetséges trónörököseként is emlegették.
+:28. Ez a király, mivel megismerte a bizánci közigazgatást, annak mintáit hozta Magyarországra.
+:29. III. Béla uralkodása alatt a királyi kancellária részben bizánci, részben nyugati minták szerint működött.
+:30. A bizánci művészet hatással volt az ország korai falfestészetére és aranyművészetére.
+:31. Az zománc- és ereklyekészítési technika – mivel Bizáncból vették át – meghatározó hatással volt a magyar ötvösök legértékesebb műveire.
+:32. Ugyanakkor a latin Nyugat is hatással volt a kultúrára az egyház, a kolostorok és az építőműhelyek révén.
+:33. A bencés, a ciszterci és később a kolduló rendek magukkal hozták a Nyugatról származó építészeti formáikat és élet szabályaikat.
+:34. A ciszterciek – mivel nemzetközi kolostorhálózatot alkottak – építészeti és mezőgazdasági újításokat közvetítettek.
+:35. Ezen rendek révén jutottak el az országba a nyugati szántóföldi gazdálkodás, a vízgazdálkodás és az építészet technikái.
+:36. A zarándokutak összekötötték Magyarországot a kereszténység nagy szentélyeivel Rómában, Jeruzsálemben és Santiagóban.
+:37. A magyar zarándokok, mivel ezeken az útvonalakon jártak, idegen országokról és kultúrákról szerzett benyomásaikat hazahozták.
+:38. Ugyanakkor egy fontos zarándok- és kereskedelmi útvonal vezetett Magyarországon keresztül kelet felé.
+:39. A keresztes hadjáratok – mivel seregeik Magyarországon keresztül vonultak Konstantinápolyba – kapcsolatba hozták az országot a nyugati lovagokkal.
+:40. II. András király maga is részt vett egy szentföldi keresztes hadjáratban, és ennek során széles körű kapcsolatokat épített ki.
+:41. Ezek a vállalkozások – mivel az embereket nagy távolságokra vitték – elősegítették a tudás és az áruk cseréjét.
+:42. A kereskedelem egy további fontos hidat képezett Magyarország és a világ többi része között.
+:43. A kereskedelmi útvonalakon keresztül áruk, de ötletek, nyelvek és művészeti inspirációk is eljutottak az országba.
+:44. Magyarország állatállományt, sót, nemesfémeket és bort szállított, cserébe pedig szöveteket, fűszereket és luxuscikkeket szerzett be.
+:45. Az ország aranybányái – mivel nagy mennyiségű nemesfémet szolgáltattak – Magyarországot keresett kereskedelmi partnerré tették.
+:46. A velencei és más városokból érkező olasz kereskedők élénk üzleti kapcsolatokat ápoltak a királysággal.
+:47. A német kereskedők és telepesek, akiket vendégként hívtak az országba, összekötötték Magyarországot a Birodalom kereskedelmi hálózataival.
+:48. Ezek a német telepesek – mivel a hegyvidéki városokban és Erdélyben telepedtek le – magukkal hozták a nyugati városi kultúrát.
+:49. A hospitek, ahogyan az idegen vendégeket nevezték, kiváltságokat kaptak, és nyugati mintára alapítottak városokat.
+:50. Ezekben a városokban – mivel német jog szerint éltek – európai típusú céhek, piacok és városházák jöttek létre.
+:51. Az erdélyi szászok saját kultúrát alakítottak ki, amely ötvözte a német hagyományokat az új hazájuk viszonyaival.
+:52. Olaszok, vallonok és más idegenek is letelepedtek, és gazdagították a kulturális életet.
+:53. A népek sokszínűsége – mivel a királyságban együtt éltek – Magyarországot a kulturális találkozások színterévé tette.
+:54. Magyarország mellett szlávok, németek, románok, kumánok és más csoportok is éltek az országban.
+:55. A kumánok, egy sztyepp nép, akiket a mongol betörés után fogadtak be, keleti életmódot hoztak magukkal.
+:56. Beilleszkedésük – mivel feszültségeket és alkalmazkodást igényelt – jól mutatja a kulturális integráció nyitottságát és korlátait.
+:57. A városokban letelepedett zsidók kereskedelmi kapcsolatokat és tudományos ismereteket közvetítettek.
+:58. Ez a kulturális sokszínűség meghatározta a királyságot, és megkülönböztette az etnikailag egységesebb országoktól.
+:59. Az 1241-es mongol betörés, bár elpusztította az országot, egyúttal kapcsolatot teremtett a távoli sztyeppavilággal.
+:60. A mongolok – mivel Belső-Ázsiából érkeztek – Magyarországnak közvetlenül megtapasztaltatták egy keleti birodalom hatalmát.
+:61. A katasztrófa után IV. Béla király ismét telepeseket hívott be Nyugatról az ország újjáépítésére.
+:62. Ez az újjáépítés – mivel nyugati segítségre és nyugati példaképekre támaszkodott – elmélyítette a Közép-Európához fűződő kötődést.
+:63. A 13. században a domonkosok és a ferencesek, mint nemzetközi rendek, közvetítették a Nyugattal való kapcsolattartást.
+:64. Julianus domonkos szerzetes keletre utazott, és híreket hozott a hátramaradt magyarokról és a közeledő mongol veszélyről.
+:65. Utazása – mivel földrajzi és néprajzi ismereteket közvetített – egyben kulturális felfedezőút is volt.
+:66. Szent Erzsébet, a töringiai magyar királylány, a Birodalomban tisztelt szentté vált.
+:67. Kultusza – mivel egész Európára kiterjedt – összekötötte Magyarországot a nyugati vallási kultúrával.
+:68. Magyar szentek, mint például István, László és Erzsébet, a határokon túl is ismertté és tisztelté váltak.
+:69. Ez a szentkultusz – mivel emelte a királyság tekintélyét – Magyarország hozzájárulása volt a közös keresztény kultúrához.
+:70. A 14. században az Anjou-dinasztia új kulturális impulzusokat hozott Magyarországra Olaszországból és Franciaországból.
+:71. Az Anjou-ház, mivel a Nápolyi Királyságból származott, összekötötte Magyarországot a Földközi-tengeri térség udvari kultúrájával.
+:72. Károly Róbert és Nagy Lajos uralkodása alatt a magyar udvar egyre inkább közeledett Nyugat-Európa lovagi és udvari stílusához.
+:73. A lovagi kultúra – a tornákkal, a címerekkel és az udvari szokásokkal együtt – egyre erőteljesebben terjedt el az országban.
+:74. Nagy Lajos – mivel Lengyelország királya is lett – szorosabban összekapcsolta Magyarországot északi szomszédjával.
+:75. Nápolyba és a Balkánra indított hadjáratai – mivel hatalmas területeket érintettek – kiszélesítették a kulturális látókört.
+:76. A 15. században Magyarország Zsigmond király alatt tovább nyitott Nyugat és Dél felé.
+:77. Zsigmond – mivel egyidejűleg német király és császár is lett – Magyarországot a nagy európai politika részévé tette.
+:78. Az általa összehívott konstanzai zsinat egész Európából összehozta a tudósokat és a méltóságokat.
+:79. A magyar egyházi személyek és diplomáciai képviselők, mivel részt vettek ilyen gyűléseken, bekapcsolódtak az európai tudományos eszmecserébe.
+:80. A nyugattal való kulturális kapcsolatok csúcspontját Mátyás király uralkodása jelentette.
+:81. Mátyás, mivel az olasz reneszánszot hozta udvarába, Magyarországot közvetlenül összekapcsolta a kor kulturális központjával.
+:82. Házassága Beatrix von Aragónnal, egy nápolyi hercegnővel, az olasz udvari kultúrát hozta Ofenbe.
+:83. Vele együtt – mivel tudósokat és művészeket hozott magával – a reneszánsz szelleme is beépült az udvar mindennapi életébe.
+:84. Olasz humanisták, építészek és művészek dolgoztak az udvarban, és alakították annak kulturális arculatát.
+:85. A Bibliotheca Corviniana – mivel egész Európából gyűjtött műveket – e világnyitott szellem kifejeződése volt.
+:86. Az udvar kapcsolatokat ápolt Firenzével, Rómával, Nápollyal és a reneszánsz egyéb központjaival.
+:87. Tudósok, mint például a firenzei Galeotto Marzio, Magyarországon tartózkodtak, és beszámoltak a királyról és birodalmáról.
+:88. Az ilyen beszámolók – mivel Magyarországot bemutatták Európa művelt világának – megerősítették az ország hírnevét, mint kulturális központot.
+:89. A Németországból érkező könyvnyomtatás hamar eljutott Magyarországra.
+:90. Az első nyomda Ofenben – mivel már 1473-ban működött – jól mutatja a nyugati újítások gyors befogadását.
+:91. A középkori Magyarország kulturális kapcsolatait így a nyugat és a kelet felé irányuló kettős orientáció jellemezte.
+:92. Nyugatról érkezett a latin kereszténység, a skolasztikus műveltség és a reneszánsz.
+:93. Keletről a bizánci művészet, a görög műveltség és a sztyeppei tapasztalatok hatottak.
+:94. Ez a kettős hatás – mivel különböző világokat kötött össze – különleges sokrétűséget kölcsönzött a magyar kultúrának.
+:95. A Szent Korona latin és görög elemeivel ezt a szintézist testesíti meg egyetlen tárgyban.
+:96. E csere közvetítői a királyok, a papság, a kereskedők, a telepesek és a diákok voltak.
+:97. A királyok, mivel házasságok és diplomácia révén építettek ki kapcsolatokat, megnyitották az országot a külföldi hatások előtt.
+:98. A papok, mivel nemzetközi rendekhez tartoztak, összekötötték Magyarországot Európa szellemi kultúrájával.
+:99. A kereskedők, mivel árukat és híreket szállítottak, összekötötték az országot a kontinens kereskedelmi hálózataival.
+:100. A telepesek, mivel idegen szokásokat és technikákat hoztak magukkal, tartósan gazdagították a kulturális életet.
+:101. A diákok, mivel nyugati egyetemeken tanultak, átadták a megszerzett tudást szülőföldjüknek.
+:102. Ezen csatornákon keresztül folyamatos áramlatban érkeztek ötletek, művészetek és áruk a királyságba.
+:103. Az építészetben ez a kölcsönhatás különösen jól látható az ország román és gótikus épületeiben.
+:104. A román stílus Olaszországból és a Birodalomból érkezett, a gótika pedig Franciaországon és a ciszterciek révén.
+:105. Végül a reneszánsz – mivel Olaszországból származott – Mátyás udvarán keresztül jutott el az országba.
+:106. A művészetben a bizánci, a nyugati és a hazai elemek önálló műalkotásokká egyesültek.
+:107. A László-legenda falfestményei – mivel a nyugati képi nyelvet nemzeti témákkal ötvözték – tanúskodnak erről az összeolvadásról.
+:108. A nyelvben a kapcsolatok számos szláv, német, latin és olasz jövevényszót hagytak hátra.
+:109. Ezek a jövevényszavak – mivel az élet egész területeit áthatják – tanúsítják a kulturális csere mélységét.
+:110. A szláv nyelvből a magyar nyelvbe kerültek a földműveléssel, a közigazgatással és a mindennapi élettel kapcsolatos szavak.
+:111. A német nyelvből – mivel sok városlakó német volt – a kézművesség és a városi élet fogalmai származnak.
+:112. A latin nyelvből, az egyház és a tudomány nyelvéből, a jog és az oktatás fogalmai kerültek be.
+:113. A nyelv így tükrözi az ország sokszínű kulturális találkozásait.
+:114. A vallás is a Nyugat és a Kelet közötti állandó kapcsolatok színtere volt.
+:115. A birodalom keleti és déli részein – mivel ott ortodox keresztények éltek – kapcsolat állt fenn a bizánci egyházzal.
+:116. A román és szerb lakosság az ortodox hithez tartozott, míg a magyarok katolikusok voltak.
+:117. Ez a különböző rítusok egymás mellett élésén alapuló együttélés meghatározta a határvidékek vallási életét.
+:118. A királyoknak – mivel több népet is uraltak – közvetíteniük kellett a felekezetek között.
+:119. Az iszlám világgal való kapcsolat elsősorban a növekvő oszmán fenyegetés miatt jött létre.
+:120. Az oszmánok – mivel a 14. századtól kezdve terjeszkedtek – a nagy ellenséggé és egyben szomszéddá váltak.
+:121. Az Oszmán Birodalommal vívott harcokból mind ellenségeskedés, mind pedig bizonyos mértékű kulturális csere alakult ki.
+:122. Az oszmánok elleni védekezés – mivel egész Európát érintette – Magyarországot a kereszténység védőbástyájává tette.
+:123. Ez a szerep – mivel meghatározta a magatartásképet – szorosan összekapcsolta Magyarországot az egész kontinens sorsával.
+:124. A kulturális kapcsolatok tehát nem csupán békés jellegűek voltak, hanem konfliktusokból és védekezésből is fakadtak.
+:125. A háború és a kereskedelem, a missziós tevékenység és a házasság, a tanulmányok és a zarándoklatok alkották a csere útjait.
+:126. Mindezeknek az utaknak köszönhetően – mivel összekötötték az országot a világgal – Magyarország továbbra is az európai kulturális térség része maradt.
+:127. A kultúrák közötti földrajzi elhelyezkedés egyszerre hozott magával lehetőségeket és veszélyeket is.
+:128. Magyarországot közvetítővé tette, ugyanakkor hatalmas szomszédok nyomásának is kitéve hagyta.
+:129. A kulturális nyitottság – mivel befogadta az idegen ösztönzéseket – elősegítette a művészetek és a tudomány virágzását.
+:130. Ugyanakkor az ország – mivel saját nyelvvel és hagyományokkal rendelkezett – megőrizte kulturális önállóságát.
+:131. Az idegen és a saját elemeinek ötvözéséből alakult ki a magyar kultúra sajátos arculata.
+:132. A bizánci kapcsolatok a kora és a magas középkorban különösen jelentősek voltak.
+:133. Bizánc hanyatlásával – mivel hatalmát vesztette – a Nyugat egyre inkább előtérbe került.
+:134. Konstantinápoly 1453-as oszmán hódítása végleg véget vetett a régi bizánci világnak.
+:135. Ezt követően – mivel a keleti műveltség forrása elapadt – Magyarország szinte teljes mértékben a nyugati humanizmus felé fordult.
+:136. A reneszánsz Mátyás udvarában jelentette e nyugati orientáció csúcspontját.
+:137. Ez azt mutatta, hogy Magyarország gyorsan és kreatívan tudta befogadni Európa legújabb kulturális áramlatait.
+:138. A kulturális kapcsolatok így jelentősen hozzájárultak a késő és a késő középkor kulturális virágzásához.
+:139. A Nyugattal és Kelettel való csere nélkül – amely folyamatosan új ösztönzéseket nyújtott – ez a virágzás nem lett volna lehetséges.
+:140. Az építészet, a művészet, a tudomány és a nyelv sokszínűségüket és gazdagságukat ezeknek a kapcsolatoknak köszönhették.
+:141. A magyar királyok tudatosan támogatták ezt a cserét, mert felismerték, hogy ez a birodalom megerősítésének eszköze.
+:142. Tudósokat, művészeket és telepeseket hívtak meg, és szövetségeket kötöttek idegen udvarokkal.
+:143. Az egyház – mivel nemzeti határokon átnyúló szervezet volt – tartósan összekötötte Magyarországot Európa szellemi közösségével.
+:144. A városok – mivel idegen telepesek is részt vettek alapításukban – közvetítették a nyugati életmódokat.
+:145. A kereskedelem – mivel árukat és híreket cserélt – életben tartotta a kapcsolatot a külvilággal.
+:146. A kulturális kapcsolatok így áthatották a társadalmi élet minden területét.
+:147. Ezek az egykori sztyepp népet az európai népek családjának szilárd részévé tették.
+:148. A keleti származásra vonatkozó emlék – mivel krónikákban és legendákban őrizték meg – mindazonáltal fennmaradt.
+:149. Így a sztyeppés múlt tudata összekapcsolódott a keresztény nyugati világhoz való életteli tartozással.
+:150. Ez a feszültség – mivel a magyarok önképét formálta – áthatja egész középkori történelmüket.
+:151. A Szent Korona mint szimbólum, a nyelv mint örökség és a kereszténység mint hitvallás tartotta össze a két világot.
+:152. A kulturális kapcsolatok soha nem voltak egyoldalúak, hanem az adás-vételen alapultak.
+:153. Magyarország befogadta a művészetet, a tudást és a hitet, de szenteket, tudósokat és harcosokat is adott Európának.
+:154. A magyar szentek – mivel határokon átnyúlóan tisztelték őket – gazdagították a kontinens vallási kultúráját.
+:155. A mongolok és az oszmánok elleni védekezés – mivel egész Európát védte – hozzájárult a közös biztonsághoz.
+:156. Így Magyarország kölcsönös kapcsolatok hálójában állt szomszédjaival és a tágabb világgal.
+:157. A Nyugat és Kelet közötti közvetítői szerep – mivel ez jellemezte az országot – egyszerre jelentett terhet és előnyt.
+:158. Ez arra kényszerítette Magyarországot, hogy folyamatosan szembesüljön idegen hatalmakkal és kultúrákkal.
+:159. De éppen ebből a szembesülésből – mivel kihívást jelentett az ország számára – fakadt kulturális ereje.
+:160. Magyarország középkori történelmét ezért nem lehet megérteni anélkül, hogy figyelembe vennénk kapcsolatait.
+:161. Minden korszak – mivel saját kapcsolatait ápolta – sajátos kulturális hatásokat eredményezett.
+:162. A korai időszakot a Nyugat által történő megtérés és a Bizánccal való kapcsolatok határozták meg.
+:163. A kora középkor hozta magával a nemzetközi rendeket, a keresztes hadjáratokat és a dinasztikus kötelékeket.
+:164. A késő középkor az Anjou-házon és Zsigmondon keresztül vezetett az európai nagyhatalmi politikához, majd végül a reneszánszhoz.
+:165. Ezen szakaszok mindegyikében – mivel az országot másokkal összekötötték – nőtt a kulturális gazdagság.
+:166. A hatások sokfélesége a magyar kultúrát az európai középkor tükrévé tette.
+:167. Ugyanakkor megőrizte saját nyelvét és hagyományait, mint megkülönböztető magját.
+:168. A nyitottság és az önállóság ezen összekapcsolódása jellemzi az ország kulturális történelmét.
+:169. A kulturális kapcsolatok így Magyarország teljes fejlődésének egyik alapvető hajtóerejévé váltak.
+:170. Összekötötték az országot a kereszténységgel, Bizánccal és a humanizmus világával.
+:171. Ezek révén Magyarország aktív résztvevőjévé vált Európa szellemi és művészeti életének.
+:172. Az emberek, áruk és eszmék cseréje – mivel soha nem szakadt meg – mozgásban tartotta az országot.
+:173. A késő és a késő középkor kulturális virágzása ezek nélkül a kapcsolatok nélkül elképzelhetetlen lett volna.
+:174. Ez azt mutatja, hogyan válhatott egy Európa peremén fekvő királyság a kulturális találkozások központjává.
+:175. A Nyugat és Kelet közötti elhelyezkedés – mivel kényszerítette a találkozásokat – a magyar kultúra meghatározó feltételévé vált.
+:176. Ebből fakadt a Szent Korona szintézise, a népek sokszínűsége és a művészetek gazdagsága.
+:177. A kulturális kapcsolatok így a földrajzot, a politikát és a szellemet egységes folyamatba fonta össze.
+:178. Ezek tették a középkori Magyarországot Európa nagy kultúrái közötti közvetítő országgá.
+:179. Ebben a közvetítői szerepben rejlik a magyar történelem egyik maradandó sajátossága.
+:180. A Nyugat-Európával és Bizánccal folytatott csere így elválaszthatatlanul hozzátartozik a középkori királyság kulturális virágzásához. 
+
+=== 5.7.7 – Egyetemi oktatás: korai kezdetek és külföldi tanulmányi helyszínek ===
+
+:1. Az egyetem a késő középkori Nyugat-Európa alkotása volt, amelyet a Magyar Királyság csak későn és nehezen vett át. 
+:2. Európa első egyetemei – mivel a 12. és 13. században Bolognában, Párizsban és Oxfordban jöttek létre – messze feküdtek Magyarországtól.
+:3. Ezek a felsőoktatási intézmények – amelyeket tanárok és diákok közösségeiként fogtak fel – tudományos fokozatokat adományoztak, és elismert képesítéseket biztosítottak végzőseiknek.
+:4. Magyarországon kezdetben hiányzott minden ilyen intézmény, így a felsőfokú tanulmányok kizárólag külföldön voltak lehetségesek.
+:5. A hazai oktatás a kolostori és székesegyházi iskolákra korlátozódott, amelyek csupán alapismereteket nyújtottak.
+:6. Ezek az iskolák – mivel latin nyelvet, nyelvtant és teológiát tanítottak – felkészítettek a továbbtanulásra, de nem helyettesítették azt.
+:7. Aki felsőfokú oktatásra vágyott, annak ezért a nyugati egyetemekre kellett utaznia.
+:8. A magyar diákok – mivel a nagy egyetemek korai hallgatói közé tartoztak – már korán kapcsolatokat építettek ki az európai tudományos élethez.
+:9. Már a 12. században is találunk magyarokat a párizsi iskolák hallgatói között.
+:10. Párizs – mivel a teológia vezető központja volt – különösen vonzotta a vallás iránt érdeklődő hallgatókat.
+:11. A jogi karáról híres bolognai egyetem volt a leendő jogászok kedvelt célpontja.
+:12. Mivel ott a római és a kánonjogot tanították, a királyság jövőbeli bírái és jegyzői ott képezték magukat.
+:13. A domonkos rendi Paulus Ungarus maga is egyházi jogot tanított Bolognában, és ott írt egy ismert gyónási kézikönyvet.
+:14. Tevékenysége – mivel egy magyar tanárt mutat be egy nagy egyetemen – bizonyítja a korai bekapcsolódást az európai tudásba.
+:15. A bolognai magyar diákok – mivel nagy számban voltak – saját nemzetiségi egyesületet alapítottak.
+:16. Az ilyen „nemzetiségek”, ahogyan ezeket a diákközösségeket nevezték, egy adott régióból származó diákok érdekeit képviselték.
+:17. A bolognai magyar nemzet, mivel saját alapszabályokkal rendelkezett, a magyarok szilárd jelenlétéről tanúskodik ezen az egyetemen.
+:18. Bologna mellett a magyar diákok az olaszországi Padovában, Ferrarában és Sienában is tanultak.
+:19. Padova, mivel az orvostudományról és a jogtudományról volt híres, sok magyar orvost és jogászt vonzott.
+:20. Az olasz egyetemek az egész középkor folyamán a magyarok számára a legfontosabb tanulmányi helyszínek maradtak.
+:21. A német nyelvterületen később a bécsi egyetem nyert nagy jelentőséget a magyar hallgatók számára.
+:22. Bécs – mivel közel volt és jól megközelíthető – az Alpoktól északra a magyarok számára a legjelentősebb tanulmányi helyszínné fejlődött.
+:23. A 1365-ben alapított Bécsi Egyetem hamarosan jelentős magyar hallgatói közösségnek adott otthont.
+:24. Mivel ott magyar nemzeti szervezetet hoztak létre, a Királyságból érkező hallgatók ott szerveződtek össze.
+:25. A krakkói és a prágai egyetemet is látogatták magyar hallgatók.
+:26. Prága – mivel Közép-Európa első egyeteme volt – 1348 óta vonzotta a szomszédos országokból érkező hallgatókat.
+:27. A 14. században alapított Krakkó különösen az észak-magyarországi hallgatók számára nyert jelentőséget.
+:28. A tanulmányi hely kiválasztása – mivel az elhelyezkedéstől, a hírnévtől és a szakiránytól függött – a hallgatók igényeihez igazodott.
+:29. Aki teológiát akart tanulni, inkább Párizsba vagy Bécsbe ment, aki jogot akart tanulni, Bolognába vagy Padovába.
+:30. Az orvostanhallgatók – mivel a híres iskolákat keresték – elsősorban Olaszországba vonultak.
+:31. A külföldi tanulmányok – mivel drágák és hosszadalmasak voltak – egy szűk elit kiváltságai közé tartoztak.
+:32. A nemesség és a jómódú polgárság fiai, valamint a tehetséges egyházi személyek engedhették meg maguknak ezt az utat.
+:33. Az ösztöndíjak és az egyházi javadalmak – mivel biztosították a megélhetést – sok szegény hallgató számára tették lehetővé a tanulmányokat.
+:34. Az egyház – mivel képzett papokra volt szüksége – támogatta tehetséges fiainak tanulmányait.
+:35. A hazatérő diplomások – mivel magas tisztségeket vállaltak – meghatározó szerepet játszottak az ország egyházában, államában és társadalmában.
+:36. Püspökök, katedráliskanonokok, királyi tanácsosok, bírák és orvosok lettek, és tudásukat a közéletbe vitték.
+:37. Az akadémiai fokozatok – mivel Európa-szerte elismertek voltak – előrelépést és tekintélyt biztosítottak viselőiknek.
+:38. A magister és a doktor fokozat, mint legmagasabb rangok, különleges tekintélyt kölcsönöztek viselőiknek.
+:39. A saját egyetem hiánya – mivel ez a tudás behozatalát tette szükségessé – Magyarországot hosszú ideig függővé tette a külföldi felsőoktatási intézményektől.
+:40. Ez a függőség – mivel erősítette a kulturális kötődést Európához – egyúttal integráló hatást is gyakorolt.
+:41. A magyar királyok végül felismerték, hogy egy saját egyetem hasznot és tekintélyt hozna az országnak.
+:42. Az első kísérlet egy egyetem alapítására – mivel azt Nagy Lajos király kezdeményezte – a 14. századra nyúlik vissza.
+:43. 1367-ben Lajos a Fünfkirchen nevű városban alapította meg az első egyetemet magyar földön.
+:44. Ez az egyetem – mivel pápai megerősítést kapott – teljes jogú, európai mintára épülő felsőoktatási intézmény volt.
+:45. Kezdetben jogi profilú volt, és elsősorban jogtudósokat kívánt képezni.
+:46. Az alapítás – mivel egy olasz jogtudós is közreműködött benne – a bolognai hagyományokra épült.
+:47. Az ötkeresztes egyetem azonban – mivel hiányzott a tartós pénzügyi és intézményi alapja – csupán néhány évtizedig működött.
+:48. Támogatója halála után – mivel a támogatás megszűnt – a fiatal felsőoktatási intézmény ismét hanyatlásnak indult.
+:49. Így az első kísérlet egy magyar egyetem létrehozására nem járt tartós sikerrel.
+:50. A második kísérlet, amelyet Zsigmond király tett, a 15. század elejére tehető.
+:51. Zsigmond 1395 körül egyetemet alapított Ofen városában, a királyi rezidencián.
+:52. Ez a felsőoktatási intézmény, mivel a királyi hatalomhoz kötődött, az ország szellemi életét hivatott erősíteni.
+:53. Az ofeni egyetem azonban – mivel nem rendelkezett a szükséges állandósággal – szintén csak rövid ideig működött.
+:54. A politikai zűrzavarok és a tartós finanszírozás hiánya – mivel gyengítették az intézményt – hanyatlásához vezettek.
+:55. Így az első magyar egyetemek strukturális és politikai nehézségek miatt buktak meg.
+:56. A kudarc okai – mivel mélyen gyökereztek – a finanszírozás, a tanári hiány és a politikai instabilitás voltak.
+:57. Egy egyetemnek művelt professzorokra volt szüksége, akiket nehéz volt tartósan az országba csábítani.
+:58. Biztos bevételekre volt szüksége, amelyek a zavaros időkben gyakran nem voltak garantálva.
+:59. Ezenkívül elegendő számú, tanulni vágyó hallgatóra volt szüksége, akiknek száma a ritkán lakott országban korlátozott maradt.
+:60. A Bécshez való közelség – mivel kényelmes alternatívát nyújtott – ráadásul gyengítette a hazai egyetemalapításokat.
+:61. Amíg Bécs könnyen elérhető volt – hírneve és hagyományai miatt –, sokaknak hiányzott az ösztönzés arra, hogy Magyarországon tanuljanak.
+:62. A harmadik és legambiciózusabb kísérlet – mivel Mátyás király vállalkozott rá – a 15. század második felére esik.
+:63. Mátyás, aki támogatta a reneszánszot, egy nagy egyetemmel akarta díszíteni birodalmát.
+:64. A művelt Vitéz János érsekkel közösen tervezte egy felsőoktatási intézmény alapítását Pozsonyban.
+:65. Ez az egyetem, amelyet Academia Istropolitana néven emlegettek, 1467-ben jött létre.
+:66. Neve – mivel a Duna-parti város görög nevét veszi át – alapítóinak humanista szellemiségét tükrözi.
+:67. Az Academia Istropolitana – mivel híres tudósokat hívott meg – európai rangú felsőoktatási intézménynek szánták.
+:68. Regiomontanus csillagász és más neves tudósok, akiket oda hívtak, dicsőséget hoztak az intézménynek.
+:69. Az egyetem a szabad művészetek, a teológia, a jog és az orvostudomány területén kínált tanulmányi lehetőségeket.
+:70. De ez az intézmény is, mivel szorosan kötődött támogatóihoz, nem bizonyult tartósnak.
+:71. Miután Vitéz János kegyvesztetté vált és meghalt, támogatójának hiányában az egyetem nehézségekbe került.
+:72. Mátyás 1490-ben bekövetkezett halála után, a királyi támogatás megszűnése miatt, az Academia Istropolitana véglegesen hanyatlásnak indult.
+:73. Így kudarcot vallott a harmadik kísérlet is, hogy Magyarországon tartós egyetemet alapítsanak.
+:74. A középkor ezzel véget ért anélkül, hogy az országnak saját, tartós felsőoktatási intézménye lett volna.
+:75. A magyar egyetemi oktatás így az egész középkor során befejezetlen maradt.
+:76. A hazai alapítások – mivel mindegyik csak rövid ideig létezett – nem tudták helyettesíteni a külföldi egyetemeket.
+:77. A felsőoktatás tényleges helyszíne ezért továbbra is a külföld maradt, elsősorban Olaszország és Bécs.
+:78. Ez a helyzet – mivel a diákokat külföldre kényszerítette – messzemenő következményekkel járt a magyar kultúrára nézve.
+:79. Egyrészt azért, mert a diákok idegen tudást hoztak magukkal, gazdagítva ezzel az ország szellemi életét.
+:80. Másrészt viszont, mivel a művelődés külföldre koncentrálódott, hiányzott a hazai tudományos központ.
+:81. A hazatérő diplomások mindazonáltal egy művelt réteget alkottak, amely meghatározó hatással volt az országra.
+:82. Nemcsak tudást, hanem könyveket, ötleteket és kapcsolatokat is hoztak magukkal haza.
+:83. A székesegyházi káptalanok és kolostorok könyvtárai – mivel ezek a tudósok gazdagították őket – egyre bővültek.
+:84. A humanista hallgatók – mivel Olaszországban sajátították el az új műveltséget – elhozták a reneszánszot Magyarországra.
+:85. Janus Pannonius költő, aki Ferrarában és Padovában tanult, az ország legjelentősebb humanistájává vált.
+:86. Mivel olasz egyetemeken szerezte műveltségét, a reneszánsz közvetítőjévé vált.
+:87. Az ilyen tudósok, mivel Magyarország és Olaszország között tevékenykedtek, humanista kapcsolati hálót hoztak létre.
+:88. Vitéz János érsek, mivel könyveket gyűjtött és tudósokat támogatott, e háló központi alakja volt.
+:89. Körének – mivel művelt embereket gyűjtött maga köré – egyfajta akadémiai közösséget alkotott, hivatalos egyetem nélkül.
+:90. Az ilyen tudósokból álló körök – mivel ápolták a szellemi eszmecserét – részben pótolták a hiányzó felsőoktatási intézményt.
+:91. A magyarok egyetemi képzése így két pilléren nyugodott: a külföldi tanulmányokon és a rövid életű hazai alapításokon.
+:92. A külföldi egyetemek – mivel állandóságot biztosítottak – a felsőoktatás megbízható alapját képezték.
+:93. A hazai alapítások – mivel újra és újra megpróbáltak saját felsőoktatási intézményeket létrehozni – az önállóságra való törekvésről tanúskodnak.
+:94. Mindkettő együtt – mivel kiegészítették egymást – biztosította Magyarország részvételét az európai tudományos életben.
+:95. Az egyetemek névjegyzékei, amelyekbe a hallgatókat bejegyezték, fontos forrásai ennek a történetnek.
+:96. Ebből a névjegyzékekből – mivel rögzítik a neveket és a származási helyeket – kiolvasható a magyar hallgatók száma.
+:97. A bejegyzések – mivel évszázadokra nyúlnak vissza – a magyar hallgatók külföldre irányuló folyamatos áramlását mutatják.
+:98. Különösen a bécsi és krakkói hallgatói névjegyzékek – mivel számos magyar nevet tartalmaznak – tanúsítják ezt a szoros kapcsolatot.
+:99. A tanulmányi idő – mivel több évet ölelt fel – tartósan meghatározta a fiatal férfiak életét.
+:100. Ott nemcsak a szakmájukat sajátították el, hanem idegen nyelveket, szokásokat és gondolkodásmódokat is megismertek.
+:101. A tanulmányok többnyire a szabad művészetekkel, az úgynevezett művészeti karral kezdődtek.
+:102. Csak ezt az alapképzést követően – mivel ez volt az előfeltétele – lehetett a magasabb szintű karok felé fordulni.
+:103. A magasabb szintű karok a teológia, a jog és az orvostudomány voltak, amelyek a szakismereteket közvetítették.
+:104. A teológia, mivel a tanulmányok csúcspontját jelentette, a legigényesebb és leghosszadalmasabb karnak számított.
+:105. A jogi tanulmányok, mivel gyakorlati hasznot ígértek, különösen népszerűek voltak a leendő tisztviselők körében.
+:106. Az orvostudomány, mivel ritkábban választották, kisebb, de nagy tekintélynek örvendő csoportot hozott létre.
+:107. A baccalaureus, a magister és a doktor tudományos fokozatok jelölték a tanulmányi siker szakaszait.
+:108. A doktori cím – mivel a legmagasabb rangot jelentette – tekintélyt és oktatási jogosultságot biztosított viselőjének.
+:109. Sok magyar – miután megszerezte ezeket a fokozatokat – elismert tudósként tért vissza szülőföldjére.
+:110. Mások, mivel külföldön építették karrierjüket, az idegen egyetemeken vagy európai udvarokban maradtak.
+:111. Az oktatási vándorlás így mindkét irányban zajlott: kifelé és visszafelé egyaránt.
+:112. A Magyarország és az európai egyetemek közötti kapcsolat – mivel soha nem szakadt meg – biztosította, hogy az ország kapcsolatban maradjon a tudományos élet világával.
+:113. A saját egyetem hiánya – bár hiányosságot jelentett – nem akadályozta ezt a részvételt.
+:114. Éppen ellenkezőleg: mivel a diákokat külföldre késztette, elősegítette a nemzetközi cserét.
+:115. A magyar diákok így hazájuk nagyköveteivé váltak a nagy oktatási központokban.
+:116. Európa tudását Magyarországra, Magyarországról szóló tudást pedig Európába vitték.
+:117. Az ismételt alapítási kísérletek – mivel a saját oktatás értékének tudatosságát mutatták – nem maradtak hatástalanok.
+:118. Előkészítették a talajt a későbbi, sikeresebb újkori alapítások számára.
+:119. Az Ötkövesd, Ofen és Pozsony emléke – mivel tovább élt – összekötő szálat jelentett a későbbi egyetemi történelemhez.
+:120. Az Academia Istropolitana – mivel ez volt a legambiciózusabb az alapítási kísérletek közül – példaként maradt meg az emlékezetben.
+:121. Megmutatta, hogy Magyarország elvileg képes volt létrehozni egy európai szintű felsőoktatási intézményt.
+:122. Az, hogy ez az intézmény nem maradt fenn, mert támogatóihoz kötődött, a körülmények végzetes következménye volt.
+:123. Magyarország középkori egyetemi oktatása így a törekvés és az ismételt kudarcok története.
+:124. Ugyanakkor azt is megmutatja, hogy az ország minden akadály ellenére milyen szorosan kapcsolódott az európai oktatási rendszerhez.
+:125. A külföldi egyetemek képezték azt a hidat, amelyen keresztül a tudományos ismeretek eljutottak Magyarországra.
+:126. A hazai egyetemalapítások – mivel saját erőfeszítéseikkel akarták kiegészíteni ezt az áramlást – csupán epizódok maradtak.
+:127. Csak a kora újkorban – mivel a körülmények megváltoztak – sikerült egyetemeket tartósan létrehozni.
+:128. E későbbi sikerek gyökerei – mivel a középkorban feküdtek – az itt leírt kísérletekig nyúlnak vissza.
+:129. Magyarország oktatástörténete így egy periférián fekvő ország arra irányuló erőfeszítésének példája, hogy részt vegyen a tudományos életben.
+:130. Ez egyrészt a nagy központoktól való függőséget, másrészt a saját tudás megszerzésére irányuló akaratot mutatja.
+:131. A magyar diákok – mivel áthidalták ezt a szakadékot – biztosították országuk részvételét az európai tudásban.
+:132. Utazásaik, tanulmányaik és hazatérésük képezték a magyar középkori egyetemi oktatás valódi magját.
+:133. A tanulmányi helyszínek nevei – Bolognától Párizson át Bécsig és Krakkóig – leírják e tudás útját.
+:134. Mivel mindegyik helynek megvoltak a maga sajátos hangsúlyai, mindegyik különleges módon formálta az ott képzett magyarokat.
+:135. Bolognából a jogtudomány, Párizsból a teológia, Padovából az orvostudomány és a humanizmus érkezett.
+:136. Bécsből széles körű, gyakorlatias képzés érkezett, amely sok leendő egyházi személyt és tisztviselőt nevelt ki.
+:137. Ez a források sokfélesége – mivel különböző hagyományokat egyesített – gazdagította a magyar tudományos kultúrát.
+:138. A diákok nemcsak tudást, hanem tankönyveket és kéziratokat is hazavittek szülőföldjükre.
+:139. Ezek a könyvek – mivel a hazai könyvtárakban őrizték őket – gyarapították az ország szellemi kincseit.
+:140. A Bibliotheca Corviniana – mivel a tudás iránti törekvést koronázta meg – e művelődési kultúra kifejeződése volt.
+:141. Bár nem helyettesítette az egyetemet, a tudósoknak gazdag alapot nyújtott tanulmányaikhoz.
+:142. A király és püspökei köré csoportosuló humanista körök – mivel ápolták a tudományos eszmecserét – pótolták a hiányzó egyetemi életet.
+:143. Így alakult ki Mátyás udvarában egy olyan oktatási kultúra, amely bizonyos tekintetben közel állt az egyetemi élethez.
+:144. Ám mivel személyekhez kötődött, és nem rendelkezett szilárd intézményi háttérrel, ez a kultúra nem lehetett tartós.
+:145. Az udvar 1490 utáni hanyatlásával ez a tudós közösség is elvesztette támaszát.
+:146. A magyar középkori egyetemi oktatás így saját, tartós alap nélkül ért véget.
+:147. Ugyanakkor maga után hagyott egy művelt réteget és az európai tudományhoz fűződő kapcsolati hálót.
+:148. Ez az örökség – mivel hatása továbbra is érvényesült – képezte az alapját a magyar oktatási rendszer későbbi fejlődésének.
+:149. A korai alapítási kísérletek – bár kudarcot vallottak – bizonyították az ország saját felsőoktatás iránti akaratát.
+:150. Ezek egy olyan fejlődés előjelei voltak, amely csak évszázadokkal később nyert végleges formát.
+:151. E kísérletek története jól mutatja egy periférián fekvő királyság nehézségeit.
+:152. Ugyanakkor azt is megmutatja, hogy az ország fáradhatatlanul törekedett a tudományos világban való részvételre.
+:153. A külföldi egyetemeken tanuló magyar hallgatók testesítették meg leginkább ezt a törekvést.
+:154. Hatalmas távolságokat és költségeket leküzdöttek annak érdekében, hogy elsajátítsák koruk tudását.
+:155. Erőfeszítéseik – mivel művelt embereket hoztak az országnak – az egyház, az állam és a kultúra javát szolgálták.
+:156. Az akadémiai képzés, bár külföldön szerezték meg, tartósan meghatározta Magyarország szellemi életét.
+:157. A hazai előképzés és a külföldi tanulmányok közötti kapcsolat képezte e képzés gerincét.
+:158. A kolostori és dómiskolák lefektették az alapokat, a nyugati egyetemek pedig befejezték a munkát.
+:159. Ebből az együttműködésből – mivel generációknyi tudóst nevelt ki – nőtt ki az ország szellemi elitje.
+:160. Ez az elit – mivel tisztségeket és befolyást birtokolt – eljuttatta a tudományos ismereteket a társadalom minden területére.
+:161. Az egyetemi képzés így – saját felsőoktatási intézmény hiányában is – a magyar kultúra hatékony alkotóeleme volt.
+:162. A diákok és a tudósok révén tartósan összekapcsolta az országot Európa szellemi életével.
+:163. Az ötkeresztúr, a pécsi és a pozsonyi egyetemek ismételt alapításai jelölték a hazai törekvés állomásait.
+:164. Mivel mindegyik alapítás különleges körülmények miatt kudarcot vallott, mindegyik tanulságot ad a kor nehézségeiről.
+:165. Az ötkeresztúri kezdeményezés a tartósság hiánya miatt, a pécsi a politikai zűrzavarok miatt, a pozsonyi pedig támogatói halála miatt bukott meg.
+:166. Mivel mindegyik csak rövid ideig létezett, közös bennük a tartós intézményi alap hiánya.
+:167. Csak az állami hatalom, az egyházi támogatás és a társadalmi igény összekapcsolódása – mivel ez később sikerült – biztosította a fennmaradást.
+:168. A középkorban, mivel ez az összekapcsolódás hiányzott, az alapítások tartós siker nélkül maradtak.
+:169. A magyar középkori egyetemi oktatás története ezért a kezdetek és a megszakítások jegyében telik.
+:170. Ez tükrözi annak az országnak az általános helyzetét, amely későn csatlakozott az európai oktatási világhoz.
+:171. De éppen ez a törekvés – mivel soha nem adták fel – tartozik a magyar kultúra figyelemre méltó vonásai közé.
+:172. A magyar tudósok – akár külföldön tanultak, akár a rövid életű felsőoktatási intézményekben dolgoztak – továbbadták a tudást.
+:173. Összekötötték hazájukat a skolasztika és a humanizmus nagy áramlataival.
+:174. Teljesítményeik a középkori királyság kulturális virágzásának fontos hozzájárulásai közé tartoznak.
+:175. Az egyetemi oktatás így olyan terület volt, ahol Magyarország erőfeszítései és törekvései egyaránt megnyilvánultak.
+:176. A korai kezdeményezések megteremtették az alapot, amelyre az ország későbbi oktatástörténete épülhetett.
+:177. A külföldi tanulmányi helyszínek eközben biztosították a folyamatos kapcsolatot az európai tudományossággal.
+:178. E két tényező együttes hatásának köszönhetően alakult ki a magyarok középkori oktatási rendszere.
+:179. Ezt a rendszert egyszerre jellemezte a függőség és a törekvés, a kudarc és a kitartás.
+:180. Így az egyetemi oktatás a középkori Magyarországot az európai kontextusban jellemző kulturális fejlődés egyik tanulságos elemét képezi.
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,1282 @@
+﻿ 
+
+== 2.8 – Etelköz: A Duna és a Dnyeper közötti második települési terület ==
+
+:1. Etelköz a magyarok második nagy települési területét jelöli a Kárpáti-medence elfoglalása előtti időszakban.
+:2. A név az ómagyar nyelvből származik, és annyit jelent, mint „folyók közötti vidék” vagy „a folyók közötti terület”.
+:3. Ez a megnevezés közvetlenül utal a terület földrajzi elhelyezkedésére, amelyet több nagy folyó is átszelett.
+:4. Etelköz pontos kiterjedése a kutatásokban vitatott, de a források alapján nagyjából behatárolható.
+:5. Általában a keleten a Duna alsó szakaszától nyugatra a Dnyeperig, vagy akár a Pruthig terjedő területet jelöli.
+:6. Egyes kutatók a területet az alsó Dunáig terjesztik ki, és beleértik a Dnyeszter és a Seret torkolatvidékeit is.
+:7. Ezzel Etelköz magában foglalta a mai Dél-Ukrajna nagy részét, valamint a mai Moldávia és Románia szomszédos területeit.
+:8. A régió természeti-földrajzi szempontból az eurázsiai nagy sztyeppönhöz tartozik, amely a Kárpátok medencéjétől Közép-Ázsiáig terjed.
+:9. Nyílt, nagyrészt fátlan füves területről volt szó, amely a folyóvölgyekben termékeny árterületekké sűrűsödött.
+:10. A területet átszelő számos folyó jelentette a legfontosabb életerőforrást egy nomád lovas nép számára.
+:11. Ezek biztosították a vizet az emberek és az állatok számára, termékeny legelőket a partjaikon, valamint természetes tájékozódási pontokat a vándorlásokhoz.
+:12. A görög és bizánci hagyomány néhány ilyen folyónak nevet ad, amelyek közül néhány ma is azonosítható.
+:13. Említésre kerülnek többek között olyan folyók, amelyeket a Donnal, a Dnyeperrel, a Buggal, a Dnyeszterrel és a Pruth-tal azonosítanak.
+:14. Ezek a vízfolyások a területet egyes legelőterületekre osztották fel, amelyeket a különböző törzsek használhattak.
+:15. A régió éghajlata kontinentális jellegű volt, forró, száraz nyarakkal és hideg, havas télekkel.
+:16. Az ilyen körülmények rugalmas, az évszakokhoz igazodó gazdálkodási módot tettek szükségessé, a csordák szezonális vándorlásával.
+:17. A keletebbre fekvő területekhez képest Etelköz részben kedvezőbb csapadékviszonyokat és termékenyebb legelőket kínált.
+:18. A Fekete-tengerhez és a bizánci befolyási övezethez való közelség emellett gazdasági és politikai szempontból is jelentősé tette a régiót.
+:19. A sztyeppén átvezető kereskedelmi útvonalak és a folyók révén kapcsolatok álltak fenn a krími piacokkal és a bizánci támaszpontokkal.
+:20. Etelköz elhelyezkedése tehát egyszerre jelentett előnyt és veszélyt, mivel lehetőségeket nyitott meg, de egyúttal a területet idegen behatásoknak is kitéve hagyta.
+:21. A magyarok Etelközbe vezető útja a keletebbre fekvő Levediából való elindulás következménye volt.
+:22. A pechenegek nyomása alatt, valamint belső és külső tényezők együttes hatására a törzsek nyugat felé vándoroltak.
+:23. Ez az áttelepülés nem egyszeri, rendezett vándorlás volt, hanem feltehetően több szakaszban zajlott le.
+:24. Az egyes törzscsoportok valószínűleg különböző időpontokban és különböző útvonalakon érkeztek be az új területre.
+:25. A vándorlás a sztyeppe természetes irányvonalait követte, elsősorban a nagy folyómedreket és a bevált legelőutakat.
+:26. Csordáikkal, családjaikkal és sátraikkal a magyarok bevonultak a folyók közötti területre, és fokozatosan birtokba vették azt.
+:27. Az érkezés nem állandó települések létrehozását jelentette, hanem legelők és szezonális táborhelyek birtokba vételét.
+:28. Minden törzs megkapott vagy magáénak követelt bizonyos területeket, amelyeken belül végrehajtotta szezonális vándorlásait.
+:29. A folyóvölgyek szolgáltak a legfontosabb téli táborhelyekként, míg a nyílt sztyeppék nyáron legelőként szolgáltak.
+:30. Így jött létre a mobil közösségek hálózata, amely laza, de hatékony módon ellenőrizte az egész területet.
+:31. A letelepedés első szakaszát az a szükségszerűség jellemezte, hogy meg kell állniuk a helyüket egy idegen és versengő környezetben.
+:32. A magyaroknak meg kellett erősíteniük pozíciójukat a szomszédos népekkel szemben, és egyúttal meg kellett szilárdítaniuk belső rendjüket is.
+:33. Az Etelközben való tartózkodás időkerete csak hozzávetőlegesen határozható meg.
+:34. A kutatók többsége a letelepedés kezdetét a 9. század második felére teszi.
+:35. Nagyjából 850 és 895 közötti évtizedek tekinthetők a keretnek, bár a pontos dátumok vitatottak maradnak.
+:36. Egyes történészek csupán néhány évtizedes rövid tartózkodást feltételeznek, mások hosszabb időszakot.
+:37. Bizonyos, hogy az etelközi időszak 895 körül a Kárpát-medencébe való indulással ért véget.
+:38. Ezzel Etelköz a magyarok utolsó állomása volt a tényleges földhódítás előtt.
+:39. Viszonylag rövid időtartama ellenére ennek a tartózkodásnak kiemelkedő történelmi jelentősége van.
+:40. Etelközben alakultak ki azok a politikai és katonai struktúrák, amelyek egyáltalán lehetővé tették a későbbi hódítást.
+:41. A régió így nem csupán átmeneti tartózkodási hely volt, hanem a magyar törzsi közösség meghatározó érlelőhelye.
+:42. Etelköz szomszédságát több nép is jellemezte, amelyek közvetlenül befolyásolták a magyarok sorsát.
+:43. Keleten és északon a terület a kazárok birodalmával határos volt, amelyekkel már Levediában is szoros kapcsolatok fennálltak.
+:44. A kazárok hatalmas sztyeppehatalom voltak, uralmuk a dél-orosz sztyeppe nagy részére kiterjedt.
+:45. Közöttük és a magyarok között időnként szövetségi viszonyok álltak fenn, időnként azonban feszültségek és függőségi viszonyok is.
+:46. Északon és nyugaton számos szláv törzs élt, amelyek részben letelepedett, részben félnomád életmódot folytattak.
+:47. Ezek a szlávok földműveléssel, állattenyésztéssel és kereskedelemmel foglalkoztak, és gyakran kerültek a lovas nomád szomszédok befolyási övezetébe.
+:48. A magyarok egyes szláv csoportokat adófizető alattvalókká tettek, vagy beolvasztották őket a hatalmi területükbe.
+:49. Délben, a Duna alsó szakaszán túl terült el a dunai bolgárok birodalma, amely a Keleti-Balkán egyik jelentős hatalma volt.
+:50. A bolgárok eredetileg török lovas nép voltak, akik keveredtek a Balkán szláv lakosságával.
+:51. A magyarok és a bolgárok között változatos viszony alakult ki, amelyet kereskedelem, szövetségek és véres konfliktusok jellemeztek.
+:52. A háttérben mindig ott állt a Bizánci Birodalom, amely ügyesen kijátszotta egymás ellen a sztyeppei népeket.
+:53. Bizánc többször is a magyarokat használta szövetségesként a bolgárok ellen, és így bevonta őket a Duna-vidék nagypolitikájába.
+:54. A legveszélyesebb szomszédok azonban a pechenegek voltak, egy török lovas nép, amely keletről nyomult előre.
+:55. A pechenegek már korábban is közreműködtek a Levediából való kivonulásban, és Etelközben is állandó fenyegetést jelentettek.
+:56. Keletről érkező szüntelen nyomásuk éveken át meghatározta a magyarok stratégiai helyzetét.
+:57. Etelköz így versengő hatalmak közötti feszültségi övezetben feküdt, amely sem nyugalmat, sem tartós biztonságot nem nyújtott a magyaroknak.
+:58. Ez a kiszolgáltatott helyzet a törzseket katonai éberségre és rugalmas szövetségi politikára kényszerítette.
+:59. Ugyanakkor lehetőségeket is teremtett arra, hogy hadjáratok, adókövetelések és zsoldos szolgálatok révén gazdagságot és befolyást szerezzenek.
+:60. Az Etelközről szóló ismereteink korlátozott számú írásos forrásra támaszkodnak, amelyek ráadásul eltérő megbízhatóságúak.
+:61. A legfontosabb forrás a bizánci császár, VII. Konstantin Porfirogennetos „De administrando imperio” című műve.
+:62. Ez a 10. század közepén írt mű a császári trónörökösnek szánt ismeretterjesztő mű volt az idegen népekről.
+:63. Konstantin ebben a műben ismerteti a magyarok történetét és vándorlásait, akiket „törököknek” nevez.
+:64. Adatai részben a bizánci udvarba látogató magyar követek beszámolóin alapulnak.
+:65. Ezáltal a mű különös értékkel bír, mivel részben a magyarok saját hagyományait tükrözi.
+:66. Ugyanakkor a földrajzi és kronológiai adatok gyakran homályosak és ellentmondásosak.
+:67. Egy másik jelentős forráscsoportot a középkori arab és perzsa földrajztudósok alkotnak.
+:68. Olyan szerzők, mint Ibn Rusta és Gardīzī, egy régebbi, ma már elveszett írásra hivatkoznak, amely a magyarok életét írja le.
+:69. Beszámolnak a nép életmódjáról, gazdaságáról és a sztyeppén élő nép harci szokásairól számolnak be.
+:70. Ezek a beszámolók értékes részletekkel egészítik ki a bizánci képet a nomád kultúráról.
+:71. Emellett latin és szláv krónikák is szórványos utalásokat nyújtanak a magyarok e korszakbeli tevékenységére.
+:72. Csak későbbi időből származnak a magyar krónikák, például az anonim jegyző Gesta Hungarorum című műve.
+:73. Ezek a középkori művek az események után évszázadokkal keletkeztek, és a történelmi emlékeket legendákkal keverik össze.
+:74. Az Etelközre vonatkozó adataikat ezért nagy óvatossággal kell kezelni, és csak korlátozottan használhatók fel.
+:75. Összességében a forrásokból hiányos, részben ellentmondásos kép rajzolódik ki az Etelközön folyó életről.
+:76. A kutatás ezért a különböző beszámolók kritikai összehasonlítására források kritikai összehasonlítására van szükség.
+:77. Ahol az írott források hallgatnak, ott az archeológiai ismeretek kiegészítik a képet.
+:78. Etelköz régészeti kutatása azonban jelentős nehézségekkel szembesül.
+:79. Egy nomád lovas nép természetesen sokkal kevesebb tárgyi nyomot hagy maga után, mint egy letelepedett népesség.
+:80. Mivel állandó települések nagyrészt hiányoztak, a leletek lényegében sírokra és táborhelyekre korlátozódnak.
+:81. A magyarok temetkezési szokásai meghatározott mintákat követtek, amelyek megkülönböztethetők a szomszédos népekétől.
+:82. A lovasokat gyakran lovuk egyes részeivel, fegyverekkel és személyes ékszerekkel együtt temették el.
+:83. Az ilyen lovas sírok a korai magyar kultúra jellegzetes ismertetőjeleinek számítanak.
+:84. A sírmellékletek között kardok, nyílhegyek , kengyelt, kantárt, valamint művészien kidolgozott fémvasalatokat.
+:85. Különösen jellemzőek a növényi és virágmotívumokkal díszített ezüst táska- és övvasalatok.
+:86. Ezek a leletek egy fejlett kézművességről és kiterjedt kulturális kapcsolatokról tanúskodnak.
+:87. Az egyes lelőhelyek Etelközhöz való hozzárendelése azonban továbbra is nehéz és vitatott.
+:88. A Dnyeper és a Prut közötti térségben található egyes temetkezési területeket a magyarokkal hozzák kapcsolatba.
+:89. A hosszabb ideig tartó letelepedésre utaló egyértelmű bizonyítékok azonban ritkák, és nem mindig datálhatók kétségtelenül.
+:90. A rövid tartózkodási idő és a folyamatos vándorlás tovább nehezíti a régészeti azonosítást.
+:91. Mindazonáltal a leletek illeszkednek az írott forrásokból kirajzolódó képhez, amely egy lovas nomád harcos népről szól.
+:92. Az anyagi kultúra és az írott hagyomány tehát alapvető vonásaikban megerősítik egymást.
+:93. Az Etelközben töltött idő nem csupán egy átmeneti szakasz volt, hanem elsősorban egy felkészülési szakasz.
+:94. Ezekben az években a laza törzsi közösség egy harcképes, politikailag egységes szövetséggé alakult.
+:95. E rend magját hét magyar törzs egyesülése alkotta.
+:96. Ezeket a hét törzset a források a magyar nép alapegységeiként említik.
+:97. Hozzájuk csatlakozott még három további kabár törzs, amelyek elszakadtak a Ch azárok közül szakadtak el, és csatlakoztak a magyarokhoz.
+:98. Így jött létre egy összesen tíz törzsből álló szövetség, amely jelentősen növelte a katonai és politikai erejüket.
+:99. Ez a törzsszövetség képezte az alapját a későbbi, a földhódítás során végzett együttműködésnek.
+:100. Döntő lépés volt egy egységes, átfogó vezetés létrehozása.
+:101. A bizánci hagyomány szerint a törzsfők ünnepélyes szerződést kötöttek, hogy egy közös vezető alá rendeljék magukat.
+:102. A magyar hagyomány ezt az eseményt a hét vezér úgynevezett vérszerződésének nevezi.
+:103. Állítólag a vezetők vérének összekeverésével pecsételték meg hűségüket és összetartásukat.
+:104. A kutatók között vitatott kérdés, hogy ezt a szerződést Etelközön kötötték-e meg, vagy csak később.
+:105. Az azonban biztos, hogy ebben az időben megteremtődtek az egységes vezetés feltételei.
+:106. A hagyomány szerint Árpádot, a Megyer-nemzetségből származót, közös vezetővé emelték.
+:107. Ezzel a választással létrejött egy központi fejedelmi hatalom, amely az egyes törzsfőnökök felett állt.
+:108. A legfőbb fejedelem mellett további méltóságok is léteztek, amelyek a kazár mintára alakultak ki.
+:109. A források Gyulát és Horkát említik olyan magas rangú tisztségviselőként, akik katonai és bírói feladatokat láttak el.
+:110. Ez a kettős vagy hármas vezetési struktúra a kazár közigazgatási minták erős hatását tükrözi.
+:111. Az közös vezetés alatt az Etelköz-korszak legfontosabb politikai eredménye volt.
+:112. Ez a független törzsek szövetségét cselekvőképes katonai és politikai egységgé alakította át.
+:113. Ez a belső megszilárdulás elengedhetetlen feltétele volt a későbbi hódítások sikerének.
+:114. A politikai renddel párhuzamosan a magyarok tovább fejlesztették katonai erejüket.
+:115. A magyarok serege szinte kizárólag lovas íjászokból állt.
+:116. Ezek a könnyűlovasok rendkívül mozgékonyak voltak, és rövid idő alatt nagy távolságokat tudtak megtenni.
+:117. Legfontosabb fegyverük a kompozit reflexíj volt, amely nagy lőtávolsággal és áthatolóerővel rendelkezett.
+:118. A harcosok lóról, teljes vágtában, sőt menekülés közben is pontosan tudtak lőni.
+:119. Fegyverzetükhöz tartozott továbbá az enyhén ívelt szablya, a lándzsa, valamint alkalmanként a fejsze és a hurok.
+:120. Kedvelt harci taktikájuk a meglepetésszerű támadás, az ellenség nyilakkal való elárasztása és a látszólagos visszavonulás volt.
+:121. A színlelt visszavonulás arra szolgált, hogy az ellenséget kicsalogassák a sorrendjéből, majd ellentámadásban megsemmisítsék.
+:122. Ez a taktika magas fokú fegyelmet, jó felderítést és a lovas csoportok összehangolt együttműködését igényelte.
+:123. Etelközben ezeket a képességeket a szomszédos területekre indított számos hadjárat során folyamatosan próbára tették és finomították.
+:124. A magyarok zsákmányos hadjáratokat indítottak a szláv törzsek ellen, a bolgárok ellen, sőt egészen a bizánci területekig is.
+:125. Az ilyen vállalkozások nemcsak zsákmányt hoztak, hanem katonai tapasztalatot és idegen országok ismeretét is.
+:126. Így érett meg a magyar sereg olyan eszközzé, amely képes volt véghezvinni a nagy nyugati hadjáratot.
+:127. Különös jelentőségűek voltak az első kapcsolatfelvételek és felderítő hadjáratok a Kárpát-medence irányába.
+:128. Már Etelközből is a magyarok tekintete a Kárpátok túlsó oldalán fekvő termékeny síkságokra irányult.
+:129. A Kárpát-medence hatalmas füves területeket kínált, amelyek a lovas nomád gazdaság számára szinte ideálisnak tűntek.
+:130. A Pannon-síkság jellegében az ismerős sztyeppére emlékeztetett, és gazdag legelőket ígért.
+:131. Már a tényleges földfoglalás előtt is magyar lovas seregek hatoltak be erre a területre.
+:132. 862-ben a magyarok állítólag először törtek be a Frank Birodalomba, ami korai nyugati orientációjukat bizonyítja.
+:133. Az ilyen előrenyomulások egyrészt a zsákmányszerzésre, másrészt a leendő letelepedési terület felderítésére szolgáltak.
+:134. A magyarok eközben megismerkedtek a földrajzi viszonyokkal, a hágókkal és a politikai erőviszonyokkal.
+:135. Ezek az ismeretek később, a medence tervszerű meghódításakor rendkívül értékesnek bizonyultak.
+:136. Ezekkel a behatolásokkal szorosan összefüggött a magyarok bevonása a környező hatalmak szövetségi politikájába.
+:137. Mivel rettenetes lovas harcosok voltak, a magyarok keresett szövetségesek és nagyra becsült zsoldosok voltak.
+:138. 862-ben, valamint az azt követő évtizedekben szövetségesként beavatkoztak a hatalmak közötti harcokba.
+:139. Különösen jelentős következményekkel járt a kelet-frank Arnulf királlyal kötött szövetségük a Nagy-Morzsai Birodalom ellen.
+:140. Arnulf megbízásából vagy vele együttműködve a magyar seregek Morvaország ellen vonultak, és gyengítették annak hatalmát.
+:141. Másrészt Bizánc szövetségre lépett a magyarokkal a Duna-bolgár Birodalom ellen.
+:142. 894 körül a magyarok bizánci megbízásból betörtek Bulgáriába, és súlyos vereségeket mértek a bolgár cárra.
+:143. Ez a nagyhatalmi politikába való belekeveredés a magyarokat a Duna-vidék komolyan veendő tényezőjévé tette.
+:144. Ugyanakkor ez a népet veszélyes ellentétekbe sodorta, amelyek következményei hamarosan megmutatkoztak.
+:145. Ezekben az években a törzsi közösségen belül kulturális és vallási fejlődés is végbement.
+:146. A magyarok egy sámánista vallást követtek, amelyet a természeti erők és az ősök imádata jellemezte.
+:147. Az emberek és a szellemek világa közötti közvetítők a sámánok voltak, akik gyógyítóként és látnokként működtek.
+:148. Az istenek világának csúcsán feltehetően egy mennyei istenség állt, akit az „Isten” kifejezéssel kapcsolnak össze.
+:149. A szomszédos népekkel való szoros kapcsolat révén a magyarok idegen hitbeli elképzelésekkel is megismerkedtek.
+:150. A kazárok révén zsidó, keresztény és iszlám hatásokkal találkoztak, amelyek azonban nem tudtak meghonosodni.
+:151. Csak a területfoglalás és a kereszténységre való áttérés után változott meg alapvetően a vallási tájkép.
+:152. Etelközben a pogány törzsi vallás maradt az élet meghatározó szellemi háttere.
+:153. Ugyanakkor megszilárdult a szövetséges törzsek közös származásának és összetartozásának tudata.
+:154. A közös mítoszok, legendák és származási történetek erősítették a kialakulóban lévő nép belső összetartását.
+:155. Így Etelközben nemcsak politikai és katonai, hanem kulturális egység is kialakult.
+:156. Mindezen fejlemények felett azonban egyre növekvő feszültség uralkodott, amely a tartózkodás végének közeledtét jelezte.
+:157. A keletről érkező pechenegek szüntelen nyomása évről évre fokozódott.
+:158. A pechenegek, akiket maguk is kiszorítottak a tőlük keletebbre élő uszek, új legelőket kerestek nyugaton.
+:159. Ezzel a magyarok ismét ugyanabba a kényszerhelyzetbe kerültek, amely már korábban is elűzte őket Levediából.
+:160. Különösen veszélyes helyzet alakult ki a magyarok ellenségeinek összefogása miatt.
+:161. Míg a magyar seregek 894-ben vagy 895-ben Bulgáriában harcoltak, saját országuk védtelen maradt.
+:162. Erre a bolgár cár, Szimeon, szövetségre lépett a pechenegekkel a magyarok ellen.
+:163. A pechenegek betörtek a védtelen Etelközbe, és lerohanták az ott maradt családokat és állatállományokat.
+:164. Ezek a pusztító támadások súlyos veszteségeket okoztak, és lehetetlenné tették a további ottmaradást.
+:165. A visszatérő harcosok táborukat feldúlva, hozzátartozóikat pedig fenyegetve vagy meggyilkolva találták.
+:166. Ezzel a nép létezése Etelközben tarthatatlanná vált.
+:167. Az 895-ös katasztrófa kényszerítette ki a végleges indulást a már felderített Kárpátok-medencébe.
+:168. Így Etelköz elvesztése közvetlenül a nagy népvándorlás és az azt követő területfoglalás kiváltó okává vált.
+:169. Az Etelközben töltött idő így a felemelkedés és a fenyegetés közötti rendkívüli feszültségű szakaszának tűnik.
+:170. Egyrészt a magyarok itt érték el szervezettségük és katonai erejük csúcspontját.
+:171. Másrészt ugyanakkor a túlerőben lévő sztyeppei szomszédok által okozott pusztulás szélén álltak.
+:172. Ebből a feszültségből fakadt az elszántság, hogy egy új, biztonságosabb letelepedési területet hódítsanak meg.
+:173. Etelköz így egyszerre volt ugródeszka és kényszerhelyzet, érés helyszíne és veszélyt jelentő térség.
+:174. A magyar történetírásban ezt a szakaszt az államalapítás közvetlen előzményének tekintik.
+:175. Itt alakult ki a törzsi szövetségből az egységes nemzet, amelynek feladata volt a Kárpát-medence birtokba vétele.
+:176. Az Etelközben kialakult struktúrák – a törzsszövetség, a fejedelmi uralom és a lovas hadsereg – túlélték a kivándorlást.
+:177. Ezek alkották azt a vázszerkezetet, amelyre a későbbi magyar fejedelemség és királyság épült.
+:178. A Duna és a Dnyeper közötti tartózkodás ezért messze több volt, mint a vándorlás puszta epizódja.
+:179. Ez volt az a döntő fordulópont, amelyen a vándorló sztyeppei törzsek történelmi jelentőségű néppé váltak.
+:180. Etelköz elhagyásával 895-ben kezdődött az út utolsó szakasza, amely közvetlenül a 896-os honfoglalásba torkollott.
+
+=== 2.8.1 – Földrajz: a régió elhelyezkedése és jellemzői ===
+
+:1. Etelköz földrajzi elhelyezkedése képezi a kiindulópontot a honfoglalás előtti teljes magyar történelem megértéséhez.
+:2. A régió téréről, talajáról és éghajlatáról alkotott pontos a tér, a talaj és az éghajlat alapos ismerete nélkül nem lehet megfelelően megérteni a magyarok életét.
+:3. A természeti környezet meghatározta a gazdálkodási módot, a vándorlásokat, a védekezést és végső soron a nép sorsát is.
+:4. Emiatt Etelköz földrajzi leírása alapos és gondos vizsgálatot érdemel.
+:5. Maga az Etelköz név máris az első és legfontosabb utalást ad a régió jellegére.
+:6. Az ómagyar nyelvből származik, és két részből áll.
+:7. Az első rész, az etel vagy etül, folyót vagy tágabb értelemben vett víztestet jelöl.
+:8. A második rész, a köz, annyit jelent, mint közbenső tér, rés vagy két dolog közötti terület.
+:9. Összegezve ez a „folyók közötti föld” vagy „a folyók közötti terület” jelentést ad.
+:10. Már a név is utal tehát arra, hogy a folyók képezték e táj meghatározó jellemzőjét.
+:11. A bizánci forrásokban a név görögösített formában, Etelkuzu vagy hasonló alakban jelenik meg.
+:12. VII. Konstantin Porfirogénétosz császár művében, amely a birodalom közigazgatásáról szól, megörökíti ezt a megnevezést.
+:13. Kifejti, hogy a területet azokról a folyókról nevezték el, amelyek átszövik azt.
+:14. Ez a magyarázat megerősíti az ómagyar szó jelentését és annak közvetlen földrajzi alapját.
+:15. A megnevezés tehát nem önkényes elnevezés, hanem a természeti térség találó leírása.
+:16. Etelköz pontos elhelyezkedése és kiterjedése a korai magyar történelem egyik legvitatottabb kérdése.
+:17. A források csupán durva támpontokat nyújtanak, amelyekből nem lehet pontos térképet készíteni.
+:18. A kutatás ezért rekonstrukciókra kényszerül, amelyek a források értelmezésétől függően eltérő eredményeket hoznak.
+:19. A legszélesebb értelemben Etelközt a Fekete-tengertől északra fekvő térségben helyezik el.
+:20. Ez a térség a Fekete-tenger északi partja mentén húzódó nagy pontusi sztyeppéhez tartozik.
+:21. A terület keleti határát a széles körben elfogadott nézet szerint a Don folyó vagy a tőle nyugatra fekvő Dnyeper képezte.
+:22. A nyugati határát általában a Pruth, a Sereth vagy már az Alsó-Duna mentén határozzák meg.
+:23. Délen a Fekete-tenger és az Alsó-Duna természetes határt képeztek a települési terület számára.
+:24. Északon a nyílt sztyeppe fokozatosan átment az erdős sztyeppébe, majd végül az erdőövezetbe.
+:25. Ez az északi határ folyékony volt, és nem volt egyértelmű természeti vonalakkal kijelölve.
+:26. Összességében Etelköz így a mai Ukrajna déli és délnyugati részének nagy területeit foglalta magába.
+:27. Ehhez járultak még a mai Moldávia területei, valamint Kelet-Románia szomszédos régiói.
+:28. Pontos kiterjedését nem lehet meghatározni, de több százezer négyzetkilométernyi kiterjedt területről volt szó.
+:29. Ez a hatalmas terület helyet biztosított egy számbeli fölényben lévő lovas nép állatállományainak és vándorlásainak.
+:30. A terület kiterjedése megfelelt a nomád gazdaság igényeinek, amely kiterjedt legelőterületeket igényelt.
+:31. A táj meghatározó elemei a nagy folyók voltak, amelyek északról dél felé átszeltek a területet.
+:32. Ezek a folyók messze északon erednek, és hosszú útjuk után a Fekete-tengerbe torkollanak.
+:33. A folyók a sztyeppét vízfolyások által elválasztott egyes szakaszokra tagolták.
+:34. E folyók közül a legkeletibb a Don volt, amely az Azovi-tengerbe ömlik.
+:35. Ettől nyugatra következett a hatalmas Dnyeper, az egész térség legjelentősebb folyója.
+:36. A Dnyeper széles ívben szeli át a sztyeppét, és egyben életartériaként és közlekedési útvonalként is szolgált.
+:37. Folyása mentén fontos átkelőhelyek, később pedig jelentős kereskedelmi központok alakultak ki.
+:38. A Dnyeper nyugati oldalán a Déli Bug következett, egy másik nagy sztyeppfolyó.
+:39. Ezt követte a Dnyeszter, amely természetes határt képezett a terület közepén.
+:40. A nyugati határt a Pruth és a Sereth alkották, amelyek a Duna alsó szakaszába ömlenek.
+:41. Ezeket a folyókat a bizánci források részben nehezen értelmezhető nevekkel említik.
+:42. VII. Konstantin több folyónevet is megemlít, amelyeket a modern kutatások megpróbálnak a felsorolt folyókhoz rendelni.
+:43. A hozzárendelés nem minden esetben egyértelmű, de a nagy folyók alapvető köre biztosnak tekinthető.
+:44. A folyók számos létfontosságú funkciót töltöttek be a sztyeppén való életben.
+:45. Először is az emberek, a lovak és a többi állat számára elengedhetetlen vizet biztosítottak.
+:46. Az egyébként gyakran száraz tájon a vízfolyások jelentették a legmegbízhatóbb ellátási forrást.
+:47. Partjaik mentén termékeny árterületek terültek el, ahol különösen dús volt a füvözet.
+:48. Ezek a folyóvölgyek egész évben termékeny legelőket nyújtottak, és elsősorban téli táborhelyként szolgáltak.
+:49. A partokon található galériás erdők tűzifát, eszközöket és menedékek építéséhez szükséges anyagot biztosítottak.
+:50. Ugyanakkor a folyóvölgyek védelmet nyújtottak a nyílt sztyepp jeges szelei ellen.
+:51. Ezen túlmenően a folyók természetes tájékozódási vonalakként szolgáltak a törzsek vándorlásaihoz.
+:52. A nyári és téli legelők közötti szezonális vándorlások gyakran a nagy folyók medrét követték.
+:53. Végül a folyók közlekedési és kereskedelmi útvonalakat is képeztek, amelyek összekötötték a térséget távoli régiókkal.
+:54. A vízfolyásokon és azok torkolatain keresztül kapcsolatok létesültek a Fekete-tengerrel és a partvidéki piacokkal.
+:55. A folyók így egyszerre jelentették a megélhetés alapját, menedéket, útjelzőt és kereskedelmi útvonalat.
+:56. A nagy folyók között terültek el a nyílt füves területek, amelyek a sztyeppe lényegét alkották.
+:57. A pontusi sztyeppe a nagy eurázsiai sztyeppei övezet nyugati nyúlványaihoz tartozik.
+:58. Ez az övezet széles ívben húzódik Mandzsúriától keleten egészen a Duna alsó szakaszáig nyugaton.
+:59. Etelköz így egy kontinentális kiterjedésű füves terület nyugati végpontját képezte.
+:60. Ez a kapcsolat a nagy sztyeppével magyarázza, miért nyomultak be a lovas nomád népek újra és újra keletről.
+:61. Maga a sztyeppe egy nagyrészt fátlan síkság, amelyet fűfélék és gyógynövények borítanak.
+:62. Az igazi sztyeppén a tollfű, a csipkegaz és más szárazságtűrő fűfélék dominálnak.
+:63. Tavasszal a sztyeppe virágzó, zöld, élettel teli tengerré változik.
+:64. Nyár közepén viszont a növényzet a perzselő nap alatt kiszárad és megsárgul.
+:65. A növényzet növekedésének ez az évszakonkénti ingadozása határozta meg a nomád élet ritmusát.
+:66. Az északi részen az igazi sztyeppe átment a nedvesebb erdős sztyeppébe.
+:67. Az erdős sztyeppe egy átmeneti terület, ahol a nyílt füves területek facsoportokkal és ligetekkel váltakoznak.
+:68. Gazdagabb csapadékot, termékenyebb talajt és változatosabb életlehetőségeket nyújtott, mint a száraz déli sztyeppe.
+:69. A legdélibb részen, a tengerpart közelében, a sztyeppe helyenként száraz félsivataggá ment át.
+:70. A táj jellege így északról dél felé haladva a nedvesből egyre szárazabbá vált.
+:71. A sztyeppe talaja sok helyen a Föld legtermékenyebb talajai közé tartozott, a híres fekete talaj.
+:72. Ez a fekete talaj, amelyet oroszul csernozemnek neveznek, évezredekig tartó füvesedés eredményeként jött létre.
+:73. A nomád gazdálkodás számára ez a termékeny talaj elsősorban a buja legelők alapjaként volt fontos.
+:74. Csak a később érkező letelepedett népesség tudta a fekete talajt teljes mértékben mezőgazdasági célokra hasznosítani.
+:75. A régió domborzata túlnyomórészt sík vagy enyhén hullámos volt, nagyobb emelkedők nélkül.
+:76. Ez a sík terep megkönnyítette a lovas csapatok gyors mozgását nagy távolságokon át.
+:77. Ugyanakkor a nyílt síkság alig nyújtott természetes védelmet a keletről érkező támadások ellen.
+:78. A terület védelme ezért nehéz volt, és inkább a mozgékonyságon, mint a szilárd állásokon alapult.
+:79. Ez a keleti irányú földrajzi nyitottság végzetes gyengeségnek bizonyult a magyarok számára.
+:80. Az ellenséges lovas népek, mint például a pecsenegek, akadálytalanul tudtak előrenyomulni a nyílt sztyeppén.
+:81. Etelköz éghajlata kifejezetten kontinentális jellegű volt.
+:82. A kontinentális éghajlat nagy hőmérséklet-különbségeket jelent nyár és tél között.
+:83. A nyarak forróak és szárazak voltak, hosszú időszakokkal, amikor alig esett csapadék.
+:84. A telek viszont hidegek, gyakran zordak voltak, havazással és jeges keleti szelekkel kísérve.
+:85. A csapadékmennyiség összességében csekély volt, és főként a tavaszra és a kora nyárra koncentrálódott.
+:86. Ezek a csapadékviszonyok közvetlenül meghatározták a legelők terméshozamát, és ezzel együtt a nyájak jólétét.
+:87. Azokban az években, amikor elegendő eső esett, a fű buján nőtt, és az állatállomány szaporodni tudott.
+:88. A szárazság sújtotta években viszont a sztyeppe kiszáradt, és éhínség és veszteségek fenyegették a közösséget.
+:89. Az éghajlati viszonyoktól való függőség alapvetően bizonytalanná tette a nomád életet.
+:90. Ez a bizonytalanság állandó ösztönzője volt a vándorlásoknak és a jobb legelők keresésének.
+:91. A keletebbre fekvő Levediához képest Etelköz részben kedvezőbb életkörülményeket biztosított.
+:92. A nedvesebb erdősztépéhez és a nagy folyókhoz való nagyobb közelség javította a vízellátást.
+:93. A terület emellett közelebb feküdt a Fekete-tenger és a Balkán fejlett kereskedelmi térségeihez is.
+:94. Ezáltal új gazdasági és politikai lehetőségek nyíltak meg a magyarok előtt.
+:95. A sztyeppe állatvilága gazdag volt, és a vadászat révén kiegészítő táplálékforrásokat nyújtott.
+:96. A füves területeken vadlovak, saiga antilopok, vadszamarak és számos rágcsáló élt.
+:97. A folyóparti ártereken és a mocsaras területeken vízimadarak, halak és prémes állatok éltek.
+:98. E vadak vadászata kiegészítette az állattenyésztésből származó ellátást, és egyúttal a lovaglás és a lövészet gyakorlására is szolgált.
+:99. A nagy folyókban folytatott halászat további fontos élelmiszerforrást jelentett.
+:100. A régió természeti erőforrásai így sokoldalú, bár nomád jellegű életmódot tettek lehetővé.
+:101. A magyarok települési módja Etelközben teljes mértékben alkalmazkodott a terület természeti adottságaihoz.
+:102. A nomád magyaroknál nem léteztek igazi értelemben vett állandó városok vagy falvak.
+:103. Ehelyett mozgó táborokban éltek, amelyeket az évszaknak megfelelően áthelyeztek.
+:104. A lakóhelyek hordozható sátrakból, az úgynevezett jurtákból álltak.
+:105. Ezeket a jurtákat gyorsan le lehetett bontani, szállítani és új helyen újra felállítani.
+:106. Az évszakokhoz igazodó vándorlások egy meghatározott mintát követtek a nyári és a téli legelők között.
+:107. Nyáron a törzsek a friss fűvel borított, nyílt, magasabban fekvő sztyeppékre vándoroltak.
+:108. Télen pedig a védett folyóvölgyekbe és alföldekre vonultak vissza.
+:109. Ezt a szezonális vándorlásformát a kutatásban transzhumáns vándorlásnak vagy félnomadizmusnak nevezik.
+:110. Ez lehetővé tette a különböző legelőterületek optimális kihasználását az év folyamán.
+:111. A vándorlások nem véletlenszerűen történtek, hanem szigorúan körülhatárolt legelőterületeken belül.
+:112. Minden törzs rendelkezett bizonyos területekkel, amelyeken éves ritmusban rendszeresen áthaladt.
+:113. Ily módon Etelköz teljes területe a szövetséges törzsek között volt felosztva.
+:114. Etelköz elhelyezkedése meghatározta a környező népekkel és hatalmakkal való kapcsolatokat is.
+:115. Keleten a terület a nagy sztyeppére nyílt, ahonnan folyamatosan új lovas népek nyomultak be.
+:116. Ez a keleti nyitottság a magyárokat állandóan sebezhetővé tette a pechenegekkel szemben.
+:117. Északon a terület a szláv törzsek erdeivel és települési területeivel határos volt.
+:118. Ezek a szlávok részben letelepedettek voltak és földműveléssel foglalkoztak, ami kereskedelmi és adófizető partnerekké tette őket.
+:119. Nyugaton az út a Pruth folyón és a Kárpátokon át vezetett a Pannon-medencébe.
+:120. Ez a nyugati orientáció máris a magyar vándorlás jövőbeli céljára utalt.
+:121. Délen a Fekete-tenger nyitotta meg az utat Bizánc kereskedelmi és hatalmi területei felé.
+:122. A folyók torkolatain keresztül kapcsolatok álltak fenn a partvidéki bizánci támaszpontokkal.
+:123. A Duna alsó szakaszán túl a Duna-bolgárok hatalmas birodalma feküdt, mint veszélyes szomszéd.
+:124. Etelköz központi elhelyezkedése miatt a régió különböző befolyási övezetek csomópontjává vált.
+:125. Itt keresztezték egymást a kazárok, a bolgárok, a bizánciak, a szlávok és a pechenegék érdekei.
+:126. Ez a helyzet lehetőségeket kínált a magyaroknak, ugyanakkor sokféle veszélynek is kitéve őket.
+:127. A földrajzi elhelyezkedés tehát magyarázza mind Etelköz felemelkedését, mind későbbi hanyatlását.
+:128. Jelentős szerepet játszottak azok a kereskedelmi útvonalak, amelyek Etelközön keresztül vagy annak szélén haladtak.
+:129. A nagy folyók, különösen a Dnyeper, fontos észak–déli irányú közlekedési artériákat alkottak.
+:130. Később ezeken a vízi utakon haladt a várigok és a görögök közötti híres út.
+:131. Ezen útvonalakon keresztül jutottak el az északról érkező áruk a Fekete-tengeri piacokra és Bizáncba.
+:132. A magyarok részt vehettek ebben a kereskedelemben, vagy rablóhadjáratokkal és adófizetési kötelezettségekkel ellenőrizhették azt.
+:133. Rabszolgákat, állatbőröket, szarvasmarhákat és lovakat kínáltak, és cserébe nemesfémeket, szöveteket és luxuscikkeket kaptak.
+:134. A kereskedelem összekötötte a távoli sztyeppét a szomszédos fejlett gazdasági térségekkel.
+:135. A helyszín gazdasági jelentősége így kiegészítette katonai és politikai jelentőségét.
+:136. Etelköz pontos kiterjedésének kérdése a kutatásokban továbbra is élénk viták tárgyát képezi.
+:137. Egyes kutatók egy tágabb értelmezést képviselnek, amely szerint a terület a Don folyótól a Dunáig terjed.
+:138. Mások egy szűkebb értelmezést részesítenek előnyben, amely a Dnyeper és a Prut közötti területet tekinti a központi térségnek.
+:139. A bizonytalanság a hagyományban fennmaradt folyónevek többértelműségéből fakad.
+:140. Egyes nevek nem rendelhetők kétségtelenül egy ma ismert folyóhoz.
+:141. Ráadásul egy nomád nép legelőterületei az idő múlásával és a helyzettől függően változtak.
+:142. Etelköz határai ezért természetüknél fogva folyékonyak voltak, és nem voltak szigorúan körülhatárolva.
+:143. Egy nomád települési területet nem annyira merev határok, mint inkább a hasznosított területek határoznak meg.
+:144. Ez az alapvető sajátosság tovább nehezíti a pontos kartográfiai meghatározást.
+:145. Ezért helyesebb egy magterületről beszélni, amelynek határai nem élesek, mint szigorú határokról.
+:146. A magterület nagy valószínűséggel a Dnyeper, a Bug és a Dnyeszter közötti területen feküdt.
+:147. Ebből a magból kiindulva a legelőterületek a körülményektől függően keletre vagy nyugatra tolódhattak el.
+:148. A határok ilyen mozgékonysága minden lovas nomád uralmi terület jellegzetes vonása.
+:149. Etelköz természeti adottságai szoros összefüggésben álltak a későbbi letelepedési területéivel.
+:150. A Kárpát-medence, amelyet a magyarok később meghódítottak, hasonló sztyeppes tájat mutatott.
+:151. A Pannon-síkság hatalmas füves területeivel a jól ismert pontusi sztyeppére emlékeztetett.
+:152. A természeti térségek ezen hasonlósága fontos ok volt az új letelepedési terület kiválasztásában.
+:153. A magyarok tudatosan kerestek olyan tájat, amely megfelelt a megszokott gazdálkodási módjuknak.
+:154. A Kárpát-medence emellett azzal az előnnyel is rendelkezett, hogy a környező hegyvidékek természetes védelmet nyújtottak.
+:155. A nyílt Etelközzel ellentétben kívülről a Kárpátok és az Alpok védték.
+:156. Ez a különbség a védelmi helyzetben különösen nagy jelentőséggel bírt a fenyegetett magyarok számára.
+:157. Az Etelközben szerzett földrajzi tapasztalatok így a jövőbeli földdel kapcsolatos elvárásokat is meghatározták.
+:158. A nyílt sztyepp fájdalmas sebezhetőségéből fakadt a védett tér iránti vágy.
+:159. Etelköz elhelyezkedése nemcsak a jelenre volt meghatározó, hanem már a jövőre is előre mutatott.
+:160. A régió mai földrajzi adottságai segítenek jobban megérteni a történelmi viszonyokat.
+:161. Etelköz magterülete a mai Ukrajna déli és középső részén fekszik.
+:162. Nyugati peremterületei a mai Moldovába és Kelet-Romániába nyúlnak.
+:163. Ezeket a területeket a mai napig termékeny feketeföldjük és sztyeppes tájuk jellemzi.
+:164. Azonban a későbbi mezőgazdasági hasznosítás jelentősen megváltoztatta a nyílt sztyeppe eredeti képét.
+:165. Az egykor kiterjedt gyepterületeket az évszázadok során szántóföldekké alakították át.
+:166. Mindazonáltal a természeti térségi jellemzők még ma is sejtetik a magyar korszak körülményeit.
+:167. A nagy folyók, a domborzat és az éghajlat alapvető jellemzői változatlanul fennmaradtak.
+:168. Ezen állandó jellemzők alapján gondolatban rekonstruálható a történelmi táj.
+:169. Összefoglalva: Etelköz egy kiterjedt, nagy folyók által átszelt sztyeppvidék volt.
+:170. A Fekete-tengertől északra, az eurázsiai sztyeppövezet nyugati részén terült el.
+:171. Jellegzetes vonásai a folyók, a nyílt füves területek és a kontinentális éghajlat voltak.
+:172. Ez a természeti környezet gazdag legelőket és vizet biztosított, ugyanakkor az éghajlati ingadozásoktól függő maradt.
+:173. A kelet felé nyitott elhelyezkedés a területet egyrészt gazdaságilag vonzóvá, másrészt katonailag sebezhetővé tette.
+:174. A több nagyhatalom közötti központi elhelyezkedés rendkívüli stratégiai jelentőséget kölcsönzött a régiónak.
+:175. A természeti környezet minden tekintetben meghatározta a magyarok gazdaságát, településszerkezetét és vándorlásait.
+:176. Ugyanígy befolyásolta a szomszédokkal való kapcsolataikat és katonai helyzetüket is.
+:177. E helyzet előnyeiből és hátrányából fakadt mind a felemelkedés, mind a későbbi fenyegetés.
+:178. Etelköz földrajzának megértése ezért kulcsot jelent az egész korszak megértéséhez.
+:179. Csak ezen a természeti térbeli háttér előtt válnak érthetővé a következő fejlemények logikája.
+:180. A Don és a Dnyeper közötti elhelyezkedés tehát nem csupán földrajzi körülmény volt, hanem a történelmet meghatározó tény.
+
+=== 2.8.2 – Érkezések és első letelepedés: Az út Etelköz felé ===
+
+:1. A magyarok Etelköz felé vezető útja jelzi a korai történelmük első és második nagy letelepedési szakaszának átmenetét.
+:2. Ez képezi a kapcsolatot a Levediában való tartózkodás és a Kárpát-medence későbbi elfoglalása között.
+:3. A vándorlásnak ez a szakasza központi jelentőségű, mert döntő mértékben közelebb hozta a magyarokat jövőbeli céljukhoz.
+:4. Ugyanakkor ez a korai magyar történelem egyik legsötétebb és legnehezebben rekonstruálható szakasza.
+:5. A forrásanyag szűkös, ellentmondásos, és számos kérdést hagy nyitva.
+:6. Emiatt az Etelköz felé vezető útról elmondhatóak nagy része óvatos rekonstrukciókon alapul.
+:7. A vándorlás kiindulópontját Levedia területe képezte, a magyarok első bizonyíthatóan lakott területe.
+:8. Levedia keletebbre feküdt, a Don és valószínűleg a Volga vagy az Azovi-tenger közötti térségben.
+:9. Ott a magyarok a kazárok szomszédjaiként és ideiglenes szövetségeseiként éltek.
+:10. Ebből a keleti térségből indultak el, hogy nyugatra, a folyók közötti területre költözzenek.
+:11. A vándorlás okai különböző tényezők együttes hatásában keresendők.
+:12. A legfontosabb közvetlen kiváltó ok egy ellenséges lovas nép nyomása volt keletről.
+:13. Ez a nép a pechenegek voltak, egy nagy harci erővel rendelkező török törzsszövetség.
+:14. A pecsenyéket viszont a tőlük keletebbre élő népek, az uszok szorították nyugat felé.
+:15. Így indult el egy népek láncreakciója, amely végül a magyarokat is magával ragadta.
+:16. Ez a fajta kiszorítás tipikus mintázat volt az eurázsiai sztyepp történelmében.
+:17. Egy nyugat felé nyomuló nép tovább szorította az előtte álló népet, amely viszont kiszorította a következő szomszédját.
+:18. A magyarok ebben a láncban olyan helyen álltak, amely nyugati vándorlásra kényszerítette őket.
+:19. A bizánci hagyomány szerint a magyarok súlyos vereséget szenvedtek a pecsenyegektől.
+:20. VII. Konstantin császár beszámol arról, hogy a magyarok ebben a csatában vereséget szenvedtek, és el kellett hagyniuk területüket.
+:21. E vereség következtében a nép állítólag két részre szakadt.
+:22. Egy részük dél felé, Perzsia irányába vonult, és a forrásokban keleti magyarokként szerepel.
+:23. A nép nagyobb része azonban nyugat felé vette az irányt, és végül Etelköz vidékére érkezett.
+:24. A nép ezen szétválása a korai magyar történelem egyik legmeghatározóbb eseményének számít.
+:25. Ez a törzsi csoportok tartós elszakadását jelentette, amelyek ezentúl külön utakon haladtak tovább.
+:26. A nyugat felé vándorló rész képezte a későbbi magyar nép magját.
+:27. A pechenegek által gyakorolt külső nyomás mellett további körülmények is a vándorlás hajtóerőiként hatottak.
+:28. A törzsek közötti belső feszültségek és hatalmi küzdelmek valószínűleg tovább súlyosbították a helyzetet.
+:29. Az éghajlati és gazdasági tényezők is elősegíthették az új legelők keresését.
+:30. Ezen okok pontos súlyozását a forrásokból már nem lehet kétségtelenül megállapítani.
+:31. Az azonban biztos, hogy a Levediából való távozás nem önkéntes, hanem kényszerű vándorlás volt.
+:32. A magyarok elkerülték a pechenegek túlerőben lévő nyomását, és nyugaton kerestek menedéket.
+:33. Ennek a kivándorlásnak az időkerete csak hozzávetőlegesen határozható meg.
+:34. A legtöbb kutató a 9. század második felére teszi az Etelközbe való áttelepülést.
+:35. Gyakran az 850 és 860 közötti éveket nevezik meg a nyugati vándorlás kezdeteként.
+:36. Más kormeghatározások eltérnek ettől, de a nagyjából meghatározott időkeret széles körben elfogadott marad.
+:37. Maga a vándorlás nem egyszeri, pontosan datálható esemény volt, hanem egy hosszabb folyamat.
+:38. Feltehetően több éven át, több szakaszban zajlott le.
+:39. Aligha valószínű az a képzelet, hogy valamennyi törzs egyszerre, rendezett és egységes vonulásban indult volna útnak.
+:40. Reálisabb az a feltételezés, hogy az egyes törzscsoportok egymás után, különböző útvonalakon vonultak nyugat felé.
+:41. Levedia és Etelköz közötti távolság több száz kilométer volt.
+:42. Ezt a távolságot családokkal, állatcsordákkal és mozgatható vagyonukkal kellett megtenniük.
+:43. Egy ilyen vándorlás szükségszerűen lassan és sok kis szakaszban zajlott.
+:44. A vándorló nomád nép sebessége az állatcsordák teherbíró képességétől függött.
+:45. Az állatoknak útközben folyamatosan legelniük kellett, és nem tehették meg, hogy egyhuzamban túl hosszú szakaszokat tegyenek meg.
+:46. Ezért rövid napi menetlépésekben haladtak, és gyakran megálltak pihenni és legelni.
+:47. A vándorlás a sztyepp természetes irányvonalait követte, elsősorban a nagy folyókat.
+:48. A folyók vizet, legelőt és tájékozódási pontot nyújtottak, és így meghatározták a vándorlás irányát.
+:49. A magyarok a vízfolyások mentén haladtak keletről nyugat felé a nyílt sztyeppén.
+:50. Útjuk során egymás után keltek át a pontusi sztyeppe nagy folyóin.
+:51. Először a Don maradt mögöttük, majd közeledtek a hatalmas Dnyeperhez.
+:52. Egy ekkora folyó átkelése állatcsordákkal és családokkal jelentős kihívást jelentett.
+:53. Ehhez sekély gázlókat, alkalmas átkelőhelyeket és feltehetően egyszerű tutajokat is használtak.
+:54. Az ilyen folyóátkelések mindig veszélyesek voltak, és állatok és emberek veszteségeivel jártak.
+:55. A Dnyeper átkelése után a magyarok beléptek Etelköz tényleges területére.
+:56. A Dnyeper, a Bug, a Dnyeszter és a Pruth közötti vidék lett mostantól az új életterük.
+:57. Az Etelközbe való megérkezés nem állandó települések alapítását jelentette, hanem a legelők birtokba vételét.
+:58. A magyarok nem városokban vagy falvakban telepedtek le, hanem szétszóródtak a sztyeppén.
+:59. Minden törzs magának keresett megfelelő területeket, ahol víz, legelő és védett telelőhelyek voltak.
+:60. Az érkezés utáni első feladatok a terület biztosítása és felosztása voltak.
+:61. A rendelkezésre álló legelőterületeket el kellett osztani a szövetséges törzsek között.
+:62. Ez az elosztás feltehetően a fennálló törzsi rendnek és a vezetők igényeinek felelt meg.
+:63. Minden törzs kapott egy meghatározott területet, amelyen belül végrehajtotta szezonális vándorlásait.
+:64. Így fokozatosan kialakult a legelőterületek rendezett hálózata az egész térségben.
+:65. A termékeny folyóvölgyek téli táborhelyként, a nyílt sztyeppék pedig nyári legelőként szolgáltak.
+:66. A magyarok így átvitték a bevált félnomád gazdálkodási módot az új földre.
+:67. Az Etelközben való letelepedés egyúttal azt is megkövetelte, hogy érvényesítsék magukat a már ott élő népekkel szemben.
+:68. A terület nem volt lakatlan, hanem különböző csoportok lakták vagy igényelték maguknak.
+:69. Főként szláv törzsek éltek a terület északi és nyugati peremvidékein.
+:70. Ezeket a szlávokat le kellett igázni, el kellett űzni, vagy adófizető viszonyba kellett hozni.
+:71. A lovas magyarok katonai fölénye megkönnyítette uralmuk érvényesítését.
+:72. Alig néhány éven belül a magyarok Etelköz uralkodó hatalmává váltak.
+:73. A belső megszilárdulás szempontjából különös jelentőséggel bírt a kabarok csatlakozása.
+:74. A kabarok három törzsből álltak, amelyek elszakadtak a kazároktól.
+:75. A kazár központi hatalom elleni sikertelen felkelés után elmenekültek, és csatlakoztak a magyarokhoz.
+:76. Ezáltal a magyar törzsszövetség hét törzsből összesen tízre bővült.
+:77. A kabárok katonai tapasztalatot és erősítést hoztak a szövetségbe.
+:78. A források szerint különösen harcképesek voltak, és a háborúban az élcsapatot alkották.
+:79. A kabarok csatlakozásának időpontját általában az Etelköz-korszakra datálják.
+:80. Így a törzsszövetség döntő bővülése az első letelepedés szakaszára esik.
+:81. A vezetés kérdése ebben az időszakban a kutatás egyik legnehezebb problémája.
+:82. A bizánci hagyomány Levedia kapcsán egy Levedi nevű első vezért említ.
+:83. VII. Konstantin szerint Levedi volt a magyarok első vajdája, és ő adta a nevét Levediának.
+:84. A kazár kezdeményezésre Levedit a magyarok fejévé kívánták emelni.
+:85. Levedi azonban állítólag elutasította ezt a méltóságot, és helyette Álmost vagy annak fiát, Árpádot javasolta.
+:86. Végül Árpádra esett a választás, akit a magyarok első nagyfejedelmévé emeltek.
+:87. Árpád felemelése jelentette az Árpád-dinasztia kezdetét.
+:88. Vitatott kérdés, hogy a felemelés még Levediában történt-e, vagy csak Et elközben történt, az vitatott.
+:89. A források ebben a kérdésben nem egyértelműek, és különböző értelmezéseket tesznek lehetővé.
+:90. Az azonban biztos, hogy ebben az időben egységes fejedelmi vezetés jött létre.
+:91. Árpád kinevezésével olyan központi hatalom jött létre, amely az egyes törzsfőnökök felett állt.
+:92. Ez az újítás döntő lépés volt a laza törzsi közösségtől az egységes szövetség felé.
+:93. Az átfogó vezetés kialakítása így az Etelközön történt első letelepedés szakaszába esik.
+:94. Álmos, Árpád apja személye különleges szerepet játszik a magyar hagyományban.
+:95. Álmos a magyar krónikákban az uralkodó dinasztia ősének számít.
+:96. Születését övezi a híres legenda Emese hercegnő álmáról.
+:97. E legenda szerint Emese álmában megjelent egy hatalmas ragadozó madár, amelyet Turulnak neveznek.
+:98. Ebből az álomból egy dicsőséges uralkodókból álló nemzetségnek származik.
+:99. Ez a legenda a magyar eredetmítoszok mitikus magjához tartozik.
+:100. Az Árpád-házat egy természetfeletti, sorsszerű rendeltetéshez köti.
+:101. Történelmi szempontból a legendából kevés biztos következtetés vonható le, de tükrözi a nép önképét.
+:102. A mítosz és a történelem összekapcsolódása jellemző e korai időszak hagyományaira.
+:103. Az Etelköz felé vezető útról szóló írásos források, mint már említettük, rendkívül korlátozottak.
+:104. A legfontosabb forrás továbbra is VII. Konstantin császár „De administrando imperio” című műve marad.
+:105. Ez a bizánci mű őrzi a magyarok vándorlásainak és szétválásainak emlékét.
+:106. Adatai részben a bizánci udvarban tartózkodó magyar követek beszámolóin alapulnak.
+:107. Ezáltal a mű különös értéket képvisel, mivel a magyarok saját hagyományait őrzi.
+:108. Ugyanakkor a földrajzi és időbeli adatok gyakran homályosak és nehezen besorolhatók.
+:109. Kiegészítésképpen arab és perzsa földrajztudósok is utalásokat adnak a magyarok életmódjára.
+:110. Ezek a beszámolók azonban inkább az általános viszonyokat írják le, mint a konkrét vándorlást.
+:111. A későbbi magyar krónikák keverik a történelmi emlékeket a mondákkal és legendákkal.
+:112. Az Etelköz felé vezető útról szóló adataikat ezért csak nagy óvatossággal szabad értékelni.
+:113. E különböző hagyományok összehasonlításából egy hiányos összkép rajzolódik ki.
+:114. A régészeti kutatások csak korlátozott mértékben tudják kiegészíteni az írásos hagyományt.
+:115. Egy vándorló nomád nép természetéből adódóan alig hagy tartós nyomokat a talajban.
+:116. A magyarokkal összefüggésbe hozható kevés leletet nehéz keltezni.
+:117. A Levediából Etelközbe vezető vándorlási útvonalra vonatkozó egyértelmű bizonyítékok nagyrészt hiányoznak.
+:118. Az útvonal rekonstruálása ezért túlnyomórészt földrajzi és logikai megfontolásokon alapul.
+:119. A kiindulási és célterületek elhelyezkedéséből következtetnek az útvonal valószínűsíthető vonalvezetésére.
+:120. A sztyeppe természeti adottságai jelzik ki a legvalószínűbb útvonalat.
+:121. Egy ilyen népvándorlás logisztikája rendkívül igényes volt.
+:122. Nemcsak harcosok vándoroltak, hanem egész törzsek nőkkel, gyermekekkel és idősekkel együtt.
+:123. Ehhez jöttek még a nagy ló-, szarvasmarha-, juh- és egyéb állatcsordák.
+:124. A mozgatható lakóhelyeket, a jurtákat éppúgy el kellett szállítani, mint az összes háztartási holmit.
+:125. A szállításhoz szekereket, teherhordó állatokat, valamint a szarvasmarhák és lovak vonóerejét használták.
+:126. Egy ilyen karaván mozgása nagyfokú szervezettséget és fegyelmet igényelt.
+:127. Meg kellett szabni a karaván sorrendjét, az ellátást és a védelmet.
+:128. Fegyveres lovasok minden irányból védték a karavánt a támadásoktól.
+:129. Az előrehaladó felderítők felderítették az utat, a legelőket és az esetleges veszélyeket.
+:130. Ez a katonai védelem a pechenegek által jelentett fenyegetés miatt elengedhetetlen volt.
+:131. A vándorlás ezért egyszerre volt polgári és katonai vállalkozás.
+:132. Útközben feltehetően találkozásokra került sor más népekkel és törzsekkel.
+:133. Ezek a találkozások békésen is lezajlódhattak, de konfliktusokba és harcokba is torkollhattak.
+:134. Szláv, bolgár és más csoportok éltek az áthaladott területeken.
+:135. Velük vitákat kellett rendezni, vagy megállapodásokat kellett kötni.
+:136. Az ilyen találkozások meghatározó szerepet játszottak a magyarok nyugat felé vezető útjának tapasztalataiban.
+:137. A vándorlás jelentős veszteségekkel és nélkülözésekkel is járt.
+:138. A folyóátkelések, a harcok, a betegségek és az éhség emberi és állati áldozatokat követeltek.
+:139. A vándorlás ára magas volt, és tartósan meghatározta a nép tudatát.
+:140. Ennek ellenére a magyarok elérték céljukat, és Etelközön véglegesen letelepedtek.
+:141. Az első település Etelközben a nép számára új kezdetet jelentett egy idegen országban.
+:142. Alkalmazkodniuk kellett az új körülményekhez, a szomszédokhoz és a veszélyekhez.
+:143. Ez az alkalmazkodás nyilvánvalóan sikeres volt, mert a magyarok gyorsan megszilárdították pozíciójukat.
+:144. Néhány éven belül ők lettek a meghatározó erő a folyók közötti térségben.
+:145. Az első település így letette az alapkövét Etelköz későbbi fejlődésének.
+:146. A nyugat felé történő földrajzi elmozdulás közelebb hozta a magyarokat jövőbeli céljukhoz.
+:147. Etelközből a Kárpát-medence az elérhető elérhetővé vált.
+:148. Az új helyzet kapcsolatokat teremtett a Duna-vidék és a Balkán hatalmaival.
+:149. Ezzel a nép politikai és katonai horizontja is megváltozott.
+:150. A magyarok egyre inkább beléptek Kelet-Közép-Európa történelmébe.
+:151. Az Etelköz felé vezető út tehát jóval több volt, mint puszta földrajzi elmozdulás.
+:152. Ez egy lépést jelentett a távoli sztyeppéről Európa előterébe.
+:153. A vándorlás során szerzett tapasztalatok formálták a nép összetartását és szervezettségét.
+:154. A közös fenyegetésből és vándorlásból megerősödött az összetartozás érzése.
+:155. A közös cselekvés szükségessége elősegítette az egységes vezetés kialakulását.
+:156. Így az Etelköz felé vezető út már előkészítette a nép politikai egyesülését.
+:157. A pechenegek elleni vereség és a kényszerű indulás közös sorsként hatott.
+:158. Az ilyen közös élmények nagy jelentőséggel bírnak egy nép kialakulása szempontjából.
+:159. A vándorlás és az első letelepedés során fokozatosan kialakult a magyar törzsi közösség.
+:160. Ez a közösség Etelközben a földhódítás egységes nemzetévé érett meg.
+:161. Az Etelköz felé vezető út rekonstruálása sok részletében bizonytalan marad.
+:162. A pontos útvonal, az időtartam és a részt vevő csoportok nem határozhatók meg kétséget kizáróan.
+:163. Különböző kutatók eltérő vándorlási modelleket javasoltak.
+:164. Egyesek a part mentén haladó közvetlen vonulatot feltételeznek, mások egy északabbra futó útvonalat.
+:165. Egyesek gyors áttelepüléssel számolnak, mások hosszú, szakaszos folyamatot.
+:166. Ezek a bizonytalanságok a források szűkösségéből és többértelműségéből adódnak.
+:167. Minden bizonytalanság ellenére a vándorlás alapvető folyamata bizonyítottnak tekinthető.
+:168. A magyarok a pechenegek nyomása alatt Levediából Etelköz felé vándoroltak.
+:169. Eközben keletről nyugatra átkeltek a pontusi sztyeppe nagy folyóin.
+:170. Letelepedtek az új földön, leigázták a szomszédokat és megszilárdították uralmukat.
+:171. A kabarok csatlakozásával tíz törzsre bővítették szövetségüket.
+:172. Árpád felemelkedésével pedig egységes fejedelmi vezetést hoztak létre.
+:173. Ezek a fejlemények képezik annak a magját, amit az etelközi első letelepedésről elmondhatunk.
+:174. Az etelközi út tehát a magyar nép döntő érettségi szakaszának kezdetét jelenti.
+:175. A pechenegek által megvert, széttagolt népből rendezett törzsszövetség lett.
+:176. Ez a szövetség egységes vezetővel, erős lovassággal és biztos területtel.
+:177. Ezen az alapon a magyarok az elkövetkező években a sztyeppe nagyhatalmává emelkedhettek.
+:178. Az etelközi első település ezért elengedhetetlen előfeltétele volt minden további fejleménynek.
+:179. Ezen a nyugati sikeres újrakezdés nélkül a későbbi területfoglalás elképzelhetetlen lett volna.
+:180. Az Etelköz felé vezető út tehát a népet a vereségtől az újrakezdésen át a jövőbeli felemelkedésig vezette.
+
+=== 2.8.3 – Időkeret és a tartózkodás időtartama ===
+
+:1. Az Etelközben töltött idő kereteinek és a tartózkodás időtartamának kérdése a kora magyar történelem egyik legnehezebb problémája.
+:2. A későbbi eseményekkel ellentétben ebben a korszakban szinte teljesen hiányoznak a pontosan datálható, meghatározó események.
+:3. Maguk a magyarok ebben az időben nem vezettek írásos feljegyzéseket, ezért nem tudtak saját adatokat átadni.
+:4. Minden, amit a kronológiáról tudunk, idegen forrásokból vagy későbbi következtetésekből származik.
+:5. Ezek a források hiányosak, ellentmondásosak, és időbeli megjelöléseik gyakran határozatlanok.
+:6. Emiatt az Etelközben való tartózkodás bármely időbeli meghatározása csupán valószínűségi síkon mozog.
+:7. Különböző kutatók nagyon eltérő eredményekre jutottak, amelyek részben jelentősen eltérnek egymástól.
+:8. Minden bizonytalanság ellenére azonban meg lehet határozni egy hozzávetőleges keretet és néhány megbízható támpontot.
+:9. Az egész korszak legbiztosabb horgonypontját az etelközi tartózkodás vége jelenti.
+:10. Ez a vég egybeesik a Kárpátok-medencébe való indulással, és meglehetősen pontosan datálható.
+:11. A Kárpát-medence meghódítását hagyományosan 895-re vagy 896-ra teszik.
+:12. Az ezt közvetlenül megelőző, Etelköz pechenegek általi elvesztése így 895-re esik.
+:13. Ez a dátum az egész vándorlási történet legmegbízhatóbb időbeli horgonyának számít.
+:14. Több, egymástól független forrás támasztja alá, ezért széles körben elismert.
+:15. A végpontból kiindulva a kronológia bizonyos értelemben visszafelé is rekonstruálható.
+:16. A végpontnál nehezebb meghatározni az Etelközben való tartózkodás kezdetét.
+:17. A kezdet egybeesik a Levediából érkezőkkel, akiknek idejét alig lehet pontosan meghatározni.
+:18. E tekintetben a kutatók véleményei jelentősen eltérnek egymástól, és pontos dátumok egyáltalán nincsenek.
+:19. A javasolt kezdeti dátumok közötti időtartam több évtizedet ölel fel.
+:20. Ez az időtartam-tartomány csak az alapul szolgáló források alaposabb vizsgálatával magyarázható.
+:21. A kronológia legfontosabb forrása ismét VII. Konstantin császár műve.
+:22. A birodalom közigazgatásáról szóló művében néhány időbeli utalást tesz.
+:23. Konstantin arról számol be, hogy a magyarok csak rövid ideig, nevezetesen három évig éltek Levediában.
+:24. Ez a három évre vonatkozó adat sok zavart és vitát váltott ki a kutatásokban.
+:25. Sok kutató számára túl rövidnek tűnik ahhoz, hogy magyarázatot adjon Levedia történelmi jelentőségére.
+:26. Egyesek ezért a három évet három évtizednek vagy szimbolikus, pontatlan adatnak értelmezik.
+:27. Mások szó szerint veszik a számot, és abból indulnak ki, hogy a magyarok csak nagyon rövid ideig tartózkodtak Levediában.
+:28. Ez a bizonytalanság közvetlenül kihat az Etelközben való tartózkodás időpontjának meghatározására.
+:29. Ugyanis attól függően, mennyi ideig tartott a levediai tartózkodás, az etelközi tartózkodás kezdete is eltolódik.
+:30. Konstantin emellett azt is megemlíti, hogy a magyarok Etelközben éltek, amíg a pechenegek el nem űzték őket.
+:31. Az etelközi tartózkodás pontos időtartamát azonban nem említi.
+:32. Így a legfontosabb forrásból a tartózkodás időtartama csak közvetetten állapítható meg.
+:33. Konstantin mellett más források is szolgáltatnak egyes datálható eseményeket, amelyek támpontként szolgálnak.
+:34. Ezek az események elsősorban a magyarok Etelköz-kori katonai vállalkozásait érintik.
+:35. Ezekből arra lehet következtetni, hogy a magyarok bizonyos években már aktívak voltak nyugaton.
+:36. Az első ilyen támpont a magyarok 862-es betörése a Kelet-Frank Birodalomba.
+:37. Ez a hír a frank krónikákból származik, amelyeket megbízható forrásnak tekintenek.
+:38. Ez bizonyítja, hogy a magyar lovasok már 862-ben is aktívak voltak a nyugati előterében.
+:39. Ebből az következik, hogy a magyaroknak ekkor már Etelközben vagy annak közelében kellett élniük.
+:40. Egyes kutatók ezt az Etelközben való letelepedés korai kezdetének bizonyítékaként értelmezik.
+:41. Egy másik fontos jel az Arnulf kelet-frank királyval kötött szövetség.
+:42. 892 körül a magyarok Arnulf szövetségeseiként hadba vonultak a Nagy-Mór Birodalom ellen.
+:43. Ezt az eseményt is a frank források alapján meglehetősen megbízhatóan lehet datálni.
+:44. Ez azt mutatja, hogy a magyarok az 890-es évek elején már meghatározó tényezők voltak Közép-Európa politikájában.
+:45. Harmadik támpont a Duna-bolgárok elleni, bizánci megbízásból vívott háború.
+:46. Ez a háború 894-re és 895-re esik, és bizánci, valamint egyéb források is tanúsítják.
+:47. Ez közvetlen előzménye az 895-ös katasztrófának és a nyugat felé történő indulásnak.
+:48. Ezek a datálható események meglehetősen egyértelműen keretezik az etelközi tartózkodás későbbi szakaszát.
+:49. Ezekből kitűnik, hogy a magyarok legkésőbb az 860-as évektől kezdve Etelközből nyugat felé terjeszkedtek.
+:50. És azt is mutatják, hogy ez a tartózkodás 895-ben erőszakos véget ért.
+:51. Ebből a néhány kulcsfontosságú pontból nagyjából le lehet vezetni a tartózkodás időtartamát.
+:52. A kutatók többsége a kilencedik század közepére teszi a tartózkodás kezdetét.
+:53. Gyakran az 850 körüli időszakot vagy azt követő rövid időt nevezik meg valószínű kezdetként.
+:54. Ebből körülbelül negyven-negyvenöt éves tartózkodási időt kapnánk.
+:55. Ezt a körülbelül négy évtizedes időtartamot sokan tartják a legvalószínűbb feltételezésnek.
+:56. Ez elegendő időt hagy a nép belső megszilárdulására és számos hadjáratára.
+:57. Más kutatók azonban a tartózkodás rövidebb időtartamát támogatják.
+:58. Ők a kezdetet csak 860 körülre, vagy akár még későbbre teszik.
+:59. Ebben az esetben a tartózkodás csak körülbelül három évtizedig, vagy annál rövidebb ideig tartott volna.
+:60. Egy ilyen rövidebb időtartam jelentősen sűrűbbé tenné az események időrendjét.
+:61. Megint mások egy hosszabb időtartamra hajlanak, amelynek kezdete 850 előttre tehető.
+:62. Ez a nézet a tartózkodás időtartamát körülbelül fél évszázadra nyújtja ki.
+:63. A becslések így körülbelül harminc évtől körülbelül ötven évig terjednek.
+:64. Ez a bizonytalanság jól mutatja, mennyire homályos marad e korszak kronológiája.
+:65. Egy központi probléma Levedia és Etelköz egymáshoz való viszonyában rejlik.
+:66. A kutatók nem értenek egyet abban, hogy két különálló területről vagy egy térség különböző szakaszairól van-e szó.
+:67. Egyes kutatók Levediát és Etelközt két egyértelműen elkülönülő települési térségnek tekintik.
+:68. E nézet szerint a magyarok először Levediából Etelközbe, majd onnan a Kárpát-medencébe vándoroltak.
+:69. Más kutatók kétségbe vonják, hogy Levedia egyáltalán önálló, korábbi terület volt-e.
+:70. Ők Levediát inkább ugyanazon térség keleti részének vagy korai szakaszának tekintik.
+:71. Ez az értelmezési kérdés közvetlen következményekkel jár a tartózkodás kronológiájára nézve.
+:72. Ha Levediát önálló szakasznak tekintjük, akkor az Etelközben töltött tényleges tartózkodás időtartama rövidül.
+:73. Ha Levediát Etelközzel összevonják, akkor ennek megfelelően meghosszabbodik a nyugaton töltött teljes időtartam.
+:74. E kérdés megoldása szorosan összefügg Konstantin három évének értelmezésével.
+:75. Így a keltezés és a földrajz problémái szorosan összefonódnak egymással.
+:76. További problémát jelent a nyugati vándorlás kezdetének kérdése is.
+:77. A Levediából való indulást a pecsenegek elleni vereség váltotta ki.
+:78. De még ezt az első pecseneg támadást sem lehet időben pontosan meghatározni.
+:79. Konstantin egy első vereségről számol be, anélkül, hogy megnevezne egy évet.
+:80. A szövegkörnyezetből csupán arra lehet következtetni, hogy a század közepére esett.
+:81. Ez az első vereség indította el az Etelközbe való áttelepülést.
+:82. Egy második, sokkal pusztítóbb vereség 895-ben vetett véget az ott-tartózkodásnak.
+:83. E két pecseneg támadás között fekszik az egész etelközi időszak.
+:84. A két támadás közötti időbeli távolság így megegyezik a tartózkodás időtartamával.
+:85. Mivel azonban az első dátum bizonytalan marad, ez az időtartam is meghatározhatatlan marad.
+:86. A kutatás különböző módszerekkel próbált tisztázást nyerni.
+:87. Az egyik módszer a különböző források összehasonlításában és kombinálásában áll.
+:88. A bizánci, frank és keleti adatokat egymás mellé állítják.
+:89. Az átfedéseikből próbálnak koherens összképet alkotni.
+:90. A második módszer a biztosabb, későbbi adatokból történő visszaszámítás.
+:91. Az 895-ös földhódításból kiindulva, bizonyos időtartamok feltételezése mellett visszafelé számolnak.
+:92. A harmadik módszer a generációk és az uralkodók egymást követő sorrendjét használja időbeli támaszként.
+:93. Álmos és Árpád egymást követő uralkodásából nagyjából meg lehet becsülni az időtartamokat.
+:94. De ezek a módszerek sem vezetnek teljesen egyértelmű eredményekhez.
+:95. Határokat szabnak, anélkül, hogy egy konkrét évre rögzítenék az időt.
+:96. A generációs számítás megérdemel egy kissé alaposabb vizsgálatot.
+:97. Árpád, az 895-ös honfoglalás vezetője, Álmos fia volt.
+:98. Álmos pedig annak a vezetőnek számít, akinek vezetésével megkezdődött a Levediából való kivonulás.
+:99. Ha Álmos vezette a kivonulást, és Árpád fejezte be a földhódítást, akkor a tartózkodás időtartama körülbelül egy generációt ölel fel.
+:100. Egy generáció általában körülbelül harminc évnek felel meg.
+:101. Ez a megfontolás inkább azt a feltételezést támasztja alá, hogy a tartózkodás rövidebb, körülbelül harminc év volt.
+:102. Ez bizonyos ellentétben áll a hosszabb időpontokra vonatkozó becslésekkel.
+:103. Ugyanakkor Álmos és Árpád pontos élettartama sem ismert biztosan.
+:104. Így még a generációk számításában is bizonytalanságok maradnak.
+:105. A tartamra vonatkozó további érv a nép belső fejlődése.
+:106. Etelközben ment végbe az átalakulás a laza törzsi közösségből egységes szövetséggé.
+:107. Létrejött egy egységes vezetés, a tíz törzs szövetsége és egy harcképes hadsereg.
+:108. A tapasztalatok szerint az ilyen mélyreható változások kibontakozásához bizonyos időre van szükség.
+:109. Ez inkább egy nagyon rövid tartózkodás ellen szól, és egy hosszabb tartózkodás mellett.
+:110. A számos dokumentált hadjárat is hosszabb időtartamot igényel.
+:111. Az 862-es betörés és az 895-ös területfoglalás között több mint három évtized telt el.
+:112. Már ez az időtáv önmagában is legalább harminc éves tartózkodási időt sugall.
+:113. Ha hozzáadjuk az 862 előtti időt is, könnyen elérjük a negyven évet vagy annál is többet.
+:114. Ez a megfontolás alátámasztja a körülbelül négy évtizedre vonatkozó elterjedt feltételezést.
+:115. Ezzel felvázolható egy valószínű időkeret, anélkül, hogy pontosan rögzítenénk.
+:116. A legvalószínűbb feltételezés szerint a kezdet a 9. század közepére tehető.
+:117. A végpont 895-ös évvel szinte biztosnak tekinthető.
+:118. Közöttük körülbelül harminc-ötven év tartózkodási idő fekszik.
+:119. A körülbelül negyven éves átlagérték tűnik a legvalószínűbb becslésnek.
+:120. Ezt az időtartamot azonban mindig hozzávetőlegesnek és ideiglenesnek kell tekinteni.
+:121. A datálás bizonytalansága nem a kutatás kudarcát jelenti, hanem a források természetéből fakad.
+:122. Egy írás nélküli, nomád korszak esetében alapvetően alig lehet pontos adatokat nyerni.
+:123. Ezért be kell érnünk a valószínűségekkel és a keretértékekkel.
+:124. Ez a felismerés a korai történelemmel való tudományos tisztességes foglalkozáshoz tartozik.
+:125. Egy látszólag pontos kormeghatározás olyan bizonyosságot sugallna, amely valójában nem létezik.
+:126. A bizonytalanság nyílt bemutatása ezért a megfelelőbb megoldás.
+:127. A nyitott kérdések ellenére a tartózkodás nagyjából beilleszthető a történelembe.
+:128. A 9. század második felére esik.
+:129. Ez Kelet-Európában nagy változások ideje volt Kelet-Európában.
+:130. A Frank Birodalom szétesett, Nagy-Mórország felemelkedett, Bizánc pedig a bolgárokkal küzdött.
+:131. Ebben a mozgalmas környezetben léptek színre a magyarok Etelközről.
+:132. Tartózkodásuk így egy olyan szakaszra esett, amikor új hatalmi viszonyok alakultak ki.
+:133. Ez a helyzet lehetőséget nyújtott számukra a beavatkozásra és a felemelkedésre.
+:134. Ugyanakkor a népet az európai történelem egyik tényezőjévé tette.
+:135. Az időbeli besorolás összeköti a magyar kora történelmet Európa általános történelmével.
+:136. Ezáltal az Etelközben való tartózkodás kikerül az elszigeteltségéből, és egy szélesebb összefüggésbe kerül.
+:137. A tartózkodás időtartama közvetlen következményekkel járt a nép fejlődésére nézve.
+:138. A több évtizedes időtartam mélyreható belső éréshez vezetett.
+:139. Ebben az időszakban a törzsek szilárdabb politikai egységgé nőtték össze magukat.
+:140. Kialakult a közös vezetés, a közös politika és a közös hadsereg.
+:141. A közös identitás tudata is megszilárdulhatott ebben az időszakban.
+:142. Ha a tartózkodás csak néhány évig tartott volna, ilyen érés aligha lett volna lehetséges.
+:143. A hosszabb időtartam tehát magyarázza a nép nagy hatékonyságát a földhódítás során.
+:144. Ez érthetővé teszi, miért tudtak a magyarok 895-ben egységes erőként fellépni.
+:145. Az időkeret tehát nem csupán a kronológia technikai kérdése.
+:146. Szoros összefüggésben áll a nép tartalmi fejlődésével.
+:147. A megfelelő datálásnak ezért a történelmi fejlődéshez is illeszkednie kell.
+:148. A körülbelül négy évtizedre vonatkozó feltételezés felel meg leginkább ennek a feltételnek.
+:149. Összekapcsolja a kevés biztos adatot a fejlődés belső logikájával.
+:150. Emiatt széles körben elterjedt a kutatásban.
+:151. Mindazonáltal ez továbbra is megalapozott becslés marad, és nem bizonyított tény.
+:152. Az eltérő datálások alternatív lehetőségként megőrzik érvényességüket.
+:153. A téma felelősségteljes kezelése ezért mindig megemlíti a nézetek széles skáláját.
+:154. Ez a legvalószínűbb feltételezést jelenti, anélkül, hogy elhallgatná az alternatívákat.
+:155. Ez a nyitottság megfelel a kutatások jelenlegi állásának.
+:156. Összefoglalva: a pontos időtartam hiányában a legfontosabb pontokból egyértelmű kép rajzolódik ki.
+:157. A tartózkodás vége 895-re szinte biztosan megállapítható.
+:158. A kezdete feltehetően a 9. század közepére tehető.
+:159. A valószínű időtartam körülbelül harminc–ötven év.
+:160. A körülbelül negyven éves átlagérték tekinthető a legvalószínűbb feltételezésnek.
+:161. Ezeket az értékeket olyan datálható események támasztják alá, mint 862, 892 és 894.
+:162. Ugyanakkor a források bizonytalansága miatt ezeket relativizálni kell.
+:163. A pontos időtartamot valószínűleg soha nem lehet majd kétségtelenül meghatározni.
+:164. Új régészeti leletek azonban a jövőben tovább szűkíthetik ezt a keretet.
+:165. Eddig azonban a kutatás továbbra is a már említett forrásokra és következtetésekre támaszkodik.
+:166. Az Etelközben való tartózkodás tehát sem átmeneti átvonulás, sem tartós otthon nem volt.
+:167. Ez egy korlátozott, de döntő jelentőségű, több évtizedes átmeneti szakasz volt.
+:168. Elég hosszú ahhoz, hogy a népet alapvetően átalakítsa és megszilárdítsa.
+:169. Elég rövid ahhoz, hogy mindig a külső fenyegetés árnyékában álljon.
+:170. Ez a kettős jelleg határozta meg az egész Etelköz-korszak karakterét.
+:171. Ez egyszerre volt a felemelkedés és a növekvő veszély korszaka.
+:172. Az időkeret így tükrözi e korszak belső feszültségét.
+:173. A tartózkodás a pechenegek nyomása alatt kezdődött, és ugyanők miatt ért véget.
+:174. E két csapás között feküdt a nép rövid virágzása a sztyeppén.
+:175. Ez a virágzás csupán egy generációig, vagy alig több ideig tartott.
+:176. De ez elég volt ahhoz, hogy lefektessék a jövőbeli magyar állam alapjait.
+:177. A korlátozott időtartam így feltűnő ellentétben áll a hatalmas hatással.
+:178. Alig néhány évtized alatt valósult meg a fejlődés a fenyegetett törzscsoporttól a hódító hatalomig.
+:179. Etelköz időkerete így a magyar kora történelem egyik legsűrűbb és legjelentősebb korszakát foglalja magában.
+:180. Egy rövid, pontosan nem datálható időszakból nőtt ki a magyar történelem tartós kezdete.
+
+=== 2.8.4 – Szomszédok Etelközben: pechenegek, bolgárok és szlávok ===
+
+:1. A magyarok Etelközben korántsem egy üres vagy elzárt térségben éltek.
+:2. Sőt, települési területüket számos más nép vette körül, vagy áthatotta.
+:3. A szomszédokkal való kapcsolatok döntő módon meghatározták a magyarok sorsát.
+:4. A háború és a béke, a kereskedelem és a tribútum, a szövetség és az ellenségeskedés jellemezték a mindennapi életet.
+:5. E szomszédságok megértése nélkül az Etelköz-korszakot nem lehet megfelelően megérteni.
+:6. A legfontosabb szomszédok a pechenegek, a bolgárok és a szláv törzsek voltak.
+:7. Ehhez jöttek még keleten a kazárok, délen pedig a Bizánci Birodalom, mint fölényben lévő hatalmak.
+:8. E népek mindegyike sajátos, különleges kapcsolatban állt a magyarokkal.
+:9. Ezek a viszonyok a halálos ellenségeskedéstől az ideiglenes szövetségig terjedtek.
+:10. Etelköz földrajzi elhelyezkedése nagyban meghatározta a kapcsolatok jellegét.
+:11. Keleten a térség a nagy sztyeppére nyílt, ahonnan a legveszélyesebb ellenségek érkeztek.
+:12. Északon és nyugaton az letelepedett és félig letelepedett szláv törzsek éltek.
+:13. Délen, a Duna túloldalán terült el a dunai bolgárok hatalmas birodalma.
+:14. A háttérben pedig a kazárok és a Bizánci Birodalom nagyhatalmai fejtették ki befolyásukat.
+:15. Az összes szomszéd közül a pechenegek voltak a legjelentősebbek és a legveszélyesebbek.
+:16. A pechenegek nagy harci erővel rendelkező török lovas nép voltak.
+:17. Nomádként éltek a magyar települési területtől keletre fekvő sztyeppén.
+:18. Életmódjuk sok tekintetben szorosan hasonlított a magyarokéhoz.
+:19. Ők is lovas íjászok voltak, akik állattenyésztésből és hadjáratokból éltek.
+:20. Éppen ez a hasonlóság tette őket különösen veszélyes riválisokká ugyanazon legelőkért folytatott küzdelemben.
+:21. A pechenegek folyamatosan nyomultak előre keletről nyugat felé.
+:22. Őket magukat eközben a keletebbre élő népek, az uszok szorították ki.
+:23. Így jött létre egy láncreakció, amelynek nyugati végén a magyarok álltak.
+:24. Már a Levediából való távozás is a pecheneg nyomás következménye volt.
+:25. Az első vereség a pechenegektől Etelközbe űzte a magyarokat.
+:26. De Etelközben is a pechenegek állandó, egyre növekvő fenyegetést jelentettek.
+:27. Bizonyos értelemben a magyarok nyomában követték őket új hazájukba.
+:28. A két nép közötti viszonyt mély és tartós ellenségeskedés jellemezte.
+:29. A ugyanazon területekért folyó versengés miatt a békés együttélés aligha volt lehetséges.
+:30. A pechenegek a magyarok számára a keletről érkező állandó veszélyt jelentették.
+:31. Ez a veszély az egész etelközi időszak alatt nyomott a nép vállán.
+:32. Katonai éberségre kényszerítette a magyarokat, és egész politikájukat befolyásolta.
+:33. Etelköz keleti irányú nyitott elhelyezkedése tovább súlyosbította ezt a fenyegetést.
+:34. A pecheneg lovasok akadálytalanul tudtak előrenyomulni a sík sztyeppén.
+:35. Nagyrészt hiányoztak azok a természeti akadályok, amelyek megnehezítették volna a támadást.
+:36. Így a magyarok tartósan sebezhetőek maradtak keleti szomszédjukkal szemben.
+:37. A pechenegekkel való ellenségeskedés végül Etelköz végzetét pecsételte meg.
+:38. 895-ben az ellenségek összefogása révén bekövetkezett a döntő katasztrófa.
+:39. Míg a magyar seregek messze, a bolgár háborúban harcoltak, az ország védtelen maradt.
+:40. A pechenegek kihasználták ezt a lehetőséget egy pusztító támadásra.
+:41. Betörtek a védtelen Etelközbe, és súlyos veszteségeket okoztak.
+:42. A hátramaradt magyarok családjait, állatait és táborát megtámadták.
+:43. Ez a csapás lehetetlenné tette az Etelközben való további tartózkodást.
+:44. A pechenegek így egyidejűleg voltak a levediai és az etelközi űzők is.
+:45. Az általuk gyakorolt nyomás jelentette a hajtóerőt a magyarok mindkét nagy vándorlása mögött.
+:46. Még a területfoglalás után is a pechenegek továbbra is rettegett szomszédok maradtak keleten.
+:47. Elfoglalták az elhagyott Etelközt, és elzárták a magyarok visszatérési útját.
+:48. Ezzel örökre kizártá vált a visszatérés a régi hazába.
+:49. A pechenegek így a magyar kora történelem sorsdöntő népeként jelennek meg.
+:50. Nyomásuk megállíthatatlanul nyugat felé, a Kárpát-medencébe terelte a magyarokat.
+:51. Teljesen másképp alakult a kapcsolat a szláv szomszédokkal.
+:52. A szlávok alkották a környék legnépesebb, de katonailag leggyengébb csoportját.
+:53. Főként Etelköz északi és nyugati peremvidékein éltek.
+:54. Települési területeik a nyílt sztyeppén túli erdőkre és erdősztépékre terjedtek ki.
+:55. A szlávok túlnyomórészt letelepedett nép voltak, szántóföldi gazdálkodással és állattenyésztéssel foglalkoztak.
+:56. Állandó falvakban éltek, és a régió termékeny talaját művelték.
+:57. Emellett kézművességgel, halászattal és a szomszédokkal folytatott kereskedelemmel is foglalkoztak.
+:58. Politikai szempontból a szlávok számos kis törzsre és szövetségre szakadtak szét.
+:59. Nagyrészt hiányzott belőlük egy átfogó egység vagy erős központi hatalom.
+:60. Ez a széttagoltság miatt katonai szempontból alulmaradtak az egységes, lovas magyarokkal szemben.
+:61. A magyarok kihasználták ezt a fölényüket a szláv szomszédok leigázására.
+:62. Egyes szláv csoportokat legyőztek és adófizetési kötelezettség alá vetettek.
+:63. Állatállomány, gabona, szőrme és egyéb javak formájában kellett adót fizetniük.
+:64. A rabszolgák is azok közé az áruk közé tartoztak, amelyeket a szlávoktól zsákmányként szereztek meg vagy követeltek.
+:65. Ezeket a rabszolgákat részben saját háztartásukban használták fel, részben pedig továbbadták.
+:66. A szláv foglyokkal folytatott rabszolga-kereskedelem jövedelmező üzlet volt.
+:67. A magyarok ezeket a rabszolgákat a Fekete-tengeri piacokra és Bizáncba adták el.
+:68. Így a szlávok fontos gazdasági erőforrást jelentettek a magyarok számára.
+:69. A kapcsolatot azonban nem csupán erőszak és kizsákmányolás jellemezte.
+:70. Emellett kereskedelem, csere és mindennapi kapcsolatok is fennálltak.
+:71. A magyarok mezőgazdasági termékeket és kézműves árukat szereztek be a szlávoktól.
+:72. Cserébe állatállományt, lovakat és védelmet nyújtottak, vagy adót követeltek.
+:73. Ezek a kapcsolatok kulturális és nyelvi cseréhez is vezettek.
+:74. Ebben az időszakban számos szláv jövevényszó került be a magyar nyelvbe.
+:75. Ezek a jövevényszavak elsősorban a szántóföldi gazdálkodást, a kézművességet és az letelepedett életmódot érintik.
+:76. Ezek tanúskodnak a nomád magyarok és a letelepedett szlávok közötti szoros kapcsolatról.
+:77. A szláv hatás a magyar nyelvre és kultúrára jelentős volt.
+:78. Ez a Kárpát-medence elfoglalása után még tovább erősödött.
+:79. A szlávokkal való kapcsolatot tehát egyaránt a uralom, a kereskedelem és a kölcsönös csere jellemezte.
+:80. Ez alapvetően különbözött a pecsenyékkel fennálló halálos ellenségeskedéstől.
+:81. A szlávok leigázott szomszédok voltak, nem pedig veszélyes riválisok.
+:82. Gazdasági és kulturális szempontból gazdagították a népet, anélkül, hogy fenyegetést jelentettek volna rá.
+:83. A déli Duna-bolgárokkal való viszony viszont ismét másképp alakult.
+:84. A bolgárok a Kelet-Balkán jelentős és jól szervezett hatalma voltak.
+:85. Birodalmuk a Duna alsó szakaszától délre kiterjedt széles területekre.
+:86. A bolgárok eredetileg maguk is török lovas nép voltak.
+:87. Azonban összeolvadtak a Balkán számos szláv lakosságával.
+:88. Az idő múlásával átvették a szláv nyelvet és a kereszténységet.
+:89. Így a török urakból és a szláv alattvalókból egy új, keresztény birodalom jött létre.
+:90. Ez a birodalom szervezettségében és állami stabilitásában felülmúlta a magyarokat.
+:91. A széttagolt szlávokkal ellentétben a bolgárok erős központi hatalommal rendelkeztek.
+:92. Élükön egy hatalmas uralkodó állt, aki a cár címet viselte.
+:93. A magyarok többször is kapcsolatba kerültek ezzel a birodalommal, és konfliktusba keveredtek vele.
+:94. A viszony változatos volt, és a kereskedelem, a szövetség és a háború között ingadozott.
+:95. Időnként békés kereskedelmi kapcsolatok álltak fenn a Duna túloldalán.
+:96. Máskor véres háborús összecsapásokra került sor.
+:97. A legsúlyosabb konfliktus a bizánci politika miatt robbant ki.
+:98. A Bizánci Birodalom a bolgárokkal folyamatos hatalmi és befolyási vitában állt.
+:99. A bolgárok gyengítése érdekében Bizánc szövetségeseket keresett a sztyeppén.
+:100. Ezeket a szövetségeseket a harcképes magyarokban találta meg.
+:101. 894 körül Bizánc szövetséget kötött a magyarokkal a bolgárok ellen.
+:102. VI. León bizánci császár hadba hívta a magyarokat Szimeon cár ellen.
+:103. A magyarok ezután átkeltek a Dunán, és betörtek Bulgáriába.
+:104. Több hadjárat során súlyos vereségeket mértek a bolgárokra.
+:105. Hatalmas területeket pusztítottak fel, és gazdag zsákmányt gyűjtöttek össze.
+:106. Szimeon cárt ezek a támadások súlyos nehézségekbe sodorták.
+:107. A bolgár cár azonban ügyes és bosszúvágyó ellenfélnek bizonyult.
+:108. Szimeon viszont szövetségre lépett a magyarok ellenségeivel.
+:109. Szövetségre lépett a magyarok keleti szomszédjaival, a pechenegekkel.
+:110. Így jött létre egy csapda, amely két oldalról fenyegette a magyar népet.
+:111. Miközben a magyar seregek Bulgáriában harcoltak, a csapda bezárult.
+:112. A pechenegek keletről betörtek a védtelen Etelközbe.
+:113. Ugyanakkor a bolgárok dél felől támadták meg a magyarokat.
+:114. Az ellenségek ezen összefogása vezetett az 895-ös katasztrófához.
+:115. A bolgárok így közvetlenül hozzájárultak az Etelközben való tartózkodás végéhez.
+:116. A pechenegekkel kötött szövetségük pecsételte meg a nép sorsát.
+:117. A bolgárokkal való viszonyt tehát változó, de mély ellenségeskedés jellemezte.
+:118. Ez szorosan összefüggött a bizánci politikával és a pecheneg támadásokkal.
+:119. A bolgárok nem annyira állandó riválisok voltak, mint inkább veszélyes ellenfelek egy nagyobb játszmában.
+:120. Ezt a nagyobb játszmát lényegében Bizánc és érdekei határozták meg.
+:121. Ezzel a Bizánci Birodalom kerül a figyelem középpontjába, mint feljebbvaló hatalom.
+:122. Bizánc ugyan nem volt közvetlen szomszéd, de mély hatást gyakorolt Etelközre.
+:123. A birodalom nagy tapasztalattal rendelkezett a sztyepp népekkel való bánásmód terén.
+:124. Mesteri módon tudta egymás ellen kijátszani ezeket a népeket.
+:125. Ahelyett, hogy maga háborúzott volna, Bizánc az egyik népet a másik ellen uszította.
+:126. Így a magyarokat a bolgárok ellen, a pechenegeket pedig a magyarok ellen vetették be.
+:127. Ez a megosztás és irányítás politikája a bizánci diplomácia jellegzetes vonása volt.
+:128. A magyarok számára ez egyszerre jelentett lehetőséget és veszélyt.
+:129. Egyrészt a bizánci szövetségek zsákmányt, zsoldot és tekintélyt hoztak.
+:130. Másrészt viszont veszélyes ellenségeskedésekbe sodorták a népet.
+:131. Éppen a Bulgária ellen kötött bizánci szövetség vezetett 895-ben a katasztrófához.
+:132. Bizánc így az Etelközben történt események mögött rejtőző titkos irányító erőként tűnik fel.
+:133. A bizánci kapcsolatok révén kulturális hatások is eljutottak a magyarokhoz.
+:134. Megismerkedtek a keresztény császárság pompájával és hatalmával.
+:135. Ez a találkozás jelentős szerepet játszott a későbbi keresztény hitre való áttérésben.
+:136. Az utolsó nagyhatalom a keleti kazárok voltak.
+:137. A magyarok már Levediában is szoros kapcsolatban éltek a kazárokkal.
+:138. A kazár birodalom egy hatalmas sztyeppehatalom volt, szilárd állami renddel.
+:139. Uralkodóik áttértek a zsidó vallásra, míg alattvalóik más hitet követtek.
+:140. A kazárok és a magyarok között időnként függőségi viszony állt fenn.
+:141. A magyarok a kazár befolyás alatt álltak, és átvettek néhány intézményt.
+:142. Így például a Gyula és Horka nevű magas tisztségek a kazár mintára nyúlnak vissza.
+:143. A kettős vezetés gondolata is a kazár hagyományból származik.
+:144. Az Etelközbe való áttelepüléssel a kazár kötődés fokozatosan meglazult.
+:145. A magyarok térben és politikailag is eltávolodtak a kazár birodalomtól.
+:146. Ennek a elszakadásnak a jele volt a lázadó kabárok csatlakozása.
+:147. A kabárok fellázadtak a kazár központi hatalom ellen, és elmenekültek.
+:148. Csatlakoztak a magyarokhoz, és tíz törzsre bővítették azok szövetségét.
+:149. Ezzel a magyarok bizonyos értelemben a kazárok ellenfeleit fogadták be soraikba.
+:150. Ez a magyarok növekvő függetlenségét jelzi a kazár fennhatóságtól.
+:151. Etelközben tehát véglegesen megvalósult a kazároktól való felszabadulás.
+:152. A függő szövetségesekből a sztyeppepolitika önálló szereplőivé váltak.
+:153. A kazárokkal való viszonyt tehát a befolyás és a fokozatos elszakadás jellemezte.
+:154. Meghatározó örökségével különbözött a többi szomszédságtól.
+:155. Sok minden a magyar rendben kazár vonásokat hordozott.
+:156. A kazárok nem annyira ellenségek voltak, mint inkább legyőzött tanítómesterek.
+:157. Ha áttekintjük a szomszédos népeket, sokrétű kép rajzolódik ki.
+:158. A pechenegek voltak a halálos ellenségek keletről.
+:159. A szlávok voltak az északról és nyugatról érkező, leigázott és kizsákmányolt szomszédok.
+:160. A bolgárok voltak a veszélyes ellenfelek délen.
+:161. Bizánc volt a háttérben irányító nagyhatalom.
+:162. A kazárok voltak a legyőzött mesterek keletről.
+:163. E kapcsolatok mindegyike saját jellegű volt, és saját következményekkel járt.
+:164. Együtt alkotják azt a politikai hálót, amelyben a magyarok mozogtak.
+:165. Ez a hálózat egyszerre kínált felemelkedési lehetőségeket és a bukás veszélyeit.
+:166. A magyarok ügyesen kihasználták a lehetőségeket, és a sztyeppei hatalmak közé emelkedtek.
+:167. A veszélyek azonban végül az 895-ös katasztrófában utolérték őket.
+:168. A szomszédságok így meghatározó szerepet játszottak az Etelközben való tartózkodás felemelkedésében és végében.
+:169. Ők tették a magyarokat az európai történelem egyik tényezőjévé.
+:170. És végül nyugat felé, a Kárpát-medencébe terelték a népet.
+:171. A szomszédokkal kapcsolatos tapasztalatokból a magyarok fontos tanulságokat vontak le.
+:172. Felismerték a nyílt elhelyezkedés veszélyét, és a jövőben védett területet kerestek.
+:173. Kipróbálták a szövetségeket és a háborút, és a politika ügyes szereplőivé értek.
+:174. Megismerkedtek idegen népekkel, országokkal és hatalmakkal, és megtanulták azokat felmérni.
+:175. Mindezek a tapasztalatok hasznukra váltak a későbbi területhódítás során.
+:176. Az etelközi szomszédság így a politika és a háború iskolájává vált.
+:177. Ebben alakultak ki azok a képességek, amelyek a népet a sikerhez vezették.
+:178. Ugyanakkor ez volt a fenyegetés forrása is, amely a távozásra kényszerítette őket.
+:179. Így a szomszédok egyszerre voltak a magyarok tanítómesterei, ellenségei és sorsdöntő erői.
+:180. Hatásuk kulcsot jelent az egész etelközi korszak megértéséhez.
+
+=== 2.8.5 – Források és hagyomány: Amit Etelközről tudunk ===
+
+:1. Az Etelközről szóló összes ismeretünk néhány forráson alapul, amelyek ráadásul rendkívül különböző jellegűek.
+:2. Maguk a magyarok nem hagytak hátra saját írásos emlékeket ebből az időszakból.
+:3. Írás nélküli nép voltak, akik történelmüket szájhagyomány útján, dalokban és elbeszélésekben őrizték meg.
+:4. Ez a szájhagyomány az évszázadok során nagy részben elveszett.
+:5. Ami megmaradt, az csak későn és megváltozott formában került írásos feljegyzésekbe.
+:6. Az Etelközről szóló bizonyított ismereteink ezért szinte kizárólag idegen tollakból származnak.
+:7. Szomszédok és megfigyelők számoltak be a magyarokról.
+:8. Ezek a megfigyelők saját szemszögükből és saját szándékaik alapján írtak.
+:9. Beszámolóik ezért mindig idegen perspektíván keresztül nézve értelmezendők.
+:10. A források nagyjából több csoportra oszthatók.
+:11. Először is ott vannak a görög kulturális térségből származó bizánci források.
+:12. Emellett ott vannak az iszlám világból származó arab és perzsa források.
+:13. Ehhez jönnek még a nyugati, frank Európából származó latin források.
+:14. Végül pedig vannak a késő középkori magyar krónikák.
+:15. Mindegyik csoportnak megvan a maga értéke és gyengesége.
+:16. Az írásos forrásokat kiegészítik az archeológiai leletek.
+:17. Csak mindezen tanúságok együtteséből alakul ki teljes kép.
+:18. Ez a kép azonban hiányos, homályos és sok tekintetben vitatott marad.
+:19. A messze legfontosabb forrás egy 10. századi bizánci mű.
+:20. A „De administrando imperio” című írásról van szó.
+:21. Szerzője a bizánci császár, VII. Konstantin, akinek a Porphyrogennetos mellékneve volt.
+:22. A melléknév jelentése „a bíborban született”, és császári származására utal.
+:23. Konstantin a 10. században uralkodott, és egyben művelt író is volt.
+:24. Műve a 10. század közepén keletkezett.
+:25. Nem a nyilvánosság számára, hanem fiának és trónörökösének szánták.
+:26. A mű célja az volt, hogy a leendő császárt oktassa az idegen népekről és azok kezeléséről.
+:27. Így tehát egyfajta titkos külpolitikai kézikönyvről van szó.
+:28. Éppen ez a jelleg ad neki különleges értéket.
+:29. Mivel nem propagandacélokat szolgált, tárgyilagosan és nyíltan számolhatott be.
+:30. Konstantin több fejezetben is foglalkozik a magyarokkal, akiket törököknek nevez.
+:31. Ez a „törökök” megnevezés a bizánci nyelvhasználatban szokásos volt.
+:32. Ez utal a nép lovas nomád életmódjára és feltételezett származására.
+:33. Konstantin leírja a magyarok történetét, vándorlásait és rendjét.
+:34. Beszámol Levediáról, a pecsenegek általi elűzésről és Etelközről.
+:35. Művében szerepel Árpád felemelkedése és a törzsek szervezete is.
+:36. Konstantin ezzel szinte az egész korszakról szóló ismeretek alapját fekteti le.
+:37. Beszámolójának különleges értéke az információforrásában rejlik.
+:38. Konstantin részben magyar követek beszámolóira támaszkodott.
+:39. Ezek a követek felkeresték a bizánci udvart, és beszámoltak történelmükről.
+:40. Közöttük volt Árpád egyik leszármazottja, Termatzus nevű személy.
+:41. Ezen források révén a magyarok saját hagyományai is bekerültek a műbe.
+:42. Konstantin beszámolója így a magyar szájhagyomány töredékeit őrzi meg.
+:43. Ez a művet a korai magyar önemlékezet felbecsülhetetlen értékű tanúvallomásává teszi.
+:44. Ugyanakkor a mű nem mentes a jelentős nehézségektől.
+:45. A földrajzi adatok gyakran homályosak és nehezen értelmezhetők.
+:46. A hagyományból származó folyónevek nem mindig határozhatók meg egyértelműen.
+:47. Az időbeli adatok is homályosak és részben ellentmondásosak.
+:48. A Levedia-ról szóló, hírhedt hároméves időtartamra vonatkozó adat sok zavart keltett.
+:49. Ezenkívül a műben különböző információs rétegek keverednek egymással.
+:50. Régebbi és újabb hírek rendezetlenül állnak egymás mellett.
+:51. A kutatásnak fáradságos munkával kell ezeket a rétegeket egymástól elválasztania.
+:52. E hiányosságok ellenére Konstantin műve továbbra is Etelköz legfontosabb forrása marad.
+:53. Egyetlen más forrás sem nyújt hasonlóan gazdag információkészletet.
+:54. A második fontos forráscsoportot az arab és perzsa földrajztudósok alkotják.
+:55. A középkori iszlám világ gazdag földrajzi irodalmat hozott létre.
+:56. A tudósok ezekben írták le az ismert világ országait és népeit.
+:57. A sztyeppei magyarok is helyet kaptak ezekben a leírásokban.
+:58. E beszámolók többsége egy közös, régebbi forrásra vezethetők vissza.
+:59. Ezt az elveszett eredeti forrást egy al-Dschaihani nevű tudósnak tulajdonítják.
+:60. A későbbi szerzők ebből a forrásból merítettek, és továbbadták annak tartalmát.
+:61. Közéjük tartozik Ibn Rusta és a perzsa tudós, Gardīzī.
+:62. Ibn Rusta egy terjedelmes földrajzi enciklopédiát írt.
+:63. Gardīzī perzsa nyelven írt egy történelmi-földrajzi művet.
+:64. Mindketten hasonló módon számolnak be a magyarok életmódjáról.
+:65. Leírják a gazdaságot, a lakásmódot és a harci szokásokat.
+:66. Szó esik a szláv szomszédok elleni zsákmányútokról is.
+:67. Említést tesznek a szláv foglyok bizánci piacokon történő eladásáról.
+:68. Ezek a keleti beszámolók értékes módon kiegészítik a bizánci képet.
+:69. Részleteket nyújtanak a kultúráról, amelyek Konstantin írásaiból hiányoznak.
+:70. Ugyanakkor ezeket is óvatosan kell kezelni.
+:71. A beszámolók gyakran régebbi viszonyokra alapulnak, és többször is átírták őket.
+:72. Ennek során hibák, félreértések és túlzások csúsztak be.
+:73. Ráadásul inkább általános viszonyokat írnak le, mint konkrét eseményeket.
+:74. A kronológia és a földrajz szempontjából ezért csak korlátozottan használhatók fel.
+:75. Értékük elsősorban az életmód és a kultúra leírásában rejlik.
+:76. A harmadik forráscsoport a nyugati latin forrásokat foglalja magában.
+:77. Ide tartoznak elsősorban a frank évkönyvek és krónikák.
+:78. Ezeket a feljegyzéseket kolostorokban és udvarokban vezették.
+:79. A nyugati, keresztény szemszögből számolnak be az eseményekről.
+:80. A magyarok ezekben többnyire fenyegető, pogány lovasokként jelennek meg.
+:81. Ezek a források elsősorban a magyarok betöréseit és hadjáratait rögzítik.
+:82. Így találhatunk hírt a kelet-frank birodalomba 862-ben történt betörésről.
+:83. Arnulf királlyal Nagy-Morvaország ellen kötött szövetségről is maradt fenn feljegyzés.
+:84. Ezek a hírek gyakran meglehetősen megbízhatóak és pontosan datáltak.
+:85. Ebben rejlik a latin források különleges értéke.
+:86. Szilárd kronológiai támpontokat nyújtanak az Etelköz-korszakra vonatkozóan.
+:87. Ugyanakkor alig foglalkoznak a magyarok belső viszonyaival.
+:88. A nép származásáról, rendjéről és kultúrájáról nagyrészt hallgatnak.
+:89. Figyelmüket kizárólag a saját világukat fenyegető veszélyre irányítják.
+:90. Ezért elsősorban kronológiai szempontból egészítik ki a többi forrást.
+:91. A negyedik forráscsoportot a későbbi magyar krónikák alkotják.
+:92. Ezek csak évszázadokkal a leírt események után keletkeztek.
+:93. A legismertebb az egy névtelen szerző által írt Gesta Hungarorum.
+:94. Ezt a szerzőt a kutatásokban egyszerűen Anonymusnak nevezik.
+:95. Feltehetően egy magyar király jegyzője volt 1200 körül.
+:96. Műve a földhódítást és a nép előtörténetét írja le.
+:97. Emellett vannak további krónikák a késő középkorból.
+:98. Ezek is a magyarok korai történelmét és vándorlásait tárgyalják.
+:99. Ezek a művek azonban keverik a történelmi emlékeket a mondákkal és a kitalációval.
+:100. Az eseményekhez fűződő időbeli távolság több évszázad volt.
+:101. Ez alatt a hosszú idő alatt a hagyomány jelentősen megváltozott.
+:102. Sok minden feledésbe merült, más dolgokat pedig kiszíneztek vagy újra kitaláltak.
+:103. A krónikások saját elképzeléseikkel és legendákkal pótolták a hiányzó részeket.
+:104. Így születtek a hősökről, szerződésekről és természetfeletti jelekről szóló történetek.
+:105. Ezek közé tartozik Emese hercegnő álmáról és a Turulról szóló legenda is.
+:106. A hét vezér legendás vérszerződése is ebbe a kategóriába tartozik.
+:107. Az ilyen elbeszélések történelmi forrásként csak korlátozottan használhatók.
+:108. Értékük inkább a mítoszok és az önkép területén rejlik.
+:109. Megmutatják, hogyan képzelte el a későbbi Magyarország a saját korai történelmét.
+:110. Az Etelközben történt pontos események megismerése szempontjából alig használhatók.
+:111. A kutatás ezért nagy óvatossággal és szkepticizmussal kezeli őket.
+:112. Ahol ellentmondanak a régebbi forrásoknak, azoknak adnak elsőbbséget.
+:113. A négy írásos forráscsoport mellett ott van még a régészet.
+:114. Ez az egyetlen közvetlen, idegen szavak által nem torzított tanúvallomást nyújt.
+:115. A talajban talált leletek bizonyos értelemben magukért beszélnek.
+:116. Azonban a régészeti hagyománynak is megvannak a maga korlátai.
+:117. Egy nomád lovas nép csak kevés tartós nyomot hagy maga után.
+:118. Azok az állandó települések, amelyek gazdag leleteket szolgáltathatnának, nagyrészt hiányoznak.
+:119. A legfontosabb leletek ezért sírokból és temetkezésekből származnak.
+:120. A magyarok gyakran gazdag sírmellékletekkel temették el halottaikat.
+:121. A lovasokat lovuk részeivel, fegyverekkel és ékszerekkel együtt temették el.
+:122. Ezek a lovas sírok a korai magyar kultúra jellegzetes jegyeinek számítanak.
+:123. A sírmellékletek között kardok, nyílhegyek, kengyelek és kantárkészletek találhatók.
+:124. Gyakran találhatók művészi fémcsatok is övekhez és táskákhoz.
+:125. Ezek a leletek egy magasan fejlett kézművességről tanúskodnak.
+:126. Emellett kiterjedt kulturális kapcsolatokról is tanúskodnak.
+:127. A leletek Etelközhöz való hozzárendelése azonban továbbra is nehézségekbe ütközik.
+:128. A rövid tartózkodási idő megnehezíti az időbeli behatárolást.
+:129. A folyamatos vándorlás megnehezíti a térbeli behatárolást.
+:130. Egyértelmű, biztosan datált lelethelyek Etelközben ritkák.
+:131. A Dnyeper és a Pruth közötti egyes temetkezési területeket a magyarokkal hozzák összefüggésbe.
+:132. Ám a hosszabb ideig tartó letelepedésre vonatkozó kétségtelen bizonyítékok többnyire hiányoznak.
+:133. A régészet ezért inkább az általános képet erősíti meg, mintsem hogy a részleteket tisztázná.
+:134. Egy lovas nomád harcos- és pásztortörzset mutat be.
+:135. Ezzel illeszkedik az írásos források által festett képbe.
+:136. Az írásos források és a régészeti leletek alapvető vonásaikban megerősítik egymást.
+:137. A részletek tekintetében azonban sok kérdés nyitott marad.
+:138. Különleges segítő tudományág a történeti nyelvészet.
+:139. A magyar nyelv vizsgálata sajátos ismereteket szolgáltat.
+:140. Más nyelvekből származó jövevényszavak korábbi kapcsolatokra utalnak.
+:141. A török jövevényszavak a sztyepp népekkel való érintkezésről tanúskodnak.
+:142. A szláv jövevényszavak a szláv szomszédokkal való kapcsolatot bizonyítják.
+:143. Az ilyen szavakból következtetéseket lehet levonni az életmódra vonatkozóan.
+:144. Ezek a gazdaságra, a kézművességre, az uralomra és a mindennapi életre vonatkoznak.
+:145. A nyelvkutatás így kiegészíti a történelmi és régészeti forrásokat.
+:146. Olyan területeken nyújt támpontokat, ahol a többi forrás hallgat.
+:147. Ennek is megvannak azonban a határai, és nem teszi lehetővé a pontos időbeli behatárolást.
+:148. A kutatás mindezen források összehangolt felhasználásával dolgozik.
+:149. Kritikus szemmel összehasonlítja a különböző tanúvallomásokat.
+:150. Mérlegeli azok hitelességét és forrásértékét.
+:151. Ahol a források egybehangzanak, az információt bizonyítottnak tekintik.
+:152. Ahol ellentmondanak egymásnak, a kutatásnak mérlegelnie és értelmeznie kell.
+:153. Ahol hallgatnak, hiányosságok maradnak, amelyeket csak következtetésekkel lehet kitölteni.
+:154. Ez a kritikai módszer a történettudomány eszköztára.
+:155. Ez különbözteti meg a komoly kutatást a puszta spekulációtól.
+:156. Minden módszer ellenére sok minden bizonytalan marad Etelközzel kapcsolatban.
+:157. A forráshelyzet nem teszi lehetővé egy teljes és biztos kép kialakítását.
+:158. Néhány alapvető kérdés a mai napig tisztázatlan.
+:159. Etelköz pontos elhelyezkedése, fennállásának időtartama és kiterjedése továbbra is vitatott.
+:160. Levedia és Etelköz közötti kapcsolat sem tisztázódott véglegesen.
+:161. Ezek a bizonytalanságok nem a kutatás hiányosságai, hanem a forrásokban rejlenek.
+:162. Egy írásbeliség előtti korszakról ennél nagyobb bizonyosságot nem lehet szerezni.
+:163. A téma becsületes kezelése nyíltan megnevezi ezeket a korlátokat.
+:164. Megkülönbözteti a bizonyosat a valószínűsíthetőtől és a pusztán feltételezett tényeket.
+:165. Bizonyított az a alapvető tény, hogy a földfoglalás előtt Etelközben tartózkodtak.
+:166. Bizonyított a pecsenegek által 895-ben végrehajtott kiűzés.
+:167. Valószínű a hozzávetőleges elhelyezkedés és a néhány évtizedes időtartam.
+:168. A földrajz és a kronológia számos részlete továbbra is bizonytalan marad.
+:169. Mítikusabbak és számunkra bizonytalanok a későbbi krónikák elbeszélései.
+:170. Minden ismertetőnek figyelembe kell vennie ezt a bizonyossági fokozatot.
+:171. Jövőbeli leletek egyes pontokban kiegészíthetik a képet.
+:172. Új régészeti felfedezésekre mindig van lehetőség.
+:173. Az ismert források új értelmezései is előrelépést hozhatnak.
+:174. Az Etelközről szóló kutatás tehát még nem zárult le.
+:175. Továbbra is élénk vita és értelmezés tárgyát képezi.
+:176. Összefoglalva: az Etelközről szóló ismeretünk kevés, egymástól eltérő pilléren nyugszik.
+:177. Bizánci, keleti, latin és magyar források támasztják alá.
+:178. A régészet és a nyelvészet alátámasztja és kiegészíti ezt az ismeretet.
+:179. Kritikus kölcsönhatásukból egy hiányos, de megbízható kép alakul ki.
+:180. Ez a kép egy bonyolult hagyomány alapos kutatásának eredménye marad.
+
+=== 2.8.6 – Régészeti nyomok és települési helyek ===
+
+:1. Etelköz régészeti kutatása különleges és alapvető nehézségekkel szembesül.
+:2. A letelepedett népektől eltérően a nomád magyarok csak szűkös anyagi nyomokat hagytak hátra.
+:3. Egy olyan nép, amely mozgatható sátrakban élt és folyamatosan vándorolt, nem épített állandó létesítményeket.
+:4. Nem voltak állandó városok, kőépületek és nem voltak tartós települési rétegek sem.
+:5. Így az régészetnek éppen az hiányzik, ami más kultúrák esetében támaszpontként szolgálhat.
+:6. Az letelepedett népek települési dombokat, falmaradványokat és mély hulladékrétegeket hagynak hátra.
+:7. Ilyen leletekből gyakran pontosan rekonstruálható egy közösség élete.
+:8. Egy olyan lovas nomád nép esetében, mint a magyarok, ezek a gazdag leletforrások hiányoznak.
+:9. A nemezből, fából és bőrből készült lakóhelyek nyomtalanul eltűntek a talajban.
+:10. A táborhelyeket felszámolták, és alig hagytak hátra maradandó nyomokat.
+:11. Ami megmaradt, azok elsősorban az elhunytak sírjai voltak.
+:12. A halottakat meghatározott helyeken temették el, és nem vitték tovább.
+:13. Így a sírok jelentik a legfontosabb, és gyakran az egyetlen leletforrást a nomád népek esetében.
+:14. A korai magyarok régészetének egészét ezért elsősorban a temetkezési helyek alkotják.
+:15. Ez az alapvető tény meghatározza a kutatás minden lehetőségét és korlátját.
+:16. A magyarok temetkezési szokásai meghatározott, visszatérő mintákat követtek.
+:17. Ezek a minták jelentősen eltérnek a szomszédos népekétől.
+:18. Éppen ebben rejlik a magyar sírok felismerésének lehetősége.
+:19. Különösen jellegzetes vonás az ember és a ló szoros kapcsolata.
+:20. A lovast gyakran a lova egyes részeivel együtt temették el.
+:21. Leggyakrabban a ló koponyáját és lábszárcsontjait is a sírba helyezték.
+:22. Ezek a részek az egész, feláldozott állatot szimbolizálták.
+:23. A lónak nyilvánvalóan a túlvilágon is kísérnie kellett a halottat.
+:24. Ez a szokás tükrözi a ló központi szerepét a magyarok életében.
+:25. Az ilyen lovas sírok a korai magyar kultúra legfontosabb felismerési jeleinek számítanak.
+:26. Ezek egyértelműen eltérnek a letelepedett szomszédok temetkezési szokásaitól.
+:27. A ló mellett a halott számos személyes sírmellékletet is kapott a sírba.
+:28. Ezeknek a sírmellékleteknek a túlvilágon kellett szolgálniuk őt, és rangját tanúsítaniuk.
+:29. Ide tartoznak fegyverek, ékszerek, eszközök és viseletelemek.
+:30. Ezen leletekből részben megismerhető a magyarok élete.
+:31. A fegyverek különösen sokatmondó leletcsoportot alkotnak.
+:32. Első helyen áll a kissé ívelt szablya, a lovas fő fegyvere.
+:33. Ehhez jönnek még a összetett reflexíj maradványai.
+:34. Maga az íjból többnyire csak a csontmerevítők maradtak fenn.
+:35. Ezek a csontlemezek árulkodnak az íj felépítéséről és méretéről.
+:36. A sírokban gyakran találhatók vas nyílhegyek.
+:37. Alakjukból következtetni lehet a lövedékek típusára és hatékonyságára.
+:38. A tegez és az íjtartó létezését a fémkapcsok és a maradványok bizonyítják.
+:39. Esetenként lándzsacsúcsok és balták is előkerülnek.
+:40. A fegyverleletek megerősítik a lovas íjászról alkotott képet.
+:41. A lófelszerelés képezi a második fontos leletcsoportot.
+:42. A vas kengyelek a leggyakrabban előkerülő leletek közé tartoznak.
+:43. Ezek biztosították a lovas számára a szilárd üléspozíciót és a lóról való lövöldözést.
+:44. A kantárok és a szájvasak a lovak irányításáról tanúskodnak.
+:45. A nyeregszegecsek és a hevederek kiegészítik a felszerelés képét.
+:46. Ezek a leletek egy magasan fejlett lovas kultúrát tanúsítanak.
+:47. Megmutatják, milyen központi szerepet játszott a ló a hadviselésben és a mindennapi életben.
+:48. A harmadik leletcsoport az ékszereket és a viseletelemeket foglalja magában.
+:49. Ide tartoznak elsősorban a művészien kidolgozott fém díszek.
+:50. Különösen jellegzetesek az ezüstből készült, díszített fém díszek.
+:51. Ezek öveket, táskákat, ruhákat és kantárkészleteket díszítettek.
+:52. A díszítések többnyire növényi és virágmotívumokat ábrázolnak.
+:53. Ezek a motívumok alkotják az úgynevezett palmetta-szerű stílust.
+:54. Ez a korai magyar művészet jellegzetes stílusának számít.
+:55. Emellett fülbevalók, karkötők, gyűrűk és medálok is előfordulnak.
+:56. A fonott copfokat is díszítőelemekkel díszítették.
+:57. Ezek az ékszerleletek a jólétről és a kézműves mesterségről tanúskodnak.
+:58. Ezenkívül a magyarok kulturális kapcsolatairól.
+:59. Egyes minták és technikák kelet felé, a sztyeppére utalnak.
+:60. Mások a bizánci vagy perzsa térségből származó hatásokat mutatnak.
+:61. Így a leletek tükrözik a nép kiterjedt kapcsolati hálóját.
+:62. Különleges leletcsoportot alkotnak az úgynevezett halotti maszkok és szemfedők.
+:63. Egyes sírokban fémlemezeket találtak a szemek és a száj felett.
+:64. Ezek feltehetően az arc nyílásainak lezárására szolgáltak.
+:65. Ezek a halálról és a túlvilágról alkotott bizonyos elképzelésekhez kapcsolódnak.
+:66. Ezüst arcfedőkről is vannak szórványos említések.
+:67. Az ilyen leletek betekintést nyújtanak a magyarok vallási elképzeléseibe.
+:68. Kiegészítik a sámánizmus és az ősök imádatának képét.
+:69. A sírleletek összessége lehetővé teszi a kultúra rekonstruálását.
+:70. Egy harcias, lovas nomád és művészetkedvelő népet mutat be.
+:71. Ezzel a régészet megerősíti az írott források által festett képet.
+:72. De most felmerül a döntő és nehéz kérdés.
+:73. Egyáltalán biztosan hozzárendelhetők-e ezek a leletek Etelköz területéhez?
+:74. Itt kezdődnek az Etelköz-régészet valódi problémái.
+:75. Az első probléma a leletek időbeli behatárolása.
+:76. Az Etelközben való tartózkodás csupán néhány évtizedig tartott.
+:77. Egy ilyen rövid időtartamot régészeti szempontból nehéz megfogalmazni.
+:78. A leleteket gyakran csak nagyjából egy századra lehet datálni.
+:79. Ritkán lehetséges a tartózkodás éveire történő pontos besorolás.
+:80. Hasonló leletek találhatók az Etelköz-korszak előtt és után is.
+:81. Hasonlítanak a Levediából és a Kárpát-medencéből származó leletekhez.
+:82. A sztyeppék nomád kultúrája nagy területeken egységes volt.
+:83. Ez jelentősen megnehezíti az egyes szakaszok megkülönböztetését.
+:84. A második probléma a leletek térbeli besorolása.
+:85. A magyarok csak egyike voltak a sztyeppe számos lovas népének.
+:86. A pecsenyék, a kazárok és más népek is hagytak hátra hasonló sírokat.
+:87. E népek anyagi kultúrája erősen hasonlított egymásra.
+:88. A szablyák, a kengyelek és a fémberakások széles körben elterjedtek voltak.
+:89. Ezért nehéz egy sírt egyértelműen a magyarokhoz rendelni.
+:90. Egy lelet ugyanúgy származhat egy szomszédos sztyepp néptől is.
+:91. Csak bizonyos jellemzők teszik lehetővé a valószínűsíthető besorolást.
+:92. Ide tartozik a jellegzetes lótemetés és a palmetta-szerű stílus.
+:93. De még ezek a jellemzők sem teljesen egyértelműek.
+:94. Így minden besorolásnak megmarad egy bizonyos fokú bizonytalansága.
+:95. A harmadik probléma maguknak a feltárásoknak az állapota.
+:96. Az Etelköz területe több mai államra terjed ki.
+:97. Magában foglalja Ukrajna, Moldávia és Románia egyes részeit.
+:98. A kutatások intenzitása ezekben az országokban eltérő volt.
+:99. A politikai és történelmi körülmények befolyásolták az ásatási tevékenységet.
+:100. Egyes területeket alaposan feltártak, másokat alig vizsgáltak.
+:101. Ezért a kép hiányos és egyenetlen.
+:102. Az egyik régióból származó leletek keveset árulnak el a többi régióról.
+:103. Etelköz átfogó feltárása még hátra van.
+:104. E nehézségek ellenére vannak olyan lelőhelyek, amelyeket a magyarokkal hoznak összefüggésbe.
+:105. A Dnyeper és a Pruth közötti térségben találtak ilyen sírokat.
+:106. Néhány temetkezési hely a lovas nomádok jellegzetes vonásait mutatja.
+:107. Lovak eltemetéseit, fegyvereket és jellegzetes ékszereket tartalmaznak.
+:108. Egyes kutatók a magyarok örökségének tekintik őket.
+:109. Különösen a Fekete-tengertől északra fekvő területen gyakoriak az ilyen leletek.
+:110. A nagy folyók mentén is találtak ilyen sírokat.
+:111. A folyóvölgyek voltak a nomádok kedvelt tartózkodási helyei.
+:112. Ott voltak a téli táborok és az állandó temetkezési helyek.
+:113. A leletek elhelyezkedése tehát megerősíti a feltételezett települési módot.
+:114. Az egyes esetek besorolása azonban mindig vitatott marad.
+:115. Híres példa erre a Subbotzy környékéről származó leletek.
+:116. Ott olyan sírokat fedeztek fel, amelyek egyértelmű korai magyar vonásokat hordoznak.
+:117. Egyes kutatók ezeket kulcsfontosságú leleteknek tekintik Et elközre vonatkozóan.
+:118. Az úgynevezett Subbotzy-csoportot a vándorló magyarokkal hozzák összefüggésbe.
+:119. Leletük feltűnően hasonlít a későbbi Kárpát-medencei leletekhez.
+:120. Ez a hasonlóság alátámasztja a keletről nyugatra irányuló vándorlás feltételezését.
+:121. Összekapcsolja a sztyeppés leleteket a honfoglalás idejéből származó leletekkel.
+:122. Ezáltal a Subbotzy-csoport fontos régészeti hidat képez.
+:123. De értelmezése sem teljesen vitathatatlan.
+:124. A kormeghatározás és a besorolás továbbra is vita tárgyát képezi.
+:125. Ez ismét rávilágít az Etelköz régészetének alapvető bizonytalanságára.
+:126. A sírokon kívül alig lehet állandó települési helyeket kimutatni.
+:127. Ez megfelel a magyarok nomád életmódjának.
+:128. Mozgó táborokban éltek, nem állandó falvakban.
+:129. Az ilyen táborok csak csekély és múló nyomokat hagynak maguk után.
+:130. Legfeljebb tűzhelyek, gödrök és állatcsontok maradhatnak fenn.
+:131. Ezeket a nyomokat nehéz felismerni és keltezni.
+:132. Ezért alig vannak bizonyított magyar települési helyek Etelközben.
+:133. A kevés feltételezett helyszín értelmezése bizonytalan.
+:134. A magyarokat így régészeti szempontból elsősorban halottaik révén lehet nyomon követni.
+:135. Életviláguk nagyrészt elkerüli a ásó szemeit.
+:136. Ez alapvető különbség a letelepedett szomszédokhoz képest.
+:137. A szláv szomszédok állandó falvakat és települési rétegeket hagytak hátra.
+:138. Házuk, élelmiszer-gödrük és műhelyeik jól kimutathatók.
+:139. Ezekből a leletekből életük pontosan rekonstruálható.
+:140. A nomádok és az letelepedettek közötti ellentét a talajban is megmutatkozik.
+:141. A régészeti láthatóság szorosan összefügg az életmóddal.
+:142. Egy vándorló népet nehezebb megragadni, mint egy letelepedettet.
+:143. Ez a felismerés alapvető fontosságú a forráshelyzet megértéséhez.
+:144. Ez magyarázza, miért éppen a magyarokról olyan nehéz képet alkotni.
+:145. A régészet ennek ellenére kiegészítheti az írásos források által alkotott képet.
+:146. Közvetlen tanúbizonyságokat szolgáltat az anyagi kultúráról.
+:147. Ezeket a tanúbizonyságokat nem torzítják idegen szavak.
+:148. Az élet és a halál tényleges tárgyait mutatják be.
+:149. Ezáltal önálló, független forrást jelentenek.
+:150. Ahol az írott források hallgatnak, ott az régészet szólalhat meg.
+:151. Bemutatja a magyarok művészetét, fegyvereit és ékszereit.
+:152. Bizonyítja lovas kultúrájukat és harcos életmódjukat.
+:153. Megerősíti kiterjedt kulturális kapcsolataikat.
+:154. Mindezekben a pontokban alátámasztja az írásos források által festett képet.
+:155. Az írásos források és a régészeti leletek kiegészítik és megerősítik egymást.
+:156. Ahol egybehangzanak, az adott megállapítás különös bizonyosságot nyer.
+:157. Ez az egybehangzás a kutatás értékes eredménye.
+:158. A részletek tekintetében azonban számos kérdés továbbra is nyitott marad.
+:159. A települések pontos elhelyezkedése ismeretlen.
+:160. A leletek időbeli sorrendje bizonytalan.
+:161. Az egyes sírok besorolása továbbra is vitatott.
+:162. Ezek a bizonytalanságok az Etelköz régészetét összességében jellemzik.
+:163. Ezek nem kudarcot jelentenek, hanem a kutatási tárgy természetéből fakadnak.
+:164. Egy vándorló nomád népet nehéz pontosan meghatározni.
+:165. A kutatásnak meg kell tanulnia együtt élni ezzel az alapvető nehézséggel.
+:166. A jövőbeli ásatások azonban kiegészíthetik a képet.
+:167. Új lelőhelyek bármikor felfedezhetők.
+:168. A modern módszerek javítják a kormeghatározást és az elemzést.
+:169. A természettudományos eljárások új betekintést nyújtanak.
+:170. Így például meghatározható az emberek és állatok eredete.
+:171. A genetikai kutatások teljesen új lehetőségeket nyitnak meg.
+:172. Segítségükkel láthatóvá válhatnak a vándorlások és a rokonsági kapcsolatok.
+:173. Az ilyen módszerek a jövőben fényt deríthetnek az Etelközzel kapcsolatos kérdésekre.
+:174. Az régészeti kutatás tehát még nem ért véget.
+:175. Továbbra is egy élénk és ígéretes terület marad.
+:176. Összefoglalva: régészeti szempontból Etelköz elsősorban sírok alapján ismerhető meg.
+:177. A magyarokat lovas sírok jellemzik, amelyekben lovak, fegyverek és ékszerek találhatók.
+:178. A nomád életmódnak megfelelően nincsenek állandó települések.
+:179. A leletek időbeli és térbeli besorolása továbbra is bizonytalan.
+:180. Mindazonáltal a régészet alapvető vonalaiban megerősíti az írásos források által festett képet.

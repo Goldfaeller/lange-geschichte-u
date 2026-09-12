@@ -1,0 +1,1284 @@
+== 4.4 – A korai királyság I. István uralkodása alatt: közigazgatás és egyház ==
+
+:1. I. István uralkodását tudatosan megtervezett építkezésként lehet értelmezni, amely megteremtette a korai magyar királyság közigazgatását és egyházi rendjét. 
+:2. I. István, aki körülbelül 997-től 1038-ig uralkodott, és 1000/1001 fordulóján koronázták meg királlyá, néhány évtized alatt megteremtette egy közép-európai területi állam alapszerkezetét.
+:3. Az ő ideje előtt a Kárpát-medencét pogány törzsek és nemzetségek laza szövetsége jellemezte, központi közigazgatás és az egész területet lefedő egyházi szervezet nélkül.
+:4. István kettős feladat előtt állt: felülről ki kellett építenie az állami közigazgatást, és egyúttal a keresztény egyházat is meg kellett erősítenie e hatalom alappillérként.
+:5. Mindkét feladat szorosan összefonódott, hiszen a közigazgatás és az egyház megosztotta egymás között a személyzetet, az írásbeliséget és a kora középkori rendtudatot.
+:6. István legfontosabb világi közigazgatási eszköze a megyék rendszere volt, amelyet magyarul vármegyének neveztek.
+:7. A megye egy királyi közigazgatási körzet volt, amely egy központi vár köré csoportosult, és egy nagyobb területet foglalt magába a hozzá tartozó falvakkal együtt.
+:8. A „vár” szó „várat” jelent, és a vár képezte az adott körzet katonai, gazdasági és közigazgatási központját.
+:9. Minden vármegye élén a király által kinevezett tisztviselő, az ispán állt, akinek címe a szláv „župan” szóból származik.
+:10. Az ispán, akit latinul comes-nek neveztek, bírói, katonai és adóügyi hatásköröket egyesített magában.
+:11. Nem örökletes hűbérúr volt, hanem a király által leváltható tisztségviselő, ami jelentősen megerősítette a központi hatalmat.
+:12. Ez a leváltathatóság alapvetően megkülönböztette a korai magyar rendszert a Nyugaton kialakult örökletes feudális struktúrától.
+:13. Az ispán beszedte a királyi jövedelmeket a körzetéből, és az általános vélekedés szerint egyharmadát megtartotta magának és az adminisztrációjának.
+:14. A bevételek fennmaradó kétharmada a királyi udvarba került, így a vár a pénzügyi rendszer központi csomópontjává vált.
+:15. A István idején létrehozott megyék számát a kutatások vitatják, de körülbelül negyven-negyvenöt egységre lehet számítani.
+:16. Ezek a vármegyék olyan hálózatot alkottak, amely az egész birodalmat átfogta, és a királyi hatalmat egészen a tartományokig kiterjesztette.
+:17. Különbséget tesznek a vármegyék és az udvari birtokok között, wobei az utóbbiak közvetlenül a királyi udvar ellátását szolgálták.
+:18. A megyéhez saját, függő várlakosokból álló réteg tartozott, az úgynevezett várnép, amely szolgálatra és adófizetésre volt köteles.
+:19. Ezek a várlakosok különböző rangokba sorolódtak, a harcképes katonáktól a szolgálatra kötelezett parasztokig és kézművesekig.
+:20. A harcképes várharcosok, az iobagiones castri alkották a megye katonai gerincét, és magasabb jogi státuszt élveztek.
+:21. Felettük állt az ispán, alattuk pedig az egyszerű várszolgák, akik a földeket művelték, az állatokat gondozták, vagy speciális kézműves szolgáltatásokat nyújtottak.
+:22. Ezeket a szolgálókat gyakran feladataik szerint szervezték, és saját falvakban telepedtek le, amelyek nevei sok esetben még ma is emlékeztetnek funkciójukra.
+:23. Olyan helynevek, mint a kovácsokat jelölő Kovácsi vagy az ácsokat jelölő Ácsi, tükrözik a szolgáló népesség ezen funkcionális felosztását.
+:24. A királyi birtok a megyék mellett képezte az uralom gazdasági alapját, hiszen a király messze a legnagyobb földbirtokos volt az országban.
+:25. Becslések szerint a korai időszakban a korona a termőföld több mint felét, sőt akár kétharmadát is birtokolta.
+:26. Ez a hatalmas földbirtok gazdasági fölényt biztosított Istvánnak, ami megerősítette politikai elsőbbségét a nemességgel szemben.
+:27. A királyi udvar kezdetben nem volt állandó helyszínen, hanem az uralkodóval együtt utazott az országban, ezt a gyakorlatot vándorkirályságnak nevezik.
+:28. A vándorló király a helyszínen felhasználta birtokai termését, és egyúttal közvetlenül gyakorolta bírói és politikai hatalmát.
+:29. A korai időszak fontos palotái és rezidenciái Esztergom, majd később Székesfehérvár voltak, amely a koronázások és temetések előnyben részesített helyszínévé vált.
+:30. Esztergomot István születési helyének tartják, és a birodalom egyházi központjává emelték.
+:31. Székesfehérvár, latinul Alba Regia, a királyok koronázásának és temetésének helyszínéül szolgáló egyházi és uralkodói központtá fejlődött.
+:32. A világi udvari közigazgatás élén a palotagróf állt, magyarul nádor, aki a királyt képviselte az igazságszolgáltatásban.
+:33. A palotagróf, latinul comes palatinus, eredetileg az udvari szolgaság vezetője volt, majd a legfőbb világi méltóságra emelkedett.
+:34. További udvari tisztségek voltak a kincstárnok, a truchsess, a pohárnok és a marsall, akik mindegyike az udvari ellátás egy-egy területét irányította.
+:35. Ezek a tisztségek a karoling és ottóniai mintára készültek, amelyet István és tanácsadói tudatosan vettek át.
+:36. A közigazgatásban központi szerepet játszott az írásbeliség, amely a kereszténységgel és a latin kultúrával együtt érkezett az országba.
+:37. István előtt a magyarok ugyan ismerték a rúnaírás, az úgynevezett karcolásos írást, de hiányzott az írásbeli közigazgatási hagyomány.
+:38. Az egyházzal együtt megérkezett a latin ábécé, és a papok lettek a királyság első írnokai és oklevélkiállítói.
+:39. A királyi kancellária ezért szinte teljes mértékben latinul jártas egyházi személyzetre támaszkodott.
+:40. A királyság legrégebbi fennmaradt okiratai István idejéből származnak, köztük a Pannonhalmai apátság alapító okirata.
+:41. A Pannonhalmáról szóló okirat, amelynek fennmaradt változata későbbi átdolgozás nyomait viseli, a legrégebbi magyar oklevélnek számít.
+:42. Az oklevelek mellett István törvénykönyvei jelentik a legfontosabb írásos tanúbizonyságokat kormányzati és egyházi politikájáról.
+:43. István két törvénykönyvet hirdetett ki, amelyek latin nyelven maradtak fenn, és amelyeket dekrétumoknak vagy libri-nek neveznek.
+:44. Az első törvénykönyv számlálástól függően körülbelül harmincöt fejezetet tartalmaz, és elsősorban az egyház és a királyi rend megszilárdítását célozta.
+:45. A második törvénykönyv inkább a tulajdonjog, a jogbiztonság és a királyi hatalom védelmének kérdéseit tárgyalja.
+:46. A törvények védték az egyház tulajdonát, szabályozták a tizedet, és súlyos büntetésekkel fenyegették a keresztény rend megsértőit.
+:47. István törvényhozásának egyik híres alapelve előírta, hogy tíz falunak közösen kell templomot építenie.
+:48. Ez a rendelkezés a lakosságot templomépítésre kényszerítette, és egyúttal biztosította a plébániatemplomok országos hálózatát.
+:49. A király ezeket a templomokat földdel, állatállománnyal és szolgákkal látta el, míg a hívőknek kellett gondoskodniuk a papokról és a liturgiához szükséges eszközökről.
+:50. A vasárnapi pihenést és a templomba járást törvény írta elő, és az istentisztelet elmulasztása büntethető volt.
+:51. Aki a misén beszélgetett vagy zavart, annak társadalmi rangjától függően verés vagy pénzbírság fenyegetett, ami jól mutatja a vallási fegyelmezés komolyságát.
+:52. A törvények tiltották a pogány szokásokat, a jóslást, valamint a régi rítusok betartását a betegágy mellett vagy a temetéseken.
+:53. Így a jogalkotás egyszerre volt a közigazgatás eszköze és a felülről irányított keresztényesítés eszköze.
+:54. Az egyházi szervezet magját egy önálló magyar egyházi struktúra kiépítése alkotta, érsekségekkel és püspökségekkel.
+:55. A hagyomány szerint István tíz püspökséget alapított, amelyek pontos száma és sorrendje a kutatások tárgyát képezi.
+:56. Az egész szervezet élén az esztergomi érsekség állt, amely az egész királyság egyházi metropolisszá vált.
+:57. Az esztergomi érsek megkapta a király koronázásának jogát, és az ország első számú egyházi méltóságává vált.
+:58. Egy második érsekség jött létre Kalocsán, amely elsősorban az ország déli és keleti részeiért volt felelős.
+:59. A korai egyházmegyék közé tartozott többek között Veszprém, Győr, Pécs, Eger, Vác, Csanád és a Gyulafehérvárban székhellyel rendelkező erdélyi egyházmegye.
+:60. A pécsi egyházmegyét 1009-ben alapították, amint azt egy fennmaradt oklevél is tanúsítja, így ez az egyik legjobban datálható alapítás.
+:61. A Csanád-i egyházmegyét a pogány Ajtony fejedelem felett aratott győzelem után hozták létre, és Szent Gergely gondjaira bízták.
+:62. Gergely, aki olasz származású volt és eredetileg szerzetes, e egyházmegye első püspöke lett, később pedig vértanúvá és szentté avatták.
+:63. A püspökségek határait úgy húzták meg, hogy azok az egész birodalmat lefedjék, és részben a megyék határaihoz igazodjanak.
+:64. Minden püspök rendelkezett egy székesegyházzal, egy domkapitullal és kiterjedt birtokkal feladatai finanszírozására.
+:65. A püspökök nem csupán egyházi pásztorok voltak, hanem fontos királyi tanácsadók és az írásbeli közigazgatás hordozói is.
+:66. Részt vettek a birodalmi gyűlésen, tanácsot adtak a királynak, és gyakran ők biztosították a képzett személyzetet a kancelláriához és a diplomáciához.
+:67. Így az egyház az állami apparátus elengedhetetlen részévé vált, amely szorosan összekapcsolta a világi és az egyházi hatalmat.
+:68. Az egyház pénzügyi alapját a tized képezte, amely a mezőgazdasági termés tizedének megfelelő adó volt.
+:69. István törvényei kötelezővé tették a tized fizetését, és a királyi hatalom védelme alá helyezték.
+:70. A tized magában foglalta a gabonát, a bort, az állatállományt és egyéb termékeket, és biztosította a püspökök, a papok és az egyházi intézmények fenntartását.
+:71. Aki eltitkolta a tizedet, azt a törvények szerint vagyonának egy részének elkobzásával fenyegették.
+:72. A tized mellett az egyház királyi adományok révén gazdag földbirtokokkal is rendelkezett.
+:73. Ezek az adományok falvakat, földterületeket, szőlőültetvényeket, malmokat és egész seregnyi függő szolgát foglaltak magukban.
+:74. A kolostorok kiemelkedő szerepet játszottak az egyházi és kulturális infrastruktúra kiépítésében.
+:75. A korai időszak legjelentősebb kolostora a pannonhalmi bencés apátság volt, amelynek építését még István apja, Géza kezdte meg, és István fejezte be.
+:76. Pannonhalma a montecassinoi példát követve kiterjedt kiváltságokat és mentességeket kapott, és a bencés rend magyarországi szellemi központjává vált.
+:77. További korai kolostoralapítások voltak Pécsvárad, Zalavár, Bakonybél és a veszprémvölgyi görög apácakolostor.
+:78. A veszprémvölgyi kolostor azért figyelemre méltó, mert alapító okirata görög nyelven készült, ami a korai királyság bizánci kapcsolatait bizonyítja.
+:79. A kolostorok az imádkozás helyszínei voltak, de egyben az oktatás, a könyvkiadás és a mezőgazdasági példamutatás központjai is.
+:80. A kolostorok íróműhelyeiben liturgiás könyveket másoltak le, amelyek nélkül az istentisztelet nem lett volna lehetséges.
+:81. A szerzetesek egyúttal új termesztési módszereket, szőlőtermesztést és kézműves technikákat is hoztak az országba, és így gazdasági szempontból is meghatározó szerepet játszottak.
+:82. A korai Magyarország papsága nagy részben külföldi származású volt, főként a Német Birodalomból, Olaszországból és a nyugat-szláv térségből.
+:83. Ezek az idegen papok hozták magukkal a liturgiát, az egyházi jogot és a latin műveltséget, amelyekből az országban kezdetben hiány volt.
+:84. Kulcsfigurája volt Adalbert prágai püspök, aki a hagyomány szerint részt vett István keresztelésében vagy bérmálásában.
+:85. Asztrik szerzetes, a későbbi érsek is fontos szerepet játszott, és állítólag ő hozta el a pápától a koronát Magyarországra.
+:86. A hazai papság képzése kezdetben a kolostorokban és a székesegyházi iskolákban történt, amelyeket István alapított.
+:87. Az idő múlásával a külföldi papok mellé egyre növekvő számú, ezekben az iskolákban képzett hazai papok csatlakoztak.
+:88. A Rómával való szoros kapcsolat tudatos külpolitikai lépés volt, amelynek célja a magyar egyház függetlenségének biztosítása volt.
+:89. István II. Szilveszter pápához fordult, és a hagyomány szerint megkapta a királyi koronát és azt a jogot, hogy saját országának egyházát saját maga szervezze meg.
+:90. Ezáltal a Magyar Királyság elkerülte azt a veszélyt, hogy egyházi vagy politikai szempontból a német császárság alá kerüljön.
+:91. A magyar egyház így közvetlenül a pápának tartozott felelősséggel, és nem a salzburgi érsekségnek vagy más külföldi metropolának.
+:92. Ez az egyházi függetlenség elengedhetetlen feltétele volt a fiatal királyság állami szuverenitásának.
+:93. A korona és az egyház szoros kapcsolata abban is megnyilvánult, hogy István I. magát Isten kegyelméből származó keresztény uralkodónak tekintette.
+:94. A koronázás szent méltóságot kölcsönzött a királynak, amely a birodalom többi nagyuránál magasabb rangra emelte őt.
+:95. A közigazgatás és az egyház közösen szolgálták azt a célt, hogy a pogány törzsek szövetségéből rendezett keresztény közösséget alakítsanak ki.
+:96. A hatalom megőrzésének fontos eszköze volt a központi hatalomnak ellenálló hatalmas törzsfőnökök legyőzése.
+:97. A leghatalmasabb ellenfél eleinte Koppány volt, István egyik rokona, aki a régi seniorátusi jog alapján igényt tartott az uralomra.
+:98. István bajor lovagok segítségével legyőzte Koppányt, majd a holttestét feldaraboltatta, és elrettentésképpen a várkapuknál kiállította.
+:99. A hagyomány szerint azok a várak, ahol a testrészeket kifüggesztették, Esztergom, Veszprém, Győr és az erdélyi Gyulafehérvár voltak.
+:100. Koppány felett aratott győzelemmel az apa-fia közvetlen öröklési elv érvényesült a régi seniorátusi joggal szemben.
+:101. Egy másik ellenfele István nagybátyja, az erdélyi Gyula volt, akinek területét István meghódította és a birodalomhoz csatolta.
+:102. Délen István legyőzte a pogány Ajtony fejedelmet, aki saját hatalmi területet irányított a Bánságban, és bizánci keresztény hitre tért.
+:103. E győzelem után István megalapította a csánádi püspökséget, és a meghódított területet beépítette a királyi közigazgatásba.
+:104. Ezek a hadjáratok egyúttal az ország politikai egyesítését és egyházi áthatását is szolgálták.
+:105. Minden leigázott fejedelemséggel nőtt a királyi birtok, mivel a legyőzöttek földje a koronára szállt.
+:106. Így a katonai győzelmek közvetlenül megerősítették a királyi hatalom gazdasági és közigazgatási alapjait.
+:107. Az érmeverés a kialakuló állam további jellemzője és a szuverén uralom jele volt.
+:108. István ezüst dénárokat veretett, amelyek közül néhány a „Stephanus Rex” felirattal és a pénzverde nevével fennmaradt.
+:109. Ezek az érmék a bajor minták alapján készültek, és elősegítették a pénzforgalmat és a kereskedelmet az országban.
+:110. Az érmeverési jog kizárólag a királyt illette meg, ami aláhúzta elsőbbségi helyzetét.
+:111. A kereskedelmet vámokkal és piaci illetékekkel adóztatták, amelyek szintén a királyi kincstárba kerültek.
+:112. A piacok gyakran vasárnapokon és templomok közelében zajlottak, ezért a magyar „vásár” (piac) és „vasárnap” (vasárnap) szavak rokonok.
+:113. István elősegítette a kereskedelmi útvonalak biztonságát, és védelmet nyújtott a zarándokoknak és a kereskedőknek, ami növelte a jólétet.
+:114. Híressé vált a Magyarországon át a Szentföldre vezető biztonságos zarándokút megnyitása, amely beépítette a királyságot az európai kereszténységbe.
+:115. Ezen az útvonalon utaztak a nyugati zarándokok Jeruzsálembe, és Magyarország így Nyugat- és Délkelet-Európa összekötő láncszemévé vált.
+:116. A korai királyságban az igazságszolgáltatás részben a király és udvara, részben pedig a megyék ispánjai feladata volt.
+:117. A súlyos bűncselekmények és a nemesek közötti viták elbírálását a király vagy palotagrófja tartotta fenn magának.
+:118. A megyékben az ispán ítélkezett, a várharcosok soraiból kiválasztott tanácsadók segítségével.
+:119. István törvényei egy fokozatos büntetési rendszert ismertek, amely a tettes és az áldozat társadalmi rangja szerint különböztetett meg.
+:120. Gyilkosság, lopás, hamis eskü és erőszak esetén a bűncselekmény súlyosságától függően pénzbírságot, csonkítást vagy halálbüntetést szabtak ki.
+:121. Különösen szigorúan büntették a királyi hatalom és az egyházi rend ellen elkövetett bűncselekményeket.
+:122. Megerősítették a vagyon feletti szabad rendelkezés jogát, így minden szabad ember saját akaratából rendelkezhetett birtokával.
+:123. Ez a rendelkezés elősegítette a magántulajdon kialakulását a királyi és egyházi birtokok mellett.
+:124. A korai királyság társadalma nagyjából szabadokra, félig szabadokra és nem szabadokra oszlott.
+:125. A társadalom csúcsán a világi és egyházi nagyurak álltak, akik kiterjedt birtokokkal és saját követőikkel rendelkeztek.
+:126. Alattuk következtek a szabad harcosok, a várlakók és a királyi szolgák, akiknek különböző jogaik és kötelességeik voltak.
+:127. A társadalom széles tömegét a függő parasztok alkották, akik királyi, egyházi vagy nemesi földeken dolgoztak.
+:128. A társadalmi ranglétra legalján a rabszolgák álltak, akik hadifoglyokként vagy adósságrabszolgaként vesztették el szabadságukat.
+:129. A törvények fokozatosan korlátozták a rabszolgaságot, és a keresztény tanítás szellemében elősegítették a felszabadítást.
+:130. A társadalmi rend még nem volt mereven feudális, hanem a törzsi társadalomból a rendi állam felé való átmenetben volt.
+:131. A közigazgatás egyre inkább beavatkozott a mindennapi életbe azáltal, hogy adókat, szolgálatokat és vallási kötelezettségeket írt elő.
+:132. A vármegyék természetbeni adókat szedtek be, kényszermunkát szerveztek, és háború esetén harcosokat állítottak fel.
+:133. Ily módon a vármegyei rendszer a katonai, gazdasági és bírósági funkciókat egy kézben egyesítette.
+:134. Ez a rendszer annyira életképesnek bizonyult, hogy alapvonalaiban a késő középkorig és azon túl is fennmaradt.
+:135. A megyék jellege azonban később megváltozott, amikor a nemesség nagyobb befolyást nyert az igazgatásukra.
+:136. István idején azonban még tisztán királyi igazgatási egységek voltak, amelyek közvetlenül a koronának tartoztak.
+:137. A közigazgatás fontos támasza a birodalmi gyűlés volt, amelyen a király, a püspökök és a világi nagyurak gyűltek össze.
+:138. Ezen a gyűléseken törvényeket vitattak meg, vitás ügyekben döntöttek, és fontos politikai határozatokat hoztak.
+:139. A gyűlések gyakran jelentős egyházi ünnepnapokon kerültek megrendezésre, így összekapcsolva a világi politikát a vallási ünnepléssel.
+:140. Székesfehérvár az ilyen összejövetelek kedvelt helyszínévé vált, ami aláhúzta központi jelentőségét.
+:141. Az udvari ünnepségek, az igazságszolgáltatás és az istentisztelet szoros összefonódása meghatározta a korai magyar uralom jellegét.
+:142. István megírta vagy megíratta a fejedelmi tükörnek számító, úgynevezett intéseket is fiának, Emmerichnek.
+:143. Ez a mű, latinul Libellus de institutione morum, a magyar történelem első politikai írásának számít.
+:144. A tanácsokban István kifejtette, hogyan kell egy keresztény királynak uralkodnia, az egyházat védenie és igazságot gyakorolnia.
+:145. Egy híres gondolat kiemeli, hogy egy olyan birodalom, amelyben csak egy nyelv és egy szokás létezik, gyenge.
+:146. Stephan ebben azt ajánlotta, hogy az idegeneket és a vendégeket barátságosan fogadják, mivel tudást, képességeket és gazdagságot hoznak magukkal.
+:147. Ez a hozzáállás tükrözi azt a tényleges politikát, amely külföldi lovagokat, papokat és kézműveseket hívott az országba.
+:148. Az idegen vendégek, a hospites befogadása jelentősen hozzájárult a kulturális és gazdasági fejlődéshez.
+:149. Bajor, olasz, később vallon és német telepesek új technikákat és szokásokat hoztak az országba.
+:150. Gisela királyné, az Ottón-házból származó bajor hercegnő, részéről elősegítette az egyház felépítését.
+:151. Gisela liturgikus eszközöket és ruhákat adományozott, és különösen támogatta a veszprémi egyházmegyét, amelyet saját egyházmegyéjének tekintett.
+:152. A híres koronázási palást, a későbbi magyar koronázási díszruha állítólag egy Gisela által adományozott miseköpenyre vezethető vissza.
+:153. Az udvari adományok és az egyházi építkezések közötti kapcsolat jól mutatja a királyság és az egyház szoros együttműködését.
+:154. A kereszténység meghonosodása nem ment ellenállás nélkül, hiszen sok magyar ragaszkodott a régi szertartásokhoz.
+:155. A pogány szokások ellen hozott törvények bizonyítják, hogy a régi hitgyakorlat még hosszú ideig titokban fennmaradt.
+:156. Az államhatóságoknak és az egyháznak ezért közösen kellett gondoskodniuk az új rend érvényesítéséről.
+:157. A falvak plébánosai fontos közvetítőkké váltak, akik a kereszténységet eljuttatták a legegyszerűbb nép rétegeihez is.
+:158. A templomépítésre és az istentiszteleteken való részvételre vonatkozó kötelezettség egész generációk vallási nevelésének eszközeként működött.
+:159. Így a jogalkotás, az egyházi szervezet és a mindennapi lelkigondozás összefonódott, hogy véghezvigyék a hitbeli átalakulást.
+:160. Az egyházzal együtt érkező írott kultúra egyúttal megalapozta az ország későbbi történelmi hagyományát is.
+:161. A papi írnokok nélkül sem a törvények, sem az okiratok, sem a korai idők krónikái nem maradtak volna fenn.
+:162. A korai krónikák azonban csak generációkkal később keletkeztek, és a történelmi emlékezetet a legendákkal keverik össze.
+:163. A közigazgatási történelem szempontjából ezért a törvények és a kevés fennmaradt okiratok jelentik a legmegbízhatóbb forrásokat.
+:164. A modern kutatásnak gondosan ellenőriznie kell ezeket a szövegeket, mivel sok közülük csak későbbi másolatokban és átdolgozásokban áll rendelkezésre.
+:165. E forrásproblémák ellenére egy tervszerűen felépített keresztény királyság világos képe rajzolódik ki.
+:166. István kormányzata a várra, a megyére és az udvarra támaszkodott, az egyház pedig az érsekségekre, a püspökségekre és a kolostorokra.
+:167. Mindkét pillér szorosan összekapcsolódott egymással a személyzet, a jog és a közös küldetés révén.
+:168. A király, mint egyházi uralkodó, mindkét rend élén állt, és egyesítette a világi és az egyházi hatalmat.
+:169. A birodalom gazdasága a mezőgazdaságon, az állattenyésztésen, a kézművességen és a növekvő kereskedelmen alapult.
+:170. A termésadók, a tized, az érmékből származó nyereség és a piaci vámok képezték a korona és az egyház bevételi forrásait.
+:171. A határok védelmét határjelek és határőrző népek, például a székelyek és más segítő népek biztosították.
+:172. Ezek a határőrök a peremvidékeken telepedtek le, és védték a birodalmat a külső betörésektől.
+:173. A belföldön a várak és az ispánok gondoskodtak a rendről, az igazságszolgáltatásról és az adók beszedéséről.
+:174. Az így kialakult rendszer túlélte István 1038-as halálát, és évszázadokig meghatározta a királyságot.
+:175. Bár István halála után súlyos trónharci küzdelmek és pogány felkelések következtek, az alapszerkezetek megmaradtak.
+:176. A megyei közigazgatás és az egyházi szervezet elég ellenállónek bizonyult ahhoz, hogy túlélje ezeket a válságokat.
+:177. Istvánt 1083-ban fiával, Emmerich-kel és Gerhard püspökkel együtt szentté avatták, ami megerősítette jelentőségét az állam és az egyház számára.
+:178. A szentté avatás az államalapítót nemzeti szentté tette, és emlékét elválaszthatatlanul összekapcsolta a magyar identitással.
+:179. A hatékony közigazgatás és a szilárdan megalapozott egyház összekapcsolásában rejlik Szent István valódi életműve.
+:180. István uralkodása alatt a korai királyság így megteremtette azt a szervezeti és szellemi alapot, amelyen a középkori Magyarország több mint fél évezreden át nyugodhatott.
+
+=== 4.4.1 – Közigazgatási struktúra: hercegek, vámhivatalnokok és helyi hatalom ===
+
+:1. A korai magyar királyság közigazgatása nem hasonlított egy modern tisztviselői államra, hanem olyan tisztségekre épült, amelyek személyesen a királyhoz kötődtek, és kizárólag a király személyének szolgálatát jelentették. 
+:2. Az Arpad-kori Magyarország teljes közigazgatása azon az elven nyugodott, hogy minden hatalom a királytól származott, és az általa kinevezett tisztségviselők gyakorolták.
+:3. A korai időkben nem volt egyértelmű elhatárolás a közhivatal és a magánszolgálat között, mivel egy járás kormányzója egyben a királyi háztartás szolgája is volt.
+:4. A legfontosabb közigazgatási egység a megye volt, amely egy királyi vár köré csoportosult.
+:5. A vármegyei rendszer alapvonásai I. István királyra vezethetők vissza, aki a leigázott törzsi területeket királyi közigazgatási körzetekké alakította át.
+:6. Minden vármegye egy nagyobb, összefüggő területet foglalt magában, központi várával, a hozzá tartozó falvakkal és az ott élő szolgálati népességgel együtt.
+:7. A vár nem csupán erődítmény volt, hanem egyben a közigazgatás székhelye, az adók beszedésének gyűjtőpontja és az igazságszolgáltatás központja is.
+:8. Minden megye élén a megyefőnök állt, akit magyarul ispánnak, latinul pedig comesnek neveztek.
+:9. Az „ispán” szó a szláv „župan” szóból származik, ami bizonyítja a szláv hatásokat a korai magyar közigazgatási nyelven.
+:10. Az ispán a király által kinevezett és bármikor leváltható tisztviselő volt, nem pedig a nyugati mintára épülő örökletes feudális uralkodó.
+:11. Ez a leváltathatóság volt az a döntő jellemző, amely megkülönböztette a magyar közigazgatást a nyugati örökletes feudális uralomtól.
+:12. A gespán személyében egyesítette a megyéjére vonatkozó katonai, bírói, rendőrségi és adóügyi hatásköröket.
+:13. Hadseregfőnökként háború esetén összehívta a körzetében élő, harcképes várlakókat, és a királyi sereghez vezette őket.
+:14. Bíróként ítélkezett a várlakók ügyeiben, és döntött a vitás ügyekben, amennyiben azok nem a király kizárólagos hatáskörébe tartoztak.
+:15. Pénzügyi tisztviselőként beszedte a királyi bevételeket, összegyűjtötte a természetbeni adókat és felügyelte a robotmunkát.
+:16. Általános vélekedés szerint a megyefőnök a beszedett bevételek egyharmadát magának és a körzet igazgatására tartotta meg.
+:17. A fennmaradó kétharmadot a királyi udvarba juttatta, így a vár az állami pénzügyi rendszer egyik csomópontja volt.
+:18. Ez a harmadjog, amelyet latinul tertia pars-nak neveztek, jelentős jövedelmet biztosított a Gespan számára, és egyúttal garantálta a király iránti hűségét is.
+:19. A gespán mellett egy helyettes állt, a későbbi vizegespan vagy vicecomes, aki távollétében helyettesítette őt.
+:20. A korai időkben ez a helyettes még a gespán személyes bizalmasa volt, csak később intézményesült meg a tisztség.
+:21. A gespán alatt további vártisztviselők szolgáltak, akik az igazgatás egyes területeit irányították, és neki voltak alárendelve.
+:22. A várkapitány, latinul maior castri vagy comes curialis, felügyelte magát a várat és annak közvetlen szolgálati népességét.
+:23. Emellett voltak századosok, a centuriones, akik egy-egy nagyobb csoport várlakót vezettek és felügyeltek.
+:24. A század egy katonai-igazgatási alegység volt, amely a hadsereg felállításának és az adók beszedésének szervezését szolgálta.
+:25. A századosok alatt álltak a tizedesek, a decuriones, akik a szolgálati népesség kisebb csoportjait felügyelték.
+:26. Ez a százasokból és tizedesekből álló, lépcsőzetes felosztás megkönnyítette a nagy számú függő ember igazgatását.
+:27. A várlakosság, magyarul várnép, több rangra oszlott, amelyeknek különböző jogai és kötelezettségei voltak.
+:28. A várlakosság élén a várharcosok, az iobagiones castri álltak, akik fegyveres szolgálatra voltak kötelezve.
+:29. Ezek a várharcosok magas társadalmi rangot élveztek, saját földbirtokkal rendelkeztek, és a megye katonai gerincét alkották.
+:30. Alattuk álltak az egyszerű várlakók, a castrenses, akik parasztokként, pásztorként vagy kézművesként teljesítettek szolgálatot.
+:31. A castrensesek személyesen nem voltak teljes értékű szabadok, hanem a várhoz és szolgálatukhoz voltak kötve.
+:32. E szolgálók közül sokakat feladataik szerint szerveztek, és saját falvakban telepítették le őket.
+:33. Voltak kovácsok, fazekasok, halászok, vadászok, szőlőtermelők és más szakosodott kézművesek falvai.
+:34. Számos magyar helynév ma is emlékeztet erre a funkcionális felosztásra, például Kovácsi a kovácsokra vagy Halászi a halászokra.
+:35. Ezek a szolgálati falvak bizonyos termékekkel és szolgáltatásokkal látták el a várat és az udvart.
+:36. Az egész közigazgatás gazdasági alapját a hatalmas királyi birtokok képezték.
+:37. A király messze az ország legnagyobb földbirtokosa volt, és a korai időkben a termőföldek többségét birtokolta.
+:38. Ebből a földbirtokból táplálkoztak a vármegyék, az udvari birtokok, valamint az egyháznak és a kísérőknek juttatott adományok.
+:39. Különbséget tettek a valódi vármegyék és az udvari birtokok között, amelyek közvetlenül az udvar ellátását szolgálták.
+:40. Az udvari birtokok az egész országban szétszóródtak, és a vándorló királyt ellátmányokkal látták el tartózkodási helyein.
+:41. Ez a vándorló királyság azt jelentette, hogy az udvarnak nem volt állandó székhelye, hanem palotáról palotára, birtokról birtokra vándorolt.
+:42. A király a birtokai termését a helyszínen felhasznált, és egyúttal közvetlenül az alattvalói előtt gyakorolta hatalmát.
+:43. Fontos paloták és központi helyszínek voltak Esztergom, Székesfehérvár, Óbuda és Veszprém.
+:44. Székesfehérvár, latinul Alba Regia, a királyok kedvelt koronázási, gyülekezési és temetkezési helyévé fejlődött.
+:45. Esztergom egyházi központ és az érsek székhelye volt, ugyanakkor jelentős királyi rezidencia is.
+:46. A központi udvari közigazgatás élén a palotagróf állt, magyarul nádor, latinul comes palatinus.
+:47. A palotagróf eredetileg a királyi udvari szolgaság vezetője volt, és az idők folyamán a birodalom legfőbb világi méltóságává emelkedett.
+:48. Ő képviselte a királyt az igazságszolgáltatásban, vezette az udvari bíróságot, és ítéletet hozott az udvari szolgák, később pedig az egész birodalom ügyeiben.
+:49. Az idő múlásával a palotagróf megkapta azt a jogot, hogy az országban körbeutazzon, és a megyékben bíróságot tartson, az úgynevezett palotai bírósági napokon.
+:50. A pfalzgróf mellett további udvari tisztségek is léteztek, amelyeket a karoling és az ottón-kori minták alapján hoztak létre.
+:51. Az udvari bíró, latinul iudex curiae regiae, egyre inkább átvette a bírói feladatokat az udvarban, és ezzel tehermentesítette a pfalzgrófot.
+:52. A kincstárnok kezelte a királyi kincstárat, a bevételeket és a pénzverést.
+:53. A truchsess a királyi asztal ellátásáért, a mundschenk pedig az italokért felelt.
+:54. A marsall, aki eredetileg a lovak felügyelője volt, katonai és szervezési feladatokat látott el.
+:55. A bandus vagy zászlóvivő, valamint további udvari tisztségviselők egészítették ki az udvari méltóságok körét.
+:56. Ezek az udvari tisztségek kezdetben tényleges szolgálati feladatokat jelentettek, és csak később alakultak át pusztán tiszteletbeli és méltósági címekké.
+:57. Az udvari tisztségek viselői a birodalom legmagasabb rangú nemesei közé tartoztak, és minden fontos kérdésben tanácsot adtak a királynak.
+:58. A világi méltóságok mellett a püspökök is központi szerepet játszottak a birodalom igazgatásában.
+:59. A püspökök biztosították az írástudó személyzetet, amely nélkül a kancellária működése és az okiratok kiállítása nem lett volna lehetséges.
+:60. Részt vettek a birodalmi gyűlésen és a királyi tanácsban, és az uralkodó legszűkebb körű tanácsadói közé tartoztak.
+:61. Így a világi és az egyházi közigazgatás egyetlen, a korona szolgálatában álló apparátussá olvadt össze.
+:62. Különleges helyet foglalt el a korai közigazgatási struktúrában a herceg tisztsége, magyarul herceg.
+:63. Az „herceg” kifejezés az Arpád-korban kezdetben nem közigazgatási tisztviselőt jelölt, hanem az uralkodócsalád egyik tagját, aki saját uradalommal rendelkezett.
+:64. Ezt a fejedelmi területet a kutatásban dukátusnak, magyarul dukátusnak vagy hercegségnek nevezik.
+:65. A dukát egy elkülönített területi egység volt, amelyet a dinasztia egy fiatalabb tagjának saját igazgatásra bíztak.
+:66. Általában a trónörökös vagy a király egyik fiatalabb testvére kapta meg ezt a dukátot, mint részesedést az uralomból.
+:67. A dukát – az általános vélekedés szerint – a birodalom körülbelül egyharmadát foglalta magában, főként az északi és keleti peremvidékeken.
+:68. A hercegség fontos központjai Nyitra a birodalom északnyugati részén és Bihar a keleti részén voltak.
+:69. A hercegség hercege saját vármegyékkel, saját jövedelemmel és saját kísérettel rendelkezett.
+:70. Esetenként még saját érméket is vert, és területén szinte királyi hatalmat gyakorolt.
+:71. Ez a hatalom megosztása abból a régi elképzelésből fakadt, hogy a birodalom az egész uralkodócsalád közös tulajdona.
+:72. A dukát intézményének célja az volt, hogy a dinasztia fiatalabb tagjait is bevonja a hatalomba, és így elkerülje a konfliktusokat.
+:73. A gyakorlatban azonban a dukát gyakran a regnáló király elleni felkelések kiindulópontjává vált.
+:74. Többször is felkeltek a hercegek a saját területeikről a király ellen, és polgárháborúkba sodorták a birodalmat.
+:75. Különösen a tizenegyedik században ismétlődtek az ilyen összecsapások a király és a herceg között.
+:76. Így például I. András király és testvére, Béla herceg, aki végül maga is királlyá vált, harcoltak egymás ellen.
+:77. Salamon király és Géza, valamint László hercegek között is heves harcok robbantak ki a hatalomért.
+:78. A birodalmi egységet fenyegető állandó veszély miatt a dukátot a 11. század vége felé végül eltörölték.
+:79. Koloman, a Tudós király felszámolta a részfejedelemségeket, hogy biztosítsa a birodalom egységét és a központi hatalom pozícióját.
+:80. A dukát megszűnésével eltűnt a hercegi cím eredeti jelentése is, mint egy részbirodalom uralkodójáé.
+:81. Később a hercegi címet elsősorban az olyan csatolt területek uralkodói számára használták, mint Horvátország és Szlavónia.
+:82. Ezek a hercegek többnyire a királyi család tagjai voltak, akik a király nevében egy peremvidéket igazgattak.
+:83. A megyék és a dukát mellett különleges közigazgatási formák léteztek a birodalom határvidékein.
+:84. A határokat széles védőövezetek biztosították, amelyeket sövények, mocsarak és erdők alkotott természetes akadályok.
+:85. Ez a határvidéki vadon, magyarul gyepűnek nevezett terület, nehezen áthatolható szegélyt alkotott a központi terület körül.
+:86. Ezen a határzónán belül és mögött különleges határőrző népek telepedtek le, akik őrzési és védelmi kötelezettségekkel rendelkeztek.
+:87. Ezek közé a határőrzők közé tartoztak keleten a székelyek, akik katonai segédnépként különleges helyzetet foglaltak el.
+:88. A székelyek kollektív szabadságot és saját közigazgatást élveztek, amely eltért a szokásos megyei rendtől.
+:89. Más segédnépeket, például a pechenegeket is a határok mentén telepítették le, és őrszolgálatra vetették be őket.
+:90. Ezek a határvidékek külön parancsnokok alá tartoztak, akik a katonai biztonságért feleltek.
+:91. Néhány határvidék élén banok álltak, ez a cím főként a déli területeken terjedt el.
+:92. A szlavóniai ban, majd később más határvidékek bányai is átfogó katonai és bírói hatalmat gyakoroltak a területükön.
+:93. Különleges helyet foglalt el Erdély, amelyet egy saját méltóságviselő irányított.
+:94. Erdély élén a vajda állt, latinul vaivoda, aki több ottani megyét felügyelt.
+:95. A vajda királyi helytartó volt, aki felügyelte az erdélyi járásfőnököket és biztosította a keleti határt.
+:96. Ezek a régiókon átívelő tisztségek, mint a bán és a vajda, azt mutatják, hogy a peremvidékeken az igazgatás másképp volt szervezve, mint a központi területeken.
+:97. A központi területeken a járásfőnök alá tartozó járás maradt a meghatározó közigazgatási egység.
+:98. A megyék száma az idők folyamán nőtt, és a késő középkorban körülbelül hetvenre emelkedett.
+:99. István uralkodásának korai időszakában a legtöbb becslés szerint körülbelül negyven-negyvenöt megye volt.
+:100. A megyék határait részben a régi törzsi területek, részben pedig természeti akadályok, például folyók és hegyek határozták meg.
+:101. Egyes megyék nagyon nagyok voltak, és később felosztották őket, mások viszont évszázadokon át megőrizték határaikat.
+:102. A királyi várak, amelyek köré a megyék csoportosultak, a korai időszakban többnyire föld- és faerődítmények voltak.
+:103. Csak fokozatosan építették át a legfontosabb várakat kőből, és bővítették ki tartós erődítményekké.
+:104. A vár a lakosság menedékhelyeként, az adók tárolóhelyeként és a királyi hatalom támaszpontjaként szolgált.
+:105. A korai közigazgatásban az igazságszolgáltatás szorosan összekapcsolódott a többi hatáskörrel, és nem volt azoktól elválasztva.
+:106. A járásbíró ítélkezett a várlakók ügyeiben, míg a súlyos esetek és a nagyurak közötti viták elbírálása a királyra maradt.
+:107. Maga a király is bíróságot tartott, gyakran a nagy birodalmi gyűléseken, és a legfontosabb vitás ügyekben személyesen hozott döntést.
+:108. Az idő múlásával a bírói tevékenységet egyre inkább a palotagrófra és az udvari bíróra ruházta át.
+:109. A birodalmi gyűlés a közigazgatás központi eleme volt, ahol a király, a püspökök és a világi nemesek találkoztak.
+:110. Ezen a gyűléseken törvényeket vitattak meg, tisztségeket töltöttek be, vitás ügyekben döntöttek, és fontos politikai kérdéseket tárgyaltak.
+:111. A gyűlések gyakran fontos egyházi ünnepnapokon és olyan központi helyszíneken kerültek megrendezésre, mint Székesfehérvár.
+:112. Így a világi közigazgatás szorosan összekapcsolódott az egyházi ünneknaptárral és a birodalom vallási életével.
+:113. A pénzügyi igazgatás természetbeni adók, szolgálatok és fokozatosan pénzbeli befizetések rendszerén alapult.
+:114. A vár lakossága gabonát, állatokat, mézet, prémeket és egyéb termékeket szállított a várnak.
+:115. Emellett a szolgák kényszermunkát végeztek, például várépítésnél, útépítésnél vagy a birtokok művelésénél.
+:116. A királyi bevételek közé tartoztak továbbá a sóbányákból, a pénzverésből, a piacokból és a vámokból származó jövedelmek.
+:117. A sómonopólium különösen fontos bevételi forrás volt, mivel a sót az erdélyi bányákban termelték, és az egész birodalomban szükség volt rá.
+:118. A pénzverés kizárólag a király kezében volt, és a rendszeres pénzverés-megújítás révén jelentős nyereséget hozott számára.
+:119. A piaci és útvámokat a kereskedelmi helyszíneken és az átkelőhelyeken szedték be, és azok a királyi kincstárba kerültek.
+:120. Ezek a sokrétű bevételek gazdasági szempontból olyan erőssé tették a királyt, hogy messze felülmúlta a nemességet.
+:121. A korai időkben a helyi hatalom túlnyomórészt a királyi tisztségviselők kezében volt, nem pedig az örökletes nemességé.
+:122. Bár már létezett egy nagy világi és egyházi földbirtokosokból álló réteg, hatalmuk kezdetben a királyi kegyelemre épült.
+:123. A nagyurak birtokaikat és tisztségeiket a királytól kapták, és hűtlenség esetén mindkettőt elveszíthették.
+:124. Csak fokozatosan szilárdult meg a földbirtoklás örökletes tulajdonként, ami előkészítette a későbbi hatalmas nemesség kialakulását.
+:125. István idején azonban még mindig a földek és tisztségek feletti közvetlen királyi rendelkezési jog elve volt a meghatározó.
+:126. A szabad harcosok, akik nem tartoztak a várlakók közé, személyes hűségi viszonyban álltak a királlyal.
+:127. Ezek a szabad követők a várbeli harcosok mellett a királyi hadsereg további támaszát képezték.
+:128. Az idő múlásával a szabad harcosokból és a felemelkedő várbeli harcosokból alakult ki a későbbi kismagasság kezdete.
+:129. A társadalmi rend még változásban volt, és a törzsi társadalomból a rendi felépítés felé tartott.
+:130. A közigazgatás adók, szolgálatok és bírósági jogkörök révén mélyen beavatkozott a lakosság életébe.
+:131. Ugyanakkor bizonyos rendet, jogbiztonságot és védelmet biztosított a külső ellenségekkel szemben.
+:132. A megyei rendszer rendkívül életképesnek bizonyult, és számos válságot és hatalomváltást túlélte.
+:133. A megyék katonai, gazdasági, bírósági és közigazgatási feladatokat egy áttekinthető egységben egyesítettek.
+:134. A késő középkor folyamán azonban a megyék jellege alapvetően megváltozott.
+:135. Ahogy a nemesség egyre több földet és befolyást szerzett, a királyi vármegyék fokozatosan nemesi önkormányzati testületekké alakultak át.
+:136. Így a késő középkorban a királyi megye, amelyet a megyefőnök irányított, nemesi megyévé alakult, választott képviselőkkel.
+:137. A korai időszakban azonban a megyék még pusztán a királyi központi hatalom eszközei voltak.
+:138. A korai királyság közigazgatási szerkezetét ezért a királyi várkerületek rendszerének lehet leírni, amelyeket leváltható megyefőnökök irányítottak.
+:139. Ezek felett állt a királyi udvar a méltóságosaival, élükön a palotagróffal.
+:140. Emellett időnként létezett a dukát is, mint a dinasztiából származó herceg által irányított fejedelmi terület.
+:141. A határokon különleges hivatalok és segédnépek gondoskodtak a birodalom biztonságáról.
+:142. Ez a struktúra erősen centralizált volt, és a király személyére összpontosult.
+:143. Ezzel jelentősen eltért a nyugat-európai decentralizált hűbérállamoktól.
+:144. Míg nyugaton a hatalom a hűbérkapcsolatok révén lefelé széttöredezett, Magyarországon hosszú ideig a király kezében maradt.
+:145. Ez a sajátosság figyelemre méltó belső erőt kölcsönzött a korai magyar királyságnak.
+:146. Ez egyúttal megmagyarázza, miért tartotta a korona olyan sokáig kezében a nagybirtokokat és a legfontosabb bevételi forrásokat.
+:147. A közigazgatás személyzeti szempontból jelentős mértékben támaszkodott az egyház írástudóira.
+:148. A papok vezették a kancelláriát, állították ki az okiratokat és őrizték meg a latin jog ismeretét.
+:149. E klerikális személyzet nélkül a korai időkben nem lett volna lehetséges a rendezett írásbeli közigazgatás.
+:150. Emellett a szóbeli hagyomány és a személyes emlékezet továbbra is nagy szerepet játszott.
+:151. Számos jogi ügyletet és közigazgatási aktust tanúk előtt hajtottak végre, és azokat nem rögzítették írásban.
+:152. Csak fokozatosan terjedt el az írásbeli okirat mint a jogbiztonság eszköze.
+:153. Az úgynevezett hiteles helyek, az egyházi intézmények, mint a dómkapitulyok és a kolostorok, később hitelesítési feladatokat vettek át.
+:154. A korai időszakban azonban a közigazgatás súlypontja a várakra és a gespánokra nehezedett.
+:155. A Gespanok voltak a helyi királyi hatalom tényleges hordozói a tartományokban.
+:156. Ők testesítették meg a királyt a helyszínen, és gondoskodtak rendeleteinek végrehajtásáról.
+:157. Hatalmuk nagy volt, de a leváltás lehetősége és a bevételek felosztása révén a királyi hatalom alá voltak rendelve.
+:158. Ez az egyensúly a hatalom és a függőség között volt a kulcsa a korai közigazgatási rendszer stabilitásának.
+:159. Amíg a király erős volt, a rendszer zökkenőmentesen működött és biztosította uralmát.
+:160. A királyi gyengeség idején viszont a gépánok és a hercegek hatalmukat a korona ellen fordíthatták.
+:161. A 11. század története mindkét lehetőséget megmutatja: a szigorú rendet és a polgárháborúkba torkolló szétesést egyaránt.
+:162. Ezen ingadozások ellenére a vár, a megye és a járás elnevezésű alapvető struktúra évszázadokon át fennmaradt.
+:163. Ez képezte a középkori magyar állam szervezeti gerincét.
+:164. A kutatás ezeknek a struktúráknak a feltárásakor elsősorban törvényekre, okiratokra és helynevekre támaszkodik.
+:165. István és utódainak törvényei megnevezik a tisztségeket, kötelességeket és büntetéseket, és következtetéseket engednek levonni a közigazgatásról.
+:166. Az okiratok – amennyiben fennmaradtak – adományozásokat, birtokhatárokat és tisztségviselők nevét rögzítik.
+:167. A helynevek jelentésükből árulják el, hogy számos falu egykor bizonyos tisztviselők székhelyeként működött.
+:168. E források összességéből egy tervszerűen felépített, centralizált közigazgatás képe rajzolódik ki.
+:169. Ez a közigazgatás alapszerkezetében egyszerű volt, de hatékonyan biztosította a királyi uralmat.
+:170. Ötvözte a nomád törzsi szervezet örökségét a nyugati keresztény birodalmak mintáival.
+:171. Olyan elemek, mint a századok és a hadsereg szervezete, a magyarok sztyeppén élő nomád múltjára emlékeztetnek.
+:172. Más elemek, mint például az udvari tisztségek és az egyházi közigazgatás, a karoling–ottón mintából származnak.
+:173. Ebből az összeolvadásból egy önálló magyar közigazgatási rend alakult ki.
+:174. Ez a rend a földfoglaló törzsek szövetségéből egy tartós, kormányozható királyságot hozott létre.
+:175. A közigazgatási struktúra így a korai Árpád-korszak egyik legfontosabb alkotása volt.
+:176. Ez biztosította a birodalom egységét, a bevételek beszedését és a határok védelmét.
+:177. Ugyanakkor megalapozta a megyék későbbi fejlődését a nemesség önkormányzati szerveivé.
+:178. Így a korai vármegyék már előrevetítik a későbbi középkor állásrendjét.
+:179. A herceg, a gespán és a várkerület fogalmak így a korai magyar állam helyi hatalmának alappilléreit jelölik.
+:180. A központi királyi hatalom, a regionális közigazgatás és a helyi szolgálati szervezet összehangolt működésében rejlett az Árpád-kori királyság meglepő stabilitásának titka.
+
+=== 4.4.2 – Erődítmények és városok: az infrastruktúra kiépítése ===
+
+:1. A területet elfoglaló magyarok lovas harcosokból álló sztyeppei társadalom voltak, amelynek nem volt említésre méltó hagyománya a szilárd falak építésében és a városi életben, ami alapvetően meghatározta az erődítmények és városok kiépítését a korai magyar királyságban. 
+:2. A 9. és a 10. század eleji magyarok nomád életmódjában nem voltak kővárosok, sem állandó erődítmények, hanem mozgó táborok, jurták és vészidőben használt, megerősített menedékvárak.
+:3. A Kárpát-medencében azonban a magyarok egy régebbi várépítési hagyománnyal találkoztak, amelyet korábbi lakosok – mint az avarok, a szlávok, a rómaiak, valamint Pannóniában a későantiki civilizáció – hagytak hátra.
+:4. A római korból Pannóniában még álltak az erődített városok és kastellumok romjai, például Aquincum a mai Budapest közelében, Sopianae a mai Pécs közelében és Savaria a mai Szombathely közelében.
+:5. Ezek a római falak a korai magyar uralkodók számára részben kőbányaként, részben pedig új erődítmények és települések magjaként szolgáltak.
+:6. A szláv előlakosok számos földvárat emeltek, amelyek sáncait és árkait a magyarok átvették és tovább használták.
+:7. A szláv „grad” szó, amely várat jelent, számos magyar helynévben megmaradt, és tanúskodik erről az átvételről.
+:8. A morva nagybirodalom is, amely a honfoglalás előtt a Kárpátok északi medencéjének egyes részeit uralta, olyan erődített központokat hagyott hátra, mint Nyitra.
+:9. A korai magyar erődítmények túlnyomórészt föld- és faerődök voltak, nem pedig nyugati mintára épült kőerődök.
+:10. Ezek a földvárak hatalmas védőfalakból álltak, amelyeket fa-föld szerkezet erősített meg, és mély árkok vettek körül.
+:11. Elterjedt építési módszer volt az úgynevezett fadoboz-szerkezet, amelynél földdel és kövekkel töltött faüregek stabilizálták a védőfalat.
+:12. Különleges technika volt az égetett védőfal, amelynél a földvár falában lévő fa szándékosan vagy tűz hatására elégett, és a föld kemény, salakszerű masszává tömörödött.
+:13. A védőfal tetején általában egy fa palánk vagy egy fa védőjárda húzódott, amely fedezéket nyújtott a védőknek.
+:14. Ezek a földvárak gyorsan és olcsón épültek, de tűz ellen és a később megjelenő ostromgépek ellen csak korlátozott védelmet nyújtottak.
+:15. A vár képezte a királyi közigazgatási körzet, a megye központját.
+:16. E várak köré csoportosult a közigazgatás, az igazságszolgáltatás, az élelmiszer-ellátás, valamint háború esetén a lakosság védelme.
+:17. A vár egyúttal menedékként szolgált a környező lakosság számára, a beszedett adók tárolóhelyeként, valamint a királyi hatalom támaszpontjaként.
+:18. A korai időszak legjelentősebb királyi várjai közé tartozott Esztergom, Székesfehérvár, Veszprém, Győr, Nyitra és Bihar.
+:19. Esztergom István szülőhelye, egyházi központ és királyi rezidencia volt egyben, és egy kőből épült várral rendelkezett a Duna feletti sziklán.
+:20. Székesfehérvár, latinul Alba Regia, mocsaras területen jött létre, amelynek vízfolyásai természetes védelmet nyújtottak, és a várat szinte bevehetetlenné tették.
+:21. Székesfehérvár mocsarak és vízfolyások közötti elhelyezkedése magyarázza, hogy miért vált a királyok biztonságos koronázási és temetkezési helyévé.
+:22. Veszprém egy sziklafennsíkon feküdt, és a királynőhöz szorosan kapcsolódó egyházi központtá fejlődött.
+:23. E várak építése és fenntartása a korai királyság egyik legfontosabb infrastrukturális feladata volt.
+:24. Az építési és karbantartási munkákat elsősorban a várlakosság végezte, akiket robot- és építési munkákra köteleztek.
+:25. A várépítésre, az árkok ásására és a famunkákra szakosodott szolgálócsoportok saját falvakban telepedtek le.
+:26. A várak élelmiszerrel, fegyverekkel és készletekkel való ellátása a környező szolgálati falvak feladata volt.
+:27. A megyei várak mellett léteztek a királyi paloták is, amelyeket a vándorló udvar szállásként és ellátásként használt.
+:28. Az utazó királyság a várak és paloták hálózatává kötötte össze azokat, amelyeken a király a birodalmon átívelő utazásai során haladt végig.
+:29. Az erődítmények nemcsak a belföldet védték, hanem a határvonalakkal együtt egy többszintű védelmi rendszert alkottak.
+:30. A birodalom határain egy széles védelmi övezet húzódott, amelyet magyarul gyepűnek neveztek, és amely bozótosokból, mocsarakból, erdőkből és mesterséges akadályokból állt.
+:31. Ezt a határvidéki vadont szándékosan járhatatlanná tették, hogy megnehezítsék az ellenséges seregek behatolását.
+:32. A határzónában található átjárókat, az úgynevezett kapukat (kapu) megerősítették, és határőrök őrizték.
+:33. A határvidék vadonjának mögött és annak kapuinál olyan határőrző népek telepedtek le, mint a székelyek és a betelepített pechenegek, akik védelmi kötelezettséget vállaltak.
+:34. Csak fokozatosan, főként a 11. és 12. századtól kezdve építették ki kőből a legfontosabb várakat.
+:35. A kővárépítés Magyarországon jóval később terjedt el, mint Nyugat-Európában, és főként az 1241-es mongol támadás után élénkült meg jelentősen.
+:36. Ezen fordulópont előtt a föld- és faerődök voltak túlsúlyban, amelyek sok esetben nem állták ki a pusztító mongol inváziót.
+:37. A mongol invázió tapasztalatai később IV. Béla királyt egy átfogó kővárépítési programra ösztönözték, amely azonban már kívül esik az itt tárgyalt korai időszakon.
+:38. István és közvetlen utódai idején a földvár maradt a meghatározó erődítménytípus.
+:39. Az erődítmények mellett a kereszténységgel együtt egy második típusú szilárd építmény is megjelent, nevezetesen a kőből épült templomok, kolostorok és püspöki székhelyek.
+:40. Az ország első nagy kőépületei nem lakópaloták voltak, hanem templomok és kolostorok.
+:41. Az újonnan alapított egyházmegyék székesegyházai a királyság legkorábbi monumentális kőépületei közé tartoztak.
+:42. Esztergomban, Veszprémben, Pécsen, Győrben és más püspöki székhelyeken dómok épültek, amelyek tartósan meghatározták a városok arculatát.
+:43. A székesfehérvári Szent István-templom, egy nagy, háromhajós bazilika, a magyar királyok koronázási és temetkezési templomává vált.
+:44. Ez a bazilika a királyi sírokat és a birodalmi jelvényeket őrizte, így egyszerre volt egyházi és állami központ.
+:45. Az ilyen templomok építéséhez kőfaragókra, kőművesekre és építészekre volt szükség, akik kezdetben túlnyomórészt külföldről érkeztek.
+:46. A külföldi papokkal és kézművesekkel együtt Nyugat-Európa román stílusú építészeti formái is eljutottak Magyarországra.
+:47. A korai magyar egyházi építészet német, olasz és burgundi mintákra támaszkodott.
+:48. A Pannonhalma-i bencés apátság, amely egy dombon, a táj fölött helyezkedik el, szellemi és építészeti példaképpé vált a későbbi kolostorok számára.
+:49. Az olyan kolostorok, mint Pécsvárad, Zalavár, Bakonybél és Tihany, szilárd, gyakran erődített épületegyüttesekként jöttek létre, kőből épült templomokkal.
+:50. A kolostorok nem csupán vallási központok voltak, hanem az építészettudomány, a mezőgazdaság és a kézművesség színterei is.
+:51. Műhelyeikben ápolták és továbbadták az építési technikákat, a kőmegmunkálást és a kézműves szakmákat.
+:52. A „város” fogalma modern értelemben csak korlátozottan alkalmazható a korai Magyarországra, mivel nem léteztek önkormányzattal rendelkező polgári városok.
+:53. A korai települési központok nem autonóm önkormányzatok voltak, hanem királyi vagy egyházi fennhatóság alatt álló várvárosok, piactelepülések és egyházi központok.
+:54. Jellemző volt a vár és az előtte fekvő település, az úgynevezett előváros vagy várváros közötti kapcsolat.
+:55. Ebben az elővárosban kézművesek, kereskedők és szolgálószemélyzet telepedett le, akik ellátották a várat és termékeiket kínálták.
+:56. Az ilyen vár–település kapcsolatokból később számos jelentős magyar város fejlődött ki.
+:57. A településfejlődés egyik fontos hajtóereje a piac volt, magyarul „vásár”, amelyet rendszeresen, meghatározott helyeken tartottak.
+:58. A piacok gyakran vasárnapokon és templomok közelében zajlottak, ezért a magyar „vásár” (piac) és „vasárnap” (vasárnap) szavak nyelvtanilag rokonok.
+:59. A vásárhelyeken a király vásári vámokat szedett, amelyek bevételei közé tartoztak, és aláhúzták e helyek gazdasági jelentőségét.
+:60. A vásárhelyek elsősorban folyóátkelőhelyeknél, útkereszteződéseknél és különböző gazdasági térségek határainál helyezkedtek el.
+:61. A közlekedési útvonalak mentén fekvő elhelyezkedés döntő fontosságú volt, mivel a kereskedelem és az ellátás a járható utaktól és a hajózható folyóktól függött.
+:62. A birodalom legfontosabb közlekedési artériái a nagy folyók – a Duna, a Tisza, a Dráva és a Száva –, valamint a régi római utak voltak.
+:63. A Duna nyugatról keletre kötötte össze a birodalmat, és egyben kereskedelmi út, határ és ellátási tengely is volt.
+:64. Ezen közlekedési útvonalak mentén gázlókat, kompokat, hidakat és vámállomásokat hoztak létre, amelyek szintén a birodalom infrastruktúrájának részét képezték.
+:65. A folyóátkelőhelyek stratégiai és gazdasági szempontból is jelentőséggel bírtak, ezért gyakran várak és vámállomások felügyelték őket.
+:66. A kereskedelmi útvonalak biztosítása a királyok tudatos politikájának része volt, akik védelmet nyújtottak a zarándokoknak és a kereskedőknek.
+:67. Híressé vált a Magyarországon átvezető biztonságos zarándokút megnyitása, amely a birodalmat beépítette a Szentföldre vezető európai zarándokutak hálózatába.
+:68. Ez az út szárazföldön vezetett Nyugat-Európából Magyarországon át Konstantinápolyba, majd onnan tovább Jeruzsálembe.
+:69. A külföldi vendégek, a hospitesek fontos szerepet játszottak a városi települések kialakításában.
+:70. I. István király intéseiben kifejezetten javasolta az idegenek barátságos befogadását, mivel azok tudást, szakértelmet és gazdagságot hoztak magukkal.
+:71. Ez az ajánlás tükrözte azt a tényleges politikát, amely bajor, olasz, vallon, majd később német telepeseket hívott az országba.
+:72. Az idegen vendégek új kézműves, építési és kereskedelmi technikákat hoztak magukkal, és így elősegítették a települések fejlődését.
+:73. Gyakran saját jogokat és szabadságokat kaptak, amelyek később a városi jog alapjává váltak.
+:74. A korai időszakban azonban ezek a különjogok még egyes csoportok személyes kiváltságai voltak, és még nem jelentettek teljesen kialakult városi jogot.
+:75. A valódi, kiváltságokkal rendelkező polgári városok kialakulása csak a késő középkorra tehető, és már túlmutat a Szent István idején történt alapítások időszakán.
+:76. A korai időszakban a városi élet előfutáraként a várvárosok, piactelepülések, püspöki székhelyek és kolostortelepülések voltak túlsúlyban.
+:77. Az egyházi központok vonzották a lakosságot, mivel a dóm és a püspöki székhely körül papok, kézművesek és szolgák gyűltek össze.
+:78. Így a püspöki városok a lakosság, a közigazgatás és a gazdaság korai sűrűsödési pontjaivá váltak.
+:79. Fontos szerepet játszott továbbá a sókitermelés és a sókereskedelem is, amelyek saját településeket és szállítási útvonalakat hoztak létre.
+:80. A sót elsősorban Erdélyben bányászták, és a folyókon szállították az egész birodalomba, ami átrakodási helyek kialakulásához vezetett.
+:81. A sóutak és a rakodóhelyek mentén olyan települések alakultak ki, amelyek a sókereskedelemből éltek és királyi felügyelet alá tartoztak.
+:82. A nemesfémek és a só bányászata saját infrastruktúrát hozott létre, amely bányajáratokból, rakodóhelyekből és bányászok településeiből állt.
+:83. Az érmeveréshez pénzverdékre volt szükség, amelyek közül Esztergom volt a legjelentősebb, és amelyek termékein a helyszín neve szerepelt.
+:84. A pénzverdék állandó intézmények voltak, ahol királyi felügyelet alatt verték az ezüstpénzt.
+:85. Ezek a különböző intézmények – várak, templomok, kolostorok, piacok, pénzverdék és bányák – együttesen alkották a fiatal állam infrastruktúráját.
+:86. A korai időszakra jellemző volt a katonai, egyházi és gazdasági funkciók szoros összekapcsolódása ugyanazon helyeken.
+:87. Gyakran előfordult, hogy a vár, a püspöki székhely és a piac egy helyen található, és egymás vonzerejét kölcsönösen erősítették.
+:88. Így jöttek létre olyan többszörös központok, ahol a hatalom, a hit és a kereskedelem térben összpontosult.
+:89. Esztergom például egy komplexumban egyesítette a királyi várat, az érseki székhelyet, a pénzverdét és a kereskedelmi központot.
+:90. Ez a funkciók összevonása jellemző volt a korai, még kevéssé munkamegosztáson alapuló településszerkezetre.
+:91. E korai központok lakossága vegyes volt, és harcosokat, egyházi személyeket, kézműveseket, kereskedőket és szolgákat foglalt magában.
+:92. Különböző népcsoportok, köztük zsidó és muszlim kereskedők is, telepedtek le a kereskedelmi központokban.
+:93. Muszlim kereskedők és pénzverő tisztviselők, akik a forrásokban ismaeliták vagy böszörmények néven szerepelnek, aktív szerepet játszottak a korai magyar kereskedelemben és pénzügyekben.
+:94. A lakosság ezen sokszínűsége kozmopolita jelleget kölcsönzött a korai központoknak, ami kedvezett a kereskedelemnek.
+:95. A korai időszak építészeti maradványai csak hiányosan maradtak fenn, mivel a fa és a föld romlandó anyagok, a kőépületeket pedig gyakran beépítették.
+:96. A régészeti kutatások elsősorban a védőfalak, árkok és alapok feltárásával tárják fel ezeket a korai erődítményeket.
+:97. A kerámiák, szerszámok, fegyverek és érmék leletek alapján következtetéseket lehet levonni a létesítmények korszakáról és funkciójáról.
+:98. Az írásos források, például oklevelek és krónikák is megemlítik a várak és települések nevét, lehetővé téve azok történelmi besorolását.
+:99. A várnevek, amelyek gyakran „vár” végződéssel rendelkeznek vagy szláv eredetűek, utalnak a létesítmények korára és eredetére.
+:100. A korai erődítmények topográfiai elhelyezkedése egyértelmű szabályokat követett, amelyek a védelmi és ellátási szempontokból adódtak.
+:101. Előnyben részesítették a természetes védelmet nyújtó helyszíneket, mint a szigetek, félszigetek, sziklafennsíkok, folyókanyarok és mocsarakkal körülvett dombok.
+:102. Az ilyen helyszínek a természetes akadályok révén megerősítették a mesterséges védelmet, és csökkentették az építési költségeket.
+:103. A víz közelsége egyúttal biztosította az ellátást, a védelmet és a szállítási útvonalat is.
+:104. A gázlók, hágók és völgyszűkületek feletti ellenőrzés további szempont volt a várak építésekor.
+:105. A stratégiai elhelyezkedés ugyanúgy meghatározta egy hely jelentőségét, mint a gazdasági kapcsolatai.
+:106. Az infrastruktúra kiépítése egyben a hatalom megszilárdításának eszköze is volt, hiszen a várak egy-egy területet a koronához kötöttek.
+:107. Minden királyi várral nőtt a király képessége arra, hogy egy területet igazgasson, megvédjen és adóztasson.
+:108. A lázadó törzsfőnökök legyőzése ezért gyakran járt együtt várak építésével vagy átvételével.
+:109. Így biztosította István a meghódított területeket megyei várak és püspökségek létrehozásával.
+:110. A várépítés és a püspökségek alapítása közötti kapcsolat összekapcsolta az ország katonai és egyházi áthatolását.
+:111. Az infrastruktúra így egyaránt szolgált a védelem, az igazgatás, a gazdaság és a keresztény hit terjesztése céljait.
+:112. Az utak és hidak infrastruktúrája a római korhoz képest eleinte romos állapotban volt, és fenntartása nagy erőfeszítéseket igényelt.
+:113. A régi római utakat továbbra is használták, de eleinte nem állt rendelkezésre a szükséges kapacitás azok tervszerű felújításához.
+:114. A nagy folyókon ritkán voltak hidak, így a közlekedés többnyire gázlókon és kompokon keresztül zajlott.
+:115. Az utak, hidak és gázlók karbantartása azok közé a szolgálatok közé tartozott, amelyeket a lakosságra róttak.
+:116. Ez az útépítési kötelezettség az általános robotmunka részét képezte, amelyet a vár lakosságának kellett teljesítenie.
+:117. Az utak vámállomásokkal és őrposztokkal való biztosítása szintén az infrastrukturális rendhez tartozott.
+:118. A hiányos közúti hálózat miatt a vízi utak különös jelentőségre tettek szert a nehéz áruk, például a só és a gabona szállításában.
+:119. A Dunán és a Tiszán tehercsónakok és tutajok közlekedtek, amelyek árukat szállítottak nagy távolságokra.
+:120. A folyami hajózás olcsóbb és hatékonyabb volt, mint a szárazföldi szállítás, ezért meghatározó szerepet játszott a kereskedelmi központok elhelyezkedésében.
+:121. Összességében a korai királyság infrastruktúrája még egyszerű volt, de célszerűen igazodott a hatalom, a hit és a gazdaság igényeihez.
+:122. Összekapcsolta az elődök által átvett létesítményeket a keresztény-királyi égisze alatt létrehozott új településekkel.
+:123. Az átvett római és szláv erődítmények képezték azt a kiindulási pontot, ahonnan a hálózatot bővítették.
+:124. Az új egyházi kőépületek tartós építészeti akcentusokat jelentettek, amelyek túlmutattak a mulandó földvárak határain.
+:125. Így fokozatosan kialakult egy olyan táj, amelyet szilárd pontok tagoltak és uraltak.
+:126. Ezek a szilárd pontok csomópontok voltak a közigazgatás, a védelem, a kereskedelem és a vallás hálózatában.
+:127. A fejlődés azonban lassan és egyenetlenül zajlott, erős központokkal és azok között kiterjedt, alig feltárt területekkel.
+:128. Az ország nagy része ritkán lakott maradt, erdők, mocsarak és legelők borították, és csak várakkal voltak ritkán átszőve.
+:129. A településszerkezet elsősorban a folyók, az utak mentén és a központok körül sűrűsödött.
+:130. A peremvidékeket és a határvidéki vadonokat szándékosan járhatatlanná és ritkán lakottá hagyták, hogy védelmi övezetként szolgáljanak.
+:131. Az infrastruktúra így térbelileg rétegzett volt, sűrű központi övezetekkel és lakatlan határvidékekkel.
+:132. Ez a mintázat megfelelt egy fiatal birodalom biztonsági igényeinek, amelynek ki kellett állnia a külső ellenségekkel szemben.
+:133. Az erődítmények nemcsak az idegen seregek ellen nyújtottak védelmet, hanem a belső felkelések és viszályok ellen is.
+:134. A belső harcok idején a várak a rivális hatalmak által megküzdött támaszpontokká váltak.
+:135. A várak feletti ellenőrzés gyakran döntötte el a trónharci küzdelmek és a felkelések kimenetelét.
+:136. Aki a legfontosabb várak és azok készletei felett uralkodott, az uralta a környező vidéket is.
+:137. A várak ezért nem csupán építészeti, hanem elsőrendű hatalmi művek is voltak.
+:138. Az építési teljesítmény és a hatalomgyakorlás összekapcsolódása jellemzi az egész korai infrastrukturális politikát.
+:139. Ezen infrastruktúra kiépítése jelentős követelményeket támasztott a munkaerővel, a szervezéssel és az anyagokkal szemben.
+:140. Az építőmunkások, kézművesek és építőanyagok mozgósítása csak a királyi rendelkezési jog révén volt lehetséges a szolgálati népesség felett.
+:141. A fát, a földet és a követ helyben nyerték, míg a szakembereket, például a kőfaragókat, gyakran messziről hozták ide.
+:142. Az egyházi épületek emellett kiváló minőségű anyagokat igényeltek, mint például faragott köveket, márványt és liturgikus eszközöket.
+:143. Ezen anyagok és szakértelem egy része a kereskedelem és a külföldi vendégek révén jutott be az országba.
+:144. A nagy építmények finanszírozása a királyi bevételekből, az egyházi adományokból és a tizedből történt.
+:145. A hatalmas királyi birtokok biztosították a gazdasági alapot a várak, templomok és utak fenntartásához.
+:146. Így az infrastrukturális politika elválaszthatatlanul összekapcsolódott a birodalom gazdasági és közigazgatási rendjével.
+:147. A várak gyűjtötték be a jövedelmeket, amelyek viszont lehetővé tették a várak fenntartását és további létesítmények építését.
+:148. Ez az adóbeszedés és az építési tevékenységek körforgása támasztotta alá az állam infrastrukturális vázát.
+:149. Az egyházi infrastruktúra hasonló logikát követett, hiszen a tized és az adományok finanszírozták a templomokat és a kolostorokat.
+:150. Az a törvényi kötelezettség, hogy tíz falunként egy templomot kellett építeni, sűrű plébániatemplom-hálózatot hozott létre az egész országban.
+:151. Ezek a plébániatemplomok többnyire kicsi, egyszerű épületek voltak, kezdetben gyakran fából, később kőből.
+:152. Ezek alkották az egyházi építészeti infrastruktúra legalacsonyabb szintjét, és eljutottak a központoktól távol eső falvakba is.
+:153. Felettük álltak a nagyobb kollegiátus- és kolostortemplomok, a csúcson pedig a püspöki székhelyek katedrálisai.
+:154. Így jött létre egy többszintű egyházi építészeti táj, amely a világi várak tájával párhuzamosan borította be a birodalmat.
+:155. Mindkét hálózat – a váraké és a templomoké – átszövi egymást, és együttesen meghatározták a korai királyság arculatát.
+:156. A régészeti és írásos források azt mutatják, hogy ez a kiépítés generációk munkájának eredménye volt, és nem néhány év alatt valósult meg.
+:157. István fektette le az alapokat, de az infrastruktúra teljes kiépítése a 11. és 12. század egészére kiterjedt.
+:158. Utódai folytatták a várak, templomok és utak építését, és fontos pontokon kiegészítették a hálózatot.
+:159. A városi jogokkal és önkormányzattal rendelkező valódi városok kialakulása csak ezután indult be.
+:160. Az itt tárgyalt korai időszakra jellemző, hogy az infrastruktúra erődítményekből, egyházi épületekből és közlekedési létesítményekből állt, de nem tartalmazott autonóm városokat.
+:161. A város jogi értelemben vett fogalmát ezért ebben a korszakban óvatosan kell használni.
+:162. Ami később várossá vált, az a korai időszakban először várváros, piactelepülés vagy püspöki székhely volt.
+:163. Ezek az előformák azonban már magukban hordozták a későbbi városi fejlődés csíráit.
+:164. A védelem, a piac és az igazgatás összekapcsolódása állandó helyszíneken volt a városok későbbi virágzásának előfeltétele.
+:165. A korai időszak infrastrukturális vívmányai így megteremtették azt a térbeli keretet, amelybe a későbbi városi élet beilleszkedett.
+:166. A kutatások hangsúlyozzák, hogy a magyar fejlődés ebben a tekintetben körülbelül egy-két évszázaddal lemaradt a nyugat-európaitól.
+:167. Ez a késés a Kárpát-medencében bekövetkezett letelepedés és keresztényesítés késői kezdetével magyarázható.
+:168. Ugyanakkor a Birodalom gyorsan felzárkózott, mivel átvette a nyugati példákat, technikákat és szakembereket.
+:169. Az átvett építési technikákat a helyi adottságokhoz – fa, föld és a rendelkezésre álló kő – igazították.
+:170. Így jött létre egy önálló, korai építészeti kultúra, amely ötvözte a sztyeppei hagyományokat, a szláv örökséget és a nyugati példákat.
+:171. Az erődítmények biztosították a fiatal uralmat, a templomok megerősítették az új hitet, a piactelepülések pedig a növekvő kereskedelmet szolgálták.
+:172. Együttműködésük révén képezték a keresztény királyság anyagi alapját.
+:173. A várak a királyi hatalmat, a katedrálisok a keresztény igényt, a piacok pedig a gazdasági fellendülést testesítették meg.
+:174. Ez az anyagi alap ugyanolyan fontos volt, mint a törvények és a hivatalok, amelyek rendet teremtettek a birodalomban.
+:175. Szilárd támaszpontok nélkül a királyi közigazgatás nem tudott volna érvényesülni a hatalmas országban.
+:176. Templomok és kolostorok nélkül a keresztény hit nem terjedt volna el a falvakon túl.
+:177. Piacok, utak és folyami összeköttetések nélkül nem sikerült volna a rabló-gazdaságból a csere-gazdaságba való átmenet.
+:178. Az infrastruktúra tehát az a talaj volt, amelyen a korai királyság közigazgatása, egyháza és gazdasága egyáltalán csak növekedni tudott.
+:179. A megyei várak földsáncain, a katedrálisok kőfalain és a várvárosok piacterein az új rend láthatóvá és tapinthatóvá vált.
+:180. Így a Sztéfán és utódai idején kialakult korai időszak megteremtette azt a térbeli keretet, amelyben a középkori Magyarország évszázadokon át kibontakozhatott.
+
+=== 4.4.3 – Az egyház mint állami apparátus: a püspökök és funkcióik ===
+
+:1. A kora középkorban a modern értelemben vett egyház és állam szétválasztása elképzelhetetlen volt, így a fiatal magyar királyságban mindkét szféra elválaszthatatlanul összefonódott, és az egyház a hatalmi apparátus egyik alappillérévé vált. 
+:2. A 11. századi Magyarországon az egyház nem csupán vallási intézmény volt, hanem egyúttal a kialakuló állam legfontosabb közigazgatási, oktatási és írásbeli szerve is.
+:3. I. István király kezdettől fogva az egyházat uralkodásának egyik alappillérének tekintette, és tervszerűen bővítette ki a királyi hatalom támaszává.
+:4. A korona és az egyház szoros összefonódása nem magyar sajátosság volt, hanem a karoling és az ottóniai birodalmi egyházi rendszer mintáját követte.
+:5. Ebben a rendszerben az uralkodó az egyházat a szolgálatába állította, földekkel és jogokkal ruházta fel, és püspökeit közigazgatási és hatalmi tisztségviselőként alkalmazta.
+:6. István átvette ezt a modellt, és a frissen keresztény hitre tért ország viszonyaihoz igazította.
+:7. Az egyházi állami apparátus alapját egy az egész birodalmat lefedő, kiterjedt egyházmegyei szervezet kiépítése jelentette.
+:8. A hagyomány szerint István tíz egyházmegyét alapított, amelyek pontos száma, sorrendje és keletkezésük ideje a kutatások tárgyát képezi.
+:9. Az egyházi hierarchia csúcsán az esztergomi érsekség állt, amelyet az egész királyság metropolájává emeltek.
+:10. Az esztergomi érsek lett az ország első számú egyházi méltósága, és kizárólagos jogot kapott a király koronázására.
+:11. Ez a koronázási jog kiemelkedő államjogi pozíciót biztosított az érseknek, mivel egyetlen király sem koronázható törvényesen az ő közreműködése nélkül.
+:12. Egy második érsekség jött létre Kalocsán, amely elsősorban a birodalom déli és keleti részeiért volt felelős.
+:13. A két érsekség két egyházi tartományra osztotta az országot, amelyek mindegyike alá több egyházmegye tartozott.
+:14. A korai egyházmegyék közé tartozott többek között Veszprém, Győr, Pécs, Eger, Vác, Csanád és a Gyulafehérvárban székhellyel rendelkező erdélyi egyházmegye.
+:15. A pécsi egyházmegyét 1009-ben alapították, amit egy fennmaradt oklevél is igazol, így ez az egyik legjobban datálható alapítás.
+:16. A Csanád-i egyházmegyét a pogány Ajtony fejedelem felett aratott győzelem után hozták létre, és az Olaszországból származó Gerhardra bízták.
+:17. Gerhard von Csanád, eredetileg bencés szerzetes, e egyházmegye első püspöke lett, majd később vértanúként szentté avatták.
+:18. A püspökségek határait úgy húzták meg, hogy azok az egész birodalmat hiánytalanul lefedjék, és részben a megyék határaihoz igazodjanak.
+:19. Ez a párhuzam a püspökségi és a megyei határok között az egyházi és a világi közigazgatás közötti tudatos összehangoltságot mutatja.
+:20. Minden püspök rendelkezett egy székesegyházzal, egy székesegyházi káptalannal és kiterjedt birtokokkal feladatai finanszírozásához.
+:21. A székesegyházi káptalan a székesegyházban szolgáló kanonokok közössége volt, akik támogatták a püspököt, és segítettek az istentiszteletek lebonyolításában és az igazgatásban.
+:22. A egyházmegye, azaz a püspök hatásköri területe, tovább tagolódott archidiakonátusokra és erzdekanátusokra, amelyek felügyelték a plébániákat.
+:23. Az egyházi szervezet alapját a falvakban található plébániatemplomok képezték, amelyek építését István törvényei írták elő.
+:24. Az a törvényi kötelezettség, hogy tíz falunként egy templomot kellett építeni, sűrű plébániahálózatot hozott létre az egész országban.
+:25. Ezen a plébániákból, archidiakonátusokból és egyházmegyékből álló hálózat felett a két érsekség kettős vezetése magasodott.
+:26. Ez a lépcsőzetes hierarchia tükrözte az egyház egészének szerkezetét meghatározó rendi gondolkodásmódot, és összekötötte az egyes falvakat a birodalom csúcsával.
+:27. A püspökök voltak azok a kulcsfigurák, akikben a legszembetűnőbben megnyilvánult az egyház állami jellege.
+:28. Nemcsak egyházmegyéjük lelki pásztorai voltak, hanem egyúttal magas rangú világi méltóságok és a király tanácsadói is.
+:29. A püspökök a királyi tanács legszűkebb köréhez tartoztak, és részt vettek a birodalmi gyűléseken.
+:30. Ezen a gyűléseken törvényekről, tisztségek betöltéséről és a birodalom nagy politikai kérdéseiről tanácskoztak.
+:31. Szavuknak nagy súlya volt, mivel ők voltak a birodalomban az egyetlen írástudó, valamint közigazgatásban és jogban jártas emberek.
+:32. A püspökök legfontosabb feladata az állami apparátusban az írásbeliség biztosítása volt.
+:33. A keresztényesítés előtt a magyarok nem ismertek közigazgatásra alkalmas írást, legfeljebb a rúnákhoz hasonló karcolásos írást.
+:34. Az egyházzal együtt megérkezett a latin ábécé, és csak a papok tudtak latinul írni és olvasni.
+:35. A királyi kancelláriát, ahol okiratokat, törvényeket és leveleket fogalmaztak meg, ezért szinte teljes egészében papok alkották.
+:36. A püspökök és klerikusok írták le a törvényeket, állították ki az okiratokat és bonyolították a diplomáciai levelezést.
+:37. Ezen egyházi személyzet nélkül az írásbeli közigazgatás a korai királyságban egyenesen lehetetlen lett volna.
+:38. A birodalom legrégebbi fennmaradt okiratai, például a Pannonhalmai Apátság vagy a Pécsi Egyházmegye okiratai, egyházi írnokok művei.
+:39. Később a dómkapitulyok és a kolostorok, mint úgynevezett hiteles helyek, átvették a hitelesítési és okirat-kiállítási feladatokat a közjó érdekében.
+:40. Ezek a hiteles helyek egyfajta közjegyzői hivatalokként működtek, amelyek okiratai teljes bizonyítóerővel rendelkeztek.
+:41. Ezzel az egyház olyan funkciót vett át, amely a modern államokban a saját hatóságok feladata.
+:42. A püspökök egy másik állami funkciója az igazságszolgáltatás és a törvényalkotás területén nyilvánult meg.
+:43. A püspökök részt vettek a királyi törvénykönyvek megfogalmazásában, és döntő mértékben befolyásolták azok tartalmát.
+:44. István törvényeinek számos rendelkezése az egyház védelmét, a hit érvényesítését és a tized biztosítását szolgálta.
+:45. A püspökök emellett saját egyházi bírói jogkört is gyakoroltak, amely hitbeli, házassági és erkölcsi ügyekben hozott döntéseket.
+:46. Ez az egyházi bírói jogkör minden megkereszteltre kiterjedt, és így mélyen beavatkozott a lakosság életébe.
+:47. A hit- és házassági ügyekben a püspöki bíróság volt illetékes, míg a világi bűncselekmények a királyi bírák elé kerültek.
+:48. A házasság, a közszokások és a vallási gyakorlat feletti ellenőrzés révén az egyház a társadalmi fegyelmezés eszközévé vált.
+:49. A püspökök felügyelték a vasárnapi pihenés, a templomba járás és az egyházi böjti előírások betartását.
+:50. Üldözték a pogány szokásokat, a jóslást és a régi rítusokhoz való ragaszkodást, amelyeket a törvények büntetendőnek nyilvánítottak.
+:51. Így az egyház lett a felülről irányított keresztényesítés és az új rend érvényesítésének legfontosabb eszköze.
+:52. A püspökök irányították a lelkipásztori munkát, felszentelték a papokat és felügyelték a plébániatemplomokat a saját egyházmegyéjükben.
+:53. Vizitációkat hajtottak végre, amelyek során bejárták a plébániákat, és ellenőrizték az egyházi előírások betartását.
+:54. A falvak papjai alárendeltjeik voltak, és ők vitték el a kereszténységet a legegyszerűbb népig.
+:55. Így az egyházi hierarchia egyben felügyeleti hálózatot is alkotott, amely tájékoztatta a királyt az ország állapotáról.
+:56. Az egyház egyik központi állami funkciója a fiatalok oktatása és képzése volt.
+:57. A kolostorok és a katedrálisiskolák voltak a birodalom egyetlen oktatási intézményei, ahol olvasást, írást és latin nyelvet tanítottak.
+:58. Ezekből az iskolákból került ki a hazai papság, amely idővel kiegészítette, majd felváltotta a külföldi papokat.
+:59. Az oktatás így továbbra is az egyház monopóliuma maradt, és aki írni és igazgatni tudott, az általában pap volt.
+:60. Aki az állami szolgálatban előrelépni akart, annak az egyházi oktatási rendszert kellett végigjárnia, ami tovább erősítette az egyház és az állam összefonódását.
+:61. Az egyház, és ezzel együtt állami funkcióinak pénzügyi alapját elsősorban a tized képezte.
+:62. A tized a mezőgazdasági termés tizedének megfelelő adó volt, amelyet István törvényei kötelezően előírtak.
+:63. Magában foglalta a gabonát, a bort, az állatállományt és egyéb termékeket, és biztosította a püspökök, a papok és az egyházi intézmények fenntartását.
+:64. A tized beszedését a királyi hatalom védelme alatt állt, és annak eltitkolása büntetéssel járt.
+:65. Ezáltal az állam kényszerítő erejét ruházta az egyházi adóra, míg az egyház viszont vallási alapon legitimálta a hatalmat.
+:66. A tized mellett az egyház hatalmas földbirtokokkal is rendelkezett, amelyek királyi adományok révén jutottak a birtokába.
+:67. Ezek az adományok falvakat, földterületeket, szőlőültetvényeket, malmokat, sóbányászati jogokat és egész seregnyi függő szolgát foglaltak magukban.
+:68. A püspökök és apátok így nagy földesurakká váltak, akiknek világi hatalma megegyezett vagy meghaladta számos világi nagyúrét.
+:69. E földbirtokokért cserébe a püspököknek kötelezettségeket kellett teljesíteniük a király felé.
+:70. Kötelesek voltak háború esetén csapatokat, úgynevezett „banderie”-ket állítani, és ezzel megerősíteni a királyi hadsereget.
+:71. A püspöki és kolostori csapatok a birodalmi hadsereg szerves részét képezték.
+:72. Így az egyház nem csupán közigazgatási, hanem katonai támasza is volt a királyi hatalomnak.
+:73. A püspökök emellett diplomáciai feladatokat is ellátottak, mivel művelt és nyelvjárásban jártas emberek lévén alkalmasak voltak követségi feladatokra.
+:74. Tárgyalásokat folytattak a pápasággal, a császárral és a szomszédos uralkodókkal, és külföldön képviselték a királyt.
+:75. Latin és egyházi jogi ismereteik nélkülözhetetlen közvetítőkké tették őket a nemzetközi kapcsolatokban.
+:76. Különös jelentősége volt a magyar egyház és a római pápaság közötti kapcsolatnak.
+:77. István II. II. Szilveszter pápához fordult, és a hagyomány szerint megkapta a királyi koronát, valamint azt a jogot, hogy saját országának egyházát saját maga szervezze meg.
+:78. Ezáltal a magyar egyház közvetlenül a pápának tartozott felelősséggel, és nem egy külföldi metropolita egyházmegyének, mint például a salzburgi érsekségnek.
+:79. Ez az egyházi függetlenség elengedhetetlen feltétele volt a fiatal királyság állami szuverenitásának.
+:80. Ha a magyar egyháznak egy német metropolita alá kellett volna rendelkeznie, akkor a birodalom is a német császári hatalom függőségébe került volna.
+:81. Az önálló egyházi szervezet tehát egyúttal biztosította Magyarország politikai függetlenségét is.
+:82. Ugyanakkor a király széles körű jogokat követelt az egyházával kapcsolatban, ami előrevetítette a későbbi vitát a pápasággal.
+:83. István és utódai gyakorlatilag maguk nevezték ki a püspököket, és az egyházat saját alapítványuknak tekintették.
+:84. Ez a királyi egyházi jog annak a felfogásnak felelt meg, miszerint az alapító rendelkezhet az általa alapított egyházak felett.
+:85. A király nevezte ki a püspököket, átadta nekik a pásztorbotot és a gyűrűt, és rendelkezett a megszűnt egyházmegyék vagyonáról.
+:86. A püspökök és a korona közötti szoros kapcsolat miatt ők a királyi tisztségviselők lettek, csak egyházi ruhában.
+:87. A későbbi investitúra-vita, amely megrázta a világi és az egyházi hatalom közötti viszonyt, István idején még a jövőben állt.
+:88. A korai időkben a király és az egyház közötti szövetség még töretlen volt, és kölcsönös haszonon alapult.
+:89. Az egyház szent méltóságot és vallási legitimitást kölcsönzött az uralomnak, a király pedig védte és gazdagította az egyházat.
+:90. A koronázás a királyt Isten által kinevezett uralkodóvá tette, akinek az engedelmessége egyben vallási kötelesség is volt.
+:91. A megszentelt királyi méltóság Istvánot minden világi nagyhatalmú fölé emelte, és az engedelmességet egy isteni megbízatáshoz kötötte.
+:92. Az egyház az Isten által kijelölt hatóság iránti engedelmességet hirdette, és ezzel támogatta a királyi tekintélyt.
+:93. A lázadást és a hűtlenséget bűnnek ítélte, és ezzel a fennálló rend oldalára állt.
+:94. Így az egyház ideológiai eszközként működött, amely vallási alapon támasztotta alá az uralmat.
+:95. Ez a legitimációs funkció egy fiatal, pogány törzsekből kialakult birodalom számára felbecsülhetetlen értékű volt.
+:96. A szentek tisztelete szintén az egyház és a királyság megerősítését szolgálta.
+:97. István, fia Emmerich és Gerhard püspök 1083-as szentté avatása a dinasztiát a szentség dicsőségével ötvözte.
+:98. A szent királyok a birodalom védőszentjeivé váltak, és a nemzeti identitást elválaszthatatlanul összekapcsolták a kereszténységgel.
+:99. Az egyház ezzel létrehozott egy vallási alapú birodalmi identitást, amely elősegítette az összetartozás tudatát.
+:100. A korai Magyarország papsága nagy részben külföldi származású volt, főként a Német Birodalomból, Olaszországból és a nyugat-szláv térségből.
+:101. Ezek az idegen papok hozták magukkal a liturgiát, az egyházi jogot és a latin műveltséget, amelyekből az országban kezdetben hiány volt.
+:102. Kulcsfigurának számított Adalbert prágai püspök, aki a hagyomány szerint részt vett István hitoktatásában vagy bérmálásában.
+:103. Asztrik szerzetes, a későbbi érsek is fontos szerepet játszott, és állítólag ő hozta el a pápától a koronát Magyarországra.
+:104. Az idő múlásával a külföldi egyházi személyek mellé egyre növekvő számú, a székesegyházi iskolákban képzett hazai papok csatlakoztak.
+:105. A hazai papság kialakítása döntő fontosságú volt az egyház tartós meggyökeresedése szempontjából az országban.
+:106. A püspöki székhelyek a népesség, a közigazgatás, az oktatás és a gazdaság sűrűsödési pontjaivá váltak.
+:107. A székesegyház és a püspöki székhely köré papok, kézművesek, kereskedők és szolgák gyűltek össze, és így alakultak ki a korai városi központok.
+:108. Az olyan püspöki városok, mint Esztergom, Veszprém vagy Pécs, ezért a birodalom legjelentősebb helyei közé tartoztak.
+:109. E városok székesegyházai egyben a legkorábbi monumentális kőépületek és az új rend látható jelei voltak.
+:110. A kolostorok kiegészítették a püspöki hálózatot, és maguk is állami jellegű feladatokat vállaltak.
+:111. A Pannonhalmai bencés apátság, amely széles körű kiváltságokkal rendelkezett, a rend országon belüli szellemi központjává vált.
+:112. A kolostorok az imádság, a művelődés, a könyvkiadás és a példamutató mezőgazdasági tevékenység helyszínei voltak.
+:113. Írótermükben másolták le a liturgiás könyveket, amelyek nélkül az istentisztelet nem volt lehetséges.
+:114. Ezenkívül őrizték a tudást, feljegyzéseket vezettek, és megalapozták a későbbi történetírást.
+:115. Az ország korai krónikái egyházi környezetben születtek, és elképzelhetetlenek lennének a klerikális íráskultúra nélkül.
+:116. Így az egyház a történelmi emlékezet és a birodalom írásbeli hagyományának őrzője is volt.
+:117. Az egyház és az állam összefonódása továbbá egyes méltóságok személyében is megnyilvánult, akik egyesítették a lelkipásztori és a világi tisztségeket.
+:118. Az esztergomi érsek például egyidejűleg látta el a legfőbb egyházi és jelentős állami tisztségeket.
+:119. Később a királyi kancellár tisztségét rendszerint egy magas rangú egyházi személy töltötte be.
+:120. Az egyházi és állami tisztségek személyi egyesülése aláhúzta a két terület egységét.
+:121. Gisela királyné, egy bajor hercegnő, alapítványok és adományok révén elősegítette az egyház kiépítését.
+:122. Különösen a veszprémi egyházmegyét támogatta, és liturgikus eszközöket és ruhákat adományozott.
+:123. Az ilyen udvari alapítványok szorosan összekötötték a dinasztiát az egyházi infrastruktúra kiépítésével.
+:124. A kereszténység meghonosítása nem ment ellenállás nélkül, hiszen sok magyar ragaszkodott a régi rítusokhoz.
+:125. A pogány szokások ellen hozott törvények bizonyítják, hogy a régi hitgyakorlat még hosszú ideig titokban fennmaradt.
+:126. A püspököknek és papjaiknak ezért a világi hatalommal közösen kellett gondoskodniuk az új rend érvényesítéséről.
+:127. István halála után, 1038-ban pogány felkelések törtek ki, amelyek az egyház és püspökei ellen is irányultak.
+:128. E felkelések során templomokat romboltak le és papokat öltek meg, köztük Csanád Gerhard püspököt is.
+:129. A hagyomány szerint Gerhardot a felkelők úgy ölték meg, hogy egy dombról a Dunába lökték.
+:130. Ezek a felkelések jól mutatják, milyen szoros kapcsolatban állt az egyház a gyűlölt új renddel és az adóterhekkel.
+:131. A felkelések leverése után az egyházi rendet helyreállították és tovább megerősítették.
+:132. István utódai, különösen I. László és Koloman, a Tudós, folytatták az egyház kiépítését.
+:133. László király előmozdította az egyházi fegyelmet, zsinatokat rendelt el, és előmozdította az első magyar szentek szentté avatását.
+:134. Koloman király további törvényeket hozott, amelyek szabályozták az egyház és az állam viszonyát, és az egyházszintű reformhoz kapcsolódtak.
+:135. Ebben az időszakban a pápai reformmozgalom hatása Magyarországon is érezhetővé vált.
+:136. Az egyház fokozatosan felszabadult a túl szigorú királyi ellenőrzés alól, anélkül, hogy alapvetően felbontotta volna a szövetséget.
+:137. A korai időszakban azonban az uralkodó által az egyház igénybevétele volt a jellemző, aki az egyházat hatalmának eszközeként használta.
+:138. A kutatások ezt a modellt az ottoni mintára kialakult magyar birodalmi egyházi rendszerként írják le.
+:139. Ebben a rendszerben az egyházi és az állami tevékenység közötti határ elmosódott volt, és gyakran egyáltalán nem volt meghúzható.
+:140. A püspökök egyszerre jártak el lelkipásztorként és a korona tisztviselőiként.
+:141. Egyházmegyéiket fejedelemségként, székeiket pedig közigazgatási központként irányították.
+:142. Kettős szerepük – mint egyházi és világi hatalom – a király mellett a birodalom leghatalmasabb embereivé tette őket.
+:143. A püspökök gazdasági és katonai hatalma hosszú távon azzal a veszéllyel járt, hogy kicsúsznak a királyi ellenőrzés alól.
+:144. A korai, erős időszakban azonban a püspökök szorosan kötődtek a koronához, amely kinevezte és ellátta őket.
+:145. Ezen egyházi-állami rend feltárásának forrásai elsősorban a törvények, az okiratok és a későbbi legendák.
+:146. István és utódai törvényei felsorolják az egyházi kötelességeket, a tizedet és a szabályszegésekért járó büntetéseket.
+:147. Az okiratok rögzítik a püspökségek és kolostorok alapítását és felszerelését.
+:148. A szentekről szóló legendák, például István és Gerhard életrajzai, leírják az egyház szerepét, de összekeverik a történelmet és az erkölcsi tanítást.
+:149. A kutatásnak kritikusan kell vizsgálnia ezeket a forrásokat, mivel sok közülük csak későbbi, átdolgozott formában áll rendelkezésre.
+:150. E forrásbeli problémák ellenére kirajzolódik egy olyan egyház képe, amely az állami rend gerincét képezte.
+:151. Az egyház biztosította az Írást, az oktatást, a jogot, a legitimitást, valamint a közigazgatás és a hadsereg egy részét.
+:152. Áthatotta a birodalmat a csúcstól a legkisebb falig, és minden megkereszteltet egységes rendbe szervezett.
+:153. Az egyház nélkül a korai magyar állam sem tudta volna magát irányítani, sem legitimálni, sem pedig érvényesülni a pogányság ellen.
+:154. A püspökök voltak e funkciók hordozói, és így az egyházi állami apparátus valódi támaszpilléi.
+:155. A király általi kinevezésük biztosította hűségüket, a földbirtokokkal való ellátásuk pedig teljesítőképességüket.
+:156. Írás-olvasási tudásuk nélkülözhetetlenné tette őket, egyházi méltóságuk pedig hatalmat biztosított számukra a lelkek felett.
+:157. Személyükben a vallási küldetés és az állami feladat elválaszthatatlan egységgé olvadt össze.
+:158. Ez az egység volt a kora középkori egyház és hatalom viszonyának jellemzője.
+:159. A Magyar Királyság ezt a modellt figyelemre méltó következetességgel és sikerrel valósította meg.
+:160. A felülről irányított keresztényesítés és az egyház állami szolgálatba állítása kéz a kézben járt.
+:161. Az egyház egyszerre volt az állami politika célja és eszköze, kiváltságok kedvezményezettje és kötelességek teljesítője.
+:162. Ebből a kölcsönös kapcsolatból olyan rend alakult ki, amely évszázadokon át fennmaradt.
+:163. A kialakított egyházmegyei szervezet alapvető vonásai a modern korig fennmaradtak.
+:164. Az esztergomi és a kalocsai érsekségek hosszú időn át megőrizték vezető pozíciójukat.
+:165. A Szent István által létrehozott plébániai szervezet tartósan képezte az egyházi élet vázát.
+:166. A koronázási jog és az esztergomi érsekség összekapcsolódása évszázadokon át meghatározta a magyar államjogot.
+:167. Így a István idején kialakított egyházi rend hatása messze túlnyúlt saját korán.
+:168. Ez az egyházi ügyeket és a világi hatalmat tartós egésszé egyesítette.
+:169. Az egyház, mint állami apparátus, így a korai Arpad-korszak egyik legjelentősebb alkotása volt.
+:170. A pogány törzsszövetséget az európai birodalmak mintájára keresztény királysággá alakította.
+:171. Összeköttetést teremtett a birodalom és a latin kereszténység, valamint annak kultúrája, joga és oktatása között.
+:172. Nyelvet, írást és ideológiai alapot biztosított az uralomnak.
+:173. Biztosította azt a személyzetet, amely nélkül a rendezett közigazgatás nem lett volna lehetséges.
+:174. Rómához kötötte az országot, és ezzel egyidejűleg biztosította annak politikai függetlenségét is.
+:175. Mindezekben a funkciókban az egyház a kialakuló állam elengedhetetlen részének bizonyult.
+:176. A püspökök kettős szerepükben a legszembetűnőbben testesítették meg a hit és a hatalom ezen összekapcsolódását.
+:177. Feladataik a lelkigondozástól az igazgatáson és az igazságszolgáltatáson át a hadviselésig és a diplomáciáig terjedtek.
+:178. E feladatok sokaságában tükröződik az egyház mindent átható helyzete a korai királyságban.
+:179. A világi és egyházi hatalom szétválasztása, amely a későbbi évszázadokat foglalkoztatta, ebben a korai időszakban még nem valósult meg.
+:180. Az egyház és a korona egységében, amelyet a püspökök mint közvetítők tartottak fenn, rejlett annak a megdöbbentő szilárdságnak a titka, amellyel a keresztény Magyar Királyság megvetette gyökereit.
+
+=== 4.4.4 – Kolostorok és szerzetesek: az oktatás és a kultúra központjai ===
+
+:1. A kolostorok évszázadokon át szinte az egyetlen helyek voltak, ahol a tudást megőrizték, gyarapították és továbbadták, és mint ilyenek, meghatározó szerepet játszottak a korai magyar királyság oktatási és kulturális életében. 
+:2. Egy túlnyomórészt írástudatlan társadalomban, amely a nomád sztyeppehagyományból alakult ki, a kolostorok hozták be először rendezett formában az országba a latin íráskultúrát, a könyvtanulmányokat és a keresztény műveltséget.
+:3. A Magyarországra érkező szerzetességet Szent Benedek Nursiai szabályzata határozta meg, amely a 6. század óta irányította a nyugati kolostori életet.
+:4. A bencés szabályzat az „ora et labora” mottó – ami annyit jelent, hogy imádkozz és dolgozz – jegyében ötvözte az imádságot a munkával, és ezzel rendezett életmódot teremtett.
+:5. A lelki gyakorlat és a testi, valamint szellemi munka ezen összekapcsolása a kolostorokat a jámborság, egyúttal a termelés és az oktatás helyszíneivé tette.
+:6. A szerzetesek szilárd közösségben, a kolostorban éltek, egy apát vezetése alatt, aki a lelki és gazdasági irányítást látta el.
+:7. A napi rendet szigorúan a zsolozsma határozta meg, amely meghatározott időpontokban írta elő az istentiszteletet és a kórusimát.
+:8. Az imaidők között a szerzetesek kézimunkával, földműveléssel, kézművességgel és mindenekelőtt a írószobában végzett szellemi munkával foglalkoztak.
+:9. Az első kolostorok még az állam tényleges megalakulása előtt jelentek meg az országban, amikor Géza fejedelem, István apja, megkezdte a keresztény hitre térítést.
+:10. Magyarország legjelentősebb és legrégebbi kolostora a pannonhalmi bencés apátság volt, amelynek építése Géza idején kezdődött, és István idején fejeződött be.
+:11. A hagyomány szerint Pannonhalmát 996-ban alapították és Szent Mártonnak szentelték, ezért a hegy a Márton-hegy nevet viseli.
+:12. Az apátság a táj fölött, egy hegyen feküdt, és az olasz Montecassino anyaapátság mintájára kiterjedt kiváltságokkal rendelkezett.
+:13. A Pannonhalma alapítóokirata, amelynek fennmaradt változata későbbi átdolgozás nyomait viseli, a legrégebbi magyar oklevélnek számít.
+:14. Ez az oklevél adómentességet és széles körű önigazgatást biztosított a kolostornak, és közvetlenül a királyi védelem alá helyezte.
+:15. Pannonhalma a bencés rend magyarországi szellemi központjává vált, és számos további kolostoralapítás mintájául szolgált.
+:16. Az első szerzetesek külföldről érkeztek, főként Csehországból, a Német Birodalomból és Olaszországból, és magukkal hozták a szerzetesi hagyományt.
+:17. Prágai Szent Adalbert és tanítványai fontos szerepet játszottak a szerzetesség korai terjedésében Magyarországon.
+:18. A korai időszak további jelentős kolostoralapításai Pécsvárad, Zalavár, Bakonybél és Nyitra melletti Zobor voltak.
+:19. A pécsváradi kolostort István alapította, és szintén kiterjedt birtokokkal és kiváltságokkal ruházta fel.
+:20. A zalavári kolostor a Balaton mocsaras területén fekvő szigeten állt, és egy régebbi, Pribina fejedelem idejéből származó egyházi hagyományra épült.
+:21. Az erdős Bakony-hegységben fekvő bakonybéli kolostor a visszavonulás és a lelki megújulás helyszínévé vált.
+:22. Különlegességnek számított a veszprémvölgyi görög apácakolostor, amelynek alapító okirata görög nyelven készült.
+:23. Ez a görög okirat tanúsítja a korai Birodalom bizánci kapcsolatait, valamint a latin mellett a keleti egyházi szerzetességi formák jelenlétét.
+:24. A korai időszakban tehát a nyugati és a keleti szerzetesi hagyományok egymás mellett léteztek, mielőtt a latin forma véglegesen érvényesült volna.
+:25. A kolostorok nem csupán vallási közösségek voltak, hanem kiterjedt földbirtokkal rendelkező nagy gazdasági vállalkozások is.
+:26. A királyi adományok révén a kolostorok falvakkal, földbirtokokkal, szőlőültetvényekkel, malmokkal, halastavakkal és szolgákkal gazdagodtak.
+:27. Ebből a földbirtokból finanszírozták a kolostorok fenntartásukat, épületeiket és kulturális tevékenységeiket.
+:28. A kolostori birtokok gazdálkodása a szerzeteseket a rendezett és haladó mezőgazdaság példaképeivé tette.
+:29. A szerzetesek új termesztési módszereket, továbbfejlesztett eszközöket és a szisztematikus szőlőtermesztést vezettek be, és így meghatározó gazdasági hatást gyakoroltak.
+:30. Kivágták az erdőket, lecsapolták a mocsarakat, és korábban műveletlen földeket tettek termékennyé.
+:31. Ezzel a kolostorok jelentősen hozzájárultak a táj feltárásához és megműveléséhez.
+:32. A szerzetesek kézműves készségei között szerepelt a kőművesség, a fémmegmunkálás, az üveggyártás és a liturgiás eszközök készítése.
+:33. A kolostorok így a technikai innováció és a kézműves mintakészítés helyszínei is voltak.
+:34. A kolostor kulturális szempontból legfontosabb intézménye a skriptórium, az íróterem volt, ahol a könyveket kézzel másolták le.
+:35. A skriptóriumban a szerzetesek liturgikus könyveket, bibliai szövegeket, egyházatyák műveit és alkalmanként ókori szerzők írásait másolták le.
+:36. Egy könyv lemásolása hosszadalmas és fáradságos munka volt, amely hónapokig vagy évekig is eltarthatott.
+:37. A könyveket pergamenre írták, amelyet gondosan feldolgozott állatbőrből nyertek, és amely nagyon értékes volt.
+:38. A nagy ráfordítás miatt a könyvek értékes kincsek voltak, amelyeket a kolostorkönyvtárakban gondosan őriztek.
+:39. A skriptóriumban készített liturgikus könyvek nélkül az egész országban lehetetlen lett volna a rendezett istentisztelet.
+:40. A kolostorok ezért misekönyvekkel, evangéliumkönyvekkel, zsoltároskönyvekkel és egyéb liturgikus művekkel látták el a püspökségeket és a plébániákat.
+:41. Egyes kéziratokat művészi kezdőbetűkkel, miniatűrökkel és díszítésekkel díszítették, ami a könyvfestészetet önálló művészeti ággá emelte.
+:42. A könyvfestészet ötvözte az írást és a képet, és a kolostori kultúra egyik legjelentősebb művészeti teljesítményéhez tartozik.
+:43. A kolostori könyvtárak gyűjtötték és őrizték az írásos tudást, és a birodalom egyetlen könyvgyűjteményét alkották.
+:44. Ezekben a könyvtárakban az ókori és a korai keresztény műveltség öröksége túlélte a századokat.
+:45. A kolostorok így a kulturális emlékezet őrzői és a hagyományozott tudás közvetítői voltak.
+:46. Szoros kapcsolatban állt a skriptóriummal a kolostori iskola, ahol a fiatalokat és a fiatal szerzeteseket tanították.
+:47. A kolostori iskolákban a tanulók megtanultak olvasni, írni és mindenekelőtt latinul, az egyház és a tudomány nyelvén.
+:48. Az oktatási program a hét szabad művészetre, az artes liberales-re épült, amelyek a középkori oktatás alapját képezték.
+:49. A hét szabad művészet a grammatika, a retorika és a dialektika alkotta triviumra, valamint az aritmetika, a geometria, a zene és a csillagászat alkotta quadriviumra tagolódott.
+:50. A trivium a nyelvi alapokat, a quadrivium pedig a matematikai és természettudományos ismereteket közvetítette.
+:51. Kezdetben a nyelvtan állt a középpontban, mivel a latin nyelv elsajátítása minden további képzés előfeltétele volt.
+:52. A kolostori iskolák a szerzetesi rend utánpótlását képezték ki, de a világi és egyházi szolgálatra is felkészítették a diákokat.
+:53. Ezekből került ki a hazai papság, amely idővel kiegészítette, majd felváltotta a külföldi papokat.
+:54. A kolostori iskolák mellett a püspöki székhelyeken domiskolák jöttek létre, amelyek hasonló feladatokat láttak el.
+:55. A korai királyságban az oktatás szinte teljes mértékben az egyház, és különösen a kolostorok monopóliuma volt.
+:56. Aki tudott olvasni, írni és latinul, az általában pap volt, vagy kolostori iskolában tanult.
+:57. Az oktatás és a papi állás közötti ez a kapcsolat évszázadokig meghatározta a birodalom kultúráját.
+:58. A kolostorok emellett a történetírással is foglalkoztak, azaz feljegyzéseket készítettek a jelentős eseményekről.
+:59. A szerzetesek évkönyvekben rögzítették a legfontosabb eseményeket, például az uralkodóváltásokat, a csatákat, a természeti eseményeket és az egyházalapításokat.
+:60. Az ilyen feljegyzésekből és szájhagyományokból alakult ki később a magyar krónikás hagyomány.
+:61. Az ország korai krónikái azonban csak generációkkal a leírt események után keletkeztek, és keverik az emlékeket a legendákkal.
+:62. E hagyomány egyik jelentős műve az úgynevezett Magyar képkrónika, amely azonban csak a 14. századból származik.
+:63. A kolostorok emellett ápolták a hagiográfiát, a szentek életrajzát is, amely a lelki épülésre és a tiszteletre szolgált.
+:64. A Szent István királyról, fiáról, Emmerichről és Gerhard püspökről szóló legendák kolostori környezetben keletkeztek.
+:65. Ezek a szentlegendák összekapcsolják a történelmi emlékezetet a vallásos értelmezéssel, és forrásként óvatosan kell kezelni őket.
+:66. Az írott kultúrán túl a kolostorok a képzőművészetet és az ország építészetét is meghatározóan befolyásolták.
+:67. A kolostortemplomok a birodalom legkorábbi és legjelentősebb kőből épült nagyépületei közé tartoztak.
+:68. Román stílusban épültek, amelyet köríves ablakok, hatalmas falak és egyszerű szigor jellemez.
+:69. A román stílusú építészeti forma az Olaszországból, Németországból és Franciaországból érkező külföldi szerzetesekkel és építőmesterekkel jutott el az országba.
+:70. A kolostorok így a nyugat-európai építészet és művészet közvetítői voltak, és azokat a helyi viszonyokhoz igazították.
+:71. A többször átépített és bővített pannonhalmi kolostortemplom a mai napig tanúskodik erről az építészeti kultúráról.
+:72. A korai kolostorépítészet kiemelkedő emléke a később épült jáki apátsági templom, gazdagon díszített portáljával, amely azonban csak a 13. századból származik.
+:73. Az építészet mellett a kolostorok liturgikus célokra ápolták a kőfaragás, a kovácsművészet és az aranyművészet hagyományait.
+:74. Nemesfémekből és drágakövekből készítettek kehelyeket, kereszteket, ereklyetartókat és könyvborítókat.
+:75. A zene is része volt a kolostori életnek, hiszen az istentisztelet a liturgikus ének nélkül elképzelhetetlen volt.
+:76. A gregorián kóruséneket, a latin egyház egyhangú liturgikus énekét a kolostorokban ápolták és továbbadták.
+:77. A szerzeteseknek kívülről kellett tudniuk az énekeket, és azokat tovább kellett adniuk az utánpótlásnak, ami saját zenei képzést igényelt.
+:78. Így a kolostorok a birodalom korai zenei kultúrájának ápolóhelyei is voltak.
+:79. A kolostorok egy másik fontos funkciója a betegápolás és a szegénygondozás volt.
+:80. A kolostorok kórházakat és szálláshelyeket tartottak fenn, ahol a betegek, a szegények és az utazók befogadást és gondozást kaptak.
+:81. A szerzetesek rendelkeztek orvosi ismeretekkel, ismerték a gyógynövényeket, és gyógynövénykerteket alakítottak ki.
+:82. Ezzel a kolostorok olyan társadalmi funkciót vállaltak magukra, amelyet a korai társadalomban egyébként alig töltött be valaki.
+:83. A kolostorok emellett menedéket és szállást nyújtottak a zarándokoknak utazásaik során.
+:84. Különösen a nagy zarándokutak mentén fekvő kolostorok váltak fontos állomásokká a Szentföldre utazók számára.
+:85. Így a kolostorok összekapcsolták lelki küldetésüket a gondoskodás és a vendégszeretet gyakorlati feladataival.
+:86. A kolostorok emellett menedékhelyek és menedékjogot biztosító helyek voltak, ahol az üldözöttek védelmet kereshettek.
+:87. Szentelt státuszuk különleges jogi védelmet biztosított számukra, amely lakóiknak is kedvezett.
+:88. A kolostorok gazdasági, kulturális és társadalmi jelentősége a fiatal állam nélkülözhetetlen támaszaivá tette őket.
+:89. A király vallási okokból támogatta a kolostorokat, de azért is, mert azok a közigazgatás, az oktatás és az ország fejlesztése szolgálatában álltak.
+:90. A kolostoralapítás jámbor cselekedet volt, amely az alapító lelki üdvösségét szolgálta, és keresztény uralkodó hírnevét biztosította számára.
+:91. Ugyanakkor a kolostorok földekkel és kiváltságokkal való ellátása szorosan a koronához és annak érdekeihez kötötte őket.
+:92. A nagy kolostorok apátjai, akárcsak a püspökök, a birodalom egyházi nagyjai közé tartoztak.
+:93. Részt vettek a birodalmi gyűléseken, és fontos kérdésekben tanácsot adtak a királynak.
+:94. A püspökökhöz hasonlóan háború esetén földbirtokaikból katonákat kellett állítaniuk.
+:95. Ezáltal a kolostorok is részét képezték az egyházi állami apparátusnak és a birodalom katonai rendjének.
+:96. A kolostorok jogi helyzetét királyi és pápai kiváltságok biztosították.
+:97. A legjelentősebb kolostorok, mint például Pannonhalma, kiváltságos státuszt élveztek, vagyis mentesültek a püspöki fennhatóság alól, és közvetlenül a pápának vagy a királynak tartoztak felelősséggel.
+:98. Ez a különleges helyzet széles körű függetlenséget biztosított a nagy kolostoroknak, és megerősítette tekintélyüket.
+:99. A kolostor belső rendje a bencés szabályzatot követte, amely előírta az engedelmességi fogadalmat, a szegénységet és a helyhez kötöttséget.
+:100. A kolostorba való belépés egy életre szóló lépés volt, amely a szerzeteseket közösségükhöz és helyükhöz kötötte.
+:101. A novíciusok a végleges felvétel előtt próbaidőt töltöttek, amelynek során megtanulták a kolostori életet.
+:102. A kolostoron belül különböző tisztségek voltak, az apáttól a prioron át a cellárig, aki a gazdaságot irányította.
+:103. A könyvtáros a könyveket kezelte, a kántor vezette az éneklést, a kórházmester pedig a vendégek ellátását.
+:104. Ez a tisztségrendszer biztosította a sokrétű kolostori feladatok szabályszerű működését.
+:105. A szerzetesek mellett laikus testvérek és szolgák éltek a kolostorban és annak környékén, akik a gazdasági munkákat végezték.
+:106. A kolostori birtokok függő parasztai és kézművesei a kolostor uralma alatt álltak, és adókat és szolgálatokat teljesítettek.
+:107. Ezáltal a kolostor egyben földesúri birtok is volt, amely saját függő lakosság felett uralkodott.
+:108. A lelki közösség és a gazdasági uralom összekapcsolódása jellemezte a középkori kolostort összességében.
+:109. A 11. század második felében az egyház egészét érintő reformmozgalom fokozatosan elérte a magyar kolostorokat is.
+:110. Ez a reform, amely Cluny-ból, majd később a pápai egyházi reformból indult ki, a szigorúbb kolostori fegyelemre és a világi hatalomtól való nagyobb függetlenségre törekedett.
+:111. I. László király és Koloman király előmozdították az egyházi fegyelmet, és zsinatokat hívtak össze, amelyek a kolostori életre is kiterjedtek.
+:112. A kolostorok ezáltal belső összetartást és lelki tekintélyt nyertek.
+:113. A következő évszázadok során új rendek érkeztek az országba, amelyek gazdagították a kolostori életet.
+:114. A ciszterciek, a bencés rend egyik reformágazata, a 12. századtól kezdve kolostorokat alapítottak, és új gazdálkodási formákat hoztak magukkal.
+:115. A premonstrátusok, egy szabályozott kántorokból álló rend, lelkipásztori és okmányozási feladatokat vállaltak, mint hiteles intézmények.
+:116. Ezek a későbbi fejlemények azonban azon az alapon épültek, amelyet a korai idők bencés kolostorai fektettek le.
+:117. A jelen tanulmányban tárgyalt, István és közvetlen utódai idején zajló alapítási időszakban a bencés rend volt a meghatározó forma.
+:118. A korai időszak kolostorai még kevés számúak voltak, de alapvető jelentőségűek voltak az ország kulturális fejlődése szempontjából.
+:119. Írásbeli kultúra és műveltség szigeteit alkották egy még nagyrészt írástudatlan környezetben.
+:120. Ezekről a szigetekről terjedt el fokozatosan a keresztény műveltség a birodalomban.
+:121. A szerzetesek voltak a keresztény Magyarország első tanítói, első írnokai, első krónikásai és első építői.
+:122. Tevékenységük a szent könyvek másolásától a tanításon át a földművelésig terjedt.
+:123. Személyükben egyesült az imádkozó, a tudós, a tanító és a munkás.
+:124. Ez a sokoldalúság tette a kolostorokat a szellemi és anyagi élet átfogó központjaivá.
+:125. A kolostorok jelentőségét ezért nem lehet a vallásra korlátozni, hanem kiterjed az oktatásra, a gazdaságra, a művészetre és a szociális gondoskodásra is.
+:126. A kutatások elsősorban okiratok, régészeti leletek és a kevés megmaradt kézirat alapján tárják fel a korai kolostori életet.
+:127. Az oklevelek rögzítik a kolostorok alapítását, felszereltségét és kiváltságait.
+:128. A régészeti leletek betekintést nyújtanak az épületekbe, a műhelyekbe és a szerzetesek mindennapi életébe.
+:129. A fennmaradt kéziratok tanúskodnak a skriptóriumok írói tevékenységéről és oktatási szintjéről.
+:130. Híres nyelvtörténeti emlék a sírbeszéd, egy rövid, a 12. század végéről származó szöveg, amelyet a magyar nyelv legrégebbi összefüggő nyelvi emlékének tekintenek.
+:131. Ez a sírbeszéd egyházi környezetben keletkezett, és azt mutatja, hogy a latin mellett fokozatosan a népnyelvet is írásban rögzítették.
+:132. Az ilyen tanúságok alátámasztják az egyházi és kolostori íráskultúra kultúraközvetítő szerepét.
+:133. A kolostorok így a magyar nyelv és írásbeli formájának fejlődéséhez is hozzájárultak.
+:134. Bár a latin maradt a tudomány uralkodó nyelve, árnyékában mégis megkezdődött a népnyelvi íráskultúra kialakulása.
+:135. A kolostorok kulturális érdeme tehát abban is megnyilvánult, hogy hosszú távon előkészítették a saját magyar írásbeli kultúra kialakulását.
+:136. A kolostorok hídként működtek Európa latin magas kultúrája és a kialakulóban lévő hazai kultúra között.
+:137. Megnyitották a Birodalom számára a hozzáférést a latin kereszténység közös szellemi örökségéhez.
+:138. A kolostorok révén jutottak el Magyarországra az egyházatyák művei, a kánonjog és az antik műveltség.
+:139. Ezzel az ország beilleszkedett Európa szellemi összefüggéseibe, és a nyugati kulturális közösség részévé vált.
+:140. Ez a kulturális integráció ugyanolyan jelentős volt, mint a birodalom politikai és egyházi beilleszkedése.
+:141. A kolostorok voltak a legfontosabb eszközei Magyarország szellemi európaiasodásának.
+:142. Jelentőségük arányosan nőtt azzal, ahogyan a kolostoralapítások száma és a képzett szerzetesek száma is gyarapodott.
+:143. A Géza és István idején megkezdett szerény kezdetekből az évszázadok során sűrű kolostorhálózat alakult ki.
+:144. Minden új kolostor a műveltség, a gazdaság és a lelkigondozás újabb támaszpontjává vált.
+:145. A kolostorok tartósan meghatározták a birodalom tájképét, gazdaságát és szellemi életét.
+:146. Templomaik, könyvtáraik és iskoláik a magyar középkori kultúra szerves részévé váltak.
+:147. A tudás megőrzése, a művészetek ápolása és az oktatás biztosítása voltak maradandó érdemeik.
+:148. A kolostorok nélkül elképzelhetetlen lenne az írásos hagyomány, az oktatás és a korai királyság művészetének nagy része.
+:149. Ők voltak azok a magok, amelyekből a keresztény Magyarország szellemi kultúrája kinőtt.
+:150. A szerzetesek tollal, ásóval és imádsággal rakták le ennek a kultúrának az alapjait.
+:151. Csendes, kitartó munkájuk generációkon át hatott, és mélyebben formálta az országot, mint ahogyan az egyes események képesek voltak rá.
+:152. A kolostorok ideális módon testesítették meg a hit, a tudás és a munka összekapcsolódását.
+:153. Bennük a lelki küldetés és a kulturális teljesítmény elválaszthatatlan egységgé olvadt össze.
+:154. Ez az egység tette a kolostorokat a korai királyság oktatásának és kultúrájának valódi központjaivá.
+:155. A kolostorok helyzete azonban nem volt veszélyektől mentes, hiszen ők is szenvedtek a kor zűrzavarától.
+:156. István halála utáni pogány felkelések során a kolostorokat fenyegették, kifosztották, lakóikat pedig üldözték.
+:157. A keresztény rend helyreállítása után azonban a kolostorok talpra álltak, és új jelentőségre tettek szert.
+:158. A királyok támogatása biztosította fennmaradásukat és további fejlődésüket.
+:159. Így a kolostorok túlélték a válságokat, és az oktatás és a kultúra tartós hordozói maradtak.
+:160. Történetük elválaszthatatlanul összekapcsolódik a keresztény királyság történetével.
+:161. A későbbi magyar középkort jellemző kulturális virágzás gyökerei a korai idők kolostoraiban rejlenek.
+:162. A kolostori iskolákból és íróműhelyekből került ki az a művelt réteg, amely a birodalmat irányította és alakította.
+:163. A kolostorok így nemcsak az utódokat, hanem az ország szellemi elitjét is képezték.
+:164. Végzettjeik a kancelláriákban, a püspöki székhelyeken és a királyi közigazgatásban találták meg helyüket.
+:165. Így a kolostorok befolyása messze túlnyúlt falain, és kiterjedt a közélet minden területére.
+:166. A kolostorok olyan csomópontok voltak, ahol a vallás, az oktatás, a gazdaság és a politika találkozott és áthatotta egymást.
+:167. Ebben a központi helyzetben rejlett kiemelkedő jelentőségük a korai királyság számára.
+:168. Tevékenységük jellemzője az imádság és a munka, a könyv és a föld, az iskola és a műhely összekapcsolása volt.
+:169. Ebből az összekapcsolódásból olyan kultúra alakult ki, amely meghatározza az országot, és beépítette azt az európai kontextusba.
+:170. A kolostorok így messze többek voltak, mint puszta jámborsági helyszínek: a civilizáció műhelyei voltak.
+:171. Lépésről lépésre a még csak nemrég keresztény hitre tért országot a művelt nyugati világ részévé alakították.
+:172. A szerzetesek voltak ennek az átalakulásnak az úttörői, akik türelemmel és kitartással láttak munkához.
+:173. Teljesítményük nem annyira a nagy tettek dicsőségében, hanem inkább a tudás és a művészetek kitartó ápolásában nyilvánult meg.
+:174. Éppen ez a feltűnésmentes állandóság tette a kolostorokat a kulturális fejlődés olyan hatékony hordozóivá.
+:175. A kutatás ezért a kolostorokat a középkori magyar oktatás döntő közvetítőiként ismeri el.
+:176. Jelentőségüket az írott kultúra, a művészet, a gazdaság és az oktatás terén aligha lehet túlbecsülni.
+:177. A korai idők kolostoraiban fektették le azokat a szellemi alapokat, amelyekre a későbbi birodalmi kultúra épült.
+:178. A bencés hagyomány és a magyar viszonyok összefonódása önálló kolostori kultúrát hozott létre.
+:179. Ez a kolostorkultúra a középkori Magyarország alapjainak lényeges részét képezte.
+:180. A kolostorok csendes falai között, a kórusimádság és az íróasztal között így alakult ki a szellemi arculat jelentős része, amely a keresztény Magyar Királyságot az évszázadok során hordozta.
+
+=== 4.4.5 – Gazdaság és kereskedelem: a rablótól a kereskedőig ===
+
+:1. A 10. századi portyák nem csupán fosztogatások voltak, hanem a nomád harcos társadalom önálló gazdasági rendszere, amelynek rendezett kereskedelemmé való átalakulása meghatározta a Magyar Királyság korai időszakát. 
+:2. A területet elfoglaló magyarok olyan gazdasági rendszert hoztak magukkal, amely az állattenyésztésen, a lovas harci kultúrán és az idegen vagyon erőszakos megszerzésén alapult.
+:3. A sztyeppék lovas harcosai állataikból, a vadászatból és a szomszédos országokba tett hadjárataik során szerzett zsákmányból éltek.
+:4. Ez a zsákmánygazdaság nem a vadasság jele volt, hanem egy mobil lovas nép következetes gazdasági módja, amely hadjáratok révén szerzett gazdagságot.
+:5. A tizedik századi rablóhadjáratok aranyat, ezüstöt, fegyvereket, állatállományt és foglyokat hoztak az országba, és jólétet és tekintélyt biztosítottak a harcosok rétegének.
+:6. A zsákmány jelentős részét azok a tribútumok tették ki, amelyeket idegen uralkodók fizettek, hogy kivásárolják magukat a további portyáktól.
+:7. Az ilyen tribútumok elsősorban a Német Birodalomból és a bizánci térségből érkeztek, és rendszeres bevételi forrást jelentettek.
+:8. A fogságba ejtett rabszolgákat részben rabszolgaként tartották, részben váltságdíj ellenében szabadon engedték, vagy a rabszolgapiacokon adták el őket.
+:9. A rabszolga-kereskedelem a korai gazdaság fontos ága volt, és összekötötte a magyar zsákmánygazdaságot a keleti kereskedelmi hálózatokkal.
+:10. A magyarok foglyokat adtak el muszlim és bizánci kereskedőknek, akik tovább szállították őket a Földközi-tenger térségének és a Közel-Keletnek a piacaira.
+:11. Ez a zsákmánygazdaság azonban hosszú távon nem volt fenntartható, mivel folyamatos, sikeres hadjáratokat feltételezett.
+:12. Az európai birodalmak növekvő ellenállásával a rablóhadjáratok egyre veszteségesebbé és kevésbé jövedelmezővé váltak.
+:13. A várak, az erődített városok és a hatékony lovasságok kiépítése Nyugaton egyre kockázatosabbá tette a portyákat.
+:14. A döntő fordulatot az 955-ös, Augsburg közelében, a Lechfeldnél elszenvedett vereség hozta, amely véget vetett a nagy nyugati hadjáratok korszakának.
+:15. E vereség után a zsákmányforrás elapadt, és a magyar társadalomnak újra kellett alakítania gazdasági alapjait.
+:16. Az zsákmánygazdaságból a termelő- és cseregazdaságba való átmenet így nem csupán kulturális, hanem gazdasági szükségszerűség is volt.
+:17. A magyarok letelepedése a Kárpát-medencében képezte ennek a gazdasági átalakulásnak az előfeltételét.
+:18. A vándorló lovas harcosokból fokozatosan letelepedett állattenyésztők és földművelők lettek, akik saját földjükből biztosították megélhetésüket.
+:19. A Kárpát-medence termékeny alföldje, a Nagy-magyar Alföld kiváló feltételeket biztosított az állattenyésztéshez és a földműveléshez.
+:20. Az állattenyésztés eleinte továbbra is a legfontosabb gazdasági tevékenység maradt, hiszen a magyarok ősidők óta tapasztalt ló-, szarvasmarha- és juhtenyésztők voltak.
+:21. A nagy állatállományok húst, tejet, bőrt, gyapjút és mindenekelőtt lovakat szolgáltattak, amelyek lovagló- és teherhordó állatokként nélkülözhetetlenek voltak.
+:22. A magyar állatállomány, különösen a szívós szarvasmarhák és a kitartó sztyeppelovak, később keresett exportcikké váltak.
+:23. Az állattenyésztés mellett egyre nagyobb szerepet kapott a szántóföldi gazdálkodás, amely az letelepedéssel együtt egyre nagyobb jelentőségre tett szert.
+:24. Főként gabonaféléket termesztettek, mint a búza, az árpa, a köles és a zab, amelyek a lakosság alapélelmiszerét biztosították.
+:25. A szőlőtermesztést, amely részben római és szláv példákra vezethető vissza, a kolostorok és a telepesek támogatták és terjesztették.
+:26. Az letelepedés állandó falvak kialakulásához vezetett, amelyek lakói földet műveltek és állatokat tartottak.
+:27. A gazdálkodási mód így a vándorló sztyeppgazdálkodásról a helyhez kötött mezőgazdaságra változott.
+:28. A keresztény hitre térés és a Stephán alatt történt államalapítás felgyorsította és megszilárdította ezt a gazdasági átalakulást.
+:29. A kolostorok a rendezett mezőgazdaság példaképeiként működtek, és új termesztési módszereket, eszközöket és növényfajokat vezettek be.
+:30. Kivágták az erdőket, lecsapolták a mocsarakat és megművelték a be nem művelt földeket, ami növelte a mezőgazdasági hasznos területet.
+:31. Az idegen vendégek, a hospitesek emellett új kézműves és mezőgazdasági technikákat is hoztak az országba.
+:32. I. István király intéseiben kifejezetten javasolta az idegenek barátságos befogadását, mivel azok szakértelmet és gazdagságot hoztak magukkal.
+:33. Ez a politika elősegítette a nyugatról és délről érkező kézművesek, kereskedők és tapasztalt parasztok letelepedését.
+:34. A királyi hatalom gazdasági alapját a korona hatalmas földbirtoka képezte.
+:35. A király messze a legnagyobb földbirtokos volt az országban, és a termőföldek többsége az ő birtokában volt.
+:36. Ebből a birtokból a király természetbeni adókat, szolgálatokat és jövedelmeket szedett be, amelyekből udvara és közigazgatása fenntartását fedezte.
+:37. A vármegyék beszedték a várlakosság adóit, és megszervezték a király számára a kényszermunkát.
+:38. A várak és udvarok szolgálóit gyakran feladataik szerint szervezték, és meghatározott termékeket szállítottak le.
+:39. Voltak kovácsok, fazekasok, halászok, vadászok, méhészek, szőlőtermelők és más szakosodott kézművesek falvai.
+:40. A szolgálati népesség ezen funkcionális felosztása biztosította az udvar és a várak ellátását a szükséges árukkal.
+:41. A korai királyság gazdasága így túlnyomórészt természetgazdaság volt, amelyben az áruk és szolgáltatások, nem pedig a pénz határozta meg a cserét.
+:42. Az adókat gabonában, állatban, mézben, viaszban, prémekben és egyéb termékekben fizették be.
+:43. A pénzforgalom kezdetben másodlagos szerepet játszott, és csak fokozatosan nyert jelentőséget.
+:44. A pénzgazdaság felé tett döntő lépés volt a saját pénzverés bevezetése Stephan uralkodása alatt.
+:45. Stephan ezüst denárokat veretett, amelyek közül néhány a „Stephanus Rex” felirattal és a pénzverde nevével fennmaradt.
+:46. Ezek az érmék a bajor minták alapján készültek, és elősegítették a pénzforgalmat és a kereskedelmet az országban.
+:47. A pénzverési jog, azaz a pénzverés kizárólagos joga a királyé volt, és a szuverén uralom jelképe volt.
+:48. A legfontosabb pénzverde Esztergom volt, ahol királyi felügyelet alatt verték az ezüstpénzt.
+:49. A saját érmék bevezetése megkönnyítette a kereskedelmet, és beillesztette Magyarországot az európai pénzforgalomba.
+:50. A korai királyság kereskedelme a belföldi cserekereskedelemre és a régiókon átnyúló távkereskedelemre oszlott.
+:51. A belföldi kereskedelem elsősorban a helyi piacokon zajlott, amelyeket rendszeresen, meghatározott helyszíneken tartottak.
+:52. A piac, magyarul „vásár”, a gazdasági élet és az árucsere központja volt.
+:53. A piacok gyakran vasárnapokon és templomok közelében zajlottak, ezért a magyar „vásár” (piac) és „vasárnap” (vasárnap) szavak nyelvtanilag rokonok.
+:54. A piacokon a király piaci vámokat szedett, amelyek rendszeres bevételei közé tartoztak.
+:55. A piacok helyszínei elsősorban folyóátkelőhelyek, útkereszteződések és különböző gazdasági térségek határainál voltak.
+:56. A piacokon mezőgazdasági termékekkel, kézműves árukkal, állatokkal és sóval kereskedtek.
+:57. A régiókon átívelő távkereskedelem összekötötte Magyarországot a Német Birodalommal, Bizánccal, a Kijevi Ruszszal és a Kelettel.
+:58. Magyarország földrajzi elhelyezkedése Nyugat- és Kelet-Európa, valamint Észak és Dél találkozásánál kedvezett ennek a kereskedelemnek.
+:59. A nagy folyók – a Duna, a Tisza, a Dráva és a Száva – képezték a birodalom legfontosabb közlekedési és kereskedelmi artériáit.
+:60. A Duna nyugatról keletre kötötte össze a birodalmat, és egyben kereskedelmi út, határ és ellátási tengely volt.
+:61. A folyókon tehercsónakok és tutajok közlekedtek, amelyek nehéz árukat, például sót és gabonát szállítottak nagy távolságokra.
+:62. A szárazföldi közlekedés a régi római utakra támaszkodott, amennyiben azok még járhatóak voltak, valamint az újonnan karbantartott utakra.
+:63. Az utakon, gázlókon és átkelőhelyeken útdíjat szedtek, amely szintén a királyi kincstárba folyt be.
+:64. A kereskedelmi útvonalak biztosítása a királyok tudatos politikája volt, amely védelmet nyújtott a kereskedőknek és a zarándokoknak.
+:65. Híressé vált egy biztonságos zarándok- és kereskedelmi út megnyitása Magyarországon keresztül, amely a birodalmat beépítette az európai úthálózatba.
+:66. Ez az út szárazföldön vezetett Nyugat-Európából Magyarországon keresztül Konstantinápolyba, majd tovább a Szentföldre.
+:67. Ezen az úton nemcsak zarándokok, hanem kereskedők is közlekedtek, akik árukat szállítottak Nyugat és Kelet között.
+:68. Magyarország így összekötő láncszemmé és tranzitországgá vált a Nyugat-Európa és a Földközi-tenger keleti része közötti kereskedelemben.
+:69. A birodalom legfontosabb exportcikkei közé tartozott az élőállat, a ló, a bőr, a prém, a viasz, a méz és a rabszolgák.
+:70. Különösen a magyar szarvasmarhák és lovak találtak nagy piacot külföldön, és a birodalom egyik fő exportcikkévé váltak.
+:71. Kiemelkedő szerepet játszott a só, amelyet az erdélyi bányákban termeltek ki, és amelyre az egész birodalomban szükség volt.
+:72. A sómonopólium a király egyik különösen fontos bevételi forrása volt, mivel a só elengedhetetlen volt az élelmiszerek tartósításához.
+:73. A sót a folyókon szállították Erdélyből az egész birodalomba, ami saját átrakodóhelyek és települések kialakulásához vezetett.
+:74. Az importáruk közé tartoztak olyan luxuscikkek, mint a finom szövetek, fűszerek, fegyverek, ékszerek és liturgikus eszközök.
+:75. Ezek a kiváló minőségű áruk a Német Birodalomból, Olaszországból, Bizáncból és a Keletről érkeztek az országba.
+:76. A luxuscikkekkel való kereskedelem elsősorban az udvar, a nemesség és az egyház ellátását szolgálta.
+:77. A kereskedelemben különböző társadalmi csoportok vettek részt, köztük hazai és külföldi kereskedők.
+:78. Különleges szerepet játszottak a muszlim kereskedők, akik a forrásokban ismaeliták vagy böszörmények néven szerepelnek.
+:79. Ezek a muszlim kereskedők a kereskedelemben, a pénzügyekben és részben a királyi pénzügyi igazgatásban is tevékenykedtek.
+:80. Zsidó kereskedők is részt vettek a birodalom távkereskedelmében és pénzforgalmában.
+:81. Ezek a külföldi kereskedőcsoportok összekötötték Magyarországot hitvéreik kiterjedt kereskedelmi hálózataival.
+:82. Jelenlétük kozmopolita jelleget kölcsönzött a korai kereskedelmi központoknak, és elősegítette a régiókon átnyúló cserét.
+:83. A nemesfém-kitermelés, különösen az arany- és ezüstbányászat, egy másik jelentős gazdasági ágazatot jelentett.
+:84. Magyarországnak gazdag arany- és ezüstkészletei voltak, főként Felső-Magyarország és Erdély hegyvidéki régióiban.
+:85. A nemesfémek és a só bányászata saját infrastruktúrát hozott létre, amely bányajáratokból, rakodóhelyekből és bányász településekből állt.
+:86. A nemesfémek szolgáltak alapanyagként az érmék veréséhez, az ékszerek készítéséhez, valamint a liturgikus eszközökhöz.
+:87. A nemesfémekben rejlő gazdagság hosszú távon Magyarországot Európa egyik gazdasági szempontból jelentős országává tette.
+:88. A kézművesség a letelepedéssel és az urbanizációval fokozatosan fejlődött ki, de eleinte a szolgákra korlátozódott.
+:89. A szakosodott kézművesek fegyvereket, szerszámokat, kerámiákat, bőrárukat és textíliákat készítettek a helyi igények kielégítésére.
+:90. Az idő múlásával a szolgálatkötelesek mellé szabad kézművesek is megjelentek, akik termékeiket a piacokon kínálták.
+:91. Az idegen vendégek kiváló kézműves ismereteket hoztak magukkal, és emelték a helyi termelés színvonalát.
+:92. A püspöki székhelyek, várvárosok és piactelepülések a kézművesség és a kereskedelem sűrűsödési pontjaivá váltak.
+:93. A vár, a székesegyház és a piac köré kézművesek, kereskedők és szolgák gyűltek össze, és így alakultak ki a korai gazdasági központok.
+:94. Ezekből a koncentrációs pontokból alakultak ki később a birodalom jelentős kereskedelmi és ipari városai.
+:95. A korai időszakban azonban még nem léteztek önkormányzattal rendelkező polgári városok, amelyek saját kereskedelmi jogokkal rendelkeztek.
+:96. A gazdasági rend szorosan összefonódott az igazgatással, mivel a király ellenőrizte a piacokat, a vámokat, a pénzverést és a bányászatot.
+:97. A királyi jogok, azaz a király számára fenntartott szuverén jogok magukban foglalták a pénzverési, só-, bányászati és vámjogokat.
+:98. Ezek a jogok jelentős bevételeket biztosítottak a koronának, és megerősítették gazdasági fölényét.
+:99. A jogokból származó bevételek kiegészítették a királyi birtokokból és a természetbeni adókból származó jövedelmet.
+:100. Így a király számos bevételi forrással rendelkezett, amelyek gazdasági szempontból messze a nemesség fölé emelték.
+:101. Az egyház gazdasági alapját a tized és kiterjedt földbirtokai jelentették.
+:102. A tized, azaz a mezőgazdasági termés tizedének megfelelő adó, törvényileg előírt volt, és királyi védelem alatt állt.
+:103. Az egyházi földbirtokok gyakran példaértékű gazdaságok voltak, amelyek hozzájárultak a mezőgazdaság fejlődéséhez.
+:104. Így a gazdaság a királyi, az egyházi és a fokozatosan növekvő magánszférára tagolódott.
+:105. A gazdaság társadalmi rétegződése a nagybirtokosoktól a szabad parasztokon át a függő szolgákig és rabszolgákig terjedt.
+:106. A zsákmánygazdaságból eredő rabszolgaságot az egyház hatására fokozatosan korlátozták.
+:107. A törvények elősegítették a rabszolgák felszabadítását, és így enyhítették a szabadságtalanság legsúlyosabb formáit.
+:108. A rabszolga-kereskedelem helyébe egyre inkább az áruk termelése és cseréje lépett, mint a jólét alapja.
+:109. Ezzel végbemegy a változás az erőszakos kisajátítástól a békés termelés és csere felé.
+:110. A rablóból kereskedővé válás azonban nem hirtelen törés volt, hanem generációkon át tartó fokozatos folyamat.
+:111. A régi harci hagyományok még hosszú ideig hatást gyakoroltak, miközben az új gazdasági formák csak lassan szilárdultak meg.
+:112. Az európai kereszténységbe való beilleszkedés egyúttal megnyitotta a birodalom előtt a nyugati világ kereskedelmi útjait és piacait.
+:113. A belső és a határok mentén uralkodó béke, amelyet a megszilárdult királyi uralom biztosított, a kereskedelem fellendülésének előfeltétele volt.
+:114. A kereskedelem és a kézművesség csak rendezett viszonyok között virágozhat, ahol a tulajdon és a szerződések védelmet élveznek.
+:115. István és utódai törvényei védték a tulajdonjogot, és ezzel megteremtették a gazdasági élet jogi alapját.
+:116. A tulajdon feletti szabad rendelkezés joga elősegítette a magántulajdonú földbirtokok kialakulását és az önálló gazdálkodást.
+:117. A jogbiztonság vonzotta a kereskedőket és a telepeseket, és élénkítette az árucsere forgalmát.
+:118. Így a politikai rend és a gazdasági fellendülés kölcsönösen erősítették egymást.
+:119. A korai királyság gazdasága mindazonáltal túlnyomórészt agrárjellegű maradt, és a mezőgazdaságra támaszkodott.
+:120. A lakosság nagy többsége szántóföldi gazdálkodásból és állattenyésztésből élt, míg a kereskedelem és a kézművesség csak kis részét tette ki.
+:121. A távkereskedelem és a kereskedelmi tevékenység néhány központra összpontosult, és elsősorban a nemességet, az egyházat és az udvart érintette.
+:122. Mindazonáltal ez a korai időszak megteremtette az ország későbbi gazdasági fejlődésének alapjait.
+:123. A pénzverés, a piacok, a kereskedelmi útvonalak és a királyi kiváltságok képezték a kialakulóban lévő pénz- és kereskedelmi gazdaság vázát.
+:124. Erre a vázra épültek a következő évszázadok a városok és a céhkézművesség felvirágzásával.
+:125. A gazdasági kapcsolatok Európával folyamatosan erősödtek, és Magyarországot szorosan beépítették a kontinentális kereskedelembe.
+:126. A Birodalom egy rettegett fosztogató országból egy elismert kereskedelmi partnerré és tranzitországgá fejlődött.
+:127. Ahol egykor a lovas seregek fosztogató hadjáratokat folytattak Európában, most kereskedők és zarándokok utaztak át a békés Magyarországon.
+:128. A Birodalom megítélésének ez a változása a mélyreható gazdasági és társadalmi átalakulást tükrözi.
+:129. A keresztény világ rémálmából a keresztény nemzetek közösségének tagjává vált.
+:130. A gazdasági átalakulás így szorosan összekapcsolódott a politikai és vallási integrációval.
+:131. A zsákmánygazdaság a gazdagságot külföldről hozta, az új gazdaság pedig a saját földjéből és kereskedelméből teremtette meg azt.
+:132. A gazdagság forrásának ez a áthelyeződése a háborúról a munkára volt a rablóból kereskedővé válás változásának lényege.
+:133. Ez az értékek, az életmód és a társadalmi rend alapvető átalakulását igényelte.
+:134. A zsákmányon alapuló gazdagságú harcos helyét a földesúr, a paraszt és a kereskedő vette át.
+:135. Ezek az új gazdasági típusok ezentúl meghatározóvá váltak a magyar társadalom képében.
+:136. A kutatások az érmeleletek, régészeti leletek, helynevek és írott források alapján tárják fel a korai gazdaságot.
+:137. Az érmeleletek fényt derítenek a pénzforgalomra, a kereskedelmi kapcsolatokra és a magyar pénz hatókörére.
+:138. A szerszámok, áruk és műhelyek régészeti leletai a mezőgazdaságról, a kézművességről és a kereskedelemről tanúskodnak.
+:139. A piacokra, sószállításra vagy szolgákra utaló helynevek sok település gazdasági funkcióját árulják el.
+:140. Az írásos források, elsősorban a törvények és okiratok, vámokat, piacokat, adókat és kereskedelmi szabályokat említenek.
+:141. E források áttekintése alapján egy változásban lévő, sokrétű gazdaság képe rajzolódik ki.
+:142. Ez a gazdaság ötvözte a nomád állattenyésztés örökségét az új, mezőgazdasági és kereskedelmi életmóddal.
+:143. Olyan elemek, mint az állattenyésztés és a lókereskedelem nagy jelentősége, a sztyeppén élő nomád múltra emlékeztetnek.
+:144. Más elemek, mint például a pénzverés, a piacok és a távkereskedelem, az európai gazdaság mintájára alakultak ki.
+:145. Ebből az összeolvadásból alakult ki a kora középkori önálló magyar gazdasági rend.
+:146. Ez a rendszer gazdasági támaszt nyújtott a birodalomnak, és megteremtette a későbbi jólét alapjait.
+:147. A szarvasmarha-, só- és nemesfém-gazdagság kedvező kiindulási helyzetet biztosított Magyarországnak az európai kereskedelemben.
+:148. A Nyugat és Kelet közötti központi elhelyezkedés a birodalmat a kereskedelmi forgalom fontos csomópontjává tette.
+:149. Ezeket a természeti és földrajzi előnyöket csak a békés állapotok kialakulása és a letelepedés után lehetett gazdasági szempontból kihasználni.
+:150. Amíg a zsákmánygazdaság uralkodott, ezek a lehetőségek kihasználatlanok maradtak, és a birodalom a zavargások forrása volt.
+:151. Csak az államalapítás által megteremtett béke és rend tette lehetővé az ország gazdasági gazdagságának kiaknázását.
+:152. Így a gazdasági változás a politikai és vallási átalakulás közvetlen következményének bizonyul.
+:153. Az államalapítás, a keresztényesítés és a gazdasági átalakítás összefüggő egészet alkottak.
+:154. E folyamatok egyike sem érthető meg a többi nélkül, hiszen egymást feltételezték és támasztották alá.
+:155. Az új gazdaságnak szüksége volt a békére, a békét az állam biztosította, az államot pedig az egyház legitimálta.
+:156. Így a gazdaság, az uralom és a hit összefonódott egy új renddé.
+:157. Ebben a rendben a régi idők lovas harcosainak már nem volt helyük fosztogató zsákmányvadászként.
+:158. A harcosból földesúr lett, aki művelte földjét és a király seregében szolgált.
+:159. A zsákmányvadászatból kereskedelmi út lett, a tribútumból vám, a fosztogatásból cserekereskedelem.
+:160. A fogalmak ezen változása tükrözi a valóság változását.
+:161. A magyar gazdaság így csatlakozott a többi keresztény Európa gazdasági formáihoz.
+:162. Átvette a nyugati világ pénzgazdaságát, piaci rendjét és kereskedelmi szokásait.
+:163. Ugyanakkor megőrizte sajátos vonásait is, például az állattenyésztés és a sókereskedelem kiemelt jelentőségét.
+:164. Ez az átvétel és a sajátosságok keveréke hosszú távon jellemezte a magyar gazdaságot.
+:165. A rablóból kereskedővé válás így egyszerre jelentette az európaiasodást és a sajátosságok megőrzését.
+:166. Ez a rettegett lovas harcos népet a gazdasági életben aktív, kereskedő és termelő tagjává tette az európai világnak.
+:167. A múlt zsákmányát a jelen megkeresett és kialkudott jóléte váltotta fel.
+:168. Ez a jólét immár tartós alapokon nyugodott, nem pedig a hadjáratok bizonytalan szerencséjén.
+:169. Az új gazdasági formák tartós jellege stabil anyagi alapot biztosított a birodalom számára.
+:170. Ezen az alapon tudott a középkori Magyarország kibontakozni és megőrizni helyét Európában.
+:171. A korai időszak gazdasági átalakulása ezért a magyar történelem egyik legjelentősebb változása volt.
+:172. Alapjaiban megváltoztatta az egész nép megélhetését.
+:173. A háború logikáját a munka és a kereskedelem logikájával váltotta fel.
+:174. Beépítette a Birodalmat a kontinens gazdasági körforgásába.
+:175. Megteremtette az anyagi feltételeket a következő évszázadok kulturális és politikai virágzásához.
+:176. A gazdagság, amelyet egykor idegen csatatereken zsákmányoltak, most a saját mezőkön, legelőkön és piacokon gyarapodott.
+:177. A lovak, amelyek egykor a harcosokat vitték a csatába, most az ekéket és a kereskedők teherkocsijait húzták.
+:178. Ebben a képben sűrűsödik össze a rablóból kereskedővé válás teljes átalakulása.
+:179. A zsákmánygazdaságból a munka és a csere gazdasága lett.
+:180. Ezzel az átalakulással a korai királyság lefektette azt a gazdasági alapot, amelyen a középkori Magyarország az európai nemzetek közösségének rendezett és virágzó tagjaként növekedhetett fel.
+
+=== 4.4.6 – Jogrendszerek és jogalkotás: I. István kódexei és rendeletei ===
+
+:1. I. István király törvényalkotása a magyar írásbeli jog kezdetének számít, és Kelet-Közép-Európa egyik legkorábbi jogkodifikációja.
+:2. István előtt a magyarok csak íratlan szokásjogot ismertek, amely törzsi hagyományokon, szokásokon és szóbeli átadáson alapult.
+:3. A keresztény hitre téréssel és a latin ábécé bevezetésével vált először lehetővé az írásban rögzített jog, amelyet a papok fogalmaztak meg és adtak tovább.
+:4. István két latin nyelvű törvénykönyvet hirdetett ki, amelyeket a kutatásban első és második törvénykönyvének neveznek.
+:5. Latinul libri vagy decreta néven szerepelnek, a magyar szakirodalom István dekrétumairól vagy kódexéről beszél.
+:6. A törvények eredeti formájukban nem maradtak fenn, hanem csak későbbi másolatokban, amelyek közül a 12. századi úgynevezett Admonti kódex a legfontosabb.
+:7. Az Admonti kódex, amelyet a stájerországi Admont kolostorról neveztek el, István törvényeinek legrégebbi ismert változatát őrzi.
+:8. E késői átadás miatt a törvények pontos eredeti formája, sorrendje és a cikkek száma a kutatásokban vitatott.
+:9. Az Első Törvénykönyv számlálástól függően körülbelül harmincöt fejezetet tartalmaz, a Második pedig kézirattól függően változó számú fejezetet.
+:10. Az Első törvénykönyv néhány kéziratban dedikációt tartalmaz István fiának, Emmerichnek, ami összekapcsolja a Fürstenspiegel című művel.
+:11. Tartalmilag az Első törvénykönyv elsősorban az egyház, a keresztény hit és a királyi rend megerősítését szolgálta.
+:12. A Második Törvénykönyv nagyobb hangsúlyt fektet a tulajdon védelmére, a jogbiztonságra és a királyi hatalom megőrzésére.
+:13. István törvényei külföldi példákra támaszkodtak, különösen a frank–karoling kapitularis jogra és az egyhámi jogi gyűjteményekre.
+:14. Számos rendelkezést Nagy Károly és utódai kapitularisai, valamint a bajor és egyházi jogforrások mintájára alakítottak ki.
+:15. Emellett a zsinatok határozatai és az egyház kánonjoga is beépült a jogalkotásba.
+:16. A törvények szerzői nagy valószínűséggel olyan külföldi egyházi személyek voltak, akik ismertek a nyugati jogot.
+:17. Ezen példák ellenére a törvények az idegen jogot a frissen keresztény hitre tért Magyarország sajátos viszonyaihoz igazították.
+:18. A jogalkotás egyik központi célja az egyház védelme és ellátása volt.
+:19. A törvények előírták, hogy tíz-tíz falu közösen építsen egy templomot.
+:20. A király földdel és állatállománnyal látta el ezeket a templomokat, míg a hívőknek kellett gondoskodniuk a felszerelésről és a pap eltartásáról.
+:21. A püspök volt felelős a templom papokkal és liturgikus könyvekkel való ellátásáért.
+:22. A törvények biztosították az egyháznak a tizedet, a termés és az állatállomány növekedésének tizedét kitevő adót.
+:23. Aki eltitkolta a tizedet, azt a törvények szerint a titokban tartott vagyona egy részének elkobzásával fenyegették.
+:24. A vasárnapi pihenést törvény írta elő, és a vasárnapi templomba járás kötelezőnek számított.
+:25. A templomba járás kötelezettsége alól csupán azok voltak mentesek, akik a tüzet őrizték, vagyis azok, akik őrködés céljából otthon maradtak.
+:26. Aki csevegéssel vagy nyugtalansággal zavarta az istentiszteletet, társadalmi rangjától függően veréssel vagy pénzbírsággal büntették.
+:27. Az idősebbeket ilyen vétségekért megdorgálták és elzavarták, a fiatalabbakat és alacsonyabb rangúakat pedig testi fenyítéssel sújtották.
+:28. A törvények előírták a böjtölést a meghatározott időpontokban, és szankcionálták a böjtparancs megszegését.
+:29. Aki pénteken vagy más böjti időszakokban húst evett, a rendelkezések szerint egy hétig bezárva kellett böjtölnie.
+:30. A törvények kifejezetten tiltották a pogány szokásokhoz, a jósláshoz és a régi rítusokhoz való visszatérést.
+:31. Tiltották a pogány áldozati szertartásokat, a varázslást és a jóslást, és egyházi és világi büntetésekkel fenyegették azokat.
+:32. A törvények említést tettek a boszorkányokról és varázslókról, és fokozatos eljárásnak vetették alá őket: bűnbánat, megjelölés, végül pedig szigorúbb büntetés.
+:33. Ezek a rendelkezések azt mutatják, hogy az ősi hitgyakorlat még mindig élénk volt, és jogi eszközökkel küzdöttek ellene.
+:34. A törvények védték a keresztény házasságot, és tiltották annak önkényes felbontását, valamint a házasságtörést.
+:35. Szabályozták a házasságkötés, a hozomány és az özvegyek helyzetével kapcsolatos kérdéseket.
+:36. Az a özvegy, aki férje halála után nevelte a gyermekeket és nem ment újra férjhez, rendelkezhetett a vagyon felett.
+:37. Ha újra házasságot kötött, a vagyon a gyermekekre szállt, míg ő maga megfelelő hozományt kapott.
+:38. Ezek a szabályozások azt a törekvést tükrözik, hogy a családjogot keresztény alapelvek szerint rendezzék.
+:39. A Második Törvénykönyv egyik központi célja a magántulajdon védelme volt.
+:40. A törvények minden szabad embernek biztosították a jogot, hogy szabadon rendelkezzen tulajdonáról, azt ajándékba adja vagy örökül hagyja.
+:41. Ez a rendelkezési jog elősegítette a magánföldtulajdon kialakulását a királyi és egyházi birtokok mellett.
+:42. A királyi ajándékokat, amelyeket a király a követőinek adományozott, törvényes, örökölhető tulajdonként ismerték el és védték.
+:43. A törvények kimondták, hogy senkitől sem vonhatják el önkényesen a király által adományozott birtokot.
+:44. Ezzel megteremtették a tulajdonbiztonság és a királyi adományozásokba vetett bizalom jogi alapját.
+:45. A lopást szigorúan büntették, és fokozatos büntetésekkel sújtották.
+:46. Ismételt lopás esetén a törvények súlyos büntetéseket írtak elő, amelyek akár a csonkításig is eljutottak.
+:47. Az elítélt tolvajt az első bűncselekmény esetén váltságdíj fizetése, a másodiknál az orr elvesztése, a harmadiknál pedig az élet elvesztése fenyegette.
+:48. A lopáson elkapott rabszolgákra is fokozatos testi büntetések vonatkoztak.
+:49. Aki tudatosan menedéket nyújtott egy tolvajnak, vagy elrejtette a zsákmányt, bűnrészessé vált, és vele együtt büntették.
+:50. A hamis eskü, a bíróság előtt tett hamis eskü büntetése egy kéz elvesztése vagy váltságdíj fizetése volt.
+:51. A kéz az eskü eszközének számított, ezért elvesztése volt a esküszegés szimbolikus büntetése.
+:52. A tanúvallomások hamisítását és a hamis tanúvallomást is súlyos büntetésekkel sújtották.
+:53. Az eskü nagy szerepet játszott a korai jogban, mivel az írásbeli bizonyítékok ritkák voltak, és a tanúk és az eskük döntő jelentőségűek voltak.
+:54. A törvények az emberölést egy fokozatos rendszerű kártérítési fizetésekkel és büntetésekkel szabályozták.
+:55. Egy szabad ember megöléséért vérpénzt kellett fizetni, amelynek összege a meggyilkolt személy társadalmi rangjától függött.
+:56. A vérpénz volt az a bűnbánat, amellyel a gyilkos elháríthatta a vérbosszút és vezekelhetett tettéért.
+:57. Ha egy nemes megölt egy másikat, nagy mennyiségű aranyat kellett fizetnie, és bűnbánatot kellett gyakorolnia.
+:58. Ha egy alacsonyabb rangú személy ölt meg valakit, a bűnbírság alacsonyabb volt, de emellett egyházi büntetés is várt rá.
+:59. Aki haragból vagy karddal ölt meg valakit, különösen szigorú rendelkezések hatálya alá tartozott.
+:60. A kard más ellen való előhúzását szigorúan büntették, még akkor is, ha nem következett be halál.
+:61. Aki kardot húzott elő, és azzal másnak sérülést okozott, bűnbánattal és büntetéssel kellett felelnie tettéért.
+:62. Ezek a rendelkezések a harcosok körében elterjedt erőszak visszaszorítását és a belső béke biztosítását szolgálták.
+:63. A törvények így a vérbosszú és a saját kezű igazságszolgáltatás ellen is irányultak.
+:64. A magánbosszú helyébe egyre inkább a király és a tisztviselők által végzett rendezett igazságszolgáltatás lépett.
+:65. Különösen súlyosan büntették a királyi hatalom elleni és a király iránti hűség megsértését.
+:66. A király elleni összeesküvés és lázadás a legsúlyosabb bűncselekménynek számított, és halálbüntetéssel, valamint a vagyon elvesztésével büntették.
+:67. Aki a király életére vagy méltóságára törött, halálbüntetésre és vagyonának elkobzására ítéltetett.
+:68. Ezek a rendelkezések védték a még fiatal és veszélyeztetett központi hatalmat a belső ellenségektől.
+:69. A törvények a szökés és a szökött rabszolgák és szolgák rejtegetését is büntették.
+:70. Aki befogadott egy szökött rabszolgát, és nem adta vissza, annak kártérítést kellett fizetnie.
+:71. A társadalmi rétegződés tükröződött a jogban is, hiszen a büntetések és a bírságok a tettes és az áldozat társadalmi rangjától függtek.
+:72. A szabadok, a félig szabadok és a rabszolgák ugyanazon cselekményért eltérő jogi következményekkel szembesültek.
+:73. A társadalmi rang határozta meg a vérpénz összegét, a büntetés fajtáját és a tanúvallomás bizonyító erejét.
+:74. Így a jog társadalmi rétegek szerint volt felosztva, és nem volt mindenki számára egyenlő jog.
+:75. A törvények az egyház hatására elősegítették a rabszolgák felszabadítását, és védelmet nyújtottak a felszabadítottaknak.
+:76. Aki rabszolgát szabadított fel, istennek tetsző cselekedetet hajtott végre, és a felszabadítást jogilag is elismerték.
+:77. Ezek a rendelkezések fokozatosan enyhítették a zsákmánygazdaságból eredő legszigorúbb formáit a szolgaságnak.
+:78. Az igazságszolgáltatás részben a király és udvara, részben pedig a megyékben a megyefők feladata volt.
+:79. A súlyos ügyeket és a nagyurak közötti vitákat a király vagy a palotagróf tartotta fenn magának.
+:80. A megyékben a megyefő ítélkezett a várlakók felett, saját soraikból kiválasztott tanácsadók segítségével.
+:81. A törvények meghatározták az eljárási szabályokat, például a bíróság elé idézésről és a megjelenés elmulasztásának következményeiről.
+:82. Aki nem tett eleget a bírósági idézésnek, bírsággal sújtották, vagy elvesztette ügyét.
+:83. A bizonyítást tanúk, eskü és bizonyos esetekben istenítélet útján végezték.
+:84. Az istenítélet, például a tűz- vagy vízpróba, olyan eszköznek számított, amellyel kétes esetekben az isteni akaratot lehetett kikérdezni.
+:85. Ezek a bizonyítékok azt mutatják, hogy a korai jogot még erősen áthatották a vallási elképzelések.
+:86. A törvények továbbá szabályozták a piac működését, a vámokat és a kereskedelmet.
+:87. Elrendelték, hogy az ügyleteket tanúk vagy a piaci bíró jelenlétében kell megkötni a viták elkerülése érdekében.
+:88. A lopott tárgyak eladását és a tanúk nélküli kereskedelmet korlátozták a bűnrészesség és a csalás megelőzése érdekében.
+:89. Ezek a rendelkezések a kereskedelem biztonságát és a törvényes tulajdon védelmét szolgálták.
+:90. István törvényhozása így egyesítette az egyházi, büntetőjogi, tulajdonjogi és közigazgatási rendelkezéseket.
+:91. Ugyanakkor a közigazgatás, a keresztény hitre térítés és a királyi hatalom biztosításának eszköze is volt.
+:92. A törvények a birodalom minden lakójára vonatkoztak, a nagyúttól a rabszolgáig, és általános érvényességet igényeltek.
+:93. Fokozatosan felváltották a régi szokásjogot a király által megállapított és írásban rögzített joggal.
+:94. Ezzel a jogalkotás a közösségről a királyra szállt át, aki az egyházzal szövetségben határozta meg a jogot.
+:95. A törvényeket feltehetően a birodalmi gyűléseken vitatták meg, és a nemesek és a püspökök jóváhagyásával fogadták el.
+:96. A nemesek részvétele tekintélyt kölcsönzött a törvényeknek, és megkönnyítette azok végrehajtását.
+:97. A püspökök jelentősen befolyásolták a törvények tartalmát, mivel ismertek a nyugati és az egyházi jogot.
+:98. A világi és az egyházi jog szoros kapcsolata jellemezte István teljes jogalkotását.
+:99. A törvénykönyvek mellett István megírta vagy megíratta a Fürstenspiegel című művet, amely tanácsokat tartalmazott fiának, Emmerichnek.
+:100. Ez a mű, latinul Libellus de institutione morum, a magyar történelem első politikai írásának számít.
+:101. Nem törvénykönyv, hanem egy keresztény király kötelességeiről és erényeiről szóló tanítás.
+:102. Tíz fejezetben olyan témákat tárgyal, mint a hit, az egyház, a püspökök és a nemesek tisztelete, valamint az igazságosság.
+:103. Egy híres gondolat kiemeli, hogy egy olyan birodalom, amelyben csak egy nyelv és egy szokás létezik, gyenge és törékeny.
+:104. István ebben azt ajánlotta, hogy az idegeneket és a vendégeket barátságosan fogadják, mivel ők tudást, szakértelmet és gazdagságot hoznak magukkal.
+:105. A tanácsok kiegészítik a törvényeket azzal, hogy ismertetik az uralkodás erkölcsi alapjait.
+:106. Míg a törvények a külső viselkedést szabályozták, addig a tanácsok az uralkodó belső hozzáállására irányultak.
+:107. A két mű együttesen egy olyan keresztény királyság képét vázolja fel, amely egyesíti a jogot, a hitet és az uralmat.
+:108. István törvényalkotását utódai folytatták és bővítették.
+:109. I. László király több törvénykönyvet is kiadott, amelyek elsősorban a tulajdon védelmére és a lopás elleni küzdelemre irányultak.
+:110. László törvényei rendkívül szigorúak voltak, és a lopásért drakonikus büntetéseket írtak elő.
+:111. László uralkodása alatt már a csekély értékű tárgyak ellopása is halállal vagy végtagvesztéssel büntethető volt.
+:112. Ez a szigor a kor bizonytalanságát és a közrend minden áron való biztosítására irányuló törekvést tükrözi.
+:113. Koloman, a Tudós király később enyhítette ezt a szigorúságot, és felülvizsgálta a legszigorúbb rendelkezések egy részét.
+:114. Koloman saját törvénykönyvet hirdetett ki, amelyet nagyobb mérséklet és jogi műveltség jellemezte.
+:115. Híressé vált Koloman boszorkányokra vonatkozó rendelkezése, amely kimondta, hogy olyan boszorkányokról, akik nem léteznek, nem lehet tárgyalni.
+:116. Ez a rendelkezés egy felvilágosult vonást mutat, amely kiemelkedett a korábbi törvények boszorkányfélelméből.
+:117. Koloman továbbá újrarendezte az egyházzal való viszonyt, és azt az egyházszintű reformhoz igazította.
+:118. István törvényhozása így egy folyamatos jogfejlődés kiindulópontját képezte.
+:119. Utódai törvényei az ő kódexein alapultak, és tovább finomították a jogot, valamint az új viszonyokhoz igazították.
+:120. István, László és Koloman törvényei együttesen képezik a korai magyar királyi jog alapját.
+:121. Ez a királyi jog a továbbra is fennmaradó szokásjog mellett létezett, amelyet kiegészített és részben kiszorított.
+:122. A szokásjog továbbra is szabályozta a mindennapi élet számos olyan területét, amelyet az írott jog nem fedett le.
+:123. Csak a késő középkorban rögzítették írásban a szokásjogot olyan átfogó gyűjteményekben, mint a Tripartitum.
+:124. Stephan Werbőczy 1514-ben megjelent Tripartitum című műve összefoglalta a magyar szokásjogot, de ez már jóval a korai időszakon túlra esik.
+:125. A korai időszakban azonban István kódexei jelentették a meghatározó írásbeli jogforrást.
+:126. A törvényeket latin nyelven fogalmazták meg, amely az egyház, a közigazgatás és a tudomány nyelve volt.
+:127. A népnyelv nem játszott szerepet az írásbeli jogban, mivel az írástudók egyházi személyek voltak.
+:128. A törvényeket ezért szóban kellett kihirdetni és a népnyelvre lefordítani, hogy eljussanak a lakossághoz.
+:129. A kormányzók és a papok felolvasták a rendelkezéseket az alattvalóknak, és gondoskodtak azok közzétételéről.
+:130. A törvények végrehajtása a királyi tisztviselők, a kormányzók és az egyházi hierarchia feladata volt.
+:131. A pénzbírságokból, testi büntetésekből és halálbüntetésből álló, fokozatos büntetési rendszer biztosította a törvények érvényesülését.
+:132. A pénzbírságok egy része a károsultnak, egy része pedig a királynak vagy a megyefőnöknek, mint a közhatalom képviselőjének jutott.
+:133. A bírságok magánszemélyek és a közhatalom közötti megosztása jelzi az átmenetet a magánjellegű engesztelésről az állami büntetésre.
+:134. A régi jogban a kártérítés fizetése az érintett nemzetségek feladata volt, az új jogban pedig a király lépett be a béke őrzőjeként.
+:135. Ezzel a büntetőjog a nemzetségek közötti kiegyenlítésből a hatóság által kiszabott büntetéssé alakult át.
+:136. Ez a változás lényeges lépés volt az állami jogrend kialakulása felé.
+:137. István törvényei így jelzik az átmenetet a törzsi társadalmi jogrendről az állami jogrendre.
+:138. A szóbeli hagyományt az írott törvény, a klánok közötti bosszút pedig a királyi bírósági joghatóság váltotta fel.
+:139. A jogot a keresztény valláshoz kötötték, és az egyház és a királyság szolgálatába állították.
+:140. A kutatás a fennmaradt kéziratokból, elsősorban az Admonter-kódexből és későbbi gyűjteményekből dolgozza fel a törvényeket.
+:141. A törvények kritikai kiadása összehasonlítja a különböző kéziratokat az eredeti formájuk rekonstruálása érdekében.
+:142. Ezzel egyidejűleg kiderül, hogy a későbbi másolók módosították, kiegészítették vagy átrendezték a szövegeket.
+:143. Az egyes cikkek első vagy második törvénykönyvhez való hozzárendelése ezért nem mindig egyértelmű.
+:144. Az egyes rendelkezések keltezése is nehéz a késői átadás miatt.
+:145. Mindazonáltal István törvényhozásának alapvető tartalma kellő bizonyossággal meghatározható.
+:146. A törvények mély betekintést nyújtanak a korai királyság társadalmi viszonyiba, vallásába és uralmába.
+:147. Egy átmeneti állapotban lévő országot mutatnak be, amelyben pogány és keresztény, törzsi társadalmi és állami elemek egymás mellett léteztek.
+:148. A pogányság ellen irányuló rendelkezések tanúsítják az ősi szokások élénkségét.
+:149. Az egyház védelmére vonatkozó rendelkezések tanúsítják az új hit megszilárdítására irányuló törekvést.
+:150. A tulajdonra vonatkozó rendelkezések tanúsítják az új tulajdonviszonyok kialakulását.
+:151. A királyi hatalomra vonatkozó rendelkezések tanúsítják a fiatal központi hatalom megszilárdítását.
+:152. Összességében egy, az államalapítás szolgálatában álló, tervszerű jogalkotás képe rajzolódik ki.
+:153. A jogalkotás olyan eszköz volt, amellyel István a törzsi szövetségből rendezett közösséget alakított ki.
+:154. A közigazgatás, az egyház és a gazdaság kiépítésével együtt járult hozzá a királyság létrehozásához.
+:155. Az írott jog a királyi rendelkezésnek az egyes esetek határain túlmutató tartós jelleget és általánosságot kölcsönzött.
+:156. Olyan mércét teremtett, amelyhez az alattvalók és a tisztviselők cselekedeteit mérni lehetett.
+:157. A királyt is kötötte annyiban, amennyiben hivatkozott az általa megállapított jogra, és azt uralkodásának alapjaként ismerte el.
+:158. Az a gondolat, hogy a király által hozott jog mindenki számára kötelező, új és messzemenő következményekkel járt a korai Magyarország számára.
+:159. Ez összekapcsolta a királyságot a keresztény Európa jogi kultúrájával, valamint annak jog- és rendfelfogásával.
+:160. István törvényei így a magyar írott kultúra és államiság legkorábbi tanúi közé tartoznak.
+:161. Ezek jelzik a magyar jogtörténet kezdetét, amely évszázadokon át folytatódott.
+:162. A tulajdonra, a büntetésre és az egyházra vonatkozó alapelvei messze István idején túl is meghatározták a jogi gondolkodást.
+:163. A királyi jog és a szokásjog összekapcsolódása a középkori magyar jogra nézve továbbra is jellemző maradt.
+:164. A jog állásalapú felépítése, amelyet István törvényei alapoztak meg, évszázadokon át meghatározta a jogrendet.
+:165. A jog és a vallás szoros kapcsolata szintén a magyar jogkultúra tartós jellemzője maradt.
+:166. István törvényeit később a birodalom tiszteletreméltó alapjaként tisztelték, és újra és újra megerősítették.
+:167. A törvények a szent király örökségének részének és a birodalom isteni rendjének kifejeződésének számítottak.
+:168. István 1083-as szentté avatása jogalkotásának is szent fényt kölcsönzött.
+:169. A szent király ettől kezdve a keresztény Magyarország jogának és rendjének megalapítójának számított.
+:170. A jogalkotás így az államalapító királyról és maradandó teljesítményéről szóló mítosz részévé vált.
+:171. A mítosz mögött azonban egy korai és tervszerű jogkódex-alkotás bizonyítható ténye áll.
+:172. Ez a kódex-alkotás Magyarországot azoknak a kora középkori birodalmaknak a sorába sorolja, amelyek jogukat írásban rögzítették.
+:173. Ez összehasonlítható Kelet-Közép-Európa más fiatal keresztény birodalmainak jogalkotási munkáival.
+:174. Lengyelországban és Csehországban hasonló átmenet ment végbe a szóbeli hagyománytól az írásbeli királyi jog felé.
+:175. Magyarország István törvényeivel korai és jól dokumentált helyet foglalt el ebben a folyamatban.
+:176. A két törvénykönyv, az intések és az utódok törvényei a korai időszak összefüggő jogi korpuszát alkotják.
+:177. Ez a korpusz részletes betekintést enged a korai királyság jogába, büntetéseibe és értékeibe.
+:178. Olyan törvényhozót mutat be, aki átvette az idegen példát, és azt kreatív módon saját viszonyaihoz igazította.
+:179. Ugyanakkor egy olyan birodalmat is bemutat, amely a jog eszközeivel tartós rendet teremtett magának.
+:180. István kódexei és rendeletei révén a sztyeppei harcosok íratlan joga egy keresztény királyság írott jogává vált, amely ezentúl a törvény szilárd alapjain nyugodott.
+
+
+
+

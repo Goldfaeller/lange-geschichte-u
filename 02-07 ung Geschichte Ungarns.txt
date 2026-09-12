@@ -1,0 +1,1270 @@
+﻿
+
+== 2.7 - A Levediából való kivonulás: okok és összefüggések ==
+
+:1. A Levediából való kivonulás témája fordulópontot jelent a magyar nép korai történelmében.
+:2. Az a folyamatot tárgyalja, amelynek során a magyarok elhagyták első, hagyományosan ismert települési területüket a pontusi sztyeppén.
+:3. Ez a kivándorlás egy vándorlási láncolatot indított el, amely végül a Kárpát-medence elfoglalásához vezetett.
+:4. Mielőtt az egyes okokat részletesen megvizsgálnánk, helyénvaló egy összefoglaló áttekintést adni az egészről.
+:5. Egy ilyen áttekintés rendszerezi a különböző tényezőket, és rámutat azok összefüggéseire.
+:6. Ugyanakkor megóv attól a veszélytől, hogy az egyes okokat kiemeljük az összképből, és abszolút érvényűnek tekintsük őket.
+:7. Levedia a magyarok első, név szerint ismert sztyeppei települési területét jelöli.
+:8. Pontos elhelyezkedése vitatott, de általában a Fekete-tengertől északra fekvő térségben feltételezik.
+:9. A magyarok ott lovas nomádokként éltek más sztyeppei népek között.
+:10. Szoros kapcsolatban álltak a régiót uraló hatalmas kazár birodalommal.
+:11. Ebből a területből indultak el a 9. században, egy pontosan nem meghatározható időpontban.
+:12. Az indulás először a második települési területre, Etelközre vezette őket, onnan pedig tovább nyugat felé.
+:13. Ezen indulás okainak és összefüggéseinek kérdése áll e főtéma középpontjában.
+:14. Erre a kérdésre nem adható válasz egyetlen okkal, hanem több tényező figyelembevételét igényli.
+:15. Ezek a tényezők nem egymás után, hanem egyidejűleg és egymást kölcsönösen erősítve hatottak.
+:16. Csak ezek kölcsönhatása hozta létre azt a konstellációt, amely a kivándorlást eredményezte.
+:17. A történeti kutatás lényegében hat tényezőcsoportot különböztet meg.
+:18. Ezek a kazár nyomás, a belső konfliktusok, az éghajlati és gazdasági tényezők, Árpád vezetése, a külső meghívások, és végül maga a döntés.
+:19. E csoportok mindegyike a komplex eseménysorozat egy-egy másik aspektusát világítja meg.
+:20. Együttesen sokrétű képet adnak a kivándorlás okairól.
+:21. Az első tényező a kazár nyomás és az azzal járó politikai feszültségek.
+:22. A Kazár Birodalom volt a pontusi sztyepp térségének uralkodó hatalma.
+:23. A magyarok alárendelt, de katonai szempontból értékes csoportként voltak beépítve ebbe a birodalomba.
+:24. Ez a beépülés hosszú ideig védelmet és elismerést biztosított számukra.
+:25. Ugyanakkor függőséget is jelentett, amelyet a magyarok megerősödésével egyre inkább terheknek éreztek.
+:26. A kazár befolyás mélyen meghatározta a magyarok politikai szervezetét.
+:27. Különösen a központi fejedelmi cím bevezetése a kazár mintára történt.
+:28. A kazár hatalom hanyatlásával azonban megszűnt a védelmet nyújtó keret.
+:29. A magyarok ezentúl közvetlenül ki voltak téve a külső fenyegetéseknek.
+:30. Így a kazár kapcsolat a védelmet nyújtó beágyazottságból a változás egyik mozgatórugójává vált.
+:31. A második tényező a magyarok közötti belső konfliktusok és hatalmi küzdelmek.
+:32. A magyar társadalom önálló törzsek szövetsége volt, amelynek nem volt állandó, felette álló állama.
+:33. A hatalom sok vállra oszlott, és sehol sem összpontosult abszolút módon.
+:34. Ez a struktúra nagyfokú belső feszültséget és rivalizálást rejtett magában.
+:35. A konfliktusok a legfőbb vezetés és az utódlás kérdése miatt robbantak ki.
+:36. Ezeket a gazdasági érdekek és a harcosok becsületrendje táplálta.
+:37. A nagyfejedelmi cím Levediről Álmosra és Árpádra való átruházása ilyen hatalmi küzdelmekre utal.
+:38. Az idő múlásával egyre inkább a hatalom központosítása érvényesült.
+:39. Ez a centralizáció az Árpádok kezében megteremtette a közös cselekvés feltételeit.
+:40. A belső konfliktusok így egyszerre jelentettek akadályt és ösztönzőt a politikai érettséghez.
+:41. A harmadik tényező az éghajlati és gazdasági körülmények.
+:42. A magyarok nomád gazdasága teljes mértékben a természeti életszükségletektől függött.
+:43. A legelők, a csapadék és az éghajlat határozták meg a nép jólétét és túlélését.
+:44. Ezen feltételek romlása fokozhatta a vándorlás iránti ösztönzést.
+:45. Ugyanakkor a nyugat gazdagabb területei kedvezőbb életkörülményeket ígértek.
+:46. A Kárpát-medence különösen alkalmasnak tűnt az állattenyésztésre.
+:47. Gazdasági szempontok, mint a kereskedelem és a zsákmány, tovább erősítették a vándorlásra irányuló ösztönzést.
+:48. Ezek a tényezők rejtve hatottak, de az okok alapvető rétegét képezték.
+:49. Meghatározták azt az ökológiai keretet, amelyen belül az emberek döntéseiket hozták.
+:50. Az éghajlati determinizmus azonban téves lenne, hiszen az éghajlat önmagában nem cselekedett.
+:51. A negyedik tényező Árpád fejedelem és vezetése szerepe.
+:52. Árpád, mint legfőbb fejedelem, a magyar szövetség élén állt.
+:53. Hatósága a származáson, a hivatalos kinevezésen és a katonai sikereken alapult.
+:54. A legnagyobb veszély idején ő biztosította a törzsek egységét.
+:55. Ez az egység elengedhetetlen feltétele volt a rendezett vándorlásnak.
+:56. Elismert vezetés nélkül aligha lett volna lehetséges a koordinált indulás.
+:57. Árpád testesítette meg ezt a vezetést, és közös központot biztosított a népnek.
+:58. Ugyanakkor megalapította azt a dinasztiát, amely évszázadokon át uralkodott Magyarországon.
+:59. Személye összeköti a vándorlás végét az állami rend kezdetével.
+:60. Ezáltal kulcsszerepet játszott az egész eseménysorozatban.
+:61. Az ötödik tényező a külső meghívások, az idegen hatalmak nyugat felé irányuló felhívásai.
+:62. A magyarokat több alkalommal is katonai szövetségesként hívták be idegen konfliktusokba.
+:63. A Kelet-Frank Birodalom a Morva Birodalom ellen, Bizánc pedig a Bolgár Birodalom ellen hívta őket.
+:64. Ezen hadjáratok során a magyarok saját szemükkel ismerhették meg a Kárpát-medencét.
+:65. Felfedezték az utakat, megismerkedtek a föld termékenységével és lakóinak gyengeségével.
+:66. Ugyanakkor hozzájárultak jövőbeli ellenfeleik gyengítéséhez is.
+:67. A külső meghívások így irányadó és útmutató tényezőként hatottak.
+:68. Ugyanakkor a magyarokat olyan konfliktusokba is belekeverték, amelyek nem várt következményekkel jártak.
+:69. A bizánci szövetség a pechenegek megtorlása révén a hazából való elűzéshez vezetett.
+:70. Így a meghívások a kivándorláshoz vezető lánc egyik láncszemévé váltak.
+:71. Végül a hatodik tényező maga a kivándorlásra vonatkozó döntés.
+:72. Ez a döntés egyetlen határozatban egyesítette az addig ható összes erőt.
+:73. Nem egyedi akaratnyilvánítás volt, hanem egy hosszú folyamat eredménye.
+:74. A hosszú távú előfeltételek megteremtették az indulásra való általános hajlandóságot.
+:75. Egy közvetlen kiváltó ok adta az utolsó lökést a tényleges induláshoz.
+:76. Ezen kiváltó oknak a pechenegek pusztító támadása a védtelen Etelköz ellen tekinthető.
+:77. A döntés így egyszerre volt kényszerűségből fakadó cselekedet és választás.
+:78. A magyarok kényszerből indultak el, de közben rendezett és céltudatos módon cselekedtek.
+:79. A kényszer és a választás e kettős természetében rejlik az indulás lényege.
+:80. A hat tényező együttesen sűrű ok-okozati hálót alkot.
+:81. Tanulságos, ha közelebbről megvizsgáljuk ezek kölcsönös összefüggéseit.
+:82. A kazár nyomás és a külső meghívások külső tényezők voltak.
+:83. A belső konfliktusok és Árpád vezetése belső tényezők voltak.
+:84. Az éghajlati és gazdasági körülmények alkották a természetes hátteret.
+:85. Végül a döntés volt az a pont, ahol ezek a tényezők összefutottak.
+:86. A külső és belső tényezők eközben állandó kölcsönhatásban álltak egymással.
+:87. A pechenegek külső nyomása például a törzseket szorosabb összetartásra kényszerítette.
+:88. Így egy külső tényező elősegítette a belső konszolidációt.
+:89. Fordítva: a belső egység tette lehetővé a külső nyomás leküzdését.
+:90. Ezek a kölcsönhatások világosan mutatják az események összetettségét.
+:91. Egyik ok sem hatott elszigetelten, hanem mindig összefüggésben állt a többivel.
+:92. A változás egyetlen okra visszavezethető magyarázata nem tenne igazságot ennek a komplexitásnak.
+:93. A korábbi kutatások részben hajlottak ilyen egyoldalú magyarázatokra.
+:94. Egyesek kizárólag a pecheneg nyomást emelték ki, mások pedig kizárólag a kazár gyengeséget.
+:95. A modern kutatás ezzel szemben a számos tényező együttes hatását hangsúlyozza.
+:96. A kivándorlást egy többrétegű ok-okozati hálózat eredményének tekinti.
+:97. Ez a differenciált nézőpont megfelel a történelmi események összetettségének.
+:98. Megóv a meggondolatlan és leegyszerűsítő értelmezésektől.
+:99. Ugyanakkor megnehezíti a világos és egyértelmű válasz megadását.
+:100. A történettudománynak el kell viselnie és meg kell neveznie ezt a bizonytalanságot.
+:101. Különös problémát jelent a Levediából való kivonulásra vonatkozó forráshelyzet.
+:102. Maguk a magyarok nem hagytak hátra saját írásos tanúvallomásokat ebből az időből.
+:103. Még nem rendelkeztek írással a történetírás értelmében.
+:104. A legfontosabb kortárs forrás a bizánci császár, VII. Konstantin műve.
+:105. Ez a mű a 10. század közepén keletkezett, és magyar követek beszámolóira támaszkodik.
+:106. Így az uralkodó Árpád-dinasztia emlékeit tükrözi.
+:107. Emellett arab földrajztudósok is szerepelnek, akik a magyarok életét írják le.
+:108. A hazai magyar krónikák csak évszázadokkal később, a késő középkorban keletkeztek.
+:109. Ezek a történelmi emlékezetet a saját koruk legendáival és politikai szándékaival ötvözik.
+:110. A régészeti leletek kiegészíthetik a képet, de nehéz őket egyértelműen beazonosítani.
+:111. Mindezekből a forrásokból nem egységes, hanem sokrétű kép rajzolódik ki.
+:112. Sok mindent ezért a körülményekből és a nomád társadalmakról szerzett ismeretekből kell kikövetkeztetni.
+:113. A vándorlás rekonstruálása sok szempontból hipotetikus marad.
+:114. Ezt a bizonytalanságot minden, a kivándorlás okairól szóló állításnál figyelembe kell venni.
+:115. Ezen fenntartások ellenére az általános lefolyás alapvető vonalai felismerhetők.
+:116. A Levediából való kivándorlás illeszkedik a sztyeppetörténet tágabb mintájába.
+:117. Az eurázsiai sztyeppe a népek állandó vándorlásainak színtere volt.
+:118. A kiszorított népek viszont maguk is előre szorították nyugati szomszédaikat.
+:119. Így jött létre egy láncreakció, amely egész népeket mozgásba hozott.
+:120. A magyarok kivándorlása ennek az általános dinamikának a része volt.
+:121. Nem egyedülálló esemény volt, hanem egy hosszú hagyományba illeszkedett.
+:122. A hunok, az avarok és a bolgárok is hasonló utat jártak be.
+:123. Ami a magyarokat sok elődjüktől megkülönböztette, az a letelepedésük tartós sikere volt.
+:124. Ennek a sikernek a gyökerei a kivándorlás körülményeiben is rejlenek.
+:125. A belső megszilárdulás és a cél okos kiválasztása jelentősen hozzájárult ehhez.
+:126. A Levediából való indulás így egy sikertörténet kezdete.
+:127. Ez Etelközön keresztül, majd a nyugat felé vezető vándorláson át végül a földfoglaláshoz vezetett.
+:128. A földfoglalás pedig megalapozta a későbbi magyar államot.
+:129. Ebben a hosszú sorban az indulás egy korszakalkotó fejlődés kezdetét jelenti.
+:130. Érdemes néhány szempontot külön kiemelni.
+:131. Az első szempont a külső nyomás központi jelentősége.
+:132. A forrásokban a pecsenegek nyomása jelenik meg közvetlen kiváltó okként.
+:133. E nyomás nélkül a kivonulás valószínűleg másképp alakult volna, vagy elmaradt volna.
+:134. A külső nyomás tehát a tényleges kivándorlás döntő ösztönzője volt.
+:135. A második kiemelt szempont a belső egység jelentősége.
+:136. Csak egy egységes közösség tudta a vándorlást rendezett módon végrehajtani.
+:137. Az Árpád alatt történő konszolidáció ezért a siker elengedhetetlen feltétele volt.
+:138. A belső egység a fenyegető menekülést rendezett vándorlássá alakította.
+:139. A harmadik kiemelt szempont a helyismeret szerepe.
+:140. A szövetséges hadjáratok révén a magyarok már ismerték céljukat.
+:141. Ez a tudás egyértelmű irányt adott a vándorlásnak.
+:142. Ez az indulást egy ismert cél felé irányuló, célzott mozgássá alakította.
+:143. A negyedik kiemelt szempont a kényszer és a választás összefüggése.
+:144. Az indulást egyrészt külső szükség kényszerítette ki.
+:145. Másrészt viszont a vezetés tudatos döntéseinek eredménye volt.
+:146. Ez a kettős jelleg jellemzi az egész folyamatot.
+:147. Az ötödik kiemelt szempont a sztyeppetörténetbe való beágyazottság.
+:148. Az indulás a népvándorlások visszatérő mintáját követte.
+:149. Egyrészt ennek a mintának a része volt, másrészt sikerével kivételt jelentett.
+:150. Ez az öt kiemelt szempont összegzi a főtéma lényeges felismeréseit.
+:151. Ezek mutatják meg, mire kell különösen figyelni a kivándorlás értelmezése során.
+:152. A következő alfejezetek ezeket a tényezőket részletesen kifejtik.
+:153. Az első alfejezet a kazár nyomást és a politikai feszültségeket tárgyalja.
+:154. A második a magyarok közötti belső konfliktusokkal és hatalmi küzdelmekkel foglalkozik.
+:155. A harmadik az éghajlati és gazdasági tényezőket vizsgálja.
+:156. A negyedik Árpád fejedelem szerepét és vezetői tevékenységét világítja meg.
+:157. Az ötödik a külső meghívásokat és a Nyugat felé irányuló vágyat tárgyalja.
+:158. Végül a hatodik az elvándorlásra vonatkozó döntést veszi górcső alá.
+:159. Ez a hat alfejezet kiegészíti egymást, így alkotva a teljes képet.
+:160. Mindegyik egy-egy szempontot világít meg, amely önmagában nem elegendő, de összefüggésben elengedhetetlen.
+:161. A jelen áttekintés arra szolgál, hogy ezeket a szempontokat előzetesen rendszerezzük.
+:162. Vezérfonalat nyújt, amelyhez az egyes elemzések igazodnak.
+:163. Ugyanakkor arra int, hogy az egyes tényezőket mindig az összképben kell szemlélni.
+:164. Hiszen a tényezők szétválasztása a bemutatás segédeszköze, nem pedig a valóság jellemzője.
+:165. A valóságban az okok elválaszthatatlanul összekapcsolódva hatottak egymásra.
+:166. A történetírás feladata, hogy ezt az összefüggést láthatóvá tegye.
+:167. Meg kell különböztetnie a tényezőket anélkül, hogy megszakítaná azok összefüggéseit.
+:168. A Levediából való kivonulás tanulságos példát nyújt erre a feladatra.
+:169. Ezen a példán különösen jól tanulmányozható számos ok együttes hatása.
+:170. Megmutatja, hogyan fonódnak össze a külső és belső erők, a természet és az ember, a kényszer és a választás.
+:171. Összefoglalva megállapítható, hogy a Levediából való távozás egy többrétegű folyamat volt.
+:172. Hat lényeges tényezőcsoport kölcsönhatásából fakadt.
+:173. A kazár nyomás és a külső meghívások külső erőként hatottak.
+:174. A belső konfliktusok és Árpád vezetése belső erőként hatottak.
+:175. Az éghajlati és gazdasági tényezők alkották a természetes hátteret.
+:176. A vándorlásra vonatkozó döntés végül minden erőt egyetlen elhatározásba egyesített.
+:177. A közvetlen kiváltó ok a pecseneg támadás volt a védtelen Etelköz ellen.
+:178. A kivonulás egyszerre volt kényszerű és önkéntes, hajtott és irányított.
+:179. Ez illeszkedik a sztyeppei történelem nagy mintájába, és sikerével kiemelkedik belőle.
+:180. Így a Levediából való indulás jelenti annak a fejlődésnek a kezdetét, amely Etelközön és a vándorláson keresztül a földfoglaláshoz és a magyar állam megalapításához vezetett.
+
+=== 2.7.1 - A kazár nyomás és a politikai feszültségek ===
+
+:1. A magyarok kelet-európai települési területeikről való elindulását nem lehet egyetlen okra visszavezetni, hanem egy összetett, politikai, katonai és társadalmi erőkből álló hálózat eredményeként kell értelmezni.
+:2. Az egyik legfontosabb és a forrásokban legszembetűnőbb hajtóerő azonban a kazár birodalommal való viszony volt.
+:3. Ez egy hatalmas sztyeppei állam volt, amely a 7. és a 10. század között a pontusi és a kaszpi-tengeri sztyeppék nagy részét uralta.
+:4. A forrásokban a kazárokat chazároknak vagy kasároknak is nevezik, de mindig ugyanarról a népről van szó.
+:5. A magyarok és a kazárok közötti kapcsolatok generációkon át szorosak, összetettek voltak, és korántsem kizárólag ellenségesek.
+:6. Éppen ez az összefonódás teszi olyan bonyolulttá a kazár nyomással kapcsolatos kérdést.
+:7. Ahhoz, hogy értelmezni tudjuk azokat a politikai feszültségeket, amelyek végül a magyarok elvándorlásához vezettek, először magát a kazár birodalmat kell szemügyre venni.
+:8. A kazár birodalom a magyarok sztyeppén való jelenléte idején a Kaukázustól és a Fekete-tengertől északra fekvő térség vitathatatlan hegemón hatalma volt.
+:9. Gyökerei a Nyugat-török kaganátusig nyúlnak vissza, amelynek 7. századi felbomlásából alakult ki a kazár hatalom.
+:10. A birodalom központja a Volga alsó folyásánál volt, ahol a főváros, Itil, jelentős kereskedelmi csomóponttá fejlődött.
+:11. Innen irányította a birodalom a Bizánci Birodalom, az iszlám kalifátus és az északi népek közötti fontos kereskedelmi útvonalakat.
+:12. Ezen az útvonalakon keresztül jutottak el a szőrme, a méz, a viasz, a fegyverek és a rabszolgák az északi erdőkből a déli gazdagságba.
+:13. A birodalom vámokat vetett ki ezen kereskedelemre, hatékony hadsereget tartott fenn, és számos kisebb sztyeppei népet bevont egy adófizetési rendszerbe.
+:14. A vámokból és adókból származó bevételek képezték a kazár hatalom gazdasági alapját.
+:15. A kazárok nem alkottak modern értelemben vett homogén népet, hanem egy török nyelvű származású uralkodó elitet.
+:16. Ez az elit számos, különböző nyelvű és származású, leigázott vagy szövetséges csoport felett uralkodott.
+:17. A birodalomhoz csatlakozott vagy adófizetési kötelezettséggel rendelkező népek közé tartoztak az alanok, a burtasok, a volga-bulgárok, valamint időnként kelet-szláv törzsek is.
+:18. Ez a többnemzetiségű szerkezet jellemző volt a nagy sztyeppei birodalmakra, amelyek hatalma kevésbé etnikai egységen, mint inkább katonai fölényen és gazdasági ellenőrzésen alapult.
+:19. Figyelemre méltó volt a kazár vezető réteg vallási különleges helyzete.
+:20. A felső réteg egy része, köztük nyilvánvalóan az uralkodóház is, a 8. vagy 9. század folyamán áttért a judaizmusra.
+:21. Ezt a középkori világban egyedülálló eseményt több forrás is tanúsítja, pontos időpontja és kiterjedése azonban továbbra is vitatott.
+:22. A zsidó vallás felvételével a birodalom vallási szempontból egyaránt megőrizte függetlenségét a keresztény Bizánc és a muszlim kalifátus felett.
+:23. A kazárok így megőrizhették önálló identitásukat anélkül, hogy szomszédaik két nagy monoteista vallásának befolyási övezetébe kerültek volna.
+:24. Ugyanakkor a birodalomban figyelemre méltó vallási sokszínűség uralkodott, hiszen a zsidók mellett keresztények, muszlimok és az ősi sztyeppei vallások hívei is éltek ott.
+:25. Az állam élén egy kettős hatalmi struktúra állt, amelyet az arab források részletesen leírnak.
+:26. Ennek élén a kagan állt, egy szakrális uralkodó, aki nagyrészt visszavonultan élt a napi kormányzati hatalomtól.
+:27. A tényleges politikai és katonai hatalom egy második méltóságos személy kezében volt, akit gyakran beknek vagy kagan-beknek neveztek.
+:28. Ez a szent és világi hatalmi funkciók közötti megosztás jelentős jelentőséggel bír a későbbi magyar vezetési rend megértése szempontjából.
+:29. A magyarok alárendelt, de katonai szempontból értékes csoportként illeszkedtek be ebbe a hatalmi struktúrába.
+:30. E beágyazódás pontos jellege a korai magyar történelem egyik leghevesebben vitatott kérdése.
+:31. A régebbi kutatások hosszú ideig abból indultak ki, hogy a magyarok hosszú időn át adófizető alattvalók, vagy legalábbis a kazárok vazallusai voltak.
+:32. Az újabb értelmezések inkább egy szövetség vagy egy többszintű partnerség jellegét hangsúlyozzák.
+:33. Ennek legfontosabb írásos forrása a bizánci császár, VII. Konstantin Porfirogennetos „De administrando imperio” című műve.
+:34. Ez a mű a 10. század közepén keletkezett, egyfajta külpolitikai kézikönyvként a trónörökös számára.
+:35. A magyarokról szóló állításai a konstantinápolyi császári udvarban tartózkodó magyar követek beszámolóin alapulnak.
+:36. Így a szöveg a magyar vezetőréteg saját emlékeit adja vissza, még ha azok bizánci közvetítésen keresztül szűrődtek is.
+:37. Ebből a szövegből kitűnik, hogy a magyarok egy ideig szoros szomszédságban és politikai függőségben éltek a kazárokkal.
+:38. A kazárokkal együtt háborúztak, és nyilvánvalóan csapatokat is biztosítottak azok hadjárataihoz.
+:39. Ez a katonai együttműködés mindkét fél számára előnyös volt, mivel a magyarokat kiváló lovas íjászoknak tartották.
+:40. Cserébe a magyarok élvezték a kazár hegemón hatalom védelmét és elismerését.
+:41. E kapcsolat központi eleme az úgynevezett kettős királyság vagy kettős vezetés intézménye volt.
+:42. A források túlnyomó többsége szerint ezt az intézményt kazár mintára vezették be a magyaroknál.
+:43. A „De administrando imperio” című mű leírása szerint maga a kazár kagan javasolta, hogy a magyarok nevezzenek ki egy legfőbb fejedelmet.
+:44. Addig a magyar törzsek állítólag nem rendelkeztek egységes, felettük álló vezetéssel, hanem csupán az egyes törzsek vezetői voltak.
+:45. Az első ilyen vezető, akinek a neve fennmaradt, Levedi volt, akiről állítólag a Levedia nevű település kapta a nevét.
+:46. Levedit nagyra becsült hadvezérnek tartották, akinek a kagan még egy nemes kazár nőt is feleségül adott.
+:47. Amikor a kagan felajánlotta neki a nagyfejedelmi címet, a hagyomány szerint Levedi elutasította azt, és helyette mást javasolt.
+:48. A kazár kezdeményezésre ezután Árpádot – vagy más források szerint először apját, Álmost – emelték nagyfejedelemmé.
+:49. A legitimációt a kazár szokás szerinti kinevezési szertartás keretében hajtották végre, amelynek során a kiválasztottat egy pajzsra emelték.
+:50. Ez a szertartás szimbolizálta a hatalom átadását az összegyűlt törzsfőnökök részéről.
+:51. Árpád kinevezésével kezdetét vette az Árpád-dinasztia, amely több évszázadon át vezette a magyar népet.
+:52. Hogy ez a kinevezés valóban khazár kezdeményezésre történt-e, a kutatásokban vitatott kérdés.
+:53. Lehetséges az is, hogy önálló magyar fejleményről volt szó, amelyet a hagyomány utólag khazár keretbe foglalt.
+:54. Mindenesetre az epizód jól mutatja, milyen szorosan kapcsolódott a korai magyarok politikai önértelmezése a khazár példához.
+:55. A centralizált fejedelmi méltóság bevezetése döntő lépést jelentett a laza törzsi rendtől az állami szervezet felé.
+:56. Szorosan összefügg a kazár befolyással a kabárok kérdése, akiket kavároknak vagy kabaroi-nak is neveznek.
+:57. Ezek három kazár származású törzs voltak.
+:58. Ezek a törzsek a kazár központi hatalom elleni sikertelen felkelés után elszakadtak a birodalomtól.
+:59. A források nagyrészt hallgatnak a felkelés hátteréről, de a kazár birodalmon belüli belső konfliktusokra utalnak.
+:60. Vereségük után a kabárok elmenekültek, és csatlakoztak a magyarokhoz.
+:61. VII. Konstantin kifejezetten beszámol erről az eseményről, és a kabarokat a magyar szövetségön belüli önálló csoportként említi.
+:62. A kabarokat beolvasztották a magyar törzsszövetségbe, és állítólag ott kiemelt helyet is elfoglaltak.
+:63. Különösen a harcokban láthatóan az előőrs szerepét vállalták magukra, ami nagy tekintélyt, de egyúttal nagy veszélyt is jelentett.
+:64. Ez az előőrs szerepe arra utal, hogy a kabarokat különösen harcképesnek tartották.
+:65. A kabarok bevándorlása több okból is történelmileg jelentős.
+:66. Egyrészt azt mutatja, hogy a kazár birodalom a szóban forgó időszakban belső megrázkódtatásokon ment keresztül.
+:67. A felkelések és egész törzsek elszakadása egyértelmű jele a központi hatalom gyengülő összetartó erejének.
+:68. Másrészt ez az esemény bizonyítja, hogy a magyarok mint befogadó közösség elég vonzóak voltak ahhoz, hogy magukhoz kössék a szakadár kazár csoportokat.
+:69. A magyarok nyilvánvalóan egy felemelkedő és védelmet nyújtó szövetségnek tűntek a kabarok számára.
+:70. A kabarok csatlakozása katonai szempontból jelentősen megerősítette a magyar sereget.
+:71. Ugyanakkor török nyelvű elemeket is behozott a magyar szövetségbe.
+:72. VII. Konstantin még azt is megjegyzi, hogy a kabarok megtanították a magyaroknak a nyelvüket, míg a magyarok viszont a sajátjukat adták át a kabaroknak.
+:73. Ez a kölcsönös nyelvi hatás hosszabb és szoros együttélésre utal.
+:74. A török nyelvű keveredés ténye a mai napig szerepet játszik a területet elfoglaló magyarok etnikai összetételéről szóló vitában.
+:75. Egyes kutatók a török nyelvű elemekből akár a magyarok részleges török származását is le akarták vezetni.
+:76. A nyelvészet azonban egyértelműen bizonyította, hogy a magyar nyelv a finn-ugor nyelvcsaládhoz tartozik.
+:77. A török nyelvi elemek kölcsönzött szavakként és a szoros kapcsolatok következményeként magyarázhatók, nem pedig a nyelv alapjaként.
+:78. A magyar nyelvben található számos török kölcsönszó, különösen az állattenyésztés és a mezőgazdaság területén, tanúskodik e kapcsolatok intenzitásáról.
+:79. Miután áttekintettük a kapcsolat szerkezetét, most a politikai feszültségeket kell megvizsgálnunk, amelyek végül a szakításhoz vezettek.
+:80. Ezeket a feszültségeket a források alapján csak részben és jelentős bizonytalansággal lehet rekonstruálni.
+:81. A kutatásokban több tényezőt is megvitatnak, amelyek nem zárják ki egymást, hanem valószínűleg együtt hatottak.
+:82. Egyrészt maga a kazár birodalom is egyre nagyobb nyomás alá került a 9. században.
+:83. Keleten új sztyeppei hatalmak erősödtek meg, amelyek felborították a fennálló erőegyensúlyt.
+:84. Különösen fontos szerepet játszottak ebben a pecsenegek, egy török nyelvű lovas nép.
+:85. A pechenegeket magukat is nyugat felé szorították a tőlük keletebbre élő népek, elsősorban az oghuzok.
+:86. Így láncreakció alakult ki, amelyben az elűzött nép a következőt hajtotta maga előtt.
+:87. Ez a dinamika évszázadokon át jellemző volt az eurázsiai sztyeppe történetére.
+:88. A nyugat felé nyomuló pechenegek közvetlenül abba a térségbe hatoltak be, ahol a kazár befolyás és a magyar települések határosak voltak.
+:89. Ez a változás a sztyeppe erőviszonyaiban destabilizálta az egész régiót.
+:90. Ez a kazárok és a pechenegek között élő magyarokat is egyre bizonytalanabb helyzetbe hozta.
+:91. A magyarok bizonyos értelemben két hatalmas sztyeppei nép frontjai közé szorultak.
+:92. Másrészt a kazár felsőbbrendűség és maguk a magyar törzsek közötti viszony is egyre feszültebbé vált.
+:93. Egy idegen központi hatalomtól való hosszabb távú függőség ellentétes volt a saját, felemelkedő vezető réteg érdekeivel.
+:94. A magyar törzsek egy közös nagyfejedelem alatt történő konszolidációjával nőtt a politikai önállóság iránti igény.
+:95. Egy olyan nép, amely saját központi vezetéssel rendelkezett, egyre kevésbé szorult a kazár védőszárnyra.
+:96. Az egykor hasznos beágyazódás a kazár rendszerbe így fokozatosan bilincsként kezdett megjelenni.
+:97. A kabarok lázadása a kazárok ellen egyébként is azt mutatja, hogy a kazár központi hatalom ebben az időben már nem volt vitathatatlan.
+:98. A belső konfliktusok és az elszakadási mozgalmak jelentősen gyengítették összetartó erejét.
+:99. Egy birodalom, amely nem tudta megakadályozni egész törzsek elszakadását, részben elvesztette egykori erejét.
+:100. Ezért túl egyszerű lenne a magyarok elindulását kizárólag a kazár nyomás elől való menekülésként értelmezni.
+:101. Inkább több, egyidejűleg ható erő együttes hatásáról volt szó.
+:102. Ezek közé tartozott a gyengülő kazár ellenőrzés, a felzárkózó pechenegek külső nyomása és a magyarok növekvő önállóságra való törekvése.
+:103. A kazár hegemónia eközben két, egymással ellentétes irányba hatott.
+:104. Amíg stabil volt, addig a magyarokat magához kötötte, és egyúttal megvédte őket más sztyeppei népektől.
+:105. A kazár hatalom mintegy védőfalat alkotott, amely mögött a magyarok viszonylag biztonságban élhettek.
+:106. Amikor ez a hatalom meggyengülni kezdett, ez a védelem megszűnt.
+:107. A magyarok ezentúl közvetlenül ki voltak téve a nyugat felé nyomuló pechenegek támadásainak.
+:108. A kazár fölény védelmező funkciója így éppen az ellenkezőjévé vált.
+:109. A pechenegek döntő, sőt végső soron kiváltó szerepet játszottak ebben a hálózatban.
+:110. Előrenyomulásuk olyan nyomás alá helyezte a magyarokat, amelyet azok hosszú távon nem tudtak ellenállni.
+:111. Már a Levediából Etelközbe való áttelepülést is a kutatások egy része a pechenegek elől való menekülésként értelmezi.
+:112. Etelköz az a folyók közötti települési területet jelölte, amelyet a magyarok Levediából való távozásuk után laktak.
+:113. De Etelközben sem találtak a magyarok tartós biztonságot a pecheneg támadások elől.
+:114. A források szerint elsősorban a pechenegek mértek döntő csapást a magyarokra.
+:115. Ez a támadás valószínűleg a bolgárokkal együttműködve történt.
+:116. A háttérben a magyarok és a bolgár uralkodó, Szimeon közötti konfliktus állt, amelynek során a magyarok Bizánc szövetségeseiként léptek fel.
+:117. Míg a magyar sereg egy része hadjáraton volt, a pechenegek kihasználták az alkalmat a támadásra.
+:118. Megtámadták az Etelközben hátramaradt magyar csoportokat, vagyis elsősorban a családokat, az állatállományt és a védtelen táborokat.
+:119. Ez a rajtaütés súlyos veszteségeket okozott, és a magyarok létszámát is jelentősen meggyengítette.
+:120. A hadsereg visszatérése a feldúlt települési területre lehetetlenné tette az Etelközben való további tartózkodást.
+:121. Ezt a csapást a kutatások gyakran tekintik a végleges nyugati vándorlás közvetlen kiváltó okának.
+:122. Ezáltal a Kárpát-medence 896-os elfoglalásának egyik fő ösztönzőjének számít.
+:123. A szűkebb értelemben vett kazár nyomás ekkorra már átment a pecheneg nyomásba.
+:124. A kazár védelmi funkció, amely egykor megóvta a magyarokat, véglegesen kudarcot vallott.
+:125. A Kárpát-medence ezzel szemben azt az előnyt kínálta, hogy a Kárpátok hegylánca természetes védelmet nyújtott.
+:126. A pechenegek nem tudták a magyarokat oda könnyedén követni.
+:127. Így a nyugati vándorlás a sztyeppei népektől védett menedékhely kereséseként is értelmezhető.
+:128. A kutatások az elmúlt évtizedekben árnyaltabbá tették a magyarok feletti hosszú és nyomasztó kazár uralomról alkotott hagyományos képet.
+:129. A korábbi ábrázolások hajlamosak voltak a magyarokat pusztán a kazárok alattvalóiként vagy szolgáiként tekinteni.
+:130. Ez a nézőpont azonban nem teszi igazságot a kapcsolat összetettségének.
+:131. Egyes történészek manapság inkább a kapcsolat partnerségi és önkéntes jellegét hangsúlyozzák.
+:132. Mások továbbra is a függőség és a tribútfizetési kötelezettség jellegét emelik ki.
+:133. Egy középútat képviselő álláspont a kapcsolatot az idő múlásával változó szerkezetnek tekinti, amely az adott hatalmi viszonyoktól függött.
+:134. Vitathatatlan, hogy a kazár világ meghatározó hatást gyakorolt a korai magyarok politikai szervezetére.
+:135. Ez a hatás először a centralizált fejedelmi méltóság mintájában nyilvánult meg.
+:136. A kazár mintára kialakított legfőbb vezetői szerv átvétele előkészítette Magyarország későbbi állami fejlődését.
+:137. A hatás továbbá a kabarok bevándorlásában is megnyilvánult, akik katonai és kulturális szempontból gazdagították a szövetséget.
+:138. Végül pedig bizonyos katonai és közigazgatási gyakorlatok átvételében is megnyilvánult.
+:139. A címek és méltóságok terén is feltételezhetők kazár nyomok.
+:140. Például a Gyula magyar cím, amely egy magas rangú méltóságot jelölt, a kazár kettős uralommal hozható összefüggésbe.
+:141. A nagyfejedelem mellett tehát egy második méltóságviselő állt, ami a kagan és a bek közötti felosztásra emlékeztet.
+:142. Ez a kettős struktúra még a honfoglalás idején is meghatározta a magyar vezetési rendet.
+:143. A magyar–khazár kapcsolat pontos időtartama a korai magyar történelem egyik legvitatottabb kérdése.
+:144. A becslések néhány évtizedtől két-három évszázadig terjedő szoros kapcsolatot tételeznek fel.
+:145. Ugyanilyen vitatott a függőség mértéke, vagyis az a kérdés, hogy a magyarok alattvalók, vazallusok vagy szövetségesek voltak-e.
+:146. A kazárokkal való szakítás pontos időpontja sem határozható meg biztosan.
+:147. Ezek a bizonytalanságok nem utolsósorban a szűkös és részben ellentmondásos forrásanyagnak köszönhetők.
+:148. Az írásos tanúvallomások túlnyomórészt külső megfigyelőktől, bizánciaktól és arab földrajztudósoktól származnak.
+:149. Ők gyakran csak hiányos vagy hallomásból származó ismeretekkel rendelkeztek a sztyeppén zajló eseményekről.
+:150. Maguk a magyarok nem hagytak hátra saját írásos forrásokat ebből az időszakból, mivel még nem rendelkeztek olyan írással, amely alkalmas lett volna közigazgatási és történetírási célokra.
+:151. A hazai magyar hagyományt csak évszázadokkal később, a késő középkorban rögzítették írásban.
+:152. Ekkor már legendás vonások és utólagos értelmezések alakították át.
+:153. A régészeti leletek kiegészíthetik a képet, de nehéz őket egyértelműen politikai eseményekhez rendelni.
+:154. A temetkezési helyek és a leletek ugyan bizonyítják a kapcsolatokat és a kulturális hatásokat, de konkrét politikai döntésekről nem árulnak el semmit.
+:155. Az arab földrajztudósok, mint például Ibn Rusta vagy al-Bakrī, értékes, de részben ellentmondásos információkat nyújtanak a magyarok életmódjáról.
+:156. A magyarokat lovas nomádokként írják le, akik rablóhadjáratokat indítottak szláv szomszédaik ellen, és foglyokat adtak el a bizánciaknak.
+:157. Ezek a leírások egy harcias és gazdaságilag aktív nép képét rajzolják ki a kazár befolyási övezeten belül.
+:158. Mindezekből a forrásokból nem egységes, hanem sokrétű kép rajzolódik ki.
+:159. A kutatás ezért sok tekintetben hipotézisekre és óvatos mérlegelésre kényszerül.
+:160. Ezen bizonytalanságok ellenére az általános fejlemények alapvető vonalai felismerhetők.
+:161. Összefoglalva megállapítható, hogy a kazár nyomás nem annyira hirtelen esemény volt, mint inkább egy hosszú távú folyamat.
+:162. E folyamat során a viszony alapvetően megváltozott.
+:163. A védelmet nyújtó beágyazottságból egyre inkább veszélyt jelentő függőség lett, majd végül elszakadás.
+:164. A politikai feszültségek nem egyetlen forrásból fakadtak, hanem több, egymással összefonódó fejleményből.
+:165. Egyrészt a kazár birodalom belső válságából eredtek, amelyet felkelések és a kötőerő gyengülése gyengített.
+:166. Másrészt a pechenegek külső nyomásából fakadtak, akik az egész sztyeppes rendszert mozgásba hozták.
+:167. Végül pedig a magyarok önállóságra való törekvéséből fakadtak, amely a saját államuk éretté válásával párhuzamosan erősödött.
+:168. Ez a három erő kölcsönösen erősítette egymást.
+:169. A kazárok gyengesége lehetővé tette a pechenegek előrenyomulását, ez az előrenyomulás pedig viszont értéktelenné tette a kazár védelmet.
+:170. Ugyanakkor a magyarok növekvő önbizalma megfosztotta a kazár igényt belső legitimitásától.
+:171. Összességében ezek az erők teremtették meg a feltételeket a nyugat felé történő induláshoz.
+:172. Ez az indulás végül Etelközön keresztül a Kárpátok medencéjébe vezette a magyarokat.
+:173. A kazár korszak maradandó nyomot hagyott a magyar népben és társadalmi rendjében.
+:174. Az Árpádok centralizált fejedelmi méltósága, a kultúra török nyelvű elemei és bizonyos katonai hagyományok tanúskodnak erről a hatásról.
+:175. Így a Kazár Birodalom a korai magyar történelem számára egyszerre volt iskola, védőhatalom és végül legyőzött bilincs.
+:176. A kazároktól való elszakadás ezért fordulópontot jelent a magyarok önálló nemzetté válásának útján.
+:177. A kazár példa nélkül aligha lett volna elképzelhető egy egységes vezetés kialakulása ebben a formában.
+:178. A kazár birodalom hanyatlása és a pecheneg nyomás nélkül azonban nem jött volna létre a nyugati vándorláshoz szükséges döntő ösztönzés sem.
+:179. Ebben a kettős értelemben a kazárokkal való kapcsolat a magyarok sorsának szempontjából aligha túlbecsülhető jelentőségű volt.
+:180. Csak a kazár feszültségek leküzdése nyitotta meg az utat ahhoz az új hazához, amely a magyar állam bölcsőjévé vált.
+
+ 
+
+
+=== 2.7.2 - Belső konfliktusok és hatalmi harcok a magyarok között - Innere Konflikte und Machtkämpfe unter den Magyaren ===
+
+:1. A besenyők és a kazárok felől érkező külső nyomás mellett belső feszültségek is alakították a magyarok sorsát a honfoglalást megelőző évtizedekben. - Neben dem äußeren Druck durch die Khazaren und die nachrückenden Petschenegen waren es auch innere Spannungen, die das Schicksal der Magyaren in den Jahrzehnten vor der Landnahme bestimmten.
+:2. Ezeket a belső konfliktusokat és hatalmi harcokat a forrásokban sokkal nehezebb megragadni, mint a külső fenyegetéseket. - Diese inneren Konflikte und Machtkämpfe sind in den Quellen weit schwerer zu fassen als die äußeren Bedrohungen.
+:3. Míg a idegen népek elleni háborúk megjelentek a bizánci és arab beszámolókban, a belső viszályok többnyire homályban maradtak. - Während Kriege gegen fremde Völker in byzantinischen und arabischen Berichten ihren Niederschlag fanden, blieben die internen Auseinandersetzungen meist im Dunkeln.
+:4. Mindazonáltal a elszórt utalásokból és a nomád társadalmi berendezkedés ismeretéből lekövetkeztetések vonhatók le. - Dennoch lassen sich aus den verstreuten Hinweisen und aus der Kenntnis der nomadischen Gesellschaftsordnung Rückschlüsse ziehen.
+:5. Aki meg akarja érteni ezeket a belső feszültségeket, annak először a magyar törzsi társadalom sajátos szerkezetét kell szemügyre vennie. - Wer diese inneren Spannungen begreifen will, muss zunächst die besondere Struktur der magyarischen Stammesgesellschaft betrachten.
+:6. A magyarok a honfoglalás előtti időszakban nem alkottak egységes államot, hanem több önálló törzs szövetségét képezték. - Die Magyaren bildeten in der Zeit vor der Landnahme keinen einheitlichen Staat, sondern einen Verband mehrerer eigenständiger Stämme.
+:7. A hagyomány hét magyar törzset nevez meg, amelyek szövetségre léptek egymással. - Die Überlieferung nennt sieben magyarische Stämme, die sich zu einem Bund zusammengeschlossen hatten.
+:8. Ehhez járult még a kabarok három törzse, így a szövetség összesen tíz törzsből állhatott. - Hinzu kamen die drei Stämme der Kabaren, sodass der Verband insgesamt aus zehn Stämmen bestanden haben dürfte.
+:9. E törzsek mindegyike saját vezetéssel, saját legelőterületekkel és saját önudattal rendelkezett. - Jeder dieser Stämme verfügte über eine eigene Führung, eigene Weidegebiete und ein eigenes Selbstbewusstsein.
+:10. A törzsek közötti kötelék nem egy felettes közigazgatáson, hanem szövetségen, közös érdeken és személyes hűségen alapult. - Die Bindung zwischen den Stämmen beruhte nicht auf einer übergeordneten Verwaltung, sondern auf Bündnis, gemeinsamem Interesse und persönlicher Gefolgschaft.
+:11. Egy ilyen szerkezet magában hordozta a belső feszültségek magas fokát. - Ein solches Gefüge barg von Natur aus ein hohes Maß an innerer Spannung.
+:12. Az egyes törzsek érdekei eltérhettek egymástól, és a teljes szövetség iránti hűség nem volt magától értetődő. - Die Interessen der einzelnen Stämme konnten auseinanderlaufen, und die Loyalität gegenüber dem Gesamtverband war nicht selbstverständlich.
+:13. Egy nomád lovas társadalomban a vezető hatalma lényegében a személyes tekintélyétől és katonai sikerétől függött. - In einer nomadischen Reitergesellschaft hing die Macht eines Anführers wesentlich von seinem persönlichen Ansehen und seinem militärischen Erfolg ab.
+:14. Az a fejedelem, aki zsákmányt, győzelmet és védelmet nyújtott, számíthatott a követőire. - Ein Fürst, der Beute, Sieg und Schutz bot, konnte mit Gefolgschaft rechnen.
+:15. Ezzel szemben az a fejedelem, aki vereséget szenvedett vagy gyengének bizonyult, gyorsan elveszítette tekintélyét. - Ein Fürst hingegen, der Niederlagen erlitt oder als schwach galt, verlor rasch an Autorität.
+:16. A uralomnak ez a sikertől való függése minden vezetői pozíciót alapvetően megkérdőjelezhetővé tett. - Diese Abhängigkeit der Herrschaft vom Erfolg machte jede Führungsposition grundsätzlich anfechtbar.
+:17. Ebben rejlik a magyarok közötti belső konfliktusok egyik legfontosabb gyökere. - Hier liegt eine der wichtigsten Wurzeln innerer Konflikte unter den Magyaren.
+:18. Amíg nem állt közös nagyfejedelem a törzsek élén, minden törzsvezető a saját politikáját folytathatta. - Solange kein gemeinsamer Großfürst über den Stämmen stand, konnte jeder Stammesführer seine eigene Politik verfolgen.
+:19. A szomszédos népekkel kötött szövetségek, a rablóhadjáratok és a legelőkkel kapcsolatos döntések nagyrészt az egyes törzsek kezében voltak. - Bündnisse mit Nachbarvölkern, Raubzüge und Weideentscheidungen lagen weitgehend in der Hand der einzelnen Stämme.
+:20. A hatalomnak ez a megosztottsága megnehezítette a közös külső fellépést. - Diese Zersplitterung der Macht erschwerte ein gemeinsames Handeln nach außen.
+:21. Ugyanakkor sebezhetővé tette a szövetséget a belső rivalizálással szemben. - Sie machte den Verband zugleich anfällig für innere Rivalitäten.
+:22. A központi nagyfejedelmi méltóság bevezetése, amely kazár mintára történt, kísérlet volt e gyengeség leküzdésére. - Die Einführung der zentralen Großfürstenwürde, die nach khazarischem Vorbild erfolgte, war ein Versuch, diese Schwäche zu überwinden.
+:23. A legfőbb fejedelem megválasztásával a szövetség egységét kívánták biztosítani, és növelni a külső csapásmérő erőt. - Mit der Erhebung eines obersten Fürsten sollte die Einheit des Verbandes gesichert und die Schlagkraft nach außen erhöht werden.
+:24. Ám éppen ez a lépés teremtett új konfliktusmezőket. - Doch gerade dieser Schritt schuf neue Konfliktfelder.
+:25. Az a kérdés, hogy melyik törzs és melyik család adhatja a nagyfejedelmet, a legmagasabb politikai jelentőséggel bírt. - Die Frage, welcher Stamm und welche Familie den Großfürsten stellen durfte, war von höchster politischer Bedeutung.
+:26. A központi epizód, amely megvilágítja ezeket a feszültségeket, a nagyfejedelmi méltóság átruházása Levediről Álmosra, illetve Árpádra. - Die zentrale Episode, die diese Spannungen beleuchtet, ist die Übertragung der Großfürstenwürde von Levedi auf Álmos beziehungsweise Árpád.
+:27. Levedi a hagyomány szerint az első tekintélyes vezető volt, akinek a kazár hatalom felajánlotta a nagyfejedelmi méltóságot. - Levedi war der Überlieferung nach der erste angesehene Anführer, dem die khazarische Macht die Großfürstenwürde antrug.
+:28. Bíborbans született Konstantin beszámolója szerint azonban Levedi visszautasította ezt az ajánlatot. - Nach dem Bericht des Konstantin VII. Porphyrogennetos lehnte Levedi dieses Angebot jedoch ab.
+:29. E visszautasítás okai tisztázatlanok maradnak a forrásban, és számos értelmezésre ösztönözték a kutatást. - Die Gründe für diese Ablehnung bleiben in der Quelle unklar und haben die Forschung zu vielen Deutungen angeregt.
+:30. Levedi ehelyett mást javasolt, mégpedig Álmost vagy annak fiát, Árpádot. - Levedi schlug stattdessen einen anderen vor, nämlich Álmos oder dessen Sohn Árpád.
+:31. A méltóságnak ez az átruházása egyik személyről és családról a másikra a vezetői struktúra megváltozására utal. - Diese Übertragung der Würde von einer Person und Familie auf eine andere deutet auf einen Wechsel in der Führungsstruktur hin.
+:32. Némely kutató ebben a rivalizáló nemzetségek közötti burkolt hatalmi harc jelét látja. - Manche Forscher sehen darin den Hinweis auf einen verdeckten Machtkampf zwischen rivalisierenden Geschlechtern.
+:33. Levedi látszólag önkéntes lemondása a valóságban egy olyan összecsapás eredménye lehetett, amelynek ő volt a vesztese. - Der scheinbar freiwillige Verzicht Levedis könnte in Wahrheit das Ergebnis einer Auseinandersetzung gewesen sein, deren Verlierer er war.
+:34. Mások az eseményt rendezett utódlási folyamatként értelmezik, amelyben a legrátermettebb nemzetség kapott elsőbbséget. - Andere deuten den Vorgang als geordnete Nachfolgeregelung, bei der das tüchtigste Geschlecht den Vorzug erhielt.
+:35. Az epizód mindenesetre megmutatja, hogy a legfelsőbb vezetés nem állt megkérdőjelezhetetlenül, hanem egyezkedés és rivalizálás tárgya volt. - In jedem Fall zeigt die Episode, dass die oberste Führung nicht unangefochten feststand, sondern Gegenstand von Aushandlung und Konkurrenz war.
+:36. Álmos és Árpád felemelkedésével a későbbi Árpádok nemzetsége került a szövetség élére. - Mit der Erhebung Álmos' und Árpáds setzte sich das Geschlecht der späteren Árpáden an die Spitze des Verbandes.
+:37. E családnak ettől kezdve igényt kellett formálnia a nagyfejedelmi méltóságra. - Diese Familie sollte fortan den Anspruch auf die Großfürstenwürde für sich behaupten.
+:38. Ezt az igényt azonban érvényesíteni kellett a többi törzsvezetővel szemben, és újra meg újra biztosítani kellett. - Doch ein solcher Anspruch musste gegen die übrigen Stammesführer durchgesetzt und immer wieder neu gesichert werden.
+:39. A többi törzs saját hatalmas vezetőkkel rendelkezett, akik nem hódoltak be feltétel nélkül az Árpádok elsőbbségének. - Die anderen Stämme verfügten über eigene mächtige Anführer, die sich der Vorrangstellung der Árpáden nicht ohne Weiteres beugten.
+:40. Ebben rejlik a tartós feszültség egy olyan forrása, amely messze a honfoglalás után is éreztette hatását. - Hier liegt eine Quelle dauerhafter Spannung, die weit über die Landnahme hinaus fortwirkte.
+:41. E belső feszültségek jelentős tanúsága az Álmos haláláról szóló fennmaradt monda. - Ein bedeutendes Zeugnis für diese inneren Spannungen ist die überlieferte Sage vom Tod des Álmos.
+:42. Egy magyar krónikahagyomány szerint Álmost a Kárpát-medencébe való bevonulás előtt megölték. - Nach einer ungarischen Chroniküberlieferung soll Álmos vor dem Einzug in das Karpatenbecken getötet worden sein.
+:43. A krónika beszámol arról, hogy Álmos nem léphetett az új hazába, és Erdélyben vesztette életét. - Die Chronik berichtet, dass Álmos die neue Heimat nicht betreten durfte und in Siebenbürgen ums Leben kam.
+:44. Némely történész e halált az öreg fejedelem rituális feláldozásaként értelmezi. - Manche Historiker deuten diesen Tod als rituelle Opferung des alten Fürsten.
+:45. Ezen értelmezés szerint a szakrális uralkodót az új földre való átmenetkor feláldozták, hogy igazolják az indulást. - Nach dieser Deutung wurde der sakrale Herrscher beim Übergang in ein neues Land geopfert, um den Aufbruch zu legitimieren.
+:46. Mások ebben egy erőszakos bukás jelét látják, vagyis egy Álmos és fia, Árpád, illetve más erők közötti hatalmi harcot. - Andere sehen darin den Hinweis auf einen gewaltsamen Sturz, also auf einen Machtkampf zwischen Álmos und seinem Sohn Árpád oder anderen Kräften.
+:47. Ha ez az értelmezés helytálló, akkor a hatalom Árpádra való átruházása belső konfliktussal járt együtt. - Sollte diese Deutung zutreffen, so wäre der Übergang der Macht auf Árpád von einem inneren Konflikt begleitet gewesen.
+:48. A források állása itt nem teszi lehetővé a biztos döntést, de maga a hagyomány a hatalomátadások törékenységére utal. - Die Quellenlage erlaubt hier keine sichere Entscheidung, doch verweist die Überlieferung selbst auf die Brüchigkeit der Herrschaftsübergänge.
+:49. A magyarok kettős fejedelemsége a lehetséges konfliktusok egy újabb mezőjét alkotta. - Die duale Führungsordnung der Magyaren bildete ein weiteres Feld möglicher Konflikte.
+:50. Kazár mintára láthatóan két méltóságviselő állt a szövetség élén. - Nach khazarischem Vorbild standen offenbar zwei Würdenträger an der Spitze des Verbandes.
+:51. A nagyfejedelem mellett, akit gyakran kende vagy kündü címmel illettek, egy második méltóságviselő állt, gyula címmel. - Neben dem Großfürsten, der häufig mit dem Titel Kende oder Kündü bezeichnet wird, stand ein zweiter Würdenträger mit dem Titel Gyula.
+:52. A kende a szakrális, inkább reprezentatív tisztséget töltötte be. - Der Kende soll dabei die sakrale, eher repräsentative Stellung innegehabt haben.
+:53. A gyula ezzel szemben a tényleges katonai és politikai hatalmat gyakorolta. - Der Gyula hingegen führte die tatsächliche militärische und politische Macht aus.
+:54. Ez a megosztás megfelelt a szakrális kagán és a világi bég kazár szétválasztásának. - Diese Aufteilung entsprach der khazarischen Trennung zwischen dem sakralen Khagan und dem weltlichen Bek.
+:55. Egy ilyen kettős vezetés kiegyenlíthette a hatalmat, de egyúttal magában hordozta a rivalizálás veszélyét is. - Eine solche Doppelspitze konnte die Macht ausgleichen, barg aber zugleich die Gefahr der Rivalität.
+:56. A csúcson lévő két méltóságviselő mindig magában hordozta annak lehetőségét, hogy az egyik megpróbálja felülmúlni a másikat. - Zwei Würdenträger an der Spitze bedeuteten stets die Möglichkeit, dass der eine den anderen zu überflügeln suchte.
+:57. A történeti személyek e tisztségekhez való pontos hozzárendelése vitatott a kutatásban. - Die genaue Zuordnung der historischen Personen zu diesen Ämtern ist in der Forschung umstritten.
+:58. Különösen az tisztázatlan, hogy maga Árpád milyen tisztséget töltött be, és az ő tisztsége hogyan viszonyult a többi vezetőéhez. - Unklar ist insbesondere, welche Stellung Árpád selbst innehatte und wie sich sein Amt zu dem der anderen Führer verhielt.
+:59. Ez a bizonytalanság a különböző hagyományrétegek összefonódását tükrözi. - Diese Unsicherheit spiegelt die Verschmelzung verschiedener Überlieferungsschichten wider.
+:60. De azt is megmutatja, hogy a magyarok vezetői rendje nem volt merev, hanem folyamatos egyezkedés tárgyát képezte. - Sie zeigt aber auch, dass die Führungsordnung der Magyaren nicht starr, sondern Gegenstand fortwährender Aushandlung war.
+:61. A nomád uralom egyik alapvető strukturális problémája az utódlás rendezésében rejlett. - Ein grundlegendes Strukturproblem der nomadischen Herrschaft lag in der Regelung der Nachfolge.
+:62. A sztyeppei társadalmakban gyakran nem az apáról fiúra szálló közvetlen öröklés elve érvényesült. - In den Steppengesellschaften galt häufig nicht das Prinzip der direkten Erbfolge vom Vater auf den Sohn.
+:63. Ehelyett gyakran az úgynevezett szeniorátus elve uralkodott, amely szerint az uralkodó család legidősebb férfi tagja követte őt a trónon. - Stattdessen herrschte oft das sogenannte Senioratsprinzip, nach dem das älteste männliche Mitglied der herrschenden Familie nachfolgte.
+:64. Ez az elv rendszeresen konfliktusokhoz vezetett a testvérek, nagybácsik és unokaöccsök között. - Dieses Prinzip führte regelmäßig zu Konflikten zwischen Brüdern, Onkeln und Neffen.
+:65. Minden férfi rokon igényt formálhatott az utódlásra. - Jeder männliche Verwandte konnte einen Anspruch auf die Nachfolge geltend machen.
+:66. Az ilyen tisztázatlan utódlási kérdések a belső hatalmi harcok állandó forrásai voltak. - Solche ungeklärten Nachfolgefragen waren eine ständige Quelle innerer Machtkämpfe.
+:67. A magyar történelemben is a szeniorátus elve és a primogenitúra egymás mellett élése még sokáig viszályokhoz vezetett. - Auch in der ungarischen Geschichte sollte das Nebeneinander von Senioratsprinzip und Primogenitur noch lange für Streit sorgen.
+:68. A honfoglalás előtti és alatti időszakban az Árpádok uralma még nem volt elég szilárd ahhoz, hogy kizárja az ilyen konfliktusokat. - In der Zeit vor und während der Landnahme war die Herrschaft der Árpáden noch nicht gefestigt genug, um solche Konflikte auszuschließen.
+:69. A magyar társadalom gazdasági alapja tovább élesítette a belső feszültségeket. - Die wirtschaftliche Grundlage der magyarischen Gesellschaft verschärfte die inneren Spannungen zusätzlich.
+:70. A magyarok állattenyésztésből, kereskedelemből és jelentős mértékben rablóhadjáratokból éltek. - Die Magyaren lebten von der Viehzucht, vom Handel und in erheblichem Maße von Raubzügen.
+:71. Az ilyen hadjáratok zsákmánya a gazdagság és a tekintély fontos forrása volt. - Die Beute solcher Raubzüge war eine wichtige Quelle des Reichtums und des Ansehens.
+:72. A zsákmány elosztása azonban könnyen vita tárgyává válhatott. - Die Verteilung der Beute aber konnte leicht zum Anlass von Streit werden.
+:73. Kényes kérdés volt, hogy ki tart igényt a nagyobb részre, ki vezette a hadjáratot, és kit illet a dicsőség. - Wer den größeren Anteil beanspruchte, wer den Zug geführt hatte und wem welcher Ruhm zukam, waren brisante Questions.
+:74. A zsákmány egyenlőtlen elosztása irigységet és rivalizálást szíthatott a törzsek és vezetőik között. - Ungleiche Beuteverteilung konnte Neid und Rivalität zwischen den Stämmen und ihren Anführern entfachen.
+:75. Ugyanígy a legjobb legelőkhöz való hozzáférés is konfliktusokhoz vezethetett. - Ebenso konnte der Zugang zu den besten Weidegründen zu Konflikten führen.
+:76. Egy olyan társadalomban, amelynek gazdagsága főként a csordákban rejlett, a legelő vitatott erőforrás volt. - In einer Gesellschaft, deren Reichtum vor allem in den Herden bestand, war die Weide eine umkämpfte Ressource.
+:77. A szomszédos nemzetségek és törzsek közötti legelővita a sztyeppei mindennapokhoz tartozott. - Streit um Weideland zwischen benachbarten Sippen und Stämmen gehörte zum Alltag der Steppe.
+:78. Az ilyen látszólag helyi konfliktusok nagyobb összecsapásokká terebélyesedhettek. - Solche scheinbar lokalen Konflikte konnten sich zu größeren Auseinandersetzungen ausweiten.
+:79. A harcosság szerepe az egész társadalmi berendezkedést és így a konfliktusra való hajlamot is meghatározta. - Die Rolle des Kriegertums prägte das gesamte gesellschaftliche Gefüge und damit auch die Konfliktbereitschaft.
+:80. A becsület, a bátorság és a harci dicsőség e társadalom legfőbb értékei közé tartoztak. - Ehre, Tapferkeit und kriegerischer Ruhm zählten zu den höchsten Werten dieser Gesellschaft.
+:81. Az a harcos, aki sértve vagy hátrányban érezte magát, kész volt erőszakkal megvédeni a becsületét. - Ein Krieger, der sich beleidigt oder benachteiligt fühlte, war zur gewaltsamen Wahrung seiner Ehre bereit.
+:82. Ez a becsületrend ugyan ösztönözte a bátorságot a harcban, de kedvezett a belső vérbosszúknak is. - Diese Ehrordnung förderte zwar den Mut im Kampf, begünstigte aber auch innere Fehden.
+:83. A vérbosszú és a megtorlás a felettes bíráskodás nélküli társadalomban a konfliktuskezelés elfogadott eszközei voltak. - Blutrache und Vergeltung waren in einer Gesellschaft ohne übergeordnete Gerichtsbarkeit gängige Mittel der Konfliktaustragung.
+:84. Csak egy erős központi hatalom tudta volna korlátozni az ilyen viszályokat, ám egy ilyen hatalom még csak kialakulóban volt. - Erst eine starke zentrale Gewalt konnte solche Fehden eindämmen, doch eine solche Gewalt war noch im Entstehen begriffen.
+:85. A kabarok integrálása a magyar szövetségbe újabb feszültségelemeket hozott magával. - Die Integration der Kabaren in den magyarischen Verband brought ein weiteres Spannungsmoment mit sich.
+:86. A kabarok kazár származásúak voltak, és más nyelvet beszéltek, mint a magyarok. - Die Kabaren waren khazarischer Herkunft und sprachen eine andere Sprache als die Magyaren.
+:87. Befogadásuk katonailag megerősítette a szövetséget, de egyúttal idegen elemet is hozott abba. - Ihre Aufnahme stärkte den Verband militärisch, fügte ihm aber auch ein fremdes Element hinzu.
+:88. A kabarok kiemelt szerepe elővédként gyanakvást kelthetett a tősgyökeres törzsekben. - Die herausgehobene Stellung der Kabaren als Vorhut konnte bei den alteingesessenen Stämmen Misstrauen wecken.
+:89. Egy idegen csoport beillesztése mindig a rang és a részesedés kiküzdését igényelte. - Die Eingliederung einer fremden Gruppe verlangte stets ein Aushandlung von Rang und Anteil.
+:90. Az ilyen integrációs folyamatok a nomád szövetségekben nem mindig zajlottak zökkenőmentesen. - Solche Eingliederungsprozesse verliefen in nomadischen Verbänden nicht immer reibungslos.
+:91. A kulturális és nyelvi különbségeket áthidalni kellett, ami időt és kölcsönös alkalmazkodást igényelt. - Die kulturellen und sprachlichen Unterschiede mussten überbrückt werden, was Zeit und gegenseitige Anpassung erforderte.
+:92. A kazárokhoz fűződő viszony maga is a belső véleménykülönbségek forrása volt. - Auch das Verhältnis zu den Khazaren selbst war eine Quelle innerer Meinungsverschiedenheiten.
+:93. A magyar vezetésen belül eltérő nézetek lehettek a Kazár Birodalomhoz való kötődésről. - Innerhalb der magyarischen Führung dürfte es unterschiedliche Auffassungen über die Bindung an das Khazarische Reich gegeben haben.
+:94. Némely vezető előnyösnek tarthatta a kazár hatalomhoz való szoros igazodást. - Manche Anführer mochten die enge Anlehnung an die khazarische Macht für vorteilhaft halten.
+:95. Mások az önállóságra törekedhettek, és függetlenedni akartak a kazár fennhatóságtól. - Andere mochten die Eigenständigkeit suchen und sich von der khazarischen Oberherrschaft lösen wollen.
+:96. Az ilyen alapvető külpolitikai kérdések megoszthatták a vezetőréteget. - Solche grundlegenden außenpolitischen Fragen konnten die Führungsschicht spalten.
+:97. A Kazár Birodalomtól elszakadt kabarok csatlakozása arra utal, hogy a kazárellenes vonal kerekedett felül. - Der Anschluss der vom Khazarenreich abgefallenen Kabaren deutet darauf hin, dass die antikhazarische Linie sich durchsetzte.
+:98. Ám ez a szemléletváltás maga is belső összecsapások eredménye lehetett. - Doch dieser Richtungswechsel war womöglich selbst das Ergebnis innerer Auseinandersetzungen.
+:99. Az igazodás és a elszakadás közötti választás egyúttal döntés volt a nemzetségek jövőbeli hatalmáról is. - Die Wahl zwischen Anlehnung und Loslösung war zugleich eine Wahl über die künftige Macht der Geschlechter.
+:100. Azok, akik az elszakadást szorgalmazták, saját hatalmi nyereséget kovácsolhattak belőle. - Diejenigen, die die Loslösung betrieben, konnten daraus eigene Machtgewinne ziehen.
+:101. A Levédiából Etelközbe való áttelepülés a belső megpróbáltatások különleges szakaszát jelezte. - Die Übersiedlung von Levedia nach Etelköz markierte eine Phase besonderer innerer Belastung.
+:102. Az ilyen nagyarányú vándorlások mindig komoly próbatétel elé állították egy nomád szövetség belső rendjét. - Solche großen Wanderungen stellten die innere Ordnung eines nomadischen Verbandes stets auf eine harte Probe.
+:103. A veszteségek, a nélkülözések és a gyors döntések kényszere élesítették a meglévő feszültségeket. - Verluste, Entbehrungen und die Notwendigkeit rascher Entscheidungen verschärften vorhandene Spannungen.
+:104. Ugyanakkor a sikeres vezetők válság idején növelhették tekintélyüket. - Zugleich konnten erfolgreiche Führer in Krisenzeiten ihre Autorität ausbauen.
+:105. A válságok ezért kétélűek voltak, mert egyszerre oszthatták meg a szövetséget és egyesíthették azt egy erős vezetés alatt. - Krisen wirkten daher zweischneidig, denn sie konnten den Verband sowohl spalten als auch unter einer starken Führung einen.
+:106. A besenyők felől fenyegető növekvő veszély szorosabb összefogásra kényszerítette a magyarokat. - Die wachsende Bedrohung durch die Petschenegen zwang die Magyaren zu engerem Zusammenhalt.
+:107. A külső nyomás felülírhatta a belső konfliktusokat, és egységre kényszeríthette a törzseket. - Der äußere Druck konnte innere Konflikte überlagern und die Stämme zur Geschlossenheit zwingen.
+:108. A veszélyben a központi vezetés elengedhetetlennek bizonyult, ami megerősítette a nagyfejedelem pozícióját. - In der Gefahr erwies sich die zentrale Führung als notwendig, was die Stellung des Großfürsten stärkte.
+:109. Így a külső fenyegetések paradox módon hozzájárultak a magyar rend belső megszilárdulásához. - So trugen die äußeren Bedrohungen paradoxerweise zur inneren Festigung der magyarischen Ordnung bei.
+:110. A hatalom Árpádok kezében való konszolidációja az e kihívásokra adott válaszként értelmezhető. - Die Konsolidierung der Macht in der Hand der Árpáden lässt sich als Antwort auf diese Herausforderungen verstehen.
+:111. Csak egy elismert vezetés alatt álló egységes szövetség lehetett képes megbirkózni a sztyeppei népekkel és a honfoglalás feladataival. - Nur ein geeinter Verband unter einer anerkannten Führung konnte den Steppenvölkern und den Aufgaben der Landnahme gewachsen sein.
+:112. A honfoglalás előtti belső hatalmi harcok ezért nem széttagoltsággal, hanem növekvő központosítással végződtek. - Die inneren Machtkämpfe der Vorlandnahmezeit endeten daher nicht mit der Zersplitterung, sondern mit einer zunehmenden Zentralisierung.
+:113. Ez a központosítás azonban még nem fejeződött be, amikor a magyarok elérték a Kárpát-medencét. - Diese Zentralisierung war jedoch nicht abgeschlossen, als die Magyaren das Karpatenbecken erreichten.
+:114. A törzsek régi önállósága még sokáig éreztette hatását a honfoglalás után is. - Die alte Eigenständigkeit der Stämme wirkte noch lange nach der Landnahme fort.
+:115. Az 896 utáni évtizedekben a törzsvezetők jelentős függetlenséget őriztek meg. - In den Jahrzehnten nach 896 behielten die Stammesführer eine erhebliche Selbständigkeit.
+:116. Az Árpád-házi nagyfejedelmeknek újra meg újra érvényesíteniük kellett elsőbbségüket a ellenálló törzsfőkkel szemben. - Die Großfürsten der Árpáden mussten ihre Vorrangstellung gegen widerstrebende Stammesfürsten immer wieder behaupten.
+:117. Csak Géza fejedelem és főleg I. István király alatt törték meg végleg az egyes törzsek hatalmát. - Erst unter Fürst Géza und vor allem unter König Stephan I. wurde die Macht der einzelnen Stämme endgültig gebrochen.
+:118. A korai idők belső konfliktusai így a későbbi állammá válás előtörténetét képezik. - Die inneren Konflikte der frühen Zeit bilden somit die Vorgeschichte der späteren Staatswerdung.
+:119. A e belső viszonyokról tájékoztató források különösen problematikusak. - Die Quellen, die über diese inneren Verhältnisse Auskunft geben, sind in besonderem Maße problematisch.
+:120. A legfontosabb bizánci forrás, VII. Konstantin műve, a 10. századi magyar követek álláspontját tükrözi. - Die wichtigste byzantinische Quelle, das Werk des Konstantin VII., gibt die Sicht der ungarischen Gesandten des 10. Jahrhunderts wieder.
+:121. Ezt a szemléletet már áthatotta az uralkodó Árpádok érdeke. - Diese Sicht war bereits durch das Interesse der herrschenden Árpáden gefärbt.
+:122. A hatalomátadások ábrázolása valószínűleg a fennálló uralom igazolását is szolgálta. - Die Darstellung der Machtübergänge diente vermutlich auch der Rechtfertigung der bestehenden Herrschaft.
+:123. Ami a méltóság rendezett és önkéntes átruházásának tűnik, az erőszakos cselekményt is leplezhetett. - Was als geordnete und freiwillige Übertragung der Würde erscheint, könnte einen gewaltsamen Vorgang verschleiern.
+:124. A hazai magyar krónikák csak a fejlett középkorban keletkeztek, vagyis évszázadokkal az események után. - Die einheimischen ungarischen Chroniken entstand erst im Hochmittelalter, also Jahrhunderte nach den Ereignissen.
+:125. A történeti emlékezetet ötvözik a mondával, a legendával és saját koruk politikai szándékaival. - Sie verbinden historische Erinnerung mit Sage, Legende und politischer Absicht ihrer eigenen Zeit.
+:126. Álmos halálának története például aligha választható el a későbbi értelmezésektől. - Die Geschichte vom Tod des Álmos etwa lässt sich kaum von späteren Deutungen trennen.
+:127. Ezért a belső hatalmi harcok rekonstrukciójánál különös óvatosságra van szükség. - Daher ist bei der Rekonstruktion innerer Machtkämpfe besondere Vorsicht geboten.
+:128. Sok minden csak feltételezés marad, és némely értelmezést inkább a nomád társadalmak általános ismerete vezérel, mintsem szilárd bizonyítékok. - Vieles muss Vermutung bleiben, und manche Deutung ist mehr von der allgemeinen Kenntnis nomadischer Gesellschaften geleitet als von festen Belegen.
+:129. Mindazonáltal az összképből kirajzolódik egy felismerhető minta. - Dennoch zeichnet sich aus der Gesamtschau ein erkennbares Muster ab.
+:130. A honfoglalás előtti magyar társadalmat a széttagoltság és az egyesülés közötti állandó feszültség jellemezte. - Die magyarische Gesellschaft der Vorlandnahmezeit war von einer ständigen Spannung zwischen Zersplitterung und Einigung geprägt.
+:131. Egyfelől ott volt a törzsek és vezetőik régi önállósága. - Auf der einen Seite stand die alte Eigenständigkeit der Stämme und ihrer Anführer.
+:132. Másfelől ott volt az egységes vezetés iránti növekvő igény. - Auf der anderen Seite stand das wachsende Bedürfnis nach einer einheitlichen Führung.
+:133. Ez a feszültség a legfőbb méltóságért folyó hatalmi harcokban és a nemzetségek közötti rivalizálásban robbant ki. - Diese Spannung entlud sich in Machtkämpfen um die oberste Würde und in Konkurrenzen zwischen den Geschlechtern.
+:134. Ezt élesítették a tisztázatlan utódlási szabályok, a zsákmányelosztás és a külpolitikai irányvonal kérdései. - Sie wurde verschärft durch ungeklärte Nachfolgeregeln, durch Beuteverteilung und durch außenpolitische Richtungsfragen.
+:135. Ugyanakkor enyhítette a külső nyomás, amely együttműködésre kényszerítette a törzseket. - Sie wurde zugleich gemildert durch den äußeren Druck, der die Stämme zur Zusammenarbeit zwang.
+:136. E szembenálló erők eredménye egy központi, ha még nem is megkérdőjelezhetetlen vezetés kialakulása volt. - Das Ergebnis dieser widerstreitenden Kräfte war die Herausbildung einer zentralen, wenn auch noch nicht unangefochtenen Führung.
+:137. Ez a vezetés az Árpádok nemzetségének kezében volt. - Diese Führung lag in der Hand des Geschlechts der Árpáden.
+:138. Árpáddal az élén lépett be a magyar szövetség a Kárpát-medencébe. - Mit Árpád an der Spitze trat der magyarische Verband in das Karpatenbecken ein.
+:139. A belső konfliktusok ezzel nem oldódtak meg, de annyira uralhatóvá váltak, hogy lehetővé tették a közös fellépést. - Die inneren Konflikte waren damit nicht gelöst, aber sie waren so weit beherrscht, dass ein gemeinsames Handeln möglich wurde.
+:140. Maga a honfoglalás magas fokú koordinációt és közös erőfeszítést feltételezett. - Die Landnahme selbst setzte ein hohes Maß an Koordination und gemeinsamer Anstrengung voraus.
+:141. Egy reménytelenül széthúzó szövetség nem tudott volna végrehajtani egy ilyen vállalkozást. - Ein hoffnungslos zerstrittener Verband hätte ein solches Unternehmen nicht durchführen können.
+:142. Az a tény, hogy a honfoglalás sikerült, a döntő pillanatban meglévő kielégítő belső egységről tanúskodik. - Die Tatsache, dass die Landnahme gelang, zeugt von einer hinreichenden inneren Geschlossenheit zum entscheidenden Zeitpunkt.
+:143. Ezt az egységet kivívták, nem örökölték, és továbbra is veszélyeztetett maradt. - Diese Geschlossenheit war errungen, nicht ererbt, und sie blieb gefährdet.
+:144. A magyarok közötti belső konfliktusok története így egyúttal politikai egységük kialakulásának története is. - Die Geschichte der inneren Konflikte unter den Magyaren ist somit zugleich die Geschichte der Entstehung ihrer politischen Einheit.
+:145. Összegzésképpen megállapítható, hogy a belső hatalmi harcok a korai magyar történelem szerves részét képezték. - Zusammenfassend lässt sich festhalten, dass die inneren Machtkämpfe ein wesentliches Element der frühen ungarischen Geschichte bildeten.
+:146. A nomád törzsi társadalom szerkezetében gyökereztek, ahol a hatalom sok vállra oszlott meg. - Sie wurzelten in der Struktur der nomadischen Stammesgesellschaft mit ihrer Verteilung der Macht auf viele Schultern.
+:147. A legfelsőbb vezetés és az utódlás kérdése robbantotta ki őket. - Sie entzündeten sich an der Frage der obersten Führung und der Nachfolge.
+:148. Táplálták őket a gazdasági érdekek, a harcosság becsületrendje és a külpolitikai ellentétek. - Sie wurden genährt von wirtschaftlichen Interessen, von der Ehrordnung des Kriegertums und von außenpolitischen Gegensätzen.
+:149. A hatalomnak az Árpádok kezében való fokozatos központosulásával végződtek. - Sie endeten in einer fortschreitenden Zentralisierung der Macht in der Hand der Árpáden.
+:150. Ez a központosítás képezte a honfoglalás és a későbbi magyar államalapítás elengedhetetlen feltételét. - Diese Zentralisierung bildete die unverzichtbare Voraussetzung für die Landnahme und für die spätere Gründung des ungarischen Staates.
+
+ 
+
+
+=== 2.7.3 - Klímatényezők és gazdasági tényezők - Klimatische oder ökonomische Faktoren ===
+
+:1. A magyarok indulását meghatározó politikai és katonai okok mellett a kutatásban a klímatényezőket és a gazdasági tényezőket is tárgyalják mint hajtóerőket. - Neben den politischen und militärischen Ursachen, die den Aufbruch der Magyaren bestimmten, werden in der Forschung auch klimatische und ökonomische Faktoren als treibende Kräfte diskutiert.
+:2. Ezek a tényezők kevésbé szembetűnőek, mint a hadi események, de gyakran mélyebben és hosszabb távon hatnak egész népek sorsára. - Diese Faktoren sind weniger augenfällig als kriegerische Ereignisse, wirken aber oft tiefer und langfristiger auf das Schicksal ganzer Völker ein.
+:3. Éppen egy olyan lovasnomád népnél, mint a magyarok, a természetes életfeltételek döntő jelentőséggel bírtak. - Gerade bei einem Reiternomadenvolk wie den Magyaren waren die natürlichen Lebensgrundlagen von entscheidender Bedeutung.
+:4. A sztyeppei élet közvetlenül az időjárástól, a csapadéktól és a legelőterületek elérhetőségétől függött. - Das Leben in der Steppe hing unmittelbar von Wetter, Niederschlag und der Verfügbarkeit von Weideland ab.
+:5. E feltételek meglehetősen kis változásai is messzire nyúló következményekkel járhattak egy nomád gazdaságra nézve. - Schon geringe Veränderungen dieser Bedingungen konnten weitreichende Folgen für eine nomadische Wirtschaft haben.
+:6. A magyarok gazdálkodási módja adja a kulcsot e klímatényezők és gazdasági tényezők megértéséhez. - Die Wirtschaftsweise der Magyaren liefert den Schlüssel zum Verständnis dieser klimatischen und ökonomischen Faktoren.
+:7. A magyarok a honfoglalás előtti időszakban félnomád lovaspásztorokként éltek. - Die Magyaren lebten in der Zeit vor der Landnahme als halbnomadische Reiterhirten.
+:8. Gazdasági alapjukat az állattenyésztés, különösen a ló-, szarvasmarha- és juhtenyésztés képezte. - Ihre wirtschaftliche Grundlage bildete die Viehzucht, insbesondere die Zucht von Pferden, Rindern und Schafen.
+:9. A ló kiemelkedő helyet foglalt el, mivel egyszerre volt szállítóeszköz, hadi felszerelés és státuszszimbólum. - Das Pferd nahm dabei eine herausragende Stellung ein, denn es war zugleich Transportmittel, Kriegsgerät und Statussymbol.
+:10. A csordák és nyájak húst, tejet, bőrt, gyapjút és más létfontosságú javakat szolgáltattak. - Die Herden lieferten Fleisch, Milch, Häute, Wolle und weitere lebensnotwendige Güter.
+:11. Egy ilyen gazdaság teljes mértékben a meglehetősen elegendő legelőterületekre volt utalva. - Eine solche Wirtschaft war vollständig auf ausreichende Weideflächen angewiesen.
+:12. Az állatokat egész évben fűvel kellett ellátni, ami nagy és jól öntözött legelőterületeket igényelt. - Die Tiere mussten das ganze Jahr über mit Gras versorgt werden, was große und gut bewässerte Weidegebiete erforderte.
+:13. A sztyeppe biztosította e legelőterületeket, de hozamuk erősen ingadozott a klímatényezőkkel. - Die Steppe bot diese Weideflächen, doch ihr Ertrag schwankte stark mit den klimatischen Bedingungen.
+:14. Elegendő esővel járó években a legelők virágoztak, és a nyájak gyarapodhattak. - In Jahren mit ausreichendem Regen gediehen die Weiden, und die Herden konnten wachsen.
+:15. Aszályos években viszont kiszáradt a fű, és a nyájak ínséget szenvedtek. - In Dürrejahren hingegen verdorrte das Gras, und die Herden litten Not.
+:16. A nyájak nagysága közvetlenül meghatározta egy nomád közösség gazdagságát és túlélési képességét. - Die Größe der Herden bestimmte unmittelbar den Reichtum und die Überlebensfähigkeit einer nomadischen Gemeinschaft.
+:17. Egy hosszabb aszályos időszak ezért egzisztenciális fenyegetést jelenthetett. - Eine längere Dürreperiode konnte daher eine existenzielle Bedrohung darstellen.
+:18. Emiatt a sztyeppei népek a klíma romlására gyakran a termékenyebb területekre való vándorlással reagáltak. - Aus diesem Grund reagierten Steppenvölker auf klimatische Verschlechterungen oft mit Wanderung in fruchtbarere Gebiete.
+:19. A mobilitás úgyszólván be volt építve a nomád életmódba, és a változó környezeti feltételekhez való alkalmazkodást szolgálta. - Die Mobilität war gewissermaßen in die nomadische Lebensweise eingebaut und diente der Anpassung an wechselnde Umweltbedingungen.
+:20. E háttér előtt a magyarok nyugatra vándorlása az ökológiai kényszerekre adott lehetséges válaszként is megjelenik. - Vor diesem Hintergrund erscheint die Wanderung der Magyaren nach Westen auch als mögliche Reaktion auf ökologische Zwänge.
+:21. Az eurázsiai sztyeppe hatalmas kiterjedésű térség, amely Mandzsúriától Közép-Európáig terjed. - Die eurasische Steppe ist ein Raum von gewaltiger Ausdehnung, der sich von der Mandschurei bis nach Mitteleuropa erstreckt.
+:22. Ezen a térségen belül kontinentális éghajlati viszonyok uralkodnak forró nyarakkal és hideg telekkel. - Innerhalb dieses Raumes herrschen kontinentale Klimabedingungen mit heißen Sommern und kalten Wintern.
+:23. A csapadék kevés és rendszertelen, ami a sztyeppét ökológiailag érzékeny élőhellyé teszi. - Die Niederschläge sind gering und unregelmäßig, was die Steppe zu einem ökologisch empfindlichen Lebensraum macht.
+:24. A csapadékmennyiség kis eltolódásai is eltolhatták a használható legelő és a terméketlen száraz sztyeppe közötti határt. - Schon kleine Verschiebungen der Niederschlagsmenge konnten die Grenze zwischen nutzbarer Weide und unfruchtbarer Trockensteppe verschieben.
+:25. A kutatás az elmúlt évtizedekben fokozottan próbálta rekonstruálni e régió klimatörténetét. - Die Forschung hat in den letzten Jahrzehnten verstärkt versucht, die Klimageschichte dieser Region zu rekonstruieren.
+:26. Ehhez különféle természettudományos módszerek szolgálnak, amelyek felvilágosítást adnak a múltbeli éghajlati viszonyokról. - Dazu dienen verschiedene naturwissenschaftliche Methoden, die Aufschluss über vergangene Klimabedingungen geben.
+:27. Egy fontos módszer a dendrokronológia, az öreg fák évgyűrűinek vizsgálata. - Eine wichtige Methode ist die Dendrochronologie, die Untersuchung von Jahresringen alter Bäume.
+:28. A széles évgyűrűk kedvező, a keskeny gyűrűk kedvezőtlen növekedési feltételekre utalnak. - Breite Jahresringe deuten auf günstige, schmale Ringe auf ungünstige Wachstumsbedingungen hin.
+:29. Egy másik módszer a tóüledékekben és tőzeglápokban fennmaradt virágporok elemzése. - Eine weitere Methode ist die Analyse von Pollen, die in Seesedimenten und Mooren erhalten geblieben sind.
+:30. A virágporok összetételéből következtetések vonhatók le az egykori növényzetre és így a klímára. - Aus der Zusammensetzung der Pollen lassen sich Rückschlüsse auf die einstige Vegetation und damit auf das Klima ziehen.
+:31. A jégfuratminták és a tavi üledékek is szolgáltatnak adatokat a korábbi évszázadok hőmérsékletéről és nedvességéről. - Auch Eisbohrkerne und Ablagerungen in Seen liefern Daten über Temperatur und Feuchtigkeit vergangener Jahrhunderte.
+:32. Ezek a módszerek jelentősen finomították a középkori klimatörténet képét. - Diese Methoden haben das Bild der mittelalterlichen Klimageschichte erheblich verfeinert.
+:33. A magyar vándorlás korára vonatkozóan ezekből az adatokból mindazonáltal nem adódik teljesen egységes kép. - Für die Zeit der magyarischen Wanderung ergibt sich aus diesen Daten allerdings kein völlig einheitliches Bild.
+:34. A 9. századból a 10. századba való átmenet ideje a fokozatos éghajlati változások fázisára esik. - Die Übergangszeit vom 9. zum 10. Jahrhundert fällt in eine Phase allmählicher klimatischer Veränderungen.
+:35. Ebben az időben Európa egyes részein beköszöntött az úgynevezett középkori meleg időszak. - In dieser Zeit setzte in Teilen Europas die sogenannte mittelalterliche Warmzeit ein.
+:36. A középkori meleg időszak a viszonylag enyhe hőmérsékletek egy periódusát jelöli, amely nagyjából a 9.-től a 13. századig tartott. - Die mittelalterliche Warmzeit bezeichnet eine Periode vergleichsweise milder Temperaturen, die etwa vom 9. bis ins 13. Jahrhundert reichte.
+:37. Közép-Európa és a Kárpát-medence számára ez a felmelegedés hajlamosan kedvezőbb feltételeket jelentett a földművelés és az állattenyésztés számára. - Für Mitteleuropa und das Karpatenbecken bedeutete diese Erwärmung tendenziell günstigere Bedingungen für Ackerbau und Viehzucht.
+:38. Az eurázsiai sztyeppére gyakorolt hatásokat azonban sokkal nehezebb meghatározni. - Für die eurasische Steppe sind die Auswirkungen jedoch weit schwerer zu bestimmen.
+:39. A felmelegedés egyes sztyeppei régiókban növekvő szárazsággal járhatott együtt. - Erwärmung konnte in manchen Steppenregionen mit zunehmender Trockenheit einhergehen.
+:40. Egy ilyen szárazság rontotta volna a legelőket, és nyomás alá helyezte volna a nomád gazdaságot. - Eine solche Trockenheit hätte die Weidegründe verschlechtert und die nomadische Wirtschaft unter Druck gesetzt.
+:41. Némely kutató ezért azt feltételezte, hogy a pontusi sztyeppén bekövetkező éghajlati romlások hozzájárultak a magyarok nyugati vándorlásához. - Manche Forscher haben daher vermutet, dass klimatische Verschlechterungen in der pontischen Steppe zur Westwanderung der Magyaren beitrugen.
+:42. Ezen értelmezés szerint a magyarok a nyugat nedvesebb és termékenyebb területein kerestek új életfeltételeket. - Nach dieser Deutung suchten die Magyaren in den feuchteren und ertragreicheren Gebieten des Westens neue Lebensgrundlagen.
+:43. A Kárpát-medence e tekintetben jelentős előnyöket kínált a nyílt sztyeppével szemben. - Das Karpatenbecken bot in dieser Hinsicht erhebliche Vorzüge gegenüber der offenen Steppe.
+:44. Termékeny talajokkal, elegendő csapadékkal és folyóhálózattal rendelkezett. - Es verfügte über fruchtbare Böden, ausreichende Niederschläge und ein Netz von Flüssen.
+:45. Különösen a Alföld, a Puszta hasonlított nyílt füves tájával a megszokott sztyeppére. - Insbesondere die Große Ungarische Tiefebene, die Puszta, ähnelte in ihrer offenen Graslandschaft der gewohnten Steppe.
+:46. Ugyanakkor a környező Kárpátok révén jobban védett és éghajlatilag kedvezőbb fekvésű volt. - Zugleich war sie durch die umgebenden Karpaten besser geschützt und klimatisch begünstigter.
+:47. Egy lovasnomád nép számára ez a térség ezért szinte ideális élőhelyet jelentett. - Für ein Reiternomadenvolk stellte dieser Raum daher einen geradezu idealen Lebensraum dar.
+:48. A nyílt síkság helyet kínált a nagy nyájaknak, míg a folyóvölgyek vizet és további legelőt szolgáltattak. - Die offene Ebene bot Platz für große Herden, während die Flusstäler Wasser und zusätzliche Weide lieferten.
+:49. A Kárpát-medence ezen ökológiai alkalmassága a cél megválasztása szempontjából jelentős jelentőséggel bírhatott. - Diese ökologische Eignung des Karpatenbeckens dürfte für die Wahl des Ziels von erheblicher Bedeutung gewesen sein.
+:50. A magyarok a területet ráadásul korábbi rablóhadjárataik révén már megismerték. - Die Magyaren hatten das Gebiet zudem durch frühere Raubzüge bereits kennengelernt.
+:51. Tudtak annak termékenységéről és előnyeiről, mielőtt végleg birtokukba vették volna. - Sie wussten um seine Fruchtbarkeit und seine Vorzüge, bevor sie es endgültig in Besitz nahmen.
+:52. A klíma mellett közvetlenül gazdasági tényezők is szerepet játszottak az indulásnál. - Neben dem Klima spielten auch unmittelbar ökonomische Faktoren eine Rolle beim Aufbruch.
+:53. A sztyeppe nomád gazdasága ritkán volt teljesen önellátó, hanem a letelepedett szomszédokkal való cserére volt utalva. - Die nomadische Wirtschaft der Steppe war selten vollständig autark, sondern auf den Austausch mit sesshaften Nachbarn angewiesen.
+:54. A nomádok állati termékeket szállítottak, és cserébe gabonát, kézművesárukat és luxuscikkeket kaptak. - Die Nomaden lieferten tierische Produkte und erhielten im Gegenzug Getreide, Handwerksgüter und Luxuswaren.
+:55. Ez a kereskedelem nagy jelentőséggel bírt a sztyeppei népek gazdasági egyensúlya szempontjából. - Dieser Handel war für das wirtschaftliche Gleichgewicht der Steppenvölker von großer Bedeutung.
+:56. A kereskedelmi kapcsolatok megzavarása megrázhatta egy nomád nép gazdasági alapját. - Eine Störung der Handelsbeziehungen konnte die wirtschaftliche Grundlage eines Nomadenvolkes erschüttern.
+:57. A magyarok ilyen kereskedelmi kapcsolatokban álltak mind a Kazár Birodalommal, mind Bizánccal. - Die Magyaren standen in solchen Handelsbeziehungen sowohl zum Khazarischen Reich als auch zu Byzanz.
+:58. A kazárok által ellenőrzött útvonalakon keresztül a távolsági kereskedelem árui jutottak a kezükbe. - Über die khazarisch kontrollierten Routen gelangten Waren des Fernhandels in ihre Hände.
+:59. A kazár hatalom hanyatlása és a sztyeppei eltolódások veszélyeztették e kereskedelmi utakat. - Der Niedergang der khazarischen Macht und die Verschiebungen in der Steppe gefährdeten diese Handelswege.
+:60. A besenyők előrenyomulása megszakíthatott fontos összeköttetéseket, és elvághatta a magyarokat a megszokott piacoktól. - Das Vordringen der Petschenegen unterbrach möglicherweise wichtige Verbindungen und schnitt die Magyaren von gewohnten Märkten ab.
+:61. Egy ilyen gazdasági elszigetelődés felerősítette volna a jobb összeköttetésű térségbe való vándorlás ösztönzését. - Eine solche wirtschaftliche Isolation hätte den Anreiz zur Wanderung in einen besser angebundenen Raum verstärkt.
+:62. Egy másik gazdasági tényező a rablóhadjáratok jelentősége volt a magyar gazdaság számára. - Ein weiterer ökonomischer Faktor war die Bedeutung der Raubzüge für die magyarische Wirtschaft.
+:63. A rablóhadjáratokból származó zsákmány kiegészítette az állattenyésztés hozamait, és fontos bevételi forrás volt. - Die Beute aus Raubzügen ergänzte die Erträge der Viehzucht und war eine wichtige Einnahmequelle.
+:64. Rabszolgákat, nemesfémeket és értéktárgyakat zsákmányoltak, és részben továbbadták őket. - Sklaven, Edelmetalle und Wertgegenstände wurden erbeutet und teils weiterverkauft.
+:65. A nyugat gazdag országai jövedelmezőbb célpontokat ígértek az ilyen rablóhadjáratok számára, mint a kelet már kizsákmányolt területei. - Die reichen Länder des Westens versprachen lohnendere Ziele für solche Raubzüge als die bereits ausgebeuteten Gebiete des Ostens.
+:66. A Közép-Európa tehetős birodalmaihoz való közelség e tekintetben is vonzóvá tette a Kárpát-medencét. - Die Nähe zu den wohlhabenden Reichen Mitteleuropas machte das Karpatenbecken auch in dieser Hinsicht attraktiv.
+:67. Onnan Olaszország, a Keleti Frank Birodalom és a Balkán könnyen elérhető volt. - Von dort aus ließen sich Italien, das Ostfränkische Reich und der Balkan leicht erreichen.
+:68. A zsákmánygazdálkodás gazdasági logikája így szintén a nyugati vándorlás mellett szólt. - Die wirtschaftliche Logik der Beutewirtschaft sprach somit ebenfalls für eine Westwanderung.
+:69. A nomád társadalmak egyik alapvető gazdasági problémája a legelő túlhasználatára való hajlam volt. - Ein grundlegendes ökonomisches Problem nomadischer Gesellschaften war die Tendenz zur Übernutzung der Weide.
+:70. Ha a nyájak és a népesség meghaladták azt a mértéket, amelyet a rendelkezésre álló legelő elbírt, többlet keletkezett. - Wuchsen die Herden und die Bevölkerung über das Maß hinaus, das die verfügbare Weide tragen konnte, entstand ein Überschuss.
+:71. Ezt az ember- és állattöbbletet a legelőterület kiterjesztésével vagy elvándorlással kellett kiegyenlíteni. - Dieser Überschuss an Menschen und Tieren musste durch Ausdehnung des Weidegebietes oder durch Abwanderung ausgeglichen werden.
+:72. A népességnyomás és a legelőhiány ezért együtt vándorláshoz vezethetett. - Bevölkerungsdruck und Weidenot konnten daher gemeinsam zur Migration führen.
+:73. Hogy a magyarok valóban alá voltak-e vetve egy ilyen belső növekedési nyomásnak, a forrásokból nem igazolható biztosan. - Ob die Magyaren tatsächlich einem solchen inneren Wachstumsdruck unterlagen, lässt sich aus den Quellen nicht sicher belegen.
+:74. A feltételezés azonban a nomád társadalmak általános ismeretéből adódóan plauzibilis. - Die Annahme ist jedoch aus der allgemeinen Kenntnis nomadischer Gesellschaften plausibel.
+:75. A klímatényezők és gazdasági tényezők a sztyeppén gyakran együtt hatottak és erősítették egymást. - Klimatische und ökonomische Faktoren wirkten in der Steppe häufig zusammen und verstärkten einander.
+:76. A legelő éghajlati eredetű romlása gazdasági ínséghez vezetett. - Eine klimatisch bedingte Verschlechterung der Weide führte zu wirtschaftlicher Not.
+:77. Ez az ínség viszont élesítette a megmaradt erőforrásokért folyó versenyt. - Diese Not wiederum verschärfte die Konkurrenz um die verbliebenen Ressourcen.
+:78. A legelőföldért folyó verseny gyakri oka volt a sztyeppei népek közötti konfliktusoknak. - Die Konkurrenz um Weideland war eine häufige Ursache für Konflikte zwischen den Steppenvölkern.
+:79. Így egy ökológiai válság vándorlások és kiszorítások láncolatát indíthatta el. - So konnte eine ökologische Krise eine Kette von Wanderungen und Verdrängungen auslösen.
+:80. A sztyeppei népek már említett láncmozgásának gyakran volt klíma- vagy gazdasági gyökere. - Die bereits erwähnte Kettenbewegung der Steppenvölker hatte oft eine klimatische oder ökonomische Wurzel.
+:81. Ha egy népet aszály vagy túlhasználat miatt kiszorítottak a területéről, az a maga részéről a nyugati szomszédait szorította ki. - Wenn ein Volk durch Dürre oder Übernutzung aus seinem Gebiet gedrängt wurde, drängte es seinerseits die westlichen Nachbarn.
+:82. Ily módon a távoli Belső-Ázsia klímaeseményei még Európában is megmutathatták következményeiket. - Auf diese Weise konnten Klimaereignisse im fernen Inneren Asiens noch in Europa ihre Folgen zeigen.
+:83. A besenyők előrenyomulásának, amely a magyarokat olyan erősen nyomás alá helyezte, magának is lehetett ilyen oka. - Das Vordringen der Petschenegen, das die Magyaren so stark unter Druck setzte, könnte selbst eine solche Ursache gehabt haben.
+:84. A besenyőket a távolabb keletre élő úzok szorították ki, akiknek a mozgása viszont a sztyeppei okokra vezethető vissza. - Die Petschenegen wurden von den weiter östlich lebenden Oghusen verdrängt, deren Bewegung wiederum Ursachen in der Steppe hatte.
+:85. Így illeszkedik a klíma-gazdasági tényező a vándorlási mozgások összképébe. - So fügt sich der klimatisch-ökonomische Faktor in das Gesamtbild der Wanderungsbewegungen ein.
+:86. Mindazonáltal e tényezők értékelésénél tudományos óvatosságra van szükség. - Allerdings ist bei der Bewertung dieser Faktoren wissenschaftliche Vorsicht geboten.
+:87. Nagy a kísértés, hogy az összetett történeti folyamatokat egyetlen okra vezessük vissza. - Die Versuchung ist groß, komplexe historische Vorgänge auf eine einzige Ursache zurückzuführen.
+:88. A magyar vándorlás pusztán éghajlati magyarázata azonban éppolyan egyoldalú lenne, mint a pusztán politikai. - Eine rein klimatische Erklärung der magyarischen Wanderung wäre jedoch ebenso einseitig wie eine rein politische.
+:89. A klíma megszabta a keretfeltételeket, de a konkrét döntéseket az emberek hozták meg politikai és katonai megfontolásokból. - Das Klima setzte Rahmenbedingungen, doch die konkreten Entscheidungen trafen Menschen aus politischen und militärischen Erwägungen.
+:90. A klímadeterminizmus, vagyis az a képzet, hogy a klíma egymaga határozza meg a történelem menetét, a modern kutatásban elavultnak számít. - Klimatischer Determinismus, also die Vorstellung, das Klima allein bestimme den Lauf der Geschichte, gilt in der modernen Forschung als überholt.
+:91. Ehelyett a környezeti tényezők mindig a társadalmi, politikai és kulturális erőkkel kölcsönhatásban hatnak. - Vielmehr wirken Umweltfaktoren stets im Zusammenspiel mit gesellschaftlichen, politischen und kulturellen Kräften.
+:92. A klíma lehetőségeket nyit meg és határokat szab, de maga nem cselekszik. - Das Klima eröffnet Möglichkeiten und setzt Grenzen, aber es handelt nicht selbst.
+:93. A magyarok reagáltak a megváltozott környezeti feltételekre, de reakciójuk módját a társadalmuk és a vezetésük határozta meg. - Die Magyaren reagierten auf veränderte Umweltbedingungen, doch die Art ihrer Reaktion war von ihrer Gesellschaft und ihrer Führung geprägt.
+:94. Egy másik módszertani probléma a klímaadatok időbeli és térbeli hozzárendelésében rejlik. - Ein weiteres methodisches Problem liegt in der zeitlichen und räumlichen Zuordnung der Klimadaten.
+:95. A természettudományos megállapítások gyakran csak durva tendenciákat tükröznek nagy térségeken és hosszú időszakokon keresztül. - Die naturwissenschaftlichen Befunde geben oft nur grobe Trends über große Räume und lange Zeiträume wieder.
+:96. Nehezen kapcsolhatók össze egyes történeti eseményekkel, mint egy bizonyos nép vándorlásával. - Sie lassen sich nur schwer mit einzelnen historischen Ereignissen wie der Wanderung eines bestimmten Volkes verknüpfen.
+:97. A tóüledékekben kimutatott aszály nem értelmezhető minden további nélkül egy konkrét indulás okaként. - Eine in Seesedimenten nachgewiesene Dürre lässt sich nicht ohne Weiteres als Ursache eines konkreten Aufbruchs deuten.
+:98. A klímaadatok és a történeti események közötti kapcsolat ezért gyakran hipotetikus marad. - Die Verbindung zwischen Klimadaten und historischen Ereignissen bleibt daher oft hypothetisch.
+:99. Ehhez járul még, hogy az írott források a klíma- és gazdasági viszonyokról többnyire hallgatnak. - Hinzu kommt, dass die schriftlichen Quellen über klimatische und wirtschaftliche Verhältnisse meist schweigen.
+:100. A bizánci és arab beszámolók a háborúk, uralkodók és a vallás iránt érdeklődtek, aligha az időjárás és a legelőhozamok iránt. - Die byzantinischen und arabischen Berichte interessierten sich für Kriege, Herrscher und Religion, kaum aber für Wetter und Weideerträge.
+:101. A magyarok gazdasági indítékait ezért nagyrészt ki kell következtetni. - Die wirtschaftlichen Beweggründe der Magyaren müssen daher weitgehend erschlossen werden.
+:102. A nomád gazdálkodási módok általános ismeretéből és közvetett utalásokból adódnak. - Sie ergeben sich aus der allgemeinen Kenntnis nomadischer Wirtschaftsweisen und aus indirekten Hinweisen.
+:103. E bizonytalanságok ellenére a klíma-gazdasági tényezők jelentősége nem tagadható. - Trotz dieser Unsicherheiten lässt sich die Bedeutung der klimatisch-ökonomischen Faktoren nicht leugnen.
+:104. E tényezők alkották a hátteret, amely előtt a politikai és katonai események zajlottak. - Sie bildeten den Hintergrund, vor dem sich die politischen und militärischen Ereignisse abspielten.
+:105. A magyarok nomád gazdasága nagymértékben függött a természetes feltételektől. - Die nomadische Wirtschaft der Magyaren war hochgradig von den natürlichen Bedingungen abhängig.
+:106. E feltételek minden változásának hatnia kellett az életükre. - Jede Veränderung dieser Bedingungen musste sich auf ihr Leben auswirken.
+:107. Ebben az értelemben a klímatényezők és gazdasági tényezők mindig jelen voltak, még ha a forrásokban nem is nevezik meg őket kifejezetten. - In diesem Sinne waren klimatische und ökonomische Faktoren stets gegenwärtig, auch wenn sie in den Quellen nicht ausdrücklich genannt werden.
+:108. A régészeti leletek itt kiegészítő hozzájárulást nyújthatnak. - Die archäologischen Funde können hier einen ergänzenden Beitrag leisten.
+:109. A településekről és sírokból származó állatcsontok vizsgálatai felvilágosítást adnak a nyájak összetételéről. - Untersuchungen von Tierknochen aus Siedlungen und Gräbern geben Aufschluss über die Zusammensetzung der Herden.
+:110. Az ebben az összetételben bekövetkező változások a megváltozott környezeti feltételekhez való gazdasági alkalmazkodásra utalhatnak. - Veränderungen in dieser Zusammensetzung können auf wirtschaftliche Anpassungen an veränderte Umweltbedingungen hindeuten.
+:111. A növénymaradványok elemzése is lehetővé teszi a táplálkozásra és a gazdálkodási módra való következtetéseket. - Auch die Analyse von Pflanzenresten erlaubt Rückschlüsse auf die Ernährung und die Wirtschaftsweise.
+:112. Így jön létre a természettudomány és a régészet együttműködéséből a életfeltételek egyre pontosabb képe. - So entsteht aus dem Zusammenwirken von Naturwissenschaft und Archäologie ein zunehmend genaueres Bild der Lebensgrundlagen.
+:113. Ez a kép megerősíti a magyarok szoros kapcsolatát az állattenyésztéssel és a sztyeppei ökológiával. - Dieses Bild bestätigt die enge Verbindung der Magyaren mit der Viehzucht und der Steppenökologie.
+:114. Egyúttal megmutatja e gazdálkodási mód sérülékenységét a környezeti változásokkal szemben. - Es zeigt zugleich die Anfälligkeit dieser Wirtschaftsweise gegenüber Umweltveränderungen.
+:115. A Kárpát-medence alkalmassága a magyar gazdaság számára a honfoglalás után is kimutatható. - Die Eignung des Karpatenbeckens für die magyarische Wirtschaft lässt sich auch nach der Landnahme nachweisen.
+:116. A magyarok a megszokott életmódjukat az új hazában kezdetben nagyrészt folytatni tudták. - Die Magyaren konnten ihre gewohnte Lebensweise in der neuen Heimat zunächst weitgehend fortsetzen.
+:117. Az Alföld lehetővé tette a ló- és állattenyésztés folytatását nagy léptékben. - Die Große Tiefebene erlaubte die Fortführung der Pferde- und Viehzucht in großem Maßstab.
+:118. Csak fokozatosan ment végbe az átmenet a nomád életmódról a letelepedett életmódra. - Erst allmählich vollzog sich der Übergang von der nomadischen zur sesshaften Lebensweise.
+:119. Ez az átmenet hosszú folyamat volt, amely generációkon keresztül húzódott. - Dieser Übergang war ein langer Prozess, der sich über Generationen erstreckte.
+:120. A medence termékeny talajai végül kedveztek a földművelésnek és a tartós települések kialakulásának. - Die fruchtbaren Böden des Beckens begünstigten schließlich den Ackerbau und die Entstehung dauerhafter Siedlungen.
+:121. Így a Kárpát-medence mind a régi életmód megőrzésének, mind a jövőbeli átállásnak a lehetőségét kínálta. - So bot das Karpatenbecken sowohl die Möglichkeit zur Bewahrung der alten Lebensweise als auch zur künftigen Umstellung.
+:122. Ez a kettős alkalmasság tette a vándorlás különösen kedvező céljává. - Diese doppelte Eignung machte es zu einem besonders günstigen Ziel der Wanderung.
+:123. E térség megválasztása ezért nem volt véletlenszerű, hanem megfelelt a magyarok gazdasági szükségleteinek. - Die Wahl dieses Raumes war daher nicht zufällig, sondern entsprach den ökonomischen Bedürfnissen der Magyaren.
+:124. A klíma- és gazdasági megfontolások így belefolytak a honfoglalás stratégiai döntésébe. - Klimatische und wirtschaftliche Erwägungen flossen somit in die strategische Entscheidung der Landnahme ein.
+:125. Ezt a döntést mindazonáltal nem szabad a modern értelemben vett tudatos tervezésként elképzelni. - Man darf sich diese Entscheidung allerdings nicht als bewusste Planung im modernen Sinne vorstellen.
+:126. Ehelyett a nyomásra és a lehetőségre adott lépésről lépésre történő reagálásról volt szó. - Vielmehr handelte es sich um ein schrittweises Reagieren auf Druck und Gelegenheit.
+:127. A magyarok kitérek a besenyők nyomása elől, és egyúttal kihasználták egy megfelelő élőhely lehetőségét. - Die Magyaren wichen dem Druck der Petschenegen aus und nutzten zugleich die Gelegenheit eines geeigneten Lebensraumes.
+:128. A szükségesség és a lehetőség e kapcsolatában rejlik vándorlásuk lényege. - In dieser Verbindung von Notwendigkeit und Möglichkeit liegt das Wesen ihrer Wanderung.
+:129. A klíma-gazdasági tényezők alkották a szükségességet, a megfelelő térség pedig a lehetőséget. - Die klimatisch-ökonomischen Faktoren bildeten dabei die Notwendigkeit, der geeignete Raum die Möglichkeit.
+:130. A kettő együtt adta a nyugati vándorlás logikáját. - Beide zusammen ergaben die Logik der Westwanderung.
+:131. Tanulságos a magyar vándorlást a sztyeppetörténet nagyobb összefüggésébe beilleszteni. - Es ist aufschlussreich, die magyarische Wanderung in den größeren Zusammenhang der Steppengeschichte einzuordnen.
+:132. Az eurázsiai sztyeppe történetét a népvándorlások sora határozza meg. - Die Geschichte der eurasischen Steppe ist von einer Abfolge von Völkerwanderungen geprägt.
+:133. Hunok, avarok, bulgárok, magyarok és később a mongolok vonultak egymás után nyugatra. - Hunnen, Awaren, Bulgaren, Magyaren und später die Mongolen zogen nacheinander nach Westen.
+:134. Ezek a vándorlások gyakran hasonló mintákat követtek, és részben hasonló okaik voltak. - Diese Wanderungen folgten oft ähnlichen Mustern und hatten teilweise ähnliche Ursachen.
+:135. Újra meg újra szerepet játszottak az éghajlati ingadozások, a legelőhiány és a követő népek nyomása. - Immer wieder spielten Klimaschwankungen, Weidenot und der Druck nachrückender Völker eine Rolle.
+:136. A magyar vándorlás beilleszkedik a sztyeppei népvándorlások e hosszú láncolatába. - Die magyarische Wanderung reiht sich in diese lange Kette der Steppenvölkerwanderungen ein.
+:137. Nem volt egyedülálló esemény, hanem egy visszatérő történeti minta része. - Sie war kein einzigartiges Ereignis, sondern Teil eines wiederkehrenden historischen Musters.
+:138. E minta megértése segít a klíma-gazdasági tényezők helyes besorolásában. - Das Verständnis dieses Musters hilft, die klimatisch-ökonomischen Faktoren richtig einzuordnen.
+:139. Nem jelentettek magyar sajátosságot, hanem a sztyeppei élet általános feltételét képezték. - Sie waren keine magyarische Besonderheit, sondern eine allgemeine Bedingung des Steppenlebens.
+:140. Ami a magyarokat megkülönböztette elődeiktől, az a letelepedésük tartós sikere volt. - Was die Magyaren von ihren Vorgängern unterschied, war der dauerhafte Erfolg ihrer Niederlassung.
+:141. Míg sok sztyeppei nép csak átmenetileg uralkodott a Kárpát-medencében, a magyaroknak sikerült a maradandó megtelepedés. - Während viele Steppenvölker im Karpatenbecken nur vorübergehend herrschten, gelang den Magyaren eine bleibende Ansiedlung.
+:142. A térség ökológiai alkalmassága gazdálkodásuk számára lényegesen hozzájárult ehhez a sikerhez. - Die ökologische Eignung des Raumes für ihre Wirtschaftsweise trug wesentlich zu diesem Erfolg bei.
+:143. A magyarok itt olyan élőhelyet találtak, amely különösen megfelelt az igényeiknek. - Die Magyaren fanden hier einen Lebensraum, der ihren Bedürfnissen in besonderem Maße entsprach.
+:144. Ugyanakkor a Kárpátok nyújtotta védelem megadta nekik azt a biztonságot, amely elődeikből gyakran hiányzott. - Zugleich bot ihnen der Schutz durch die Karpaten die Sicherheit, die ihren Vorgängern oft gefehlt hatte.
+:145. Így kapcsolódtak össze a kedvező természetes feltételek a sikeres politikai konszolidációval. - So verbanden sich günstige natürliche Bedingungen mit der gelungenen politischen Konsolidierung.
+:146. Ez a kapcsolat vetette meg az alapját a magyar nép tartós létezésének az új hazájában. - Diese Verbindung legte den Grund für die dauerhafte Existenz des ungarischen Volkes in seiner neuen Heimat.
+:147. A klíma-gazdasági tényezők jelentősége így túllép az induláson, egészen a megtelepedésig. - Die Bedeutung der klimatisch-ökonomischen Faktoren reicht somit über den Aufbruch hinaus bis in die Ansiedlung hinein.
+:148. Nemcsak azt magyarázza meg, miért indultak el a magyarok, hanem azt is, miért éppen ott maradtak. - Sie erklärt nicht nur, warum die Magyaren aufbrachen, sondern auch, warum sie gerade dort blieben.
+:149. Ezáltal e tényezők végigvonuló szálnak bizonyulnak a honfoglalás történetében. - Damit erweisen sich diese Faktoren als ein durchgehender Faden in der Geschichte der Landnahme.
+:150. Minden jelentőségük mellett azonban nem szabad őket elszigetelten szemlélni. - Bei aller Bedeutung dürfen sie jedoch nicht isoliert betrachtet werden.
+:151. Csak a politikai, katonai és társadalmi erőkkel való kölcsönhatásban adódik ki a teljes kép. - Erst im Zusammenspiel mit den politischen, militärischen und gesellschaftlichen Kräften ergibt sich das vollständige Bild.
+:152. A magyarok vándorlása sok egymásba kapcsolódó ok eredménye volt. - Die Wanderung der Magyaren war das Ergebnis vieler ineinandergreifender Ursachen.
+:153. A klíma szabta meg a sztyeppei élet ökológiai keretfeltételeit. - Das Klima setzte die ökologischen Rahmenbedingungen für das Leben in der Steppe.
+:154. A gazdaság határozta meg a nép anyagi szükségleteit és lehetőségeit. - Die Wirtschaft bestimmte die materiellen Bedürfnisse und Möglichkeiten des Volkes.
+:155. A politika szabályozta a vezetés döntéseit és a szomszédokhoz való viszonyt. - Die Politik regelte die Entscheidungen der Führung und das Verhältnis zu den Nachbarn.
+:156. A katonaság döntött a fenyegetésekkel szembeni helytállás és az új területek meghódításának képességéről. - Das Militär entschied über die Fähigkeit, sich gegen Bedrohungen zu behaupten und neue Gebiete zu erobern.
+:157. Mindezek a tényezők együtt hatottak, és nem választhatók el tisztán egymástól. - Alle diese Faktoren wirkten zusammen und lassen sich nicht sauber voneinander trennen.
+:158. A klíma-gazdasági tényezők alkották ebben a gyakran figyelmen kívül hagyott, de alapvető réteget. - Die klimatisch-ökonomischen Faktoren bildeten dabei die oft übersehene, aber grundlegende Schicht.
+:159. A háttérben hatottak, de hatásuk mélyreható és tartós volt. - Sie wirkten im Verborgenen, doch ihre Wirkung war tiefgreifend und nachhaltig.
+:160. A modern történettudomány az elmúlt évtizedekben egyre inkább méltányolta jelentőségüket. - Die moderne Geschichtswissenschaft hat ihre Bedeutung in den letzten Jahrzehnten zunehmend gewürdigt.
+:161. A környezettörténet a történeti kutatás fontos ágává vált. - Die Umweltgeschichte ist zu einem wichtigen Zweig der historischen Forschung geworden.
+:162. Az ember és a természet múltbéli viszonyát vizsgálja. - Sie untersucht das Verhältnis zwischen Mensch und Natur in der Vergangenheit.
+:163. A sztyeppei népek története számára ez a megközelítés új betekintéseket hozott. - Für die Geschichte der Steppenvölker hat dieser Ansatz neue Einsichten gebracht.
+:164. Megmutatta, milyen szorosan összefonódott e népek sorsa a természetes feltételekkel. - Er hat gezeigt, wie eng das Schicksal dieser Völker mit den natürlichen Bedingungen verknüpft war.
+:165. A magyar vándorlás ebben a megvilágításban újragondolható. - Die magyarische Wanderung lässt sich in diesem Licht neu verstehen.
+:166. Már nem csak politikai-katonai eseményként jelenik meg, hanem ökológiai-gazdasági folyamatként is. - Sie erscheint nicht mehr nur als politisch-militärisches Ereignis, sondern auch als ökologisch-wirtschaftlicher Vorgang.
+:167. Ez a kiszélesített szemlélet gazdagítja a korai magyar történelem megértését. - Diese erweiterte Sicht bereichert das Verständnis der frühen ungarischen Geschichte.
+:168. Egyúttal óvatosságra int az egyoldalú magyarázatokkal szemben. - Sie mahnt zugleich zur Vorsicht vor einseitigen Erklärungen.
+:169. Összegzésképpen megállapítható, hogy a klímatényezők és gazdasági tényezők alapvető szerepet játszottak a magyarok indulásánál. - Zusammenfassend lässt sich festhalten, dass klimatische und ökonomische Faktoren eine wesentliche Rolle beim Aufbruch der Magyaren spielten.
+:170. A nomád állattenyésztés teljes mértékben a sztyeppe természetes feltételeitől függött. - Die nomadische Viehzucht war von den natürlichen Bedingungen der Steppe vollständig abhängig.
+:171. Az éghajlati ingadozások, az aszályok és a legelőhiány veszélyeztethették e gazdaság megélhetési alapját. - Klimaschwankungen, Dürren und Weidenot konnten die Lebensgrundlage dieser Wirtschaft gefährden.
+:172. A gazdasági megfontolások, mint a kereskedelem, a zsákmány és a népességnyomás felerősítették a vándorlási ösztönzést. - Wirtschaftliche Erwägungen wie Handel, Beute und Bevölkerungsdruck verstärkten den Anreiz zur Wanderung.
+:173. A Kárpát-medence termékenységével és védettségével ideális élőhelyet kínált. - Das Karpatenbecken bot mit seiner Fruchtbarkeit und seinem Schutz einen idealen Lebensraum.
+:174. Különösen megfelelt a magyarok gazdasági szükségleteinek. - Es entsprach den ökonomischen Bedürfnissen der Magyaren in besonderem Maße.
+:175. A klímatényezők és gazdasági tényezők eközben mindig a politikai és katonai erőkkel kölcsönhatásban hatottak. - Klimatische und ökonomische Faktoren wirkten dabei stets im Zusammenspiel mit politischen und militärischen Kräften.
+:176. A pusztán a klímából vagy a gazdaságból kiinduló egyoldalú magyarázat nem felelne meg a folyamatok összetettségének. - Eine einseitige Erklärung allein aus dem Klima oder der Wirtschaft würde der Komplexität der Vorgänge nicht gerecht.
+:177. Ehelyett e tényezők szabták meg azt a keretet, amelyen belül az emberek meghozták döntéseiket. - Vielmehr setzten diese Faktoren den Rahmen, innerhalb dessen die Menschen ihre Entscheidungen trafen.
+:178. Megmagyarázzák az indulás hátterét és mélyebb indítékait. - Sie erklären den Hintergrund und die tieferen Beweggründe des Aufbruchs.
+:179. A többi okkal való kapcsolatukban formálták a magyarok sorsát a nyugat felé vezető úton. - In ihrer Verbindung mit den übrigen Ursachen formten sie das Schicksal der Magyaren auf ihrem Weg nach Westen.
+:180. Így a klíma-gazdasági tényezők a ungarikus honfoglalás minden átfogó magyarázatának elengedhetetlen részévé váltak. - So erweisen sich die klimatisch-ökonomischen Faktoren als unverzichtbarer Bestandteil jeder umfassenden Erklärung der ungarischen Landnahme.
+
+
+
+
+=== 2.7.4 - Árpád fejedelem szerepe: Vezetés és tekintély - Die Rolle des Fürsten Árpád: Führung und Autorität ===
+
+:1. A korai magyar történelem minden alakja közül különösen kiemelkedik egy személyiség, akinek a neve elválaszthatatlanul összefonódott a honfoglalással. - Unter allen Gestalten der frühen ungarischen Geschichte ragt eine Persönlichkeit besonders hervor, deren Name untrennbar mit der Landnahme verbunden ist.
+:2. Árpád fejedelemről van szó, a magyarok vezetőjéről a nyugatra való indulásuk döntő fázisában. - Es handelt sich um den Fürsten Árpád, den Anführer der Magyaren in der entscheidenden Phase ihres Aufbruchs nach Westen.
+:3. Árpádot tekintik a magyar állam tulajdonképpeni megalapítójának és az első magyar uralkodódinasztia ősapjának. - Árpád gilt als der eigentliche Begründer des ungarischen Staates und als Stammvater der ersten ungarischen Herrscherdynastie.
+:4. Róla nevezték el az Árpád-házat, amely több mint négy évszázadon át uralkodott Magyarországon. - Nach ihm wurde das Geschlecht der Árpáden benannt, das Ungarn über vier Jahrhunderte regieren sollte.
+:5. Árpád jelentőségét a magyar történelem szempontjából aligha lehet túlbecsülni. - Die Bedeutung Árpáds für die ungarische Geschichte kann kaum überschätzt werden.
+:6. Ugyanakkor történelmi alakját legenda és utólagos megdicsőülés övezi. - Zugleich ist seine historische Gestalt von Legende und nachträglicher Verklärung umgeben.
+:7. A történelmi Árpád és a mitikus Árpád elválasztása a kutatás nehéz feladatai közé tartozik. - Die Trennung zwischen dem historischen Árpád und dem mythischen Árpád gehört zu den schwierigen Aufgaben der Forschung.
+:8. Szerepének kiindulópontját a róla beszámoló források képezik. - Den Ausgangspunkt für seine Rolle bilden die Quellen, die über ihn berichten.
+:9. A legfontosabb korabeli forrás ismét VII. Bíborbanszületett Konstantinc bizánci császár „A birodalom kormányzásáról” című műve. - Die wichtigste zeitnahe Quelle ist erneut das Werk "De administrando imperio" des byzantinischen Kaisers Konstantin VII. Porphyrogennetos.
+:10. Ez a mű a 10. század közepe táján keletkezett, vagyis néhány évtizeddel Árpád működése után. - Dieses Werk entstand um die Mitte des 10. Jahrhunderts, also wenige Jahrzehnte nach Árpáds Wirken.
+:11. Magyar követek beszámolóira támaszkodik, és így magának az Árpád-dinasztiának az emlékezetét tükrözi. - Es stützt sich auf Berichte ungarischer Gesandter und gibt damit die Erinnerung der Árpáden-Dynastie selbst wieder.
+:12. Ezenkívül ott vannak a virágzó középkor magyar krónikái, amelyek azonban csak évszázadokkal később keletkeztek. - Daneben treten die ungarischen Chroniken des Hochmittelalters, die jedoch erst Jahrhunderte später entstanden.
+:13. Ezek közé tartoznak az ismeretlen névjegyű jegyző, közismert nevén Anonymus Gesta Hungarorumja, valamint a későbbi krónikakompilációk. - Zu diesen gehören die Gesta Hungarorum des anonymen Notars, gemeinhin als Anonymus bezeichnet, sowie spätere Chronikkompilationen.
+:14. Ezek a hazai források a történelmi emlékezetet ötvözik a saját koruk mondáival és politikai szándékaival. - Diese einheimischen Quellen verbinden historische Erinnerung mit Sage und politischer Absicht ihrer eigenen Zeit.
+:15. Árpádot hősies hódítóként és a hatalom legitim megalapítójaként ábrázolják. - Sie schildern Árpád als heldenhaften Eroberer und als legitimen Begründer der Herrschaft.
+:16. E források értékelésekor ezért mindig figyelembe kell venni, hogy egy bizonyos képet kívántak közvetíteni. - Bei der Bewertung dieser Quellen ist daher stets zu bedenken, dass sie ein bestimmtes Bild fördern wollten.
+:17. Árpád történelmi alakját e különböző hagyományokból kell óvatosan kibontani. - Die historische Gestalt Árpáds muss aus diesen verschiedenen Überlieferungen vorsichtig erschlossen werden.
+:18. Árpád származásáról azt jelentik a források, hogy Álmos fejedelem fia volt. - Über die Abstammung Árpáds berichten die Quellen, dass er der Sohn des Fürsten Álmos war.
+:19. Álmos viszont a magyarok vezetőjének számított a végleges vándorlás előtti időszakban. - Álmos wiederum galt als Anführer der Magyaren in der Zeit vor der endgültigen Wanderung.
+:20. Álmos és Árpád révén egy dinasztikus uralkodási utódlás kezdete válik megfoghatóvá. - Mit Álmos und Árpád wird der Beginn einer dynastischen Herrschaftsfolge greifbar.
+:21. A hagyomány már Álmos születését is mondai elbeszéléssel övezi. - Die Überlieferung umgibt bereits die Geburt des Álmos mit einer legendenhaften Erzählung.
+:22. Ezen elbeszélés szerint édesanyja, Emese álmában egy ragadozó madár képében megjelenő hírnököt fogadott. - Nach dieser Erzählung empfing seine Mutter Emese im Traum einen Vorboten in Gestalt eines Raubvogels.
+:23. Ebből az álomból dicső uralkodók nemzetségének kellett származnia. - Aus diesem Traum sollte ein Geschlecht ruhmreicher Herrscher hervorgehen.
+:24. Ennek az álombéli madárnak a neve, a Turul, az Árpád-dinasztia szimbólumává vált. - Der Name dieses Traumvogels, der Turul, wurde zu einem Symbol der Árpáden-Dynastie.
+:25. Az ilyen eredetmondák a hatalom felsőbb elrendelés általi legitimálását szolgálták. - Solche Ursprungslegenden dienten der Legitimierung der Herrschaft durch eine höhere Bestimmung.
+:26. Azt kellett megmutatniuk, hogy az uralkodóház kezdettől fogva vezetésre volt elhivatva. - Sie sollten zeigen, dass das Herrschergeschlecht von Anfang an zur Führung berufen war.
+:27. E mondák mögött a történelmi magot már aligha lehet meghatározni. - Der historische Kern hinter diesen Legenden lässt sich kaum noch bestimmen.
+:28. Biztosnak tűnik azonban, hogy Álmos és Árpád a magyarok egyik vezető nemzetségéhez tartozott. - Gesichert erscheint jedoch, dass Álmos und Árpád einem führenden Geschlecht der Magyaren angehörten.
+:29. Árpád, illetve apja nagyfejedelmi méltóságra emelését már leírtuk a kazár befolyással összefüggésben. - Die Erhebung Árpáds beziehungsweise seines Vaters zur Großfürstenwürde wurde bereits im Zusammenhang mit dem khazarischen Einfluss geschildert.
+:30. VII. Konstantin beszámolója szerint ez az emelés a kazár kagán javaslatára történt. - Nach dem Bericht des Konstantin VII. erfolgte diese Erhebung auf Anregung des khazarischen Khagans.
+:31. Az eddigi vezető, Levedi állítólag visszautasította a méltóságot, és helyette Álmost vagy Árpádot javasolta. - Der bisherige Anführer Levedi soll die Würde abgelehnt und stattdessen Álmos oder Árpád vorgeschlagen haben.
+:32. A magyarok ezután egy ünnepélyes szokás szerint nagyfejedelmükké emelték Árpádot. - Die Magyaren erhoben Árpád daraufhin nach einem feierlichen Brauch zu ihrem Großfürsten.
+:33. Ez a szokás a hagyomány szerint abban állt, hogy a kiválasztottat pajzsra emelték. - Dieser Brauch bestand der Überlieferung nach im Heben des Erwählten auf einen Schild.
+:34. Ezzel az összegyűlt törzsfők átruházták a legfőbb hatalmat Árpádra. - Damit übertrugen die versammelten Stammesführer die oberste Gewalt auf Árpád.
+:35. Egy másik, a magyar önértelmezés szempontjából különösen fontos hagyomány az úgynevezett vérszerződés. - Eine andere und für die ungarische Selbstdeutung besonders wichtige Überlieferung ist der sogenannte Blutvertrag.
+:36. Ezen elbeszélés szerint a magyarok hét törzsfője ünnepélyes szövetséget kötött. - Nach dieser Erzählung schlossen die sieben Stammesführer der Magyaren einen feierlichen Bund.
+:37. Árpádot választották közös vezetőjükké, és e választást esküvel pecsételték meg. - Sie wählten Árpád zu ihrem gemeinsamen Anführer und besiegelten diese Wahl durch einen Eid.
+:38. Az eskü megerősítésére a vezetők vért bocsátottak egy közös edénybe. - Zur Bekräftigung des Eides ließen die Führer Blut in ein gemeinsames Gefäß fließen.
+:39. Ez az aktus az Árpád és a törzsek közötti felbonthatatlan kapcsolatot jelképezte. - Dieser Akt symbolisierte die unauflösliche Verbindung zwischen Árpád und den Stämmen.
+:40. A vérszerződés a hagyomány szerint a jövőbeli uralkodás elveit is rögzítette. - Der Blutvertrag legte der Überlieferung nach auch die Grundsätze der künftigen Herrschaft fest.
+:41. Meghatározta, hogy Árpád utódainak kell mindig a vezetőt adniuk. - Er bestimmte, dass die Nachkommen Árpáds stets den Anführer stellen sollten.
+:42. Ugyanakkor biztosította a törzsfőknek és utódaiknak a hatalomból és a zsákmányból való részesedést. - Zugleich sicherte er den Stammesführern und ihren Nachkommen Anteil an Macht und Beute zu.
+:43. A vérszerződés a magyar hagyományban egyfajta korai alkotmányozási aktusnak számít. - Der Blutvertrag gilt in der ungarische Tradition als eine Art früher Verfassungsakt.
+:44. Később az uralkodó és a nemesség közötti viszony alapjaként értelmezték. - Er wurde später als Grundlage des Verhältnisses zwischen Herrscher und Adel gedeutet.
+:45. E hagyomány történelmi megbízhatósága azonban vitatott. - Die historische Zuverlässigkeit dieser Überlieferung ist allerdings umstritten.
+:46. A beszámoló Anonymus Gesta Hungarorumjából származik, vagyis jóval későbbi korból. - Der Bericht stammt aus den Gesta Hungarorum des Anonymus, also aus weit späterer Zeit.
+:47. Némely kutató utólagos konstrukciót lát benne, amely a középkori viszonyokat vetítette vissza a múltba. - Manche Forscher sehen darin eine nachträgliche Konstruktion, die mittelalterliche Verhältnisse in die Vergangenheit zurückprojizierte.
+:48. Mások lehetségesnek tartják a történelmi magot, mivel a szövetségi rituálék ismertek voltak a sztyeppei népeknél. - Andere halten einen historischen Kern für möglich, da Bündnisrituale unter Steppenvölkern bekannt waren.
+:49. A történelmi kérdéstől függetlenül a vérszerződés megmutatja, milyen jelentőséggel bírt Árpád a magyar önértelmezés számára. - Unabhängig von der historischen Frage zeigt der Blutvertrag, welche Bedeutung Árpád für die ungarische Selbstdeutung besaß.
+:50. Úgy jelenik meg benne, mint az az alak, aki megteremtette a törzsek egységét. - Er erscheint darin als die Gestalt, die die Einheit der Stämme begründete.
+:51. Árpád szerepe a honfoglalás vezetőjeként történelmi jelentőségének középpontjában áll. - Die Rolle Árpáds als Anführer der Landnahme steht im Mittelpunkt seiner historischen Bedeutung.
+:52. Vezetésével a magyarok átkeltek a Kárpátokon, és birtokukba vették a Kárpát-medencét. - Unter seiner Führung überschritten die Magyaren die Karpaten und nahmen das Karpatenbecken in Besitz.
+:53. A honfoglalást hagyományosan az 896-os évre datálják. - Die Landnahme wird traditionell auf das Jahr 896 datiert.
+:54. Árpád irányította a törzsek bevonulását az új hazába és a meghódított terület biztosítását. - Árpád leitete den Einzug der Stämme in die neue Heimat und die Sicherung des eroberten Gebietes.
+:55. Katonai vezetésének pontos módja a forrásokból csak részben bontakozik ki. - Die genaue Art seiner militärischen Führung lässt sich aus den Quellen nur teilweise erschließen.
+:56. A krónikák hadjáratok és hódítások sorát írják le az ő parancsnoksága alatt. - Die Chroniken schildern eine Reihe von Feldzügen und Eroberungen unter seinem Kommando.
+:57. Ezeket a leírásokat azonban gyakran átszövik a mondai vonások. - Diese Schilderungen sind jedoch oft von legendenhaften Zügen durchsetzt.
+:58. Biztosnak tűnik, hogy Árpád rendelkezett a legfőbb tekintéllyel a honfoglalás döntő folyamata során. - Gesichert erscheint, dass Árpád die oberste Autorität während des entscheidenden Vorgangs der Landnahme innehatte.
+:59. Vezetése megadta a vállalkozásnak a szükséges egységet és céltudatosságot. - Seine Führung gab dem Unternehmen die nötige Einheit und Zielstrebigkeit.
+:60. A meghódított föld felosztása a törzsek között szintén az ő főhatalma alatt történt. - Die Aufteilung des eroberten Landes unter die Stämme erfolgte ebenfalls unter seiner Oberhoheit.
+:61. Árpád maga és nemzetsége eközben láthatóan a medence központi területeit kapta meg. - Árpád selbst und sein Geschlecht erhielten dabei offenbar die zentralen Gebiete des Beckens.
+:62. Ez a központi fekvés erősítette az Árpádok helyzetét a többi törzzsel szemben. - Diese zentrale Lage stärkte die Stellung der Árpáden gegenüber den übrigen Stämmen.
+:63. A föld felosztása megalapozta a későbbi hatalmi rendet. - Die Verteilung des Landes legte den Grund für die spätere Herrschaftsordnung.
+:64. Árpád uralkodói személyéről a források csak kevés konkrét felvilágosítást adnak. - Über die Person Árpáds als Herrscher geben die Quellen nur wenige konkrete Auskünfte.
+:65. Tekintélye a nomád uralkodás tipikus alapjain nyugodott. - Seine Autorität beruhte auf den typischen Grundlagen nomadischer Herrschaft.
+:66. Ehhez tartozott a katonai siker, a személyes tekintély és a zsákmány, valamint a védelem biztosításának képessége. - Dazu gehörten militärischer Erfolg, persönliches Ansehen und die Fähigkeit, Beute und Schutz zu sichern.
+:67. Egy olyan vezető, aki teljesítette ezen elvárásokat, számíthatott a harcosok hűségére. - Ein Anführer, der diese Erwartungen erfüllte, konnte auf die Gefolgschaft der Krieger zählen.
+:68. Árpád láthatóan nagy mértékben megfelelt ezen elvárásoknak, mivel vezetése alatt sikerült a honfoglalás. - Árpád erfüllte diese Erwartungen offenbar in hohem Maße, da unter seiner Führung die Landnahme gelang.
+:69. Tekintélye azonban nem egy későbbi értelemben vett abszolút uralkodóé volt. - Seine Autorität war jedoch nicht die eines absoluten Monarchen im späteren Sinne.
+:70. Inkább egy nagymértékben önálló törzsekből álló szövetség élén állt. - Vielmehr stand er an der Spitze eines Verbandes weitgehend eigenständiger Stämme.
+:71. Hatalmát a többi törzsfővel szemben mindig meg kellett védenie. - Seine Macht musste sich gegenüber den anderen Stammesführern stets behaupten.
+:72. Árpád uralkodása ezért inkább az első volt a több hatalmas vezető között. - Die Herrschaft Árpáds war daher eher die eines ersten unter mehreren mächtigen Führern.
+:73. A nomád vezetési rend ráadásul ismerte a már említett kettős struktúrát. - Die nomadische Führungsordnung kannte zudem die bereits erwähnte duale Struktur.
+:74. A nagyfejedelem mellett esetleg egy második méltóságviselő állt saját hatáskörrel. - Neben dem Großfürsten stand möglicherweise ein zweiter Würdenträger mit eigenen Befugnissen.
+:75. Árpád pontos helyzete ezen a kettős renden belül vitatott a kutatásban. - Die genaue Stellung Árpáds innerhalb dieser dualen Ordnung ist in der Forschung umstritten.
+:76. Némelyek a szakrális főfejedelmet látják benne, mások a tényleges katonai vezetőt. - Manche sehen in ihm den sakralen Oberfürsten, andere den tatsächlichen militärischen Führer.
+:77. Ez a bizonytalanság azt a nehézséget tükrözi, hogy pontosan rekonstruáljuk a kazár mintájú rendet. - Diese Unsicherheit spiegelt die Schwierigkeit wider, die khazarisch geprägte Ordnung genau zu rekonstruieren.
+:78. Ezt a kérdéstől függetlenül Árpád vezető szerepe a honfoglalásnál kétségen felül áll. - Unabhängig von dieser Frage steht Árpáds führende Rolle bei der Landnahme außer Zweifel.
+:79. Történelmi teljesítménye mindenekelőtt a szövetség egységének biztosításában állt. - Seine historische Leistung bestand vor allem in der Sicherung der Einheit des Verbandes.
+:80. Belső feszültségek és külső nyomás idején összetartotta a törzseket. - In einer Zeit innerer Spannungen und äußeren Drucks hielt er die Stämme zusammen.
+:81. Ez az egység volt a honfoglalás sikerének elengedhetetlen előfeltétele. - Diese Einheit war die unverzichtbare Voraussetzung für das Gelingen der Landnahme.
+:82. Elismert legfőbb vezetés nélkül a vállalkozás aligha sikerülhetett volna. - Ohne eine anerkannte oberste Führung hätte das Unternehmen kaum gelingen können.
+:83. Árpád testesítette meg ezt a vezetést, és közös központot adott a magyar szövetségnek. - Árpád verkörperte diese Führung und gab dem magyarischen Verband ein gemeinsames Zentrum.
+:84. Árpád végét illetően a források csak szűkösen és részben ellentmondásosan számolnak be. - Über das Ende Árpáds berichten die Quellen nur knapp und teils widersprüchlich.
+:85. Halálát általában a 907-es évre teszik. - Sein Tod wird gewöhnlich um das Jahr 907 angesetzt.
+:86. Ebben az évben zajlott a pozsonyi csata is, amelyben a magyarok megsemmisítő vereséget mértek egy bajor seregre. - In diesem Jahr fand auch die Schlacht von Pressburg statt, in der die Magyaren ein bayerisches Heer vernichtend schlugen.
+:87. Hogy Árpád részt vett-e ebben a csatában, vagy kevéssel előtte vagy utána halt meg, nem maradt fenn biztosan. - Ob Árpád an dieser Schlacht teilnahm oder kurz zuvor oder danach starb, ist nicht sicher überliefert.
+:88. Későbbi krónikák beszámolnak több fiának haláláról e kor harcaiban. - Spätere Chroniken berichten vom Tod mehrerer seiner Söhne in den Kämpfen dieser Zeit.
+:89. Halálának körülményei így a hagyomány homályában maradnak. - Die Umstände seines Todes bleiben somit im Dunkel der Überlieferung.
+:90. Halála után a nagyfejedelmi méltóság az utódaira szállt. - Nach seinem Tod ging die Großfürstenwürde an seine Nachkommen über.
+:91. Ezzel elkezdődött az Árpádok dinasztikus uralkodása a magyar nép felett. - Damit begann die dynastische Herrschaft der Árpáden über das ungarische Volk.
+:92. A dinasztián belüli utódlás azonban nem volt mindig zökkenőmentes. - Die Nachfolge innerhalb der Dynastie war jedoch nicht immer reibungslos.
+:93. Az utódlási rend körüli már említett feszültségek itt is tovább hatottak. - Die bereits erwähnten Spannungen um die Nachfolgeordnung wirkten auch hier fort.
+:94. Mindazonáltal Árpád nemzetsége fenntartotta igényét a legfőbb hatalomra. - Dennoch behauptete das Geschlecht Árpáds seinen Anspruch auf die oberste Herrschaft.
+:95. Több generáción keresztül az Árpádok adták Magyarország nagyfejedelmeit és későbbi királyait. - Über mehrere Generationen hinweg stellten die Árpáden die Großfürsten und später die Könige Ungarns.
+:96. Árpád jelentősége így messze túlmutat a saját élet során. - Die Bedeutung Árpáds reicht somit weit über seine eigene Lebenszeit hinaus.
+:97. Olyan dinasztikus hagyományt alapított meg, amely meghatározta a középkori Magyarországot. - Er begründete eine dynastische Tradition, die das mittelalterliche Ungarn prägte.
+:98. Magyarország későbbi királyi méltósága az Árpád által megalapozott hatalomból származott. - Die spätere Königswürde Ungarns leitete sich von der durch Árpád begründeten Herrschaft ab.
+:99. I. István király, Magyarország első keresztény királya Árpád leszármazottja volt. - König Stephan I., der erste christliche König Ungarns, war ein Nachkomme Árpáds.
+:100. Ezzel a keresztény államalapítás összekapcsolódott az Árpád által megalapított dinasztiával. - Damit verband sich die christliche Staatsgründung mit der durch Árpád begründeten Dynastie.
+:101. Az Árpádtól a keresztény királyokig tartó folytonosság adta meg a magyar uralkodás legitimitását. - Die Kontinuität von Árpád bis zu den christlichen Königen verlieh der ungarischen Herrschaft ihre Legitimität.
+:102. Árpád így vált azzá az alapító alakiká, akire a későbbi államiság hivatkozott. - Árpád wurde so zur Gründergestalt, auf die sich die spätere Staatlichkeit berief.
+:103. Árpád emléke a évszázadokon át élénken megmaradt a magyar történelemben. - Die Erinnerung an Árpád blieb in der ungarischen Geschichte über die Jahrhunderte lebendig.
+:104. A honfoglalás és a magyar nép eredetének jelképévé vált. - Er wurde zum Sinnbild der Landnahme und des Ursprungs des ungarischen Volkes.
+:105. A nemzeti önmagára eszmélés idején alakja különös jelentőséget nyert. - In Zeiten nationaler Selbstvergewisserung gewann seine Gestalt besondere Bedeutung.
+:106. Különösen a 19. században, az ébredő nemzeti öntudat korában tisztelték Árpádot. - Besonders im 19. Jahrhundert, im Zeitalter des erwachenden Nationalbewusstseins, wurde Árpád verehrt.
+:107. A magyar nemzet hősies megalapítójaként jelent meg. - Er erschien als der heldenhafte Begründer der ungarischen Nation.
+:108. Számos emlékrom, festmény és irodalmi mű szentelte magát az ő alakjának. - Zahlreiche Denkmäler, Gemälde und literarische Werke widmeten sich seiner Gestalt.
+:109. E tisztelet egyik csúcspontja az 1896-os millenniumi ünnepség volt. - Ein Höhepunkt dieser Verehrung war die Millenniumsfeier des Jahres 1896.
+:110. Ebben az évben ünnepelte Magyarország a honfoglalás ezredik évfordulóját. - In diesem Jahr feierte Ungarn den tausendsten Jahrestag der Landnahme.
+:111. Ebből az alkalomból született meg a monumentális Hősök emlékműve Budapesten. - Aus diesem Anlass entstand das monumentale Heldendenkmal in Budapest.
+:112. Ennek az emlékműnek a középpontjában Árpád alakja áll a hét törzsfővel. - Im Mittelpunkt dieses Denkmals steht die Figur Árpáds mit den sieben Stammesführern.
+:113. Az emlékmű azt a nemzeti jelentőséget testesíti meg, amelyet Árpád a magyar önértelmezés számára elért. - Das Denkmal verkörpert die nationale Bedeutung, die Árpád für das ungarische Selbstverständnis erlangte.
+:114. A történelmi alak eközben nemzeti szimbólumfigurává magasztosult. - Die historische Gestalt wurde dabei zur nationalen Symbolfigur überhöht.
+:115. Ezt a későbbi tiszteletet el kell választani a történelmi értékeléstől. - Diese spätere Verehrung muss von der historischen Bewertung unterschieden werden.
+:116. A modern kutatás a nemzeti megdicsőülésen túli józan képre törekszik. - Die moderne Forschung bemüht sich um ein nüchternes Bild jenseits der nationalen Verklärung.
+:117. Hangsúlyozza a források bizonytalanságát és az ismeretek hiányosságát. - Sie betont die Unsicherheit der Quellen und die Lückenhaftigkeit des Wissens.
+:118. Sok minden, amit Árpádról jelentenek, nem bizonyítható kétséget kizáróan. - Vieles, was über Árpád berichtet wird, lässt sich nicht zweifelsfrei belegen.
+:119. A magban biztosnak tűnik vezető szerepe a honfoglalásnál és a dinasztia megalapítása. - Gesichert erscheint im Kern seine führende Rolle bei der Landnahme und die Begründung der Dynastie.
+:120. A krónikák számos részlete ezzel szemben óvatossággal kezelendő. - Die zahlreichen Einzelheiten der Chroniken sind hingegen mit Vorsicht zu behandeln.
+:121. A kutatás egy része még az egyes fennmaradt személyek történelmi létezését is megkérdőjelezte. - Ein Teil der Forschung hat sogar die historische Existenz einzelner überlieferter Personen in Frage gestellt.
+:122. Árpád maga esetében azonban nagyrészt egyetértés van történelmi valóságát illetően. - Bei Árpád selbst besteht jedoch weitgehend Einigkeit über seine historische Realität.
+:123. A korabeli bizánci forrásban való említése alátámasztja történetiségét. - Seine Erwähnung in der zeitnahen byzantinischen Quelle stützt seine Geschichtlichkeit.
+:124. A nehézség kevésbé a létezésének kérdésében rejlik, mint inkább pontos szerepének meghatározásában. - Die Schwierigkeit liegt weniger in der Frage seiner Existenz als in der Bestimmung seiner genauen Rolle.
+:125. Hogy meddig terjedt személyes teljesítménye, és mennyi írható a körülmények javára, nyitva marad. - Wie weit seine persönliche Leistung reichte und wie viel den Umständen zuzuschreiben ist, bleibt offen.
+:126. A történettudomány óva int attól, hogy egyetlen személynek tulajdonítsuk a nagy folyamatok teljes menetét. - Die Geschichtswissenschaft warnt davor, einer einzelnen Person den gesamten Verlauf großer Vorgänge zuzuschreiben.
+:127. A honfoglalás egy egész nép műve és sok erő eredménye volt. - Die Landnahme war das Werk eines ganzen Volkes und das Ergebnis vieler Kräfte.
+:128. Árpád e mozgalom élén állt, de nem egyedül cselekedett. - Árpád stand an der Spitze dieser Bewegung, doch er handelte nicht allein.
+:129. A törzsfők, a harcosok és az egész közösség hordozták a vállalkozást. - Die Stammesführer, die Krieger und die gesamte Gemeinschaft trugen das Unternehmen.
+:130. Árpád jelentősége abban állt, hogy e mozgalomnak vezetést és egységet adott. - Árpáds Bedeutung lag darin, dieser Bewegung Führung und Einheit zu geben.
+:131. A törzsek közötti e közvetítő szerepben rejlett a tulajdonképpeni történelmi teljesítménye. - In dieser Vermittlerrolle zwischen den Stämmen lag seine eigentliche historische Leistung.
+:132. Egyesítette az ellentétes erőket, és a közös célra irányította őket. - Er bündelte die widerstreitenden Kräfte und richtete sie auf das gemeinsame Ziel aus.
+:133. Ez az egyesítési képesség megkülönböztette őt a puszta hadvezérektől. - Diese Fähigkeit zur Einigung unterschied ihn von bloßen Heerführern.
+:134. Egy tartós hatalmi rend megalapítójává tette őt. - Sie machte ihn zum Begründer einer dauerhaften Herrschaftsordnung.
+:135. Tekintélyének alapjai néhány pontban foglalhatók össze. - Die Grundlagen seiner Autorität lassen sich in mehreren Punkten zusammenfassen.
+:136. Egyrészt egy vezető nemzetségből való származásán nyugodott. - Zum einen beruhte sie auf seiner Abstammung aus einem führenden Geschlecht.
+:137. Másrészt a törzsfők általi formális felemelésen nyugodott. - Zum anderen beruhte sie auf der formellen Erhebung durch die Stammesführer.
+:138. Ehhez járult a kazár minta általi és az ünnepélyes szövetségi rítusok általi legitimáció. - Hinzu kam die Legitimation durch khazarisches Vorbild und durch feierliche Bündnisriten.
+:139. Végül a honfoglalás során elért katonai sikerén nyugodott. - Schließlich beruhte sie auf seinem militärischen Erfolg bei der Landnahme.
+:140. Ezek a különböző alapok erősítették egymást, és megszilárdították helyzetét. - Diese verschiedenen Grundlagen verstärkten einander und festigten seine Stellung.
+:141. Tekintélye így mind hagyományos, mind teljesítmény általi megalapozottságú volt. - Seine Autorität war damit sowohl traditional als auch durch Leistung begründet.
+:142. Ez a kettős alap különös szilárdságot kölcsönzött uralkodásának. - Diese doppelte Grundlage verlieh seiner Herrschaft besondere Festigkeit.
+:143. Lehetővé tette a méltóság átszállását utódaira. - Sie ermöglichte die Übertragung der Würde auf seine Nachkommen.
+:144. A hatalom örökletes továbbadása döntő lépés volt az állammá válás felé. - Die erbliche Weitergabe der Herrschaft war ein entscheidender Schritt zur Staatswerdung.
+:145. Vele egy tartós dinasztia jött létre a váltakozó vezető helyett. - Mit ihr entstand eine dauerhafte Dynastie anstelle wechselnder Anführer.
+:146. Ez a dinasztikus folytonosság stabil központot adott a készülő államnak. - Diese dynastische Kontinuität gab dem entstehenden Staat ein stabiles Zentrum.
+:147. E tekintetben Árpád nemcsak egy pillanat vezetője volt, hanem egy rend megalapítója. - In dieser Hinsicht war Árpád nicht nur Anführer eines Augenblicks, sondern Begründer einer Ordnung.
+:148. Uralkodása a törzsi vezetésről a dinasztikus uralkodásra való átmenetet jelzi. - Seine Herrschaft markiert den Übergang von der Stammesführung zur dynastischen Herrschaft.
+:149. Ez az átmenet a korai magyar történelem legjelentősebb fejleményei közé tartozik. - Dieser Übergang gehört zu den bedeutendsten Entwicklungen der frühen ungarischen Geschichte.
+:150. Árpád így a nomadikus múlt és a állami jövő küszöbén áll. - Árpád steht damit an der Schwelle zwischen der nomadischen Vergangenheit und der staatlichen Zukunft.
+:151. Ő testesíti meg a vándorlás végét és a letelepedés kezdetét. - Er verkörpert das Ende der Wanderung und den Beginn der Sesshaftwerdung.
+:152. Személyében összekapcsolódik a régi sztyeppei hagyomány és az új európai elhivatottság. - In seiner Person verbinden sich die alte Steppentradition und die neue europäische Bestimmung.
+:153. Ez a közvetítő helyzet teszi őt a magyar történelem kulcsfigurájává. - Diese Mittlerstellung macht ihn zu einer Schlüsselfigur der ungarischen Geschichte.
+:154. A sztyeppei hagyomány megmutatkozik felemelésének módjában és hatalmának nomadikus alapjaiban. - Die Steppentradition zeigt sich in der Art seiner Erhebung und in der nomadischen Grundlage seiner Macht.
+:155. Az európai elhivatottság megmutatkozik a Kárpát-medencei megtelepedésben és egy tartós hatalom megalapításában. - Die europäische Bestimmung zeigt sich in der Niederlassung im Karpatenbecken und in der Gründung einer dauerhaften Herrschaft.
+:156. Árpád így azon út elején áll, amely a magyarokat európai néppé tette. - Árpád steht somit am Anfang jenes Weges, der die Ungarn zu einem europäischen Volk machte.
+:157. Működése megalapozta a későbbi keresztény államalapítást. - Sein Wirken legte den Grund für die spätere christliche Staatsgründung.
+:158. Az általa megteremtett egység nélkül ez a fejlődés aligha lett volna lehetséges. - Ohne die durch ihn geschaffene Einheit wäre diese Entwicklung kaum möglich gewesen.
+:159. Ebben az értelemben jelentősége elér a keresztény királyság megalapításáig. - In diesem Sinne reicht seine Bedeutung bis in die Gründung des christlichen Königreichs hinein.
+:160. A magyar történetírás ezért joggal méltányolta őt alapító alakiként. - Die ungarische Geschichtsschreibung hat ihn daher zu Recht als Gründergestalt gewürdigt.
+:161. Ennek a méltatásnak azonban meg kell őriznie a történelmi józanságot. - Diese Würdigung muss jedoch die historische Nüchternheit bewahren.
+:162. Árpád saját korának vezetője volt, akit a sztyeppe és a vándorlás feltételei formáltak. - Árpád war ein Anführer seiner Zeit, geprägt von den Bedingungen der Steppe und der Wanderung.
+:163. Teljesítményét e feltételek keretében kell értékelni, nem a későbbi uralkodók mércéjével. - Seine Leistung ist im Rahmen dieser Bedingungen zu bewerten, nicht im Maßstab späterer Herrscher.
+:164. Ezen a kereten belül teljesítménye rendkívülinek bizonyul. - Innerhalb dieses Rahmens erweist sich seine Leistung als außerordentlich.
+:165. Népét a legnagyobb veszély idején vezette át egy új és tartós hazába. - Er führte sein Volk durch eine Zeit höchster Gefahr in eine neue und dauerhafte Heimat.
+:166. Megteremtette azt az egységet, amely biztosította a nép fennmaradását és sikerét. - Er schuf die Einheit, die das Überleben und den Erfolg des Volkes sicherte.
+:167. Olyan dinasztiát alapított meg, amely évszázadokon át meghatározta Magyarország sorsát. - Er begründete eine Dynastie, die das Schicksal Ungarns über Jahrhunderte bestimmte.
+:168. Ez a hármas teljesítmény kiemelkedő helyet biztosít számára a történelemben. - Diese dreifache Leistung sichert ihm einen herausragenden Platz in der Geschichte.
+:169. Összegzésképpen megállapítható, hogy Árpád volt a magyar honfoglalás központi vezető alakja. - Zusammenfassend lässt sich festhalten, dass Árpád die zentrale Führungsgestalt der ungarischen Landnahme war.
+:170. Tekintélye származáson, formális felemelésen, rituális legitimáción és katonai sikeren nyugodott. - Seine Autorität beruhte auf Abstammung, formeller Erhebung, ritueller Legitimation und militärischem Erfolg.
+:171. Önálló törzsek szövetségének élén állt, amelyek egységét biztosította. - Er stand an der Spitze eines Verbandes eigenständiger Stämme, deren Einheit er sicherte.
+:172. Uralkodása nem volt abszolút, hanem az elsőé a hatalmas vezetők között. - Seine Herrschaft war nicht absolut, sondern die eines ersten unter mächtigen Führern.
+:173. Történelmi teljesítménye mindenekelőtt az ellentétes erők egyesítésében rejlett. - Seine historische Leistung lag vor allem in der Einigung der widerstreitenden Kräfte.
+:174. Vezetésével sikerült a Kárpát-medencei honfoglalás az 896-os évben. - Unter seiner Führung gelang die Landnahme des Karpatenbeckens im Jahr 896.
+:175. Megalapította az Árpád-házat, amely több mint négy évszázadon át uralkodott Magyarországon. - Er begründete die Dynastie der Árpáden, die Ungarn über vier Jahrhunderte regierte.
+:176. Alakja később a magyar nép nemzeti szimbólumfigurájává magasztosult. - Seine Gestalt wurde später zur nationalen Symbolfigur des ungarischen Volkes überhöht.
+:177. A modern kutatás a e megdicsőülésen túli józan képre törekszik. - Die moderne Forschung bemüht sich um ein nüchternes Bild jenseits dieser Verklärung.
+:178. A magban biztos marad vezető szerepe a honfoglalásnál és a hatalom megalapításánál. - Gesichert bleibt im Kern seine führende Rolle bei der Landnahme und der Begründung der Herrschaft.
+:179. Árpád a nomadikus múlt és a magyarok európai jövőjének küszöbén áll. - Árpád steht an der Schwelle zwischen der nomadischen Vergangenheit und der europäischen Zukunft der Ungarn.
+:180. Ebben a közvetítő helyzetben rejlik maradandó jelentősége Magyarország története számára. - In dieser Mittlerstellung liegt seine bleibende Bedeutung für die Geschichte Ungarns.
+
+
+
+:1. A különféle okok között, amelyek a magyarok nyugati vándorlásához és végül a Kárpát-medencei honfoglaláshoz vezettek, az úgynevezett külső hívások külön helyet foglalnak el. - Unter den verschiedenen Ursachen, die zur Westwanderung der Magyaren und schließlich zur Landnahme des Karpatenbeckens führten, nehmen die sogenannten externen Einladungen einen eigenen Platz ein.
+:2. Ezzel a fogalommal a kutatás azokat az alkalmakat jelöli, amikor idegen hatalmak kívülről hívták a magyarokat a Kárpát-medencébe és Közép-Európába. - Mit diesem Begriff bezeichnet die Forschung jene Anlässe, bei denen fremde Mächte die Magyaren von außen ins Karpatenbecken und nach Mitteleuropa riefen.
+:3. Ezek a nyugatra való hívások többnyire olyan szövetségek keretében történtek, amelyeket idegen uralkodók kötöttek a magyarokkal saját ellenségeik ellen. - Diese Rufe nach Westen erfolgten zumeist im Rahmen von Bündnissen, die fremde Herrscher mit den Magyaren gegen ihre eigenen Feinde schlossen.
+:4. A magyarokat eközben katonai segédcsapatokként toborozták, és befonták őket idegen konfliktusokba. - Die Magyaren wurden dabei als militärische Hilfstruppen angeworben und in fremde Konflikte hineingezogen.
+:5. Ily módon saját tapasztalatból ismerték meg a Kárpát-medencét és annak szomszédos országait, mielőtt ott tartósan megtelepedtek volna. - Auf diese Weise lernten sie das Karpatenbecken und seine Nachbarländer aus eigener Anschauung kennen, bevor sie sich dort dauerhaft niederließen.
+:6. A külső hívások ezért a honfoglalás fontos, bár gyakran alábecsült tényezőjét képezik. - Die externen Einladungen sind daher ein wichtiger, wenn auch oft unterschätzter Faktor der Landnahme.
+:7. Jelentőségük csak Közép-Európa 9. századi politikai helyzetéből érthető meg. - Ihre Bedeutung erschließt sich erst aus der politischen Lage Mitteleuropas im 9. Jahrhundert.
+:8. A Kárpát-medence és környéke ebben az időben vitatott határvidéket képezett több hatalom között. - Das Karpatenbecken und seine Umgebung bildeten in dieser Zeit ein umkämpftes Grenzgebiet zwischen mehreren Mächten.
+:9. Nyugaton a Keleti Frank Birodalom terült el, Nagy Károly felbomlott Frank Birodalmának keleti része. - Im Westen erstreckte sich das Ostfränkische Reich, der östliche Teil des zerfallenen Frankenreiches Karls des Großen.
+:10. Délen az Első Bolgár Birodalom feküdt, egy feltörekvő hatalom a Balkánon. - Im Süden lag das Erste Bulgarische Reich, eine aufstrebende Macht auf dem Balkan.
+:11. Délkeleten a Bizánci Birodalom befolyása egészen a Dunáig terjedt. - Im Südosten reichte der Einfluss des Byzantinischen Reiches bis an die Donau heran.
+:12. Magában a Kárpát-medencében a Morva Birodalom, más néven Nagymorávia létezett mint jelentős szláv hatalom. - Im Karpatenbecken selbst bestand das Mährerreich, auch Großmähren genannt, als bedeutende slawische Macht.
+:13. Ezek a hatalmak egymással viaskodtak a supremacyért, a határokért és a befolyásért. - Diese Mächte rangen miteinander um Vorherrschaft, Grenzen und Einfluss.
+:14. A rivalizáló érdekek e hálójában a magyarok üdvözlendő szövetségesekként jelentek meg. - In diesem Geflecht konkurrierender Interessen erschienen die Magyaren als willkommene Bundesgenossen.
+:15. Lovas seregeik rendkívül ütőképesnek és mozgékonynak számítottak. - Ihre Reiterheere galten als außerordentlich schlagkräftig und beweglich.
+:16. Az az uralkodó, aki az oldalára állította a magyarokat, hatalmas katonai előnyre tett szert. - Ein Herrscher, der die Magyaren auf seine Seite zog, gewann einen mächtigen militärischen Vorteil.
+:17. Így a magyarokat többször is megkörnyékezték szövetségesként különböző oldalakról. - So wurden die Magyaren mehrfach von verschiedenen Seiten als Verbündete umworben.
+:18. Ezek a szövetségi ajánlatok képezték azokat a külső hívásokat, amelyek a magyarokat nyugatra vezették. - Diese Bündnisangebote bildeten die externen Einladungen, die die Magyaren nach Westen führten.
+:19. Az egyik legkorábbi ilyen hívás a Keleti Frank Birodalom részéről történt. - Eine der frühesten dieser Einladungen erfolgte durch das Ostfränkische Reich.
+:20. Az 862-es évben állítólag a magyarok először törtek be a Keleti Frank Birodalom területére. - Im Jahr 862 sollen Magyaren erstmals in das Gebiet des Ostfränkischen Reiches eingefallen sein.
+:21. Ez a betörés esetleg összefüggésben állt a birodalom belső konfliktusaival. - Dieser Einfall steht möglicherweise im Zusammenhang mit den inneren Konflikten des Reiches.
+:22. Német Lajos királynak fia, Karlmann lázadásával kellett megküzdenie. - König Ludwig der Deutsche hatte mit dem Aufstand seines Sohnes Karlmann zu kämpfen.
+:23. Karlmann szövetséget kötött a morva fejjedelemmel, Rasztiszlavval apja ellen. - Karlmann verbündete sich mit dem mährischen Fürsten Rastislav gegen seinen Vater.
+:24. Ebben a konfliktusban a magyarokat az egyik fél segédcsapatiként vonhatták be. - In diesem Konflikt könnten die Magyaren als Hilfstruppen einer der Parteien herangezogen worden sein.
+:25. A források helyzete erről a korai eseményről azonban hiányos és bizonytalan. - Die Quellenlage zu diesem frühen Ereignis ist jedoch spärlich und unsicher.
+:26. Biztosnak tűnik, hogy a magyarok már a tényleges honfoglalás előtt be voltak vonva közép-európai konfliktusokba. - Gesichert erscheint, dass die Magyaren bereits vor der eigentlichen Landnahme in mitteleuropäische Konflikte verwickelt waren.
+:27. Ezek a korai kapcsolatok megismertették velük a Kárpát-medencei viszonyokat. - Diese frühen Kontakte machten ihnen die Verhältnisse im Karpatenbecken vertraut.
+:28. Értesültek a föld termékenységéről és az ott küzdő hatalmak gyengeségéről. - Sie erfuhren von der Fruchtbarkeit des Landes und von der Schwäche der dort ringenden Mächte.
+:29. Az ilyen ismereteknek jelentős súlya volt a későbbi honfoglalási döntés szempontjából. - Solche Kenntnisse waren für die spätere Entscheidung zur Landnahme von erheblicher Bedeutung.
+:30. Egy különösen messze ható hívás érkezett a Keleti Frank Birodalomból, Karintiai Arnulf királytól. - Eine besonders folgenreiche Einladung erging vom Ostfränkischen Reich unter König Arnulf von Kärnten.
+:31. Arnulf elszánt küzdelmet folytatott a Morva Birodalom ellen, Szvatopluk fejedelem alatt. - Arnulf führte einen erbitterten Kampf gegen das Mährerreich unter Fürst Swatopluk.
+:32. A Nagymorva Birodalom Szvatopluk alatt jelentős hatalommá fejlődött. - Das Großmährische Reich hatte sich unter Swatopluk zu einer beträchtlichen Macht entwickelt.
+:33. Veszélyeztette a keleti frank érdekeket a Duna-vidéken és a Kárpát-medencében. - Es bedrohte die ostfränkischen Interessen im Donauraum und im Karpatenbecken.
+:34. E hatalmas ellenfél legyőzése érdekében Arnulf szövetségeseket keresett. - Um diesen mächtigen Gegner zu bezwingen, suchte Arnulf nach Verbündeten.
+:35. Az 892-es évben segítségül hívta a magyarokat a morvák ellen. - Im Jahr 892 rief er die Magyaren zu Hilfe gegen die Mährer.
+:36. A magyarok követték ezt a hívást, és a Morva Birodalom ellen vonultak. - Die Magyaren folgten diesem Ruf und zogen gegen das Mährerreich.
+:37. A keleti frank csapatokkal együtt elpusztították a morva területet. - Gemeinsam mit den ostfränkischen Truppen verwüsteten sie das mährische Gebiet.
+:38. Ez a hadjárat mélyen bevezette a magyarokat a Kárpát-medencébe. - Dieser Feldzug führte die Magyaren tief in das Karpatenbecken hinein.
+:39. Ennek során közvetlen közelről ismerték meg az országot és annak adottságait. - Sie lernten dabei das Land und seine Gegebenheiten aus nächster Nähe kennen.
+:40. Egyúttal hozzájárultak a Morva Birodalom gyengüléséhez, amely kevéssel később összeomlott. - Zugleich trugen sie zur Schwächung des Mährerreiches bei, das wenig später zusammenbrach.
+:41. Arnulf hívása így jelentős lépésnek bizonyult a honfoglaláshoz vezető úton. - Die Einladung Arnulfs erwies sich somit als ein bedeutsamer Schritt auf dem Weg zur Landnahme.
+:42. Gyengítette a magyarok egyik fő versenytársát a Kárpát-medencei uralomért folytatott küzdelemben. - Sie schwächte einen der Hauptkonkurrenten der Magyaren um die Herrschaft im Karpatenbecken.
+:43. Ugyanakkor nyilvánvalóvá tette a magyarok számára a föld előnyeit. - Zugleich machte sie den Magyaren die Vorzüge des Landes deutlich.
+:44. A későbbi magyar hagyomány élesen elítélte Arnulfot ezért a hívásért. - Die spätere ungarische Überlieferung hat Arnulf für diese Einladung scharf getadelt.
+:45. Azrótta fel neki, hogy a magyarok behívásával maga okozta az ország későbbi elvesztését. - Sie warf ihm vor, durch den Ruf nach den Magyaren den späteren Verlust des Landes selbst verschuldet zu haben.
+:46. Ebben az értelmezésben Arnulf hívása végzetes hibaként jelenik meg. - In dieser Deutung erscheint die Einladung Arnulfs als ein verhängnisvoller Fehler.
+:47. A magyarok szempontjából viszont üdvözlendő alkalom volt. - Aus der Sicht der Magyaren hingegen war sie eine willkommene Gelegenheit.
+:48. Megnyitotta számukra a hozzáférést egy olyan országhoz, amely hamarosan az új hazájuknak bizonyult. - Sie eröffnet ihnen den Zugang zu einem Land, das sich bald als ihre neue Heimat erweisen sollte.
+:49. A leginkább ismert külső hívás a Bizánci Birodalomtól származott. - Die wohl bekannteste externe Einladung erging vom Byzantinischen Reich.
+:50. VI. Bölcs Leó bizánci császár háborút folytatott a Bolgár Birodalom ellen. - Der byzantinische Kaiser Leon VI., genannt der Weise, führte einen Krieg gegen das Bulgarische Reich.
+:51. Simeon bolgár uralkodó fellázadt Bizánc ellen, és fenyegette annak határait. - Der bulgarische Herrscher Symeon hatte sich gegen Byzanz erhoben und bedrohte dessen Grenzen.
+:52. E veszélyes ellenfél legyőzése érdekében VI. Leó szövetségeseket keresett. - Um diesen gefährlichen Gegner zu bezwingen, suchte Leon VI. nach Verbündeten.
+:53. Választása a magyarokra esett, akik a Dunán túl, Etelközben tartózkodtak. - Seine Wahl fiel auf die Magyaren, die jenseits der Donau in Etelköz siedelten.
+:54. Az 894-es vagy 895-ös évben Bizánc szövetséget kötött a magyarokkal Bulgária ellen. - Im Jahr 894 oder 895 schloss Byzanz ein Bündnis mit den Magyaren gegen Bulgarien.
+:55. A bizánci flotta segített a magyaroknak átkelni a Dunán. - Die byzantinische Flotte half den Magyaren, die Donau zu überqueren.
+:56. Erre a magyarok Árpád egyik fiának vezetésével betörtek Bulgáriába. - Daraufhin fielen die Magyaren unter Führung eines Sohnes Árpáds in Bulgarien ein.
+:57. Több súlyos vereséget mértek a bolgárokra, és elpusztították az országukat. - Sie fügten den Bulgaren mehere schwere Niederlagen zu und verwüsteten ihr Land.
+:58. Simeon kénytelen volt először békét kérni Bizánctól. - Symeon sah sich gezwungen, zunächst um Frieden mit Byzanz nachzusuchen.
+:59. Ez a hadjárat ismét megmutatja, hogyan használták a magyarokat idegen hatalmak eszközéül. - Dieser Feldzug zeigt erneut, wie die Magyaren als Werkzeug fremder Mächte eingesetzt wurden.
+:60. Bizánc kihasználta katonai erejüket, hogy legyőzze saját ellenfelét. - Byzanz nutzte ihre militärische Stärke, um den eigenen Gegner zu bezwingen.
+:61. E szövetség következményei azonban magukra a magyarokra nézve súlyosak lettek. - Die Folgen dieses Bündnisses sollten jedoch für die Magyaren selbst gravierend sein.
+:62. Bolgár Simeon bosszút forralt az elszenvedett vereségekért. - Symeon von Bulgarien sann auf Rache für die erlittenen Niederlagen.
+:63. A maga részéről szövetséget kötött a besenyőkkel a magyarok ellen. - Er verbündete sich seinerseits mit den Petschenegen gegen die Magyaren.
+:64. Míg a magyar sereg Bulgáriában harcolt, a besenyők rátörtek a védtelen Etelközre. - Während das magyarische Heer in Bulgarien kämpfte, fielen die Petschenegen über das schutzlose Etelköz her.
+:65. Elpusztították a hátrahagyott szállásokat, és súlyos veszteségeket okoztak. - Sie verwüsteten die zurückgebliebenen Siedlungen und richteten schwere Verluste an.
+:66. Ez a megsemmisítő csapás a hazájukban érte a magyarokat, miközben seregük távol volt. - Dieser vernichtende Schlag traf die Magyaren in ihrer Heimat, während ihr Heer abwesend war.
+:67. A lerrombolt Etelközbe való visszatérés lehetetlenné tette a további maradást. - Die Rückkehr in das zerstörte Etelköz machte ein weiteres Verbleiben unmöglich.
+:68. Így a bizánci szövetség közvetve hozzájárult a magyarok végleges indulásához. - So trug das byzantinische Bündnis indirekt zum endgültigen Aufbruch der Magyaren bei.
+:69. A Bulgária elleni hadjáratot és annak következményeit sokan a honfoglalás közvetlen kiváltó okának tekintik. - Der Feldzug gegen Bulgarien und seine Folgen werden vielfach als unmittelbarer Auslöser der Landnahme angesehen.
+:70. A bizánci császár külső hívása így több lépcsőben a nyugati vándorláshoz vezetett. - Die externe Einladung des byzantinischen Kaisers führte somit über mehere Stufen zur Westwanderung.
+:71. Ennél a példánál megmutatkozik a külső hívások felemás jellege. - An diesem Beispiel zeigt sich die zwiespältige Natur der externen Einladungen.
+:72. Egyrészt új lehetőségeket és zsákmányszerzési alkalmakat nyitottak meg a magyarok előtt. - Einerseits eröffneten sie den Magyaren neue Möglichkeiten und Beutezüge.
+:73. Másrészt olyan konfliktusokba sodorták a magyarokat, amelyek következményeit nem uralták teljesen. - Andererseits verwickelten sie die Magyaren in Konflikte, deren Folgen sie nicht vollständig beherrschten.
+:74. A bizánci szövetség katonai dicsőséget hozott számukra, de besenyő bosszút is. - Das byzantinische Bündnis brought ihnen militärischen Ruhm, aber auch die petschenegische Vergeltung.
+:75. Ez a bosszú viszont kényszerítette őket eddigi hazájuk elhagyására. - Diese Vergeltung wiederum zwang sie zum Verlassen ihrer bisherigen Heimat.
+:76. A külső hívások így olyan tényezők voltak, amelyek mozgásba lendítették és nyugat felé terelték a magyarokat. - Die externen Einladungen waren somit ein Faktor, der die Magyaren in Bewegung setzte und nach Westen lenkte.
+:77. Eközben nem elszigetelten hatottak, hanem a vándorlás többi okával kölcsönhatásban. - Sie wirkten dabei nicht isoliert, sondern im Zusammenspiel mit den übrigen Ursachen der Wanderung.
+:78. A besenyő nyomás, a kazár gyengeség és a külső hívások egymásba kapcsolódtak. - Der petschenegische Druck, die khazarische Schwäche und die externen Einladungen griffen ineinander.
+:79. Együttesen hozták létre azt a konstellációt, amely a honfoglaláshoz vezetett. - Gemeinsam ergaben sie jene Konstellation, die zur Landnahme führte.
+:80. Tanulságos közelebbről megvizsgálni a külső hívások általános mintázatát. - Es ist aufschlussreich, das allgemeine Muster der externen Einladungen näher zu betrachten.
+:81. A sztyeppei népek segédcsapatként való felfogadása elterjedt gyakorlat volt az akkori világban. - Die Anwerbung von Steppenvölkern als Hilfstruppen war in der damaligen Welt eine verbreitete Praxis.
+:82. Mind Bizánc, mind a közép-európai hatalmak igénybe vettek ilyen szövetségeket. - Sowohl Byzanz als auch die mitteleuropäischen Mächte bedienten sich solcher Bündnisse.
+:83. A sztyeppei lovas népek kiváló harcosoknak számítottak, akiknek bevetése eldönthette a háborúk kimenetelét. - Die Reitervölker der Steppe galten als hervorragende Kämpfer, deren Einsatz den Ausgang von Kriegen entscheiden konnte.
+:84. Cserébe a sztyeppei népek zsákmányt, adót vagy politikai elismerést kaptak. - Im Gegenzug erhielten die Steppenvölker Beute, Tribut oder politische Anerkennung.
+:85. Ennek a gyakorlatnak hosszú hagyománya volt, amely egészen az ókorig nyúlt vissza. - Diese Praxis hatte eine lange Tradition, die bis in die Antike zurückreichte.
+:86. Már a Római Birodalom is foederatiként szolgálatába fogadott idegen népeket. - Schon das Römische Reich hatte fremde Völker als Föderaten in seinen Dienst genommen.
+:87. Bizánc folytatta ezt a hagyományt, és a szövetségi diplomácia kifinomult rendszerét tartotta fenn. - Byzanz setzte diese Tradition fort und unterhielt ein ausgeklügeltes System der Bündnisdiplomatie.
+:88. A magyarok beilleszkedtek ebbe a rendszerbe, mielőtt maguk is önálló hatalommá váltak volna. - Die Magyaren fügten sich in dieses System ein, bevor sie selbst zu einer eigenständigen Macht wurden.
+:89. VII. Konstantin „A birodalom kormányzásáról” című műve betekintést nyújt ebbe a bizánci szövetségi politikába. - Das Werk "De administrando imperio" des Konstantin VII. gibt Einblick in diese byzantinische Bündnispolitik.
+:90. Részletesen tárgyalja a különböző sztyeppei népekhez fűződő kapcsolatokat. - Es behandelt ausführlich die Beziehungen zu den verschiedenen Steppenvölkern.
+:91. Ennek során világossá válik, hogyan próbálta Bizánc egymás ellen kijátszani a népeket. - Dabei wird deutlich, wie Byzanz die Völker gegeneinander auszuspielen suchte.
+:92. A besenyőkre például a magyarok és a bolgárok elleni ellensúlyként tekintett Bizánc. - Die Petschenegen etwa wurden von Byzanz als Gegengewicht gegen die Magyaren und Bulgaren betrachtet.
+:93. Ez az egyensúlyi politika határozta meg a kapcsolatokat az egész sztyeppei térségben. - Diese Politik des Gleichgewichts prägte die Beziehungen im gesamten Steppenraum.
+:94. A magyarok éppúgy be voltak vonva ebbe a diplomáciai játékba, mint a szomszédjaik. - Die Magyaren waren in dieses diplomatische Spiel ebenso eingebunden wie ihre Nachbarn.
+:95. Egyszerre voltak eszközök és szereplők a nagyhatalmak konfliktusaiban. - Sie waren zugleich Werkzeug und Mitspieler in den Konflikten der Großmächte.
+:96. Ez a kettős szerep jellemzi helyzetüket a honfoglalás előtti időszakban. - Diese Doppelrolle kennzeichnet ihre Stellung in der Zeit vor der Landnahme.
+:97. A külső hívások értékelésekor módszertani óvatosságra van szükség. - Bei der Bewertung der externen Einladungen ist methodische Vorsicht geboten.
+:98. A források az eseményeket gyakran a meghívó hatalmak szemszögéből írják le. - Die Quellen schildern die Ereignisse oft aus der Sicht der einladenden Mächte.
+:99. A bizánci források a császár szerepét hangsúlyozzák, a frankok Arnulf szerepét. - Die byzantinischen Quellen betonen die Rolle des Kaisers, die fränkischen die Rolle Arnulfs.
+:100. A magyarok saját kezdeményezése háttérbe szorul ezekben az ábrázolásokban. - Die Eigeninitiative der Magyaren tritt in diesen Darstellungen zurück.
+:101. Téves lenne azonban a magyarokat saját akarat nélküli, egyszerű zsoldosoknak tekinteni. - Es wäre jedoch falsch, die Magyaren als bloße Söldner ohne eigenen Willen zu betrachten.
+:102. Azért követték a hívásokat, mert azok megfeleltek saját érdekeiknek. - Sie folgten den Einladungen, weil diese ihren eigenen Interessen entsprachen.
+:103. A zsákmány, az elismerés és az új területek felderítése vonzó célok voltak számukra. - Beute, Anerkennung und die Erkundung neuer Gebiete waren für sie attraktive Ziele.
+:104. A külső hívások így a magyarok saját indulási készségével találkoztak. - Die externen Einladungen trafen somit auf eine eigene magyarische Bereitschaft zum Aufbruch.
+:105. Csak a külső hívás és a belső készség találkozása indította be a mozgást. - Erst das Zusammentreffen von äußerem Ruf und innerer Bereitschaft setzte die Bewegung in Gang.
+:106. A magyarok nem idegen politika passzív tárgyai, hanem aktív cselekvők voltak. - Die Magyaren waren keine passiven Objekte fremder Politik, sondern aktive Akteure.
+:107. A szövetségi ajánlatokat saját céljaikra használták fel. - Sie nutzten die Bündnisangebote für ihre eigenen Zwecke.
+:108. Ezt az aktív szerepet a külső hívások értelmezésekor mindig figyelembe kell venni. - Diese aktive Rolle ist bei der Deutung der externen Einladungen stets mitzudenken.
+:109. Egy másik fontos szempont a szövetségi hadjáratok felderítő funkciója. - Ein weiterer wichtiger Aspekt ist die Erkundungsfunktion der Bündnisfeldzüge.
+:110. Az idegen háborúkban való részvételük révén a magyarok alaposan megismerték a Kárpát-medencét. - Durch ihre Teilnahme an fremden Kriegen lernten die Magyaren das Karpatenbecken gründlich kennen.
+:111. Felderítették az utakat, a folyami átkelőket és a Kárpátok hágóit. - Sie erkundeten die Wege, die Flussübergänge und die Pässe der Karpaten.
+:112. Értesültek az ott honos hatalmak erejéről és gyengeségéről. - Sie erfuhren von der Stärke und Schwäche der dort ansässigen Mächte.
+:113. Saját szemükkel látták a föld termékenységét és állattenyésztésre való alkalmasságát. - Sie sahen mit eigenen Augen die Fruchtbarkeit des Landes und seine Eignung für die Viehzucht.
+:114. Ezek az ismeretek felbecsülhetetlen értékűek voltak a későbbi honfoglalás szempontjából. - Diese Kenntnisse waren für die spätere Landnahme von unschätzbarem Wert.
+:115. Egy nép, amely már ismerte az országot, sokkal jobban meg tudta tervezni annak meghódítását. - Ein Volk, das ein Land bereits kannte, konnte seine Eroberung weit besser planen.
+:116. A szövetségi hadjáratok így a honfoglalás nem szándékolt előkészítéseként hatottak. - Die Bündnisfeldzüge wirkten somit wie eine unfreiwillige Vorbereitung der Landnahme.
+:117. Az ismeretlen földet ismerős térré változtatták. - Sie verwandelten das unbekannte Land in einen vertrauten Raum.
+:118. Ebből az ismerősségből fakadt a célzott birtokbavétel lehetősége. - Aus dieser Vertrautheit erwuchs die Möglichkeit der gezielten Inbesitznahme.
+:119. A külső hívások így duplán járultak hozzá a honfoglaláshoz. - Die externen Einladungen trugen damit doppelt zur Landnahme bei.
+:120. Egyrészt gyengítették a Kárpát-medencében viaskodó hatalmakat. - Zum einen schwächten sie die im Karpatenbecken ringenden Mächte.
+:121. Másrészt megszerezték a magyaroknak a szükséges helyismeretet. - Zum anderen verschafften sie den Magyaren die nötige Ortskenntnis.
+:122. A két hatás együtt egyengette az utat a tartós megtelepedés felé. - Beide Wirkungen zusammen ebneten den Weg zur dauerhaften Niederlassung.
+:123. Különösen a Morva Birodalom gyengülése bizonyult messze hatónak. - Besonders die Schwächung des Mährerreiches erwies sich als folgenreich.
+:124. A Nagymorva Birodalom volt a leghatalmasabb versenytárs a Kárpát-medencei uralomért. - Das Großmährische Reich war der mächtigste Konkurrent um die Herrschaft im Karpatenbecken.
+:125. Az Arnulf oldalán folytatott hadjáratok révén a magyarok hozzájárultak annak hanyatlásához. - Durch die Feldzüge an der Seite Arnulfs trugen die Magyaren zu seinem Niedergang bei.
+:126. Szvatopluk halála után a birodalom belső csatározásokban szétesett. - Nach dem Tod Swatopluks zerfiel das Reich in innere Streitigkeiten.
+:127. A meggyengült utódok keveset tudtak szembeszegezni a magyar rohammal. - Die geschwächten Nachfolger konnten dem magyarischen Ansturm wenig entgegensetzen.
+:128. Így a magyarok a honfoglalásukkor egy nagyrészt megfosztott hatalmú ellenfelet találtak. - So fanden die Magyaren bei ihrer Landnahme einen weitgehend entmachteten Gegner vor.
+:129. Arnulf külső hívása így előkészítette a talajt a hódításhoz. - Die externe Einladung Arnulfs hatte somit den Boden für die Eroberung bereitet.
+:130. Az okok e láncolata rávilágít a politikai döntések nem szándékolt következményeire. - Diese Verkettung von Ursachen verdeutlicht die ungewollten Folgen politischer Entscheidungen.
+:131. Arnulf behívta a magyarokat, hogy gyengítse Morvaországot, és ezzel megteremtette a honfoglalásuk feltételét. - Arnulf rief die Magyaren, um Mähren zu schwächen, und schuf damit die Voraussetzung für ihre Landnahme.
+:132. VI. Leó behívta a magyarokat, hogy legyőzze Bulgáriát, és ezzel kiváltotta az Etelközből való elűzésüket. - Leon VI. rief die Magyaren, um Bulgarien zu schlagen, und löste damit ihre Vertreibung aus Etelköz aus.
+:133. Mindkét esetben a hívások olyan következményekhez vezettek, amelyeket kezdeményezőik nem szándékoztak. - In beiden Fällen führten die Einladungen zu Folgen, die ihre Urheber nicht beabsichtigt hatten.
+:134. Ezek a nem szándékolt következmények a történelmi folyamatok sajátosságai közé tartoznak. - Diese unbeabsichtigten Folgen gehören zu den Eigentümlichkeiten historischer Vorgänge.
+:135. Megmutatják, mennyire eltérhet a szándék és az eredmény. - Sie zeigen, wie eng Absicht und Ergebnis auseinanderfallen können.
+:136. A magyarok végül az idegen szövetségi politika valódi haszonélvezőinek bizonyultak. - Die Magyaren erwiesen sich am Ende als die eigentlichen Nutznießer der fremden Bündnispolitik.
+:137. Olyan országot szereztek, amelyet a meghívó hatalmak akaratlanul engedtek át nekik. - Sie gewannen ein Land, das ihnen die einladenden Mächte unbeabsichtigt überließen.
+:138. A magyar hagyomány a maga módján értelmezte ezeket az összefüggéseket. - Die ungarische Überlieferung hat diese Zusammenhänge auf ihre Weise gedeutet.
+:139. A magyarok cselességét és rátermettségét hangsúlyozta az ország megszerzésében. - Sie betonte die List und Tüchtigkeit der Magyaren bei der Erlangung des Landes.
+:140. Egy híres legenda mesél az ország megvásárlásáról egy ravasz ügylet révén. - Eine berühmte Legende erzählt vom Erwerb des Landes durch ein listiges Geschäft.
+:141. Ezen elbeszélés szerint a magyarok egy fehér lovat küldtek ajándékba a morva fejedelemnek. - Nach dieser Erzählung sandten die Magyaren dem mährischen Fürsten ein weißes Pferd als Geschenk.
+:142. Cserébe az ország földjét, füvét és vizét kérték. - Im Gegenzug erbaten sie sich Erde, Gras und Wasser des Landes.
+:143. A fejedelem megadta ezt, anélkül hogy átlátta volna a szimbolikus jelentést. - Der Fürst gewährte dies, ohne die symbolische Bedeutung zu durchschauen.
+:144. A magyarok a ló elfogadását az ország eladásaként értelmezték. - Die Magyaren deuteten die Annahme des Pferdes als Verkauf des Landes.
+:145. Ezen az alapon formáltak igényt az egész területre. - Auf dieser Grundlage erhoben sie Anspruch auf das gesamte Gebiet.
+:146. A fehér ló e legendája bizonyára nem történelmi tény. - Diese Legende vom weißen Pferd ist gewiss keine historische Tatsache.
+:147. Azt az elképzelést tükrözi azonban, hogy a földet jogszerű módon szerezték meg. - Sie spiegelt jedoch die Vorstellung wider, dass das Land auf rechtmäßige Weise erworben wurde.
+:148. Az ilyen elbeszélések a honfoglalás legitimálását szolgálták. - Solche Erzählungen dienten der Legitimierung der Landnahme.
+:149. Azt kellett megmutatniuk, hogy a magyarok nem csupán elrabolták, hanem megszerezték a földet. - Sie sollten zeigen, dass die Magyaren das Land nicht bloß geraubt, sondern erworben hatten.
+:150. A külső hívások jól illeszkedtek ebbe a belső értelmezésbe. - Die externen Einladungen fügten sich gut in diese Selbstdeutung ein.
+:151. Mert ha idegen uralkodók hívták a magyarokat, akkor jövetelük jogosnak tűnt. - Denn wenn fremde Herrscher die Magyaren riefen, so erschien ihr Kommen als berechtigt.
+:152. A hívás igazoló hátteret kölcsönzött a Kárpát-medencei jelenlétüknek. - Die Einladung verlieh ihrer Anwesenheit im Karpatenbecken einen rechtfertigenden Hintergrund.
+:153. E tekintetben a külső hívásoknak ideológiai jelentőségük is volt. - In dieser Hinsicht hatten die externen Einladungen auch eine ideologische Bedeutung.
+:154. A honfoglalás utólagos igazolására lehetett felhasználni őket. - Sie konnten zur nachträglichen Rechtfertigung der Landnahme herangezogen werden.
+:155. A modern kutatás elválasztja ezt az ideológiai funkciót a történelmi valóságtól. - Die moderne Forschung trennt diese ideologische Funktion von der historischen Realität.
+:156. Nüanszoltan kérdez rá a szövetségek tényleges lefolyására és jelentőségére. - Sie fragt nüchtern nach dem tatsächlichen Verlauf und der Bedeutung der Bündnisse.
+:157. Ennek során a külső hívásokról árnyalt kép alakul ki. - Dabei ergibt sich ein differenziertes Bild der externen Einladungen.
+:158. Nem képezték a honfoglalás egyedüli okát, de nem is voltak puszta ürügyek. - Sie waren weder die alleinige Ursache der Landnahme noch ein bloßer Vorwand.
+:159. Valóságos tényezőt jelentettek, amely más erőkkel kölcsönhatásban működött. - Sie waren ein realer Faktor, der im Zusammenspiel mit anderen Kräften wirkte.
+:160. Jelentőségük mindenekelőtt az ellenfelek felderítésében és gyengítésében rejlett. - Ihre Bedeutung lag vor allem in der Erkundung und der Schwächung der Gegner.
+:161. Ehhez járult kiváltó hatásuk a bolgár-bizánci háború esetében. - Hinzu kam ihre auslösende Wirkung im Fall des bulgarisch-byzantinischen Krieges.
+:162. Összességükben felgyorsították és irányították a magyarok nyugati vándorlását. - In ihrer Gesamtheit beschleunigten und lenkten sie die Westwanderung der Magyaren.
+:163. A külső hívások nélkül a vándorlás esetleg más lefolyást vett volna. - Ohne die externen Einladungen hätte die Wanderung möglicherweise einen anderen Verlauf genommen.
+:164. Konkrét irányt és konkrét alkalmat adtak a nyugat felé tartó általános mozgásnak. - Sie gaben der allgemeinen Bewegung nach Westen eine konkrete Richtung und einen konkreten Anlass.
+:165. Ebben az értelemben az események elengedhetetlen részét képezték. - In diesem Sinne waren sie ein unverzichtbarer Bestandteil des Geschehens.
+:166. Összegzésképpen megállapítható, hogy a külső hívások a magyarokat többször is nyugatra hívták. - Zusammenfassend lässt sich festhalten, dass die externen Einladungen die Magyaren mehrfach nach Westen riefen.
+:167. A Keleti Frank Birodalom Arnulf alatt segítségül hívta őket a Morva Birodalom ellen. - Das Ostfränkische Reich unter Arnulf rief sie gegen das Mährerreich zu Hilfe.
+:168. A Bizánci Birodalom VI. Leó alatt segítségül hívta őket a Bolgár Birodalom ellen. - Das Byzantinische Reich unter Leon VI. rief sie gegen das Bulgarische Reich.
+:169. Mindkét esetben a magyarokat katonai szövetségesként vetették be. - In beiden Fällen wurden die Magyaren als militärische Bundesgenossen eingesetzt.
+:170. Ezek a szövetségek zsákmányt, helyismeretet és jövendő ellenfeleik gyengülését hozták számukra. - Diese Bündnisse verschafften ihnen Beute, Ortskenntnis und die Schwächung ihrer künftigen Gegner.
+:171. Ugyanakkor nem szándékolt következményekkel járó konfliktusokba sodorták a magyarokat. - Zugleich verwickelten sie die Magyaren in Konflikte mit unbeabsichtigten Folgen.
+:172. A bizánci szövetség a besenyő bosszún keresztül az Etelközből való elűzéshez vezetett. - Das byzantinische Bündnis führte über die petschenegische Vergeltung zur Vertreibung aus Etelköz.
+:173. Arnulf hívása hozzájárult a Morva Birodalom gyengüléséhez, és ezzel a honfoglalás megkönnyítéséhez. - Die Einladung Arnulfs trug zur Schwächung des Mährerreiches und damit zur Erleichterung der Landnahme bei.
+:174. A külső hívások eközben mindig kölcsönhatásban hatottak a vándorlás többi okával. - Die externen Einladungen wirkten dabei stets im Zusammenspiel mit den übrigen Ursachen der Wanderung.
+:175. Nem képezték az egyedüli okot, hanem egy irányító és felgyorsító tényezőt jelentettek. - Sie waren keine alleinige Ursache, sondern ein lenkender und beschleunigender Faktor.
+:176. A magyarok saját érdekükből követték a hívásokat, és saját céljaikra használták fel azokat. - Die Magyaren folgten den Einladungen aus eigenem Interesse und nutzten sie für ihre Zwecke.
+:177. Egyszerre voltak eszközök és önálló szereplők a nagyhatalmak konfliktusaiban. - Sie waren zugleich Werkzeug und eigenständiger Akteur in den Konflikten der Großmächte.
+:178. A magyar hagyomány a hívásokat később a honfoglalás igazolásaként értelmezte. - Die ungarische Überlieferung deutete die Einladungen später als Rechtfertigung der Landnahme.
+:179. A modern kutatás egy realitáson alapuló, de árnyaltan értékelendő tényezőt lát bennük. - Die moderne Forschung sieht in ihnen einen realen, aber differenziert zu bewertenden Faktor.
+:180. Így a külső hívások alapvető láncszemnek bizonyulnak a magyar honfoglaláshoz vezető események sorában. - So erweisen sich die externen Einladungen als ein wesentliches Glied in der Kette der Ereignisse, die zur ungarischen Landnahme führten.
+
+
+
+
+
+:1. A magyarok honfoglalási előtörténetének végén a migrációs döntés áll, vagyis a magyarok végleges elhatározása, hogy elhagyják eddigi hazájukat, és elindulnak nyugatra. - Am Ende der langen Vorgeschichte der ungarischen Landnahme steht die Entscheidung zur Migration, also der endgültige Entschluss der Magyaren, ihre bisherige Heimat zu verlassen und nach Westen aufzubrechen.
+:2. Ez a döntés úgyszólván azt a gyújtópontot képezi, amelyben az összes korábban ható erő összpontosult. - Diese Entscheidung bildet gewissermaßen den Brennpunkt, in dem sich alle zuvor wirkenden Kräfte bündelten.
+:3. Nem egyetlen, pontosan datálható aktus volt, hanem egy sokrétű folyamat eredménye. - Sie war kein einzelner, klar datierbarer Akt, sondern das Ergebnis eines vielschichtigen Prozesses.
+:4. Hogy ezek az okok miként hatottak együtt, az csak az egész folyamatra való visszatekintésből tárható fel. - Wie diese Ursachen zusammenwirkten, lässt sich nur im Rückblick auf den gesamten Vorgang erschließen.
+:5. Mert csak ezen okok kölcsönhatásából adódott az a konstelláció, amely a megindulást elkerülhetetlenné tette. - Denn erst aus dem Zusammenspiel dieser Ursachen ergab sich jene Konstellation, die den Aufbruch unausweichlich machte.
+:6. Az a kérdés, hogyan született meg a migrációs döntés, a korai magyar történelem központi kérdései közé tartozik. - Die Frage, wie es zur Entscheidung zur Migration kam, gehört zu den zentralen Fragen der frühen ungarischen Geschichte.
+:7. Egyúttal az egyik legnehezebben megválaszolható kérdés is, mivel a források hallgatnak a magyarok belső tanácskozásairól. - Sie ist zugleich eine der am schwersten zu beantwortenden, da die Quellen über die inneren Beratungen der Magyaren schweigen.
+:8. Senki sem hagyta ránk, miként tanácskozott és döntött a magyar vezetés. - Niemand hat überliefert, wie die magyarische Führung beriet und entschied.
+:9. A döntést ezért a körülményekből és a fennmaradt eseményekből kell kikövetkeztetni. - Die Entscheidung muss daher aus den Umständen und den überlieferten Ereignissen erschlossen werden.
+:10. Ennek során különbséget kell tenni a hosszú távú feltételek és a közvetlen kiváltó ok között. - Dabei ist zwischen den langfristigen Voraussetzungen und dem unmittelbaren Auslöser zu unterscheiden.
+:11. A hosszú távú feltételek alakították ki a megindulásra való általános készenlétet. - Die langfristigen Voraussetzungen schufen die allgemeine Bereitschaft zum Aufbruch.
+:12. A közvetlen kiváltó ok ezzel szemben megadta az utolsó llökést a tényleges elinduláshoz. - Der unmittelbare Auslöser hingegen gab den letzten Anstoß zum tatsächlichen Aufbruch.
+:13. A hosszú távú feltételek közé tartozott először is maguknak a magyaroknak a nomadizáló életmódja. - Zu den langfristigen Voraussetzungen gehörte zunächst die nomadische Lebensweise der Magyaren selbst.
+:14. Nomád lovasokként a magyarok természetüknél fogva hozzá voltak szokva a mobilitáshoz. - Als Reiternomaden waren die Magyaren von Natur aus an Mobilität gewöhnt.
+:15. A legelőterület váltása és a vándorlás a ritmusukhoz tartozott. - Der Wechsel des Weidegebietes und die Wanderung gehörten zu ihrem Lebensrhythmus.
+:16. Egy új országba való elindulás ezért számukra nem jelentett elvileg idegen dolgot. - Ein Aufbruch in ein neues Land war daher für sie nichts grundsätzlich Fremdes.
+:17. A nomád életmód úgyszólván lecsökkentette a nagy migráció küszöbét. - Die nomadische Lebensweise senkte gewissermaßen die Schwelle zur großen Migration.
+:18. Egy letelepedett földművelő nép jóval nehezebben élte volna meg hazája elhagyását. - Ein sesshaftes Bauernvolk hätte die Aufgabe seiner Heimat weit schwerer empfunden.
+:19. Egy lovasnép számára viszont a vándorlás az alkalmazkodás megszokott lehetőségét jelentette. - Für ein Reitervolk hingegen war die Wanderung eine vertraute Möglichkeit der Anpassung.
+:20. Ez a kulturális diszpozíció képezte a későbbi döntés hátterét. - Diese kulturelle Disposition bildete den Hintergrund der späteren Entscheidung.
+:21. Egy másik hosszú távú feltétel a magyarok földrajzi helyzete volt a sztyeppén. - Eine weitere langfristige Voraussetzung war die geographische Lage der Magyaren in der Steppe.
+:22. Olyan térségben szálltak meg, amelyet hatalmas és nyugtalan szomszédok vettek körül. - Sie siedelten in einem Raum, der von mächtigen und unruhigen Nachbarn umgeben war.
+:23. Keleten a kazárok feküdtek, távolabb keleten a benyomuló besenyők. - Im Osten lagen die Khazaren, im weiteren Osten die nachdrängenden Petschenegen.
+:24. Ez a helyzet a magyarokat kitette a sztyeppei politika folyamatos nyomásának. - Diese Lage machte die Magyaren dem ständigen Druck der Steppenpolitik ausgesetzt.
+:25. Tartós biztonságot ebben a térségben aligha lehetett szerezni. - Eine dauerhafte Sicherheit war in diesem Raum kaum zu gewinnen.
+:26. A szomszédok nyomására való reagálás kényszere magában a helyzetben rejlett. - Die Notwendigkeit, auf den Druck der Nachbarn zu reagieren, lag in der Lage selbst begründet.
+:27. Ehhez járult a Kazár Birodalom fokozatos meggyengülése. - Hinzu kam die allmähliche Schwächung des Khazarischen Reiches.
+:28. Amíg a kazár hatalom erős volt, védelmet és keretet nyújtott a magyaroknak. - Solange die khazarische Macht stark war, bot sie den Magyaren Schutz und Einbindung.
+:29. Hanyatlásával ez a védelmező keret megszűnt. - Mit ihrem Niedergang entfiel dieser schützende Rahmen.
+:30. A magyarok ekkor közvetlenül ki voltak téve a külső fenyegetéseknek. - Die Magyaren waren nun den äußeren Bedrohungen unmittelbar ausgesetzt.
+:31. A kazár gyengeség így egy feltételt teremtett a meginduláshoz. - Die khazarische Schwäche schuf somit eine Voraussetzung für den Aufbruch.
+:32. Ezzel szorosan összefüggött a besenyők növekvő nyomása. - Eng damit verbunden war der wachsende Druck der Petschenegen.
+:33. Ez a török nyelvű lovasnép keletről nyomult be a magyar szállásterületre. - Dieses turksprachige Reitervolk drängte von Osten her in den magyarischen Siedlungsraum.
+:34. A besenyőket a maguk részéről a távolabb keletre élő népek szorították ki. - Die Petschenegen wurden ihrerseits von weiter östlich lebenden Völkern verdrängt.
+:35. Így jött létre az a láncreakció, amely a sztyeppetörténetre jellemző volt. - So entstand jene Kettenbewegung, die für die Steppengeschichte charakteristisch war.
+:36. A besenyő nyomás a magyarokat egyre növekvő kitérési kényszer alá helyezte. - Der petschenegische Druck setzte die Magyaren unter einen wachsenden Zwang zum Ausweichen.
+:37. Már a Levédiából Etelközbe való átmenetet is részben e nyomás következményeként értelmezik. - Bereits der Übergang von Levedia nach Etelköz wird teils als Folge dieses Drucks gedeutet.
+:38. De Etelközben sem találtak a magyarok tartós biztonságot. - Doch auch in Etelköz fanden die Magyaren keine dauerhafte Sicherheit.
+:39. A besenyő nyomás megmaradt, és az idő teltével élesedett. - Der petschenegische Druck blieb bestehen und verschärfte sich mit der Zeit.
+:40. A migráció egyik legfontosabb hosszú távú feltételét képezte. - Er bildete eine der wichtigsten langfristigen Voraussetzungen der Migration.
+:41. A feltételek közé tartoztak továbbá a klíma- és gazdasági tényezők. - Zu den Voraussetzungen gehörten ferner die klimatischen und ökonomischen Faktoren.
+:42. A magyarok nomád gazdálkodása a megfelelő legelőktől függött. - Die nomadische Wirtschaft der Magyaren hing von ausreichenden Weidegründen ab.
+:43. A természeti feltételek romlása felerősíthette a vándorlási ösztönzést. - Verschlechterungen der natürlichen Bedingungen konnten den Anreiz zur Wanderung verstärken.
+:44. A nyugat gazdagabb és jobban védett területei kedvezőbb életfeltételeket ígértek. - Die reicheren und besser geschützten Gebiete des Westens versprachen günstigere Lebensbedingungen.
+:45. A Kárpát-medence az állattenyésztésre különösen alkalmas térségnek tűnt. - Das Karpatenbecken erschien als ein für die Viehzucht besonders geeigneter Raum.
+:46. A nyugat ezen gazdasági vonzereje hosszú távú hajtóerőként hatott. - Diese ökonomische Anziehungskraft des Westens wirkte als langfristiger Antrieb.
+:47. Ehhez járultak az idegen hatalmak külső hívásai. - Hinzu kamen die externen Einladungen fremder Mächte.
+:48. Szövetségi hadjárataik révén a magyarok saját tapasztalatból ismerték meg a Kárpát-medencét. - Durch ihre Bündnisfeldzüge lernten die Magyaren das Karpatenbecken aus eigener Anschauung kennen.
+:49. Értesültek a föld termékenységéről és lakóinak gyengeségéről. - Sie erfuhren von der Fruchtbarkeit des Landes und der Schwäche seiner Bewohner.
+:50. Ez az ismeret a földet konkrét és elérhető céllá tette. - Diese Kenntnis machte das Land zu einem konkreten und erreichbaren Ziel.
+:51. A külső hívások így útmutató tényezőként hatottak. - Die externen Einladungen wirkten somit als wegweisender Faktor.
+:52. Végül a feltételek közé tartozott a magyarok belső konszolidációja. - Schließlich gehörte zu den Voraussetzungen die innere Konsolidierung der Magyaren.
+:53. Árpád és nemzetségének vezetése alatt a törzsek közös csúcsot találtak. - Unter der Führung Árpáds und seines Geschlechts hatten die Stämme eine gemeinsame Spitze gefunden.
+:54. Ez az egység volt a feltétele a koordinált közös cselekvésnek. - Diese Einheit war die Voraussetzung für ein koordiniertes gemeinsames Handeln.
+:55. Egy széthúzó alakulat nem tudott volna végrehajtani egy ilyen nagy vállalkozást. - Ein zerstrittener Verband hätte eine so große Unternehmung nicht durchführen können.
+:56. A belső megszilárdulás megteremtette a migráció szervezeti alapját. - Die innere Festigung schuf die organisatorische Grundlage der Migration.
+:57. Mindezek a feltételek együtt hozták létre a megindulásra való általános készenlétet. - Alle diese Voraussetzungen zusammen erzeugten eine allgemeine Bereitschaft zum Aufbruch.
+:58. Lehetővé és bizonyos értelemben valószínűvé tették a migrációt. - Sie machten die Migration möglich und in gewissem Sinne wahrscheinlich.
+:59. De még nem magyarázzák meg, miért éppen ebben az időpontban történt az elindulás. - Doch sie erklären noch nicht, warum der Aufbruch gerade zu diesem Zeitpunkt erfolgte.
+:60. Itt lép működésbe a közvetlen kiváltó ok. - Hier kommt der unmittelbare Auslöser ins Spiel.
+:61. Közvetlen kiváltó okként a kutatásban a besenyők Etelköz elleni megsemmisítő támadása számít. - Als unmittelbarer Auslöser gilt in der Forschung der vernichtende Angriff der Petschenegen auf Etelköz.
+:62. Ez a támadás a bolgár-bizánci háborúval áll összefüggésben. - Dieser Angriff steht im Zusammenhang mit dem bulgarisch-byzantinischen Krieg.
+:63. A magyarok a bizánci császár hívására Bulgária ellen vonultak. - Die Magyaren waren auf Einladung des byzantinischen Kaisers gegen Bulgarien gezogen.
+:64. Míg seregük Bulgáriában harcolt, a haza védtelenül maradt hátra. - Während ihr Heer in Bulgarien kämpfte, blieb die Heimat schutzlos zurück.
+:65. A bolgár uralkodó, Simeon erre szövetséget kötött a besenyőkkel. - Der bulgarische Herrscher Symeon verbündete sich daraufhin mit den Petschenegen.
+:66. Együtt törtek rá a védtelen Etelközre. - Gemeinsam fielen sie über das ungeschützte Etelköz her.
+:67. Elpusztították a szállásokat, és súlyos veszteségeket okoztak a hátrahagyott családok körében. - Sie verwüsteten die Siedlungen und richteten schwere Verluste unter den zurückgebliebenen Familien an.
+:68. A hazatérő harcosok elpusztítva találták a hazájukat. - Die heimkehrenden Krieger fanden ihre Heimat zerstört vor.
+:69. E csapás után a további maradás Etelközben már nem volt lehetséges. - Ein weiteres Verbleiben in Etelköz war nach diesem Schlag nicht mehr möglich.
+:70. A magyaroknak új, biztonságos Lebensraumot (életteret) kellett keresniük. - Die Magyaren mussten sich einen neuen, sicheren Lebensraum suchen.
+:71. Ez a közvetlen alkalom tette elkerülhetetlenné a régóta előkészített megindulást. - Dieser unmittelbare Anlass machte den lange vorbereiteten Aufbruch unausweichlich.
+:72. Az általános készenlétből így lett konkrét elhatározás. - Aus der allgemeinen Bereitschaft wurde so der konkrete Entschluss.
+:73. A migrációs döntés így egyúttal a kényszer döntése is volt. - Die Entscheidung zur Migration war damit zugleich eine Entscheidung der Not.
+:74. A magyarok nem pusztán szabad választásból indultak útnak, hanem a viszonyok kényszerére. - Die Magyaren brachen nicht allein aus freier Wahl auf, sondern unter dem Zwang der Verhältnisse.
+:75. A besenyő csapás aligha hagyott más választást számukra, mint a nyugatra való menekülést. - Der petschenegische Schlag ließ ihnen kaum eine andere Wahl als die Flucht nach Westen.
+:76. Ugyanakkor ezt a menekülést előkészítette a Kárpát-medence ismerete. - Zugleich war diese Flucht durch die Kenntnis des Karpatenbeckens vorbereitet.
+:77. A magyarok tudták, hová fordulhatnak. - Die Magyaren wussten, wohin sie sich wenden konnten.
+:78. Így kapcsolódott össze a kiváltó ok kényszere az ismert cél lehetőségével. - So verband sich die Not des Auslösers mit der Möglichkeit des bekannten Ziels.
+:79. A kényszer és a lehetőség ezen összekapcsolódásában rejlett a döntés lényege. - In dieser Verbindung von Zwang und Gelegenheit lag das Wesen der Entscheidung.
+:80. Túl egyszerű lenne azonban a migrációt csupán pánikszerű menekülésként értelmezni. - Es wäre jedoch zu einfach, die Migration allein als panische Flucht zu deuten.
+:81. A magyarok nem fejetlenül cselekedtek, hanem rendezett módon. - Die Magyaren handelten nicht kopflos, sondern in geordneter Weise.
+:82. Egész törzsek vonulása családokkal, csordákkal és javakkal tervezést és vezetést igényelt. - Der Zug ganzer Stämme mit Familien, Herden und Habe erforderte Planung und Führung.
+:83. Egy puszta menekülés az alakulat felbomlásához vezetett volna. - Eine bloße Flucht hätte zur Auflösung des Verbandes geführt.
+:84. Ehelyett az alakulat együtt maradt, és megszervezett vándorlást hajtott végre. - Stattdessen blieb der Verband zusammen und vollzog eine organisierte Wanderung.
+:85. Ez tudatos döntést és működő vezetést tételez fel. - Dies setzt eine bewusste Entscheidung und eine funktionierende Führung voraus.
+:86. A migrációs döntés ezért a külső kényszer ellenére a választás aktusa is volt. - Die Entscheidung zur Migration war daher trotz des äußeren Zwangs auch ein Akt der Wahl.
+:87. A magyarok a Kárpát-medencét választották célul, mert azt alkalmasnak ismerték fel. - Die Magyaren wählten das Karpatenbecken als Ziel, weil sie es als geeignet erkannt hatten.
+:88. Megválasztották az időpontot, amennyire a körülmények engedték. - Sie wählten den Zeitpunkt, soweit es die Umstände erlaubten.
+:89. Megválasztották az utakat és a vonulás szervezetét. - Sie wählten die Wege und die Organisation des Zuges.
+:90. Mindezekben a választási cselekedetekben megmutatkozik a magyar vezetés önállósága. - In all diesen Wahlhandlungen zeigt sich die Eigenständigkeit der magyarischen Führung.
+:91. A magyarok a bajban is cselekvő alanyok voltak, nem puszta sodródók. - Die Magyaren waren auch in der Not handelnde Subjekte, nicht bloße Getriebene.
+:92. A döntés e kettős természete – mint kényszer és választás – alapvető annak megértéséhez. - Diese Doppelnatur der Entscheidung als Zwang und Wahl ist für ihr Verständnis wesentlich.
+:93. A vezetés szerepe a döntésben külön figyelmet érdemel. - Die Rolle der Führung bei der Entscheidung verdient besondere Beachtung.
+:94. A magyarok élén Árpád fejedelem állt. - An der Spitze der Magyaren stand der Fürst Árpád.
+:95. Őrá és a törzsfők körére hárult az alakulat irányítása. - Ihm und dem Kreis der Stammesführer oblag die Lenkung des Verbandes.
+:96. A migrációs döntés ebben a vezetői körben születhetett meg. - Die Entscheidung zur Migration dürfte in diesem Führungskreis getroffen worden sein.
+:97. Hogy ez a tanácskozás részleteiben miként zajlott, nem maradt ránk. - Wie diese Beratung im Einzelnen verlief, ist nicht überliefert.
+:98. A nomád hagyomány azonban ismerte a vezető férfiak gyűléseit. - Die nomadische Tradition kannte jedoch Versammlungen der führenden Männer.
+:99. Az ilyen gyűléseken vitatták meg és hozták meg az alapvető döntéseket. - In solchen Versammlungen wurden grundlegende Entscheidungen beraten und gefasst.
+:100. Feltételezhető, hogy a migrációs döntés is egy ilyen gyűlésen született meg. - Es ist anzunehmen, dass auch die Entscheidung zur Migration in einer solchen Versammlung fiel.
+:101. Árpád tekintélye adta meg e döntésnek a szükséges súlyt. - Die Autorität Árpáds gab dieser Entscheidung das nötige Gewicht.
+:102. Az ő vezetése biztosította az alakulat egységét a kritikus folyamat során. - Seine Führung sicherte die Einheit des Verbandes während des kritischen Vorgangs.
+:103. Elismert vezetés nélkül a rendezett migráció aligha lett volna lehetséges. - Ohne eine anerkannte Führung wäre die geordnete Migration kaum möglich gewesen.
+:104. Árpád személye és a migrációs döntés ezért szorosan összefonódik. - Die Person Árpáds und die Entscheidung zur Migration sind daher eng verbunden.
+:105. A későbbi hagyomány Árpádot az elindulás irányítójaként ábrázolta. - Die spätere Überlieferung hat Árpád denn auch als den Lenker des Aufbruchs dargestellt.
+:106. Ebben a hagyományban népének bölcs és tettre kész vezetőjeként jelenik meg. - In dieser Überlieferung erscheint er als der weise und tatkräftige Führer seines Volkes.
+:107. A történettudományi kutatás itt óva int az egyén túlértékelésétől. - Die historische Forschung mahnt hier zur Vorsicht vor einer Überhöhung der Einzelperson.
+:108. A döntés egy vezetőréteg műve volt, nem egyetlen emberé. - Die Entscheidung war das Werk einer Führungsschicht, nicht eines einzelnen Mannes.
+:109. Mégis Árpádnak, mint főfejedelemnek, kimagasló szerep jutott. - Dennoch kam Árpád als oberstem Fürsten eine herausragende Rolle zu.
+:110. A migráció pontos időrendi lefolyása csak hozzávetőlegesen határozható meg. - Die genaue zeitliche Abfolge der Migration lässt sich nur ungefähr bestimmen.
+:111. Az Etelköz elleni támadást és a megindulást az 895 körüli évekre datálják. - Der Angriff auf Etelköz und der Aufbruch werden auf die Jahre um 895 datiert.
+:112. A Kárpát-medence tényleges honfoglalását hagyományosan a 896-os évre teszik. - Die eigentliche Landnahme des Karpatenbeckens wird traditionell auf das Jahr 896 angesetzt.
+:113. A megindulás és a megérkezés között így csak rövid időtartam feküdt. - Zwischen dem Aufbruch und der Ankunft lag somit nur eine kurze Zeitspanne.
+:114. Ez egy gyorsan és határozottan végrehajtott vonulás mellett szól. - Dies spricht für einen rasch und entschlossen durchgeführten Zug.
+:115. A magyarok nem haboztak sokáig, hanem a viszonyok nyomására gyorsan cselekedtek. - Die Magyaren zögerten nicht lange, sondern handelten unter dem Druck der Verhältnisse zügig.
+:116. A migráció útjai a Kárpátok hágóin át vezettek a medencébe. - Die Wege der Migration führten durch die Pässe der Karpaten in das Becken.
+:117. Hogy pontosan mely hágókat használták, az a kutatásban vitatott. - Welche Pässe genau benutzt wurden, ist in der Forschung umstritten.
+:118. A hagyomány különösen az északkeleti Vereckei-hágót nevezi meg bejárati kapuként. - Die Überlieferung nennt insbesondere den Verecke-Pass im Nordosten als Eingangstor.
+:119. Ezen vagy hasonló hágókon át jutottak a magyarok az új hazájukba. - Über diesen oder ähnliche Pässe gelangten die Magyaren in ihre neue Heimat.
+:20. A vándorlás földrajzi részletei azonban részben bizonytalanok maradnak. - Die geographischen Einzelheiten der Wanderung bleiben jedoch teilweise unsicher.
+:121. Biztosnak tűnik a teljes ív Etelközből a Kárpátokon át a medencébe. - Gesichert erscheint der Gesamtverlauf von Etelköz über die Karpaten in das Becken.
+:122. A migrációs döntésnek messze ható következményei voltak a magyar népre nézve. - Die Entscheidung zur Migration hatte weitreichende Folgen für das magyarische Volk.
+:123. A sztyeppétől mint hazától való végleges búcsút jelentette. - Sie bedeutete den endgültigen Abschied von der Steppe als Heimat.
+:124. Új földrajzi és politikai térbe vezette a magyarokat. - Sie führte die Magyaren in einen neuen geographischen und politischen Raum.
+:125. Ez a tér már nem a nyílt sztyeppe volt, hanem egy hegyekkel körülvett medence. - Dieser Raum war nicht mehr die offene Steppe, sondern ein von Gebirgen umschlossenes Becken.
+:126. Az új helyzet alapjaiban formálta a nép további fejlődését. - Die neue Lage sollte die weitere Entwicklung des Volkes grundlegend prägen.
+:127. A migráció így korszakválasztót jelöl a magyar történelemben. - Die Migration markiert somit eine Zäsur in der ungarischen Geschichte.
+:128. Elválasztja a sztyeppei vándorlás korát a letelepedés korától. - Sie trennt die Zeit der Steppenwanderung von der Zeit der Sesshaftwerdung.
+:129. Vele kezdődik a magyarok tényleges története a Kárpát-medencében. - Mit ihr beginnt die eigentliche Geschichte der Ungarn im Karpatenbecken.
+:130. A migrációs döntés ezért korszakalkotó jelentőségű volt. - Die Entscheidung zur Migration war daher von epochaler Bedeutung.
+:131. Lerakta az alapját a magyar nép teljes későbbi fejlődésének. - Sie legte den Grund für die gesamte spätere Entwicklung des ungarischen Volkes.
+:132. E döntés nélkül Magyarország története teljesen másmilyen lett volna. - Ohne diese Entscheidung wäre die Geschichte Ungarns eine völlig andere geworden.
+:133. Tanulságos a döntést az általános sztyeppegyakorlat keretébe illeszteni. - Es ist aufschlussreich, die Entscheidung in den Rahmen der allgemeinen Steppengeschichte einzuordnen.
+:134. A történelem során sok sztyeppei nép hozott hasonló döntéseket. - Viele Steppenvölker trafen im Lauf der Geschichte ähnliche Entscheidungen.
+:135. A nyomukban lévő népek nyomására útra keltek és új hazát kerestek. - Unter dem Druck nachrückender Völker brachen sie auf und suchten neue Heimat.
+:136. A hunok, az avarok és a bolgárok hasonló utakat jártak be. - Die Hunnen, die Awaren und die Bulgaren hatten ähnliche Wege beschritten.
+:137. A magyarok döntése illeszkedik ebbe a hosszú hagyományba. - Die Entscheidung der Magyaren reiht sich in diese lange Tradition ein.
+:138. Nem egyedülálló esemény volt, hanem egy visszatérő minta része. - Sie war kein einzigartiger Vorgang, sondern Teil eines wiederkehrenden Musters.
+:139. Ami a magyarokat megkülönböztette sok elődtől, az a letelepedésük tartós sikere volt. - Was die Magyaren von vielen Vorgängern unterschied, war der dauerhafte Erfolg ihrer Niederlassung.
+:140. Míg más sztyeppei népek elenyésztek a Kárpát-medencében, a magyarok megmaradtak. - Während andere Steppenvölker im Karpatenbecken untergingen, behaupteten sich die Magyaren.
+:141. A jó időpontban hozott helyes döntés hozzájárult ehhez a sikerhez. - Die richtige Entscheidung zum richtigen Zeitpunkt trug zu diesem Erfolg bei.
+:142. Olyan térbe vezette a magyarokat, amely megfelelt az igényeiknek és védelmet nyújtott. - Sie führte die Magyaren in einen Raum, der ihren Bedürfnissen entsprach und Schutz bot.
+:143. A Kárpátok elhatárolták az új hazát a benyomuló besenyőktől. - Die Karpaten schirmten die neue Heimat vor den nachrückenden Petschenegen ab.
+:144. Ez a földrajzi biztonság az elődöknek gyakran hiányzott. - Diese geographische Sicherheit fehlte den Vorgängern oft.
+:145. Így kapcsolódott össze a bölcs döntés a cél kedvező feltételeivel. - So verband sich die kluge Entscheidung mit den günstigen Bedingungen des Ziels.
+:146. Ebből a kapcsolatból fakadt a magyar nép tartós fennmaradása. - Aus dieser Verbindung erwuchs die dauerhafte Existenz des ungarischen Volkes.
+:147. A döntés értékelésekor ismét módszertani tartózkodásra van szükség. - Bei der Bewertung der Entscheidung ist erneut methodische Zurückhaltung geboten.
+:148. A források nem engednek betekintést a tényleges tanácskozásokba. - Die Quellen erlauben keinen Einblick in die tatsächlichen Beratungen.
+:149. Sok mindent a körülményekből és a nomád társadalmak ismeretéből kell kikövetkeztetni. - Vieles muss aus den Umständen und aus der Kenntnis nomadischer Gesellschaften erschlossen werden.
+:150. A modern kutatás ezért kerüli a túlságosan határozott kijelentéseket a szereplők indítékairól. - Die moderne Forschung vermeidet daher allzu bestimmte Aussagen über die Motive der Handelnden.
+:151. A valószínű összefüggések rekonstrukciójára szorítkozik. - Sie beschränkt sich auf die Rekonstruktion der wahrscheinlichen Zusammenhänge.
+:152. Ennek során egy koherens kép rajzolódik ki, amely összekapcsolja a különböző tényezőket. - Dabei zeichnet sich ein kohärentes Bild ab, das die verschiedenen Faktoren verbindet.
+:153. A migrációs döntés sok ok együttműködésének eredményeként jelenik meg. - Die Entscheidung zur Migration erscheint als das Ergebnis eines Zusammenwirkens vieler Ursachen.
+:154. Egyetlen ok sem elegendő a magyarázathoz, hanem csak ezek kölcsönhatása. - Keine einzelne Ursache genügt zur Erklärung, sondern erst ihr Zusammenspiel.
+:155. A nomád életmód, a földrajzi helyzet és a kazár gyengeség képezték a hátteret. - Die nomadische Lebensweise, die geographische Lage und die khazarische Schwäche bildeten den Hintergrund.
+:156. A besenyő nyomás, a klíma- és gazdasági tényezők, valamint a külső hívások hajtóerőként hatottak. - Der petschenegische Druck, die klimatisch-ökonomischen Faktoren und die externen Einladungen wirkten als Antriebe.
+:157. Az Árpád alatti belső konszolidáció megteremtette a szervezeti alapját. - Die innere Konsolidierung unter Árpád schuf die organisatorische Grundlage.
+:158. Az Etelköz elleni támadás végül megadta a közvetlen lökést. - Der Angriff auf Etelköz gab schließlich den unmittelbaren Anstoß.
+:159. Mindezek a tényezők a döntésben folytak össze. - Alle diese Faktoren flossen in der Entscheidung zusammen.
+:160. Az általános készenlétet konkrét elhatározássá formálták. - Sie verwandelten die allgemeine Bereitschaft in den konkreten Entschluss.
+:161. E sok erő összetartásában rejlik a migrációs döntés lényege. - In dieser Bündelung vieler Kräfte liegt das Wesen der Entscheidung zur Migration.
+:162. Nem puszta véletlen volt, és nem egyetlen akarati aktus. - Sie war weder ein bloßer Zufall noch ein einzelner Willensakt.
+:163. Egy hosszú fejlődés eredménye volt, amely egyetlen pillanatban sűrűsödött össze. - Sie war das Ergebnis einer langen Entwicklung, die sich in einem Augenblick verdichtete.
+:164. Ez a pillanat vezette a magyar népet az új hazájába vezető útra. - Dieser Augenblick führte das magyarische Volk auf den Weg in seine neue Heimat.
+:165. Összegzésképpen megállapítható, hogy a migrációs döntés sok ok együttműködéséből fakadt. - Zusammenfassend lässt sich festhalten, dass die Entscheidung zur Migration aus dem Zusammenwirken vieler Ursachen erwuchs.
+:166. A hosszú távú feltételek alakították ki a megindulásra való általános készenlétet. - Langfristige Voraussetzungen schufen die allgemeine Bereitschaft zum Aufbruch.
+:167. Hozzájuk tartozott a nomád életmód, a földrajzi helyzet és a kazár gyengeség. - Zu ihnen gehörten die nomadische Lebensweise, die geographische Lage und die khazarische Schwäche.
+:168. Ehhez járult a besenyő nyomás, a gazdasági ösztönzők és a külső hívások. - Hinzu kamen der petschenegische Druck, die ökonomischen Anreize und die externen Einladungen.
+:169. Az Árpád alatti belső megszilárdulás megteremtette a közös cselekvés feltételét. - Die innere Festigung unter Árpád schuf die Voraussetzung für gemeinsames Handeln.
+:170. A közvetlen kiváltó ok a besenyők védtelen Etelköz elleni megsemmisítő támadása volt. - Der unmittelbare Auslöser war der vernichtende Angriff der Petschenegen auf das schutzlose Etelköz.
+:171. Ez a támadás lehetetlenné tette a további maradást, és kikényszerítette az elindulást. - Dieser Angriff machte ein weiteres Verbleiben unmöglich und erzwang den Aufbruch.
+:172. A döntés így egyúttal a kényszer és a választás aktusa volt. - Die Entscheidung war damit zugleich ein Akt der Not und ein Akt der Wahl.
+:173. A magyarok kényszer alatt indultak útnak, de rendezetten és célirányosan cselekedtek. - Die Magyaren brachen unter Zwang auf, handelten dabei aber geordnet und zielgerichtet.
+:174. Árpád vezetése biztosította az alakulat egységét és irányítását. - Die Führung Árpáds sicherte die Einheit und die Lenkung des Verbandes.
+:175. A Kárpát-medence mint cél a korábbi hadjáratokból ismert és alkalmasnak felismert volt. - Das Karpatenbecken war als Ziel durch frühere Feldzüge bekannt und als geeignet erkannt.
+:176. A migráció gyorsan ment végbe a 895 és 896 körüli években. - Die Migration vollzog sich rasch in den Jahren um 895 und 896.
+:177. A Kárpátok hágóin át vezette a magyarokat az új hazájukba. - Sie führte die Magyaren über die Pässe der Karpaten in ihre neue Heimat.
+:178. A döntés korszakalkotó fordulatot jelöl a sztyeppei vándorlás és a letelepedés között. - Die Entscheidung markiert eine epochale Zäsur zwischen Steppenwanderung und Sesshaftwerdung.
+:179. Lerakta az alapját a magyar nép teljes későbbi történetének. - Sie legte den Grund für die gesamte spätere Geschichte des ungarischen Volkes.
+:180. Így bizonyul a migrációs döntés a Kárpát-medencei honfoglaláshoz vezető út döntő fordulópontjának. - So erweist sich die Entscheidung zur Migration als der entscheidende Wendepunkt auf dem Weg zur Landnahme des Karpatenbeckens.
+
+
+
+
+
+
+
