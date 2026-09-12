@@ -1,0 +1,540 @@
+<!-- wp:html -->
+<style>
+html { scroll-behavior: smooth; }
+html,body,main,.wp-site-blocks,.entry-content,.wp-block-post-content,.post-content,article{margin-top:0!important;padding-top:0!important}
+.wp-block-post-title,.entry-title,header,.site-header,.wp-block-template-part,.wp-block-navigation,footer,.site-footer,.wp-block-template-part-footer{display:none!important}
+.pc-container{max-width:900px;margin:0 auto;padding:0 20px;text-align:left;box-sizing:border-box}
+.pc-home-link{text-align:center;margin:20px 0 15px}
+.pc-home-link a{font-size:1rem;color:#7f8c8d;text-decoration:none}
+.pc-home-link a:hover{color:#2980b9}
+.pc-chapter-nav{text-align:center;margin:0 0 20px}
+.pc-chapter-nav a{font-size:1rem;color:#7f8c8d;text-decoration:none}
+.pc-chapter-nav a:hover{color:#2980b9}
+.pc-chapter-nav span{font-size:1rem;font-family:inherit;line-height:inherit;color:#2c3e50;font-weight:bold}
+.pc-footer-nav{display:flex;flex-direction:column;gap:12px;margin-top:40px;border-top:1px solid #e0e0e0;padding-top:15px}
+.pc-footer-nav .pc-home-link,.pc-footer-nav .pc-chapter-nav,.pc-footer-nav .pc-top-link{margin:0}
+.pc-top-link{text-align:center;margin-top:10px}
+.pc-top-link a{font-size:1rem;color:#7f8c8d;text-decoration:none}
+.pc-top-link a:hover{color:#2980b9}
+.pc-container p{font-size:1rem;line-height:1.6;margin-bottom:10px;color:#2c3e50}
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:0.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:group {"className":"pc-container","anchor":"top"} -->
+<div id="top" class="wp-block-group pc-container">
+<!-- wp:html -->
+<div class="pc-home-link">
+  <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/anatomie-kurze-saetze/">« zurück zu Inhaltsverzeichnis: Anatomie – kurze Sätze</a>
+</div>
+<div class="pc-chapter-nav">
+  <a href="/4-2-3-anatomie-kurz/">« Zurück zu Kapitel 4.2.3</a> &nbsp;|&nbsp; <span>Kapitel 4.3</span> &nbsp;|&nbsp; <a href="/4-4-anatomie-kurz/">Weiter zu Kapitel 4.4 »</a>
+</div>
+<!-- /wp:html -->
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+<!-- wp:paragraph -->
+<p><strong>4.3 – A csontok alaki osztályozása – Die Einteilung der Knochen nach ihrer Form</p>
+<!-- /wp:paragraph -->
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+<p>1. A csontokat nemcsak fejlődésük, hanem külső alakjuk szerint is csoportokba soroljuk. – Die Knochen werden nicht nur nach ihrer Entwicklung, sondern auch nach ihrer äußeren Form in Gruppen eingeteilt.</p>
+<p>2. Ez az alaki osztályozás segít abban, hogy a csontváz sokféle csontját áttekinthetően rendszerezzük. – Diese Einteilung nach der Form hilft dabei, die vielen verschiedenen Knochen des Skeletts übersichtlich zu ordnen.</p>
+<p>3. Az alak és a működés a csontoknál is szorosan összefügg, hiszen minden forma egy meghatározott feladatot szolgál. – Form und Funktion hängen auch bei den Knochen eng zusammen, denn jede Gestalt dient einer bestimmten Aufgabe.</p>
+<p>4. A hagyományos felosztás öt fő csoportot különböztet meg, amelyekhez hatodikként a szezámcsontok csatlakoznak. – Die klassische Einteilung unterscheidet fünf Hauptgruppen, zu denen als sechste die Sesambeine hinzukommen.</p>
+<p>5. Ezek a csoportok a hosszú, a rövid, a lapos, a szabálytalan és a légtartalmú csontok. – Diese Gruppen sind die langen, die kurzen, die platten, die unregelmäßigen und die lufthaltigen Knochen.</p>
+<p>6. A hosszú csontok legfontosabb ismertetőjegye, hogy hosszúságuk jóval nagyobb a szélességüknél és a vastagságuknál. – Das wichtigste Merkmal der langen Knochen ist, dass ihre Länge deutlich größer ist als ihre Breite und Dicke.</p>
+<p>7. Az ilyen csont középső, hosszú részét testnek, két megvastagodott végét pedig ízületi végnek nevezzük. – Den mittleren, langen Teil eines solchen Knochens nennt man Schaft (Diaphyse), seine beiden verdickten Enden Gelenkenden (Epiphysen).</p>
+<p>8. A csont testében egy üreg húzódik, amelyet velőűrnek nevezünk, és amely csontvelőt tartalmaz. – Im Schaft des Knochens verläuft ein Hohlraum, den man Markhöhle nennt und der Knochenmark enthält.</p>
+<p>9. A hosszú csontok falát kívül vastag, tömör csontállomány alkotja, míg a végekben szivacsos állomány található. – Die Wand der langen Knochen besteht außen aus dicker, kompakter Knochensubstanz (Kompakta), während sich in den Enden schwammige Substanz (Spongiosa) befindet.</p>
+<p>10. Feladatuk elsősorban a mozgás, mivel emelőkarként működnek, amelyekre az izmok erőt fejtenek ki. – Ihre Aufgabe ist vor allem die Bewegung, da sie als Hebel wirken, an denen die Muskeln ihre Kraft ausüben.</p>
+<p>11. Tipikus példájuk a combcsont, amely a test leghosszabb és legerősebb csontja. – Ihr typisches Beispiel ist der Oberschenkelknochen (Femur), der längste und stärkste Knochen des Körpers.</p>
+<p>12. A felső végtagon a felkarcsont, valamint az alkar orsócsontja és singcsontja tartozik ide. – An der oberen Gliedmaße gehören der Oberarmknochen (Humerus) sowie Speiche (Radius) und Elle (Ulna) des Unterarms hierher.</p>
+<p>13. Az alsó végtagon a sípcsont és a szárkapocscsont ugyancsak a hosszú csontok közé sorolható. – An der unteren Gliedmaße zählen das Schienbein (Tibia) und das Wadenbein (Fibula) ebenfalls zu den langen Knochen.</p>
+<p>14. Érdekes módon a kéz és a láb kisebb csontjai, például az ujjperccsontok is a hosszú csontok csoportjába tartoznak. – Interessanterweise gehören auch die kleineren Knochen von Hand und Fuß, etwa die Finger- und Zehenknochen, zur Gruppe der langen Knochen.</p>
+<p>15. Ezt a besorolást nem a méret, hanem a jellegzetes cső alakú felépítés indokolja. – Diese Zuordnung ergibt sich nicht aus der Größe, sondern aus dem typischen röhrenförmigen Bau.</p>
+<p>16. A rövid csontok nagyjából kocka vagy szabálytalan gömb alakúak, mert hosszúságuk, szélességük és vastagságuk közel azonos. – Die kurzen Knochen sind annähernd würfel- oder unregelmäßig kugelförmig, da ihre Länge, Breite und Dicke etwa gleich sind.</p>
+<p>17. Belsejüket főként szivacsos állomány tölti ki, amelyet kívül csak vékony tömör réteg borít. – Ihr Inneres ist überwiegend von schwammiger Substanz ausgefüllt, die außen nur von einer dünnen kompakten Schicht bedeckt wird.</p>
+<p>18. Fő feladatuk a stabilitás és a terhelés átvitele, miközben csak kismértékű mozgást engednek meg. – Ihre Hauptaufgabe sind Stabilität und Lastübertragung, wobei sie nur geringe Bewegungen zulassen.</p>
+<p>19. Jellemzően csoportosan fordulnak elő, és rövid szalagok kötik össze őket egymással. – Sie treten typischerweise in Gruppen auf und sind durch kurze Bänder miteinander verbunden.</p>
+<p>20. Legismertebb példáik a kéztőcsontok, amelyek a csuklót építik fel. – Ihre bekanntesten Beispiele sind die Handwurzelknochen, die die Handwurzel aufbauen.</p>
+<p>21. Az alsó végtagon a lábtőcsontok alkotják a rövid csontok másik fontos csoportját. – An der unteren Gliedmaße bilden die Fußwurzelknochen die andere wichtige Gruppe der kurzen Knochen.</p>
+<p>22. A lapos csontok vékonyak és laposak, felszínük pedig gyakran enyhén ívelt. – Die platten Knochen sind dünn und flach, und ihre Oberfläche ist häufig leicht gekrümmt.</p>
+<p>23. Két vékony tömör csontlemez között szivacsos réteg helyezkedik el, amely a lapos csontnak ellenálló, mégis könnyű szerkezetet ad. – Zwischen zwei dünnen kompakten Knochenplatten liegt eine schwammige Schicht (Diploë), die dem platten Knochen einen widerstandsfähigen und zugleich leichten Aufbau verleiht.</p>
+<p>24. Két fő feladatuk a belső szervek védelme és nagy felület biztosítása az izmok tapadásához. – Ihre zwei Hauptaufgaben sind der Schutz innerer Organe und die Bereitstellung einer großen Fläche für den Ansatz von Muskeln.</p>
+<p>25. A koponyatetőt felépítő homlokcsont és falcsontok tipikus lapos csontok, amelyek az agyat védik. – Das Stirnbein und die Scheitelbeine, die das Schädeldach bilden, sind typische platte Knochen, die das Gehirn schützen.</p>
+<p>26. A mellkason a szegycsont és a bordák szintén a lapos csontok közé tartoznak. – Am Brustkorb gehören das Brustbein und die Rippen ebenfalls zu den platten Knochen.</p>
+<p>27. A lapocka nagy, háromszög alakú lapos csont, amely a vállöv részeként a felkart kapcsolja a törzshöz. – Das Schulterblatt ist ein großer, dreieckiger platter Knochen, der als Teil des Schultergürtels den Oberarm mit dem Rumpf verbindet.</p>
+<p>28. A szabálytalan csontok összetett, bonyolult alakúak, ezért egyik másik csoportba sem illenek bele. – Die unregelmäßigen Knochen haben eine komplexe, verwickelte Gestalt und passen daher in keine der anderen Gruppen.</p>
+<p>29. Formájukat mindig az a sokféle feladat szabja meg, amelyet egyszerre kell ellátniuk. – Ihre Form wird stets durch die vielen Aufgaben bestimmt, die sie gleichzeitig erfüllen müssen.</p>
+<p>30. Belsejüket többnyire szivacsos állomány tölti ki, amelyet vékony tömör kéreg vesz körül. – Ihr Inneres ist meist von schwammiger Substanz ausgefüllt, die von einer dünnen kompakten Rinde umgeben ist.</p>
+<p>31. A legjobb példáik a csigolyák, amelyek egyszerre hordozzák a testsúlyt és védik a gerincvelőt. – Ihre besten Beispiele sind die Wirbel, die zugleich das Körpergewicht tragen und das Rückenmark schützen.</p>
+<p>32. A medencecsont szintén szabálytalan alakú, mivel több ízületi felszínt és nagy izomtapadási területet egyesít. – Auch das Hüftbein ist unregelmäßig geformt, da es mehrere Gelenkflächen und große Muskelansatzflächen vereint.</p>
+<p>33. A koponyaalap néhány csontja, valamint több arccsont ugyancsak ebbe a csoportba tartozik. – Einige Knochen der Schädelbasis sowie mehrere Gesichtsknochen gehören ebenfalls in diese Gruppe.</p>
+<p>34. A légtartalmú csontok belsejében levegővel telt üregek találhatók, amelyeket nyálkahártya bélel. – Im Inneren der lufthaltigen Knochen finden sich mit Luft gefüllte Hohlräume, die von einer Schleimhaut ausgekleidet sind.</p>
+<p>35. Ezek az üregek csökkentik a koponya súlyát anélkül, hogy szilárdságát számottevően gyengítenék. – Diese Hohlräume verringern das Gewicht des Schädels, ohne seine Festigkeit nennenswert zu schwächen.</p>
+<p>36. Az arckoponya légtartalmú üregeit összefoglalóan orrmelléküregeknek nevezzük, mert az orrüreggel állnak összeköttetésben. – Die lufthaltigen Räume des Gesichtsschädels fasst man als Nasennebenhöhlen zusammen, weil sie mit der Nasenhöhle in Verbindung stehen.</p>
+<p>37. Ezek a terek a hangképzésben is szerepet játszanak, mivel a beszédhang rezonanciáját befolyásolják. – Diese Räume spielen auch bei der Stimmbildung eine Rolle, da sie den Klang der Sprechstimme beeinflussen.</p>
+<p>38. A homlokcsont és a felső állcsont a legismertebb példák, hiszen mindkettő nagy légtartalmú üreget zár körül. – Das Stirnbein und der Oberkiefer sind die bekanntesten Beispiele, denn beide umschließen einen großen lufthaltigen Raum.</p>
+<p>39. A rostacsont és az ékcsont a koponya mélyén rejt magában levegővel telt üregeket. – Das Siebbein und das Keilbein bergen in der Tiefe des Schädels mit Luft gefüllte Hohlräume.</p>
+<p>40. Fejlődésük során ezek az üregek csak fokozatosan, a gyermekkor folyamán alakulnak ki és nyerik el végleges méretüket. – Im Laufe der Entwicklung entstehen diese Hohlräume erst allmählich während der Kindheit und erreichen dann ihre endgültige Größe.</p>
+<p>41. A szezámcsontok apró, borsó vagy szezámmag nagyságú csontok, amelyek inak belsejébe ágyazódnak be. – Die Sesambeine sind kleine, erbsen- oder sesamkorngroße Knochen, die in das Innere von Sehnen eingebettet sind.</p>
+<p>42. Nevüket éppen erről a szezámmaghoz hasonló, apró alakról kapták. – Ihren Namen haben sie gerade von dieser kleinen, einem Sesamkorn ähnlichen Gestalt.</p>
+<p>43. Rendszerint ott alakulnak ki, ahol egy ín valamelyik ízület fölött halad át. – Sie entstehen in der Regel dort, wo eine Sehne über ein Gelenk hinwegzieht.</p>
+<p>44. Feladatuk kettős, mert egyszerre védik az inat a kopástól és javítják az izom erőkifejtésének hatásfokát. – Ihre Aufgabe ist zweifach, denn sie schützen die Sehne vor Abnutzung und verbessern zugleich die Wirksamkeit des Muskelzugs.</p>
+<p>45. Ezt úgy érik el, hogy megnövelik az ín távolságát az ízület forgástengelyétől, és így hosszabb emelőkart hoznak létre. – Sie erreichen dies, indem sie den Abstand der Sehne von der Drehachse des Gelenks vergrößern und so einen längeren Hebelarm schaffen.</p>
+<p>46. A test legnagyobb szezámcsontja a térdkalács, amely a comb feszítőizmának inába ágyazódik. – Das größte Sesambein des Körpers ist die Kniescheibe, die in die Sehne des Streckmuskels des Oberschenkels eingebettet ist.</p>
+<p>47. Kisebb szezámcsontok a kézen és a lábon, elsősorban a hüvelykujj és a nagylábujj közelében fordulnak elő. – Kleinere Sesambeine kommen an Hand und Fuß vor, vor allem in der Nähe von Daumen und Großzehe.</p>
+<p>48. Ez a hatféle alak jól mutatja, hogy a csont formája mindig a rá háruló mechanikai feladathoz igazodik. – Diese sechs Formen zeigen anschaulich, dass sich die Gestalt eines Knochens stets an seine mechanische Aufgabe anpasst.</p>
+<p>49. A hosszú csontok mozgatnak, a rövidek stabilizálnak, a laposak védenek, a szabálytalanok pedig több feladatot egyesítenek. – Die langen Knochen bewegen, die kurzen stabilisieren, die platten schützen und die unregelmäßigen vereinen mehrere Aufgaben.</p>
+<p>50. Ezekkel az alaptípusokkal a következő fejezetek egyes csontjai már könnyen besorolhatók és megérthetők lesznek. – Mit diesen Grundtypen lassen sich die einzelnen Knochen der folgenden Kapitel bereits leicht einordnen und verstehen.</p>
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. A csontokat nemcsak fejlődésük, hanem külső alakjuk szerint is csoportokba soroljuk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Ez az alaki osztályozás segít abban, hogy a csontváz sokféle csontját áttekinthetően rendszerezzük.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Az alak és a működés a csontoknál is szorosan összefügg, hiszen minden forma egy meghatározott feladatot szolgál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. A hagyományos felosztás öt fő csoportot különböztet meg, amelyekhez hatodikként a szezámcsontok csatlakoznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Ezek a csoportok a hosszú, a rövid, a lapos, a szabálytalan és a légtartalmú csontok.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. A hosszú csontok legfontosabb ismertetőjegye, hogy hosszúságuk jóval nagyobb a szélességüknél és a vastagságuknál.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Az ilyen csont középső, hosszú részét testnek, két megvastagodott végét pedig ízületi végnek nevezzük.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. A csont testében egy üreg húzódik, amelyet velőűrnek nevezünk, és amely csontvelőt tartalmaz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. A hosszú csontok falát kívül vastag, tömör csontállomány alkotja, míg a végekben szivacsos állomány található.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Feladatuk elsősorban a mozgás, mivel emelőkarként működnek, amelyekre az izmok erőt fejtenek ki.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Tipikus példájuk a combcsont, amely a test leghosszabb és legerősebb csontja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. A felső végtagon a felkarcsont, valamint az alkar orsócsontja és singcsontja tartozik ide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. Az alsó végtagon a sípcsont és a szárkapocscsont ugyancsak a hosszú csontok közé sorolható.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Érdekes módon a kéz és a láb kisebb csontjai, például az ujjperccsontok is a hosszú csontok csoportjába tartoznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Ezt a besorolást nem a méret, hanem a jellegzetes cső alakú felépítés indokolja.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. A rövid csontok nagyjából kocka vagy szabálytalan gömb alakúak, mert hosszúságuk, szélességük és vastagságuk közel azonos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Belsejüket főként szivacsos állomány tölti ki, amelyet kívül csak vékony tömör réteg borít.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Fő feladatuk a stabilitás és a terhelés átvitele, miközben csak kismértékű mozgást engednek meg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. Jellemzően csoportosan fordulnak elő, és rövid szalagok kötik össze őket egymással.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. Legismertebb példáik a kéztőcsontok, amelyek a csuklót építik fel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. Az alsó végtagon a lábtőcsontok alkotják a rövid csontok másik fontos csoportját.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>22. A lapos csontok vékonyak és laposak, felszínük pedig gyakran enyhén ívelt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>23. Két vékony tömör csontlemez között szivacsos réteg helyezkedik el, amely a lapos csontnak ellenálló, mégis könnyű szerkezetet ad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>24. Két fő feladatuk a belső szervek védelme és nagy felület biztosítása az izmok tapadásához.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>25. A koponyatetőt felépítő homlokcsont és falcsontok tipikus lapos csontok, amelyek az agyat védik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>26. A mellkason a szegycsont és a bordák szintén a lapos csontok közé tartoznak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>27. A lapocka nagy, háromszög alakú lapos csont, amely a vállöv részeként a felkart kapcsolja a törzshöz.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>28. A szabálytalan csontok összetett, bonyolult alakúak, ezért egyik másik csoportba sem illenek bele.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>29. Formájukat mindig az a sokféle feladat szabja meg, amelyet egyszerre kell ellátniuk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>30. Belsejüket többnyire szivacsos állomány tölti ki, amelyet vékony tömör kéreg vesz körül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>31. A legjobb példáik a csigolyák, amelyek egyszerre hordozzák a testsúlyt és védik a gerincvelőt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>32. A medencecsont szintén szabálytalan alakú, mivel több ízületi felszínt és nagy izomtapadási területet egyesít.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>33. A koponyaalap néhány csontja, valamint több arccsont ugyancsak ebbe a csoportba tartozik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>34. A légtartalmú csontok belsejében levegővel telt üregek találhatók, amelyeket nyálkahártya bélel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35. Ezek az üregek csökkentik a koponya súlyát anélkül, hogy szilárdságát számottevően gyengítenék.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>36. Az arckoponya légtartalmú üregeit összefoglalóan orrmelléküregeknek nevezzük, mert az orrüreggel állnak összeköttetésben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37. Ezek a terek a hangképzésben is szerepet játszanak, mivel a beszédhang rezonanciáját befolyásolják.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>38. A homlokcsont és a felső állcsont a legismertebb példák, hiszen mindkettő nagy légtartalmú üreget zár körül.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>39. A rostacsont és az ékcsont a koponya mélyén rejt magában levegővel telt üregeket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>40. Fejlődésük során ezek az üregek csak fokozatosan, a gyermekkor folyamán alakulnak ki és nyerik el végleges méretüket.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>41. A szezámcsontok apró, borsó vagy szezámmag nagyságú csontok, amelyek inak belsejébe ágyazódnak be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>42. Nevüket éppen erről a szezámmaghoz hasonló, apró alakról kapták.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>43. Rendszerint ott alakulnak ki, ahol egy ín valamelyik ízület fölött halad át.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>44. Feladatuk kettős, mert egyszerre védik az inat a kopástól és javítják az izom erőkifejtésének hatásfokát.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>45. Ezt úgy érik el, hogy megnövelik az ín távolságát az ízület forgástengelyétől, és így hosszabb emelőkart hoznak létre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>46. A test legnagyobb szezámcsontja a térdkalács, amely a comb feszítőizmának inába ágyazódik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>47. Kisebb szezámcsontok a kézen és a lábon, elsősorban a hüvelykujj és a nagylábujj közelében fordulnak elő.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>48. Ez a hatféle alak jól mutatja, hogy a csont formája mindig a rá háruló mechanikai feladathoz igazodik.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>49. A hosszú csontok mozgatnak, a rövidek stabilizálnak, a laposak védenek, a szabálytalanok pedig több feladatot egyesítenek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>50. Ezekkel az alaptípusokkal a következő fejezetek egyes csontjai már könnyen besorolhatók és megérthetők lesznek.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>1. Die Knochen werden nicht nur nach ihrer Entwicklung, sondern auch nach ihrer äußeren Form in Gruppen eingeteilt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Diese Einteilung nach der Form hilft dabei, die vielen verschiedenen Knochen des Skeletts übersichtlich zu ordnen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. Form und Funktion hängen auch bei den Knochen eng zusammen, denn jede Gestalt dient einer bestimmten Aufgabe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. Die klassische Einteilung unterscheidet fünf Hauptgruppen, zu denen als sechste die Sesambeine hinzukommen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Diese Gruppen sind die langen, die kurzen, die platten, die unregelmäßigen und die lufthaltigen Knochen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Das wichtigste Merkmal der langen Knochen ist, dass ihre Länge deutlich größer ist als ihre Breite und Dicke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. Den mittleren, langen Teil eines solchen Knochens nennt man Schaft (Diaphyse), seine beiden verdickten Enden Gelenkenden (Epiphysen).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. Im Schaft des Knochens verläuft ein Hohlraum, den man Markhöhle nennt und der Knochenmark enthält.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. Die Wand der langen Knochen besteht außen aus dicker, kompakter Knochensubstanz (Kompakta), während sich in den Enden schwammige Substanz (Spongiosa) befindet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. Ihre Aufgabe ist vor allem die Bewegung, da sie als Hebel wirken, an denen die Muskeln ihre Kraft ausüben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>11. Ihr typisches Beispiel ist der Oberschenkelknochen (Femur), der längste und stärkste Knochen des Körpers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>12. An der oberen Gliedmaße gehören der Oberarmknochen (Humerus) sowie Speiche (Radius) und Elle (Ulna) des Unterarms hierher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>13. An der unteren Gliedmaße zählen das Schienbein (Tibia) und das Wadenbein (Fibula) ebenfalls zu den langen Knochen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>14. Interessanterweise gehören auch die kleineren Knochen von Hand und Fuß, etwa die Finger- und Zehenknochen, zur Gruppe der langen Knochen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>15. Diese Zuordnung ergibt sich nicht aus der Größe, sondern aus dem typischen röhrenförmigen Bau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>16. Die kurzen Knochen sind annähernd würfel- oder unregelmäßig kugelförmig, da ihre Länge, Breite und Dicke etwa gleich sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>17. Ihr Inneres ist überwiegend von schwammiger Substanz ausgefüllt, die außen nur von einer dünnen kompakten Schicht bedeckt wird.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>18. Ihre Hauptaufgabe sind Stabilität und Lastübertragung, wobei sie nur geringe Bewegungen zulassen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>19. Sie treten typischerweise in Gruppen auf und sind durch kurze Bänder miteinander verbunden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>20. Ihre bekanntesten Beispiele sind die Handwurzelknochen, die die Handwurzel aufbauen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>21. An der unteren Gliedmaße bilden die Fußwurzelknochen die andere wichtige Gruppe der kurzen Knochen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>22. Die platten Knochen sind dünn und flach, und ihre Oberfläche ist häufig leicht gekrümmt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>23. Zwischen zwei dünnen kompakten Knochenplatten liegt eine schwammige Schicht (Diploë), die dem platten Knochen einen widerstandsfähigen und zugleich leichten Aufbau verleiht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>24. Ihre zwei Hauptaufgaben sind der Schutz innerer Organe und die Bereitstellung einer großen Fläche für den Ansatz von Muskeln.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>25. Das Stirnbein und die Scheitelbeine, die das Schädeldach bilden, sind typische platte Knochen, die das Gehirn schützen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>26. Am Brustkorb gehören das Brustbein und die Rippen ebenfalls zu den platten Knochen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>27. Das Schulterblatt ist ein großer, dreieckiger platter Knochen, der als Teil des Schultergürtels den Oberarm mit dem Rumpf verbindet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>28. Die unregelmäßigen Knochen haben eine komplexe, verwickelte Gestalt und passen daher in keine der anderen Gruppen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>29. Ihre Form wird stets durch die vielen Aufgaben bestimmt, die sie gleichzeitig erfüllen müssen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>30. Ihr Inneres ist meist von schwammiger Substanz ausgefüllt, die von einer dünnen kompakten Rinde umgeben ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>31. Ihre besten Beispiele sind die Wirbel, die zugleich das Körpergewicht tragen und das Rückenmark schützen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>32. Auch das Hüftbein ist unregelmäßig geformt, da es mehrere Gelenkflächen und große Muskelansatzflächen vereint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>33. Einige Knochen der Schädelbasis sowie mehrere Gesichtsknochen gehören ebenfalls in diese Gruppe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>34. Im Inneren der lufthaltigen Knochen finden sich mit Luft gefüllte Hohlräume, die von einer Schleimhaut ausgekleidet sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>35. Diese Hohlräume verringern das Gewicht des Schädels, ohne seine Festigkeit nennenswert zu schwächen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>36. Die lufthaltigen Räume des Gesichtsschädels fasst man als Nasennebenhöhlen zusammen, weil sie mit der Nasenhöhle in Verbindung stehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>37. Diese Räume spielen auch bei der Stimmbildung eine Rolle, da sie den Klang der Sprechstimme beeinflussen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>38. Das Stirnbein und der Oberkiefer sind die bekanntesten Beispiele, denn beide umschließen einen großen lufthaltigen Raum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>39. Das Siebbein und das Keilbein bergen in der Tiefe des Schädels mit Luft gefüllte Hohlräume.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>40. Im Laufe der Entwicklung entstehen diese Hohlräume erst allmählich während der Kindheit und erreichen dann ihre endgültige Größe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>41. Die Sesambeine sind kleine, erbsen- oder sesamkorngroße Knochen, die in das Innere von Sehnen eingebettet sind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>42. Ihren Namen haben sie gerade von dieser kleinen, einem Sesamkorn ähnlichen Gestalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>43. Sie entstehen in der Regel dort, wo eine Sehne über ein Gelenk hinwegzieht.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>44. Ihre Aufgabe ist zweifach, denn sie schützen die Sehne vor Abnutzung und verbessern zugleich die Wirksamkeit des Muskelzugs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>45. Sie erreichen dies, indem sie den Abstand der Sehne von der Drehachse des Gelenks vergrößern und so einen längeren Hebelarm schaffen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>46. Das größte Sesambein des Körpers ist die Kniescheibe, die in die Sehne des Streckmuskels des Oberschenkels eingebettet ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>47. Kleinere Sesambeine kommen an Hand und Fuß vor, vor allem in der Nähe von Daumen und Großzehe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>48. Diese sechs Formen zeigen anschaulich, dass sich die Gestalt eines Knochens stets an seine mechanische Aufgabe anpasst.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>49. Die langen Knochen bewegen, die kurzen stabilisieren, die platten schützen und die unregelmäßigen vereinen mehrere Aufgaben.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>50. Mit diesen Grundtypen lassen sich die einzelnen Knochen der folgenden Kapitel bereits leicht einordnen und verstehen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<div class="pc-footer-nav">
+  <div class="pc-top-link">
+    <a href="#top">↑ Hoch zum Seitenanfang</a>
+  </div>
+  <div class="pc-chapter-nav">
+    <a href="/4-2-3-anatomie-kurz/">« Zurück zu Kapitel 4.2.3</a> &nbsp;|&nbsp; <span>Kapitel 4.3</span> &nbsp;|&nbsp; <a href="/4-4-anatomie-kurz/">Weiter zu Kapitel 4.4 »</a>
+  </div>
+  <div class="pc-home-link">
+    <a href="/">« Home</a> &nbsp;|&nbsp; <a href="/lesebuecher/">« zurück zu Lesebücher</a> &nbsp;|&nbsp; <a href="/anatomie-kurze-saetze/">« zurück zu Inhaltsverzeichnis: Anatomie – kurze Sätze</a>
+  </div>
+</div>
+<!-- /wp:html -->
+</div>
+<!-- /wp:group -->
