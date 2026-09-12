@@ -1,0 +1,508 @@
+SPRACH-EINSPRENGSEL - Kapitel 2 bis 4
+======================================
+
+Geprueft: 29.105 Satzpaare auf 165 Seiten, beide Richtungen.
+
+Die Gegenrichtung (ungarische Woerter im deutschen Satz) ist sauber:
+dort sind es durchweg erklaerte Fachbegriffe ("Die Burg, ungarisch var")
+oder Eigennamen (Gyula Laszlo, Puszta) - also gewollt.
+
+ACHTUNG beim Korrigieren: jeder Satz steht DREIMAL in der Datei -
+im zweisprachigen Hauptteil und in beiden Ausklappboxen.
+
+
+A. KLARE BEFUNDE
+================
+
+Deutsche Namensform bzw. deutscher Ortsname mitten im ungarischen Satz,
+obwohl es eine etablierte ungarische Form gibt.
+
+--- Drau  (ungarisch erwartet: Dráva)   1 Fund(e) ---
+  Datei   : kkk-03-04-06-ung-dt-html-fertig
+  Kapitel : 3.4.6    Satz: 44
+  ung     : A Save, a Drau és a Morava mutatták az utat délkelet felé, a Balkánra.
+  dt      : Save, Drau und Morava wiesen den Weg nach Südosten auf den Balkan.
+
+--- Emmerich  (ungarisch erwartet: Imre)   13 Fund(e) ---
+  Datei   : kkk-04-01-06-ung-dt-html-fertig
+  Kapitel : 4.1.6    Satz: 59
+  ung     : István nem hagyott hátra élő fiút, mivel fia, Emmerich, előtte halt meg.
+  dt      : Stephan hinterließ keinen lebenden Sohn, denn sein Sohn Emmerich war vor ihm gestorben.
+
+  Datei   : kkk-04-02-00-ung-dt-html-fertig
+  Kapitel : 4.2    Satz: 136
+  ung     : A királyt súlyos személyes válság érte fia, Emmerich halála miatt.
+  dt      : Eine schwere persönliche Krise traf den König mit dem Tod seines Sohnes Emmerich.
+
+  Datei   : kkk-04-02-00-ung-dt-html-fertig
+  Kapitel : 4.2    Satz: 137
+  ung     : Emmerich, akit a trónöröklésre szántak, 1031 körül egy vadászbalesetben vesztette életét.
+  dt      : Emmerich, der für die Thronfolge vorgesehen war, kam um 1031 bei einem Jagdunfall ums Leben.
+
+  Datei   : kkk-04-02-05-ung-dt-html-fertig
+  Kapitel : 4.2.5    Satz: 68
+  ung     : Ez egyértelműen kifejezésre jut az Emmerich fiához intézett tanácsokban.
+  dt      : In seinen Ermahnungen an den Sohn Emmerich kommt dies deutlich zum Ausdruck.
+
+  Datei   : kkk-04-02-05-ung-dt-html-fertig
+  Kapitel : 4.2.5    Satz: 129
+  ung     : Emmerich korai halála 1031 körül tönkretette ezt a reményt.
+  dt      : Der frühe Tod Emmerichs um das Jahr 1031 zerstörte diese Hoffnung.
+
+  Datei   : kkk-04-02-06-ung-dt-html-fertig
+  Kapitel : 4.2.6    Satz: 51
+  ung     : Fia, Emmerich halála mély személyes válságként érte.
+  dt      : Der Tod seines Sohnes Emmerich traf ihn als tiefe persönliche Krise.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 6
+  ung     : Az első nagy, dokumentált veszteségre 1205-ben került sor, amikor Emmerich király halála után testvére, András magához vette a koronázási jelvényeket, mielőtt azok ismét rendelkezésre álltak volna a szokásos koronázásokhoz.
+  dt      : Der erste große dokumentierte Verlust ereignete sich 1205, als nach dem Tod König Emmerichs dessen Bruder Andreas die Insignien an sich brachte, bevor sie wieder für reguläre Krönungen zur Verfügung standen.
+
+  Datei   : kkk-04-04-00-ung-dt-html-fertig
+  Kapitel : 4.4    Satz: 177
+  ung     : Istvánt 1083-ban fiával, Emmerich-kel és Gerhard püspökkel együtt szentté avatták, ami megerősítette jelentőségét az állam és az egyház számára.
+  dt      : Stephan wurde 1083 zusammen mit seinem Sohn Emmerich und Bischof Gerhard heiliggesprochen, was seine Bedeutung für Staat und Kirche bestätigte.
+
+  Datei   : kkk-04-04-03-ung-dt-html-fertig
+  Kapitel : 4.4.3    Satz: 97
+  ung     : István, fia Emmerich és Gerhard püspök 1083-as szentté avatása a dinasztiát a szentség dicsőségével ötvözte.
+  dt      : Die spätere Heiligsprechung Stephans, seines Sohnes Emmerich und Bischof Gerhards im Jahr 1083 verband die Dynastie mit dem Glanz der Heiligkeit.
+
+  Datei   : kkk-04-05-00-ung-dt-html-fertig
+  Kapitel : 4.5    Satz: 4
+  ung     : Élete utolsó éveiben legnagyobb megoldatlan gondja az utódlás kérdése volt, mivel egyetlen fia, Emmerich már 1031-ben meghalt.
+  dt      : Seine größte ungelöste Sorge in den letzten Lebensjahren war die Frage der Nachfolge, denn sein einziger Sohn Emmerich war bereits 1031 gestorben.
+
+  Datei   : kkk-04-05-00-ung-dt-html-fertig
+  Kapitel : 4.5    Satz: 5
+  ung     : Emmerich, a trónörökösnek kijelölt herceg, a hagyomány szerint egy vadászbalesetben vesztette életét, feltehetően egy vaddisznó támadása következtében.
+  dt      : Emmerich, der für die Thronfolge vorgesehene Prinz, verunglückte nach der Überlieferung bei einem Jagdunfall, vermutlich durch einen Eber.
+
+  Datei   : kkk-04-05-00-ung-dt-html-fertig
+  Kapitel : 4.5    Satz: 6
+  ung     : Emmerich halálával István elvesztette azt az örököst, akibe minden reményét a keresztény mű folytatására fektette.
+  dt      : Mit dem Tod Emmerichs verlor Stephan den Erben, auf den er all seine Hoffnungen für die Fortführung des christlichen Werkes gesetzt hatte.
+
+  Datei   : kkk-04-05-01-ung-dt-html-fertig
+  Kapitel : 4.5.1    Satz: 5
+  ung     : Mivel István egyetlen életképes fia, Emmerich 1031-ben egy vadászbalesetben életét vesztette, nem volt közvetlen férfi örökös.
+  dt      : Da Stephans einziger überlebensfähiger Sohn Emmerich 1031 bei einem Jagdunfall ums Leben gekommen war, fehlte der direkte männliche Erbe.
+
+--- Fünfkirchen  (ungarisch erwartet: Pécs)   2 Fund(e) ---
+  Datei   : kkk-04-05-01-ung-dt-html-fertig
+  Kapitel : 4.5.1    Satz: 92
+  ung     : Egy későbbi hagyomány szerint Péter túlélte a megvakítást, és csak 1059 körül halt meg Fünfkirchen városában.
+  dt      : Eine spätere Tradition behauptet, Peter habe die Blendung überlebt und sei erst um 1059 in der Stadt Fünfkirchen gestorben.
+
+  Datei   : kkk-04-05-01-ung-dt-html-fertig
+  Kapitel : 4.5.1    Satz: 94
+  ung     : Általános vélekedés szerint Pétert Fünfkirchen székesegyházában temették el, egy olyan városban, amelyet állítólag ő maga is támogatott.
+  dt      : Nach verbreiteter Annahme wurde Peter im Dom von Fünfkirchen bestattet, einer Stadt, die er selbst gefördert haben soll.
+
+--- Gespan  (ungarisch erwartet: ispán)   1 Fund(e) ---
+  Datei   : kkk-04-04-01-ung-dt-html-fertig
+  Kapitel : 4.4.1    Satz: 18
+  ung     : Ez a harmadjog, amelyet latinul tertia pars-nak neveztek, jelentős jövedelmet biztosított a Gespan számára, és egyúttal garantálta a király iránti hűségét is.
+  dt      : Dieses Drittelrecht, im Lateinischen als tertia pars bezeichnet, verschaffte dem Gespan ein erhebliches Einkommen und sicherte zugleich die Treue zum König.
+
+--- Heinrich  (ungarisch erwartet: Henrik)   19 Fund(e) ---
+  Datei   : kkk-03-04-07-ung-dt-html-fertig
+  Kapitel : 3.4.7    Satz: 45
+  ung     : A későbbi hagyomány ezeket az intézkedéseket Heinrich, a várépítő alakjához kötötte.
+  dt      : Die spätere Überlieferung verband diese Maßnahmen mit dem Bild des Burgenbauers Heinrich.
+
+  Datei   : kkk-03-04-07-ung-dt-html-fertig
+  Kapitel : 3.4.7    Satz: 115
+  ung     : Heinrich mint a német nemzet alapítója patetikus megfogalmazását óvatosabban kezelték.
+  dt      : Die pathetische Formel von Heinrich als Gründer der deutschen Nation wurde vorsichtiger behandelt.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 37
+  ung     : A Heinrich által épített várak pontos elhelyezkedése és száma a kutatásokban vitatott kérdés, és nem határozható meg egyértelműen.
+  dt      : Die genaue Lage und Zahl der von Heinrich errichteten Burgen ist in der Forschung umstritten und lässt sich nicht eindeutig bestimmen.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 39
+  ung     : Olyan helyeket, mint Quedlinburg, Merseburg, Pöhlde és Werla, gyakran hozzák összefüggésbe Heinrich erődítményépítési tevékenységével.
+  dt      : Orte wie Quedlinburg, Merseburg, Pöhlde und Werla werden häufig mit Heinrichs Befestigungstätigkeit in Verbindung gebracht.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 41
+  ung     : Az erődítményépítés mellett Heinrich nagy energiával szentelte magát egy hatékony, mozgékony lovasság létrehozásának.
+  dt      : Neben dem Festungsbau widmete sich Heinrich mit großer Energie der Schaffung einer schlagkräftigen, beweglichen Reiterei.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 114
+  ung     : Heinrich így egy előrelátó uralkodó típusát testesíti meg, aki a gyors, de kockázatos sikert a türelem elé helyezi.
+  dt      : Heinrich verkörpert damit den Typus eines vorausschauenden Herrschers, der Geduld über den raschen, aber riskanten Erfolg stellt.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 120
+  ung     : Mindazonáltal tükrözik azt a tényleges jelentőséget, amelyet Heinrich intézkedései a birodalom megmentése szempontjából jelentettek.
+  dt      : Dennoch spiegeln sie die tatsächliche Bedeutung wider, die Heinrichs Maßnahmen für die Rettung des Reiches besaßen.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 121
+  ung     : A modern kutatások lényegében megerősítik Heinrich központi szerepét a hatékony védelmi struktúrák kialakításában.
+  dt      : Die moderne Forschung bestätigt im Wesentlichen die zentrale Rolle Heinrichs bei der Schaffung wirksamer Verteidigungsstrukturen.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 124
+  ung     : Mások viszont különösen kiemelik Heinrich építési programjának tervszerű és újszerű jellegét.
+  dt      : Andere heben dagegen den planmäßigen und neuartigen Charakter von Heinrichs Bauprogramm besonders hervor.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 137
+  ung     : Míg elődeik minden felmerülő helyzetre sietve és rosszul összehangolt ellenintézkedésekkel reagáltak, Heinrich tervszerűen és előrelátóan járt el.
+  dt      : Wo jene auf jeden Einfall mit hastigen und schlecht koordinierten Gegenwehren reagiert hatten, handelte Heinrich planvoll und vorausschauend.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 149
+  ung     : A 955-ös Lechfeld-i győzelem sok szempontból Heinrich által elvetett magok érett gyümölcse volt.
+  dt      : Der Sieg auf dem Lechfeld im Jahr 955 war in vieler Hinsicht die reife Frucht der von Heinrich gelegten Saat.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 151
+  ung     : Ebben az értelemben Heinrich védekező stratégiáinak jelentősége messze túlmutat saját életén.
+  dt      : In diesem Sinne reicht die Bedeutung von Heinrichs Defensivstrategien weit über seine eigene Lebenszeit hinaus.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 153
+  ung     : Heinrich így egy hosszú fejlődés fordulópontján áll, amely a Birodalmat a tehetetlenségből az erőhöz vezette.
+  dt      : Heinrich steht damit am Wendepunkt einer langen Entwicklung, die das Reich von der Ohnmacht zur Stärke führte.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 175
+  ung     : Heinrich tudta, hogyan kell megtalálni a megfelelő egyensúlyt a visszafogottság és a támadás, a türelem és a cselekvés között.
+  dt      : Heinrich verstand es, das richtige Maß zwischen Zurückhaltung und Angriff, zwischen Geduld und Tat zu finden.
+
+  Datei   : kkk-03-05-02-ung-dt-html-fertig
+  Kapitel : 3.5.2    Satz: 178
+  ung     : A Heinrich által lefektetett alapokból az Ottó-dinasztia alatt a középkori Európa egyik leghatalmasabb rendje nőtt ki.
+  dt      : Aus dem von Heinrich gelegten Fundament erwuchs unter den Ottonen eine der mächtigsten Ordnungen des mittelalterlichen Europa.
+
+  Datei   : kkk-03-06-01-ung-dt-html-fertig
+  Kapitel : 3.6.1    Satz: 40
+  ung     : Nem sokkal később Otto fiatalabb testvére, Heinrich is fellázadt a királyi uralom ellen.
+  dt      : Bald darauf lehnte sich auch Ottos jüngerer Bruder Heinrich gegen die königliche Herrschaft auf.
+
+  Datei   : kkk-03-06-01-ung-dt-html-fertig
+  Kapitel : 3.6.1    Satz: 41
+  ung     : Heinrich részesedést követelt a hatalomból, és hátrányosnak érezte magát az egyedüli öröklés miatt.
+  dt      : Heinrich beanspruchte einen Anteil an der Macht und fühlte sich von der Alleinnachfolge benachteiligt.
+
+  Datei   : kkk-03-06-01-ung-dt-html-fertig
+  Kapitel : 3.6.1    Satz: 46
+  ung     : Otto testvére, Heinrich, ezt követően behódolt, és Otto kegyelmet adott neki.
+  dt      : Ottos Bruder Heinrich unterwarf sich daraufhin und wurde von Otto begnadigt.
+
+  Datei   : kkk-03-06-01-ung-dt-html-fertig
+  Kapitel : 3.6.1    Satz: 74
+  ung     : Otto testvére, Heinrich is, aki ekkor már Bajorország hercege volt, ellentétbe került Liudolf-fal.
+  dt      : Auch Ottos Bruder Heinrich, nun Herzog von Bayern, geriet in Gegensatz zu Liudolf.
+
+--- Koloman  (ungarisch erwartet: Kálmán)   20 Fund(e) ---
+  Datei   : kkk-03-07-06-ung-dt-html-fertig
+  Kapitel : 3.7.6    Satz: 75
+  ung     : I. László és Koloman uralkodása alatt végleg megszilárdult a keresztény királyság.
+  dt      : Unter Ladislaus I. und Koloman festigte sich das christliche Königreich endgültig.
+
+  Datei   : kkk-03-07-06-ung-dt-html-fertig
+  Kapitel : 3.7.6    Satz: 78
+  ung     : Koloman kiterjesztette a birodalmat, és tovább szilárdította pozícióját.
+  dt      : Koloman erweiterte das Reich und festigte seine Stellung weiter.
+
+  Datei   : kkk-04-01-06-ung-dt-html-fertig
+  Kapitel : 4.1.6    Satz: 100
+  ung     : Még László király és Koloman király idején is rendeltek el rendelkezéseket a pogány szokások ellen.
+  dt      : Noch unter König Ladislaus und König Koloman wurden Bestimmungen gegen heidnische Bräuche erlassen.
+
+  Datei   : kkk-04-01-06-ung-dt-html-fertig
+  Kapitel : 4.1.6    Satz: 103
+  ung     : Figyelemre méltó, hogy Koloman király a boszorkányok üldözését alaptalannak nyilvánította.
+  dt      : Bemerkenswert ist, dass König Koloman die Verfolgung der Hexen für gegenstandslos erklärte.
+
+  Datei   : kkk-04-04-01-ung-dt-html-fertig
+  Kapitel : 4.4.1    Satz: 79
+  ung     : Koloman, a Tudós király felszámolta a részfejedelemségeket, hogy biztosítsa a birodalom egységét és a központi hatalom pozícióját.
+  dt      : König Koloman der Gelehrte beseitigte das Teilfürstentum, um die Einheit des Reiches und die Stellung der Zentralgewalt zu sichern.
+
+  Datei   : kkk-04-04-03-ung-dt-html-fertig
+  Kapitel : 4.4.3    Satz: 132
+  ung     : István utódai, különösen I. László és Koloman, a Tudós, folytatták az egyház kiépítését.
+  dt      : Die Nachfolger Stephans, insbesondere Ladislaus I. und Koloman der Gelehrte, setzten den Ausbau der Kirche fort.
+
+  Datei   : kkk-04-04-03-ung-dt-html-fertig
+  Kapitel : 4.4.3    Satz: 134
+  ung     : Koloman király további törvényeket hozott, amelyek szabályozták az egyház és az állam viszonyát, és az egyházszintű reformhoz kapcsolódtak.
+  dt      : König Koloman erließ weitere Gesetze, die das Verhältnis von Kirche und Staat regelten und an die gesamtkirchliche Reform anknüpften.
+
+  Datei   : kkk-04-04-04-ung-dt-html-fertig
+  Kapitel : 4.4.4    Satz: 111
+  ung     : I. László király és Koloman király előmozdították az egyházi fegyelmet, és zsinatokat hívtak össze, amelyek a kolostori életre is kiterjedtek.
+  dt      : König Ladislaus I. und König Koloman förderten die kirchliche Disziplin und beriefen Synoden, die auch das Klosterleben betrafen.
+
+  Datei   : kkk-04-04-06-ung-dt-html-fertig
+  Kapitel : 4.4.6    Satz: 113
+  ung     : Koloman, a Tudós király később enyhítette ezt a szigorúságot, és felülvizsgálta a legszigorúbb rendelkezések egy részét.
+  dt      : König Koloman der Gelehrte milderte später diese Härte und revidierte einige der strengsten Bestimmungen.
+
+  Datei   : kkk-04-04-06-ung-dt-html-fertig
+  Kapitel : 4.4.6    Satz: 114
+  ung     : Koloman saját törvénykönyvet hirdetett ki, amelyet nagyobb mérséklet és jogi műveltség jellemezte.
+  dt      : Koloman erließ ein eigenes Gesetzbuch, das durch größere Mäßigung und juristische Bildung gekennzeichnet war.
+
+  Datei   : kkk-04-04-06-ung-dt-html-fertig
+  Kapitel : 4.4.6    Satz: 115
+  ung     : Híressé vált Koloman boszorkányokra vonatkozó rendelkezése, amely kimondta, hogy olyan boszorkányokról, akik nem léteznek, nem lehet tárgyalni.
+  dt      : Berühmt wurde Kolomans Bestimmung über die Hexen, die festlegte, dass über Hexen, die es nicht gebe, nicht zu verhandeln sei.
+
+  Datei   : kkk-04-04-06-ung-dt-html-fertig
+  Kapitel : 4.4.6    Satz: 117
+  ung     : Koloman továbbá újrarendezte az egyházzal való viszonyt, és azt az egyházszintű reformhoz igazította.
+  dt      : Koloman ordnete ferner das Verhältnis zur Kirche neu und passte es der gesamtkirchlichen Reform an.
+
+  Datei   : kkk-04-04-06-ung-dt-html-fertig
+  Kapitel : 4.4.6    Satz: 120
+  ung     : István, László és Koloman törvényei együttesen képezik a korai magyar királyi jog alapját.
+  dt      : Die Gesetze Stephans, Ladislaus und Kolomans bilden zusammen den Grundstock des frühen ungarischen Königsrechts.
+
+  Datei   : kkk-04-05-00-ung-dt-html-fertig
+  Kapitel : 4.5    Satz: 177
+  ung     : Szent László és utódja, Koloman idején Magyarország egy nagyobb stabilitást és terjeszkedést hozó korszakba lépett.
+  dt      : Mit Ladislaus dem Heiligen und seinem Nachfolger Coloman sollte Ungarn dann eine Phase größerer Stabilität und Expansion erreichen.
+
+  Datei   : kkk-04-05-04-ung-dt-html-fertig
+  Kapitel : 4.5.4    Satz: 128
+  ung     : Béla ezzel előkészítette a talajt a később, László és Koloman uralkodása alatt bekövetkező átfogóbb egyházi reformok számára.
+  dt      : Béla bereitete damit den Boden für die umfassenderen Kirchenreformen, die unter Ladislaus und Coloman folgen sollten.
+
+  Datei   : kkk-04-05-05-ung-dt-html-fertig
+  Kapitel : 4.5.5    Satz: 134
+  ung     : Fiai, Koloman és Álmos később maguk is jelentős szerepet játszottak a magyar történelemben.
+  dt      : Seine Söhne Coloman und Álmos sollten später ihrerseits bedeutende Rollen in der ungarischen Geschichte spielen.
+
+  Datei   : kkk-04-05-05-ung-dt-html-fertig
+  Kapitel : 4.5.5    Satz: 135
+  ung     : Géza legidősebb fia, Koloman László után lépett trónra, és Koloman, a Tudós néven vált ismertté.
+  dt      : Gézas ältester Sohn Coloman bestieg nach Ladislaus den Thron und wurde als Coloman der Gelehrte bekannt.
+
+  Datei   : kkk-04-05-06-ung-dt-html-fertig
+  Kapitel : 4.5.6    Satz: 30
+  ung     : Csak a szakasz vége felé, László és Koloman uralkodása alatt alakultak ki szigorúbb trónöröklési szabályok.
+  dt      : Erst gegen Ende der Phase, unter Ladislaus und Coloman, sollten sich verbindlichere Regeln der Thronfolge herausbilden.
+
+  Datei   : kkk-04-05-06-ung-dt-html-fertig
+  Kapitel : 4.5.6    Satz: 154
+  ung     : Ez a szakasz köti össze I. István, az alapító munkásságát a Szent László és Koloman, a Tudós uralkodása alatt elért fénykorral.
+  dt      : Sie verbindet das Werk Stephans des Gründers mit der Glanzzeit unter Ladislaus dem Heiligen und Coloman dem Gelehrten.
+
+  Datei   : kkk-04-05-06-ung-dt-html-fertig
+  Kapitel : 4.5.6    Satz: 160
+  ung     : Utódja, Koloman törvényhozással és a kultúra támogatásával folytatta a munkát.
+  dt      : Sein Nachfolger Coloman setzte das Werk durch Gesetzgebung und kulturelle Förderung fort.
+
+--- Ladislaus  (ungarisch erwartet: László)   2 Fund(e) ---
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 14
+  ung     : Ottót a visszatalált koronával Stuhlweißenburgban koronázták meg, de 1307-ben Erdélyben Ladislaus Kán vajda fogságába esett, aki elkobozta és magánál tartotta a koronát.
+  dt      : Otto wurde mit der wiedergefundenen Krone in Stuhlweißenburg gekrönt, geriet aber 1307 in Siebenbürgen in die Gefangenschaft des Woiwoden Ladislaus Kán, der die Krone beschlagnahmte und festhielt.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 30
+  ung     : Az ellopott koronával 1440-ben Stuhlweißenburgban megkoronázták a mindössze néhány hetes Ladislaus Postumust, ami formálisan a megfelelő helyhez és az eredeti koronához kötötte a koronázást.
+  dt      : Mit der geraubten Krone wurde der nur wenige Wochen alte Ladislaus Postumus 1440 in Stuhlweißenburg gekrönt, was die Krönung formal an den korrekten Ort und an die echte Krone band.
+
+--- Ofen  (ungarisch erwartet: Buda)   2 Fund(e) ---
+  Datei   : kkk-02-11-01-ung-dt-html-fertig
+  Kapitel : 2.11.1    Satz: 72
+  ung     : Egy késő középkori hagyomány szerint sírja Óbudánál, az ősi „Ofen” mellett, a mai Budapest közelében található.
+  dt      : Eine spätmittelalterliche Überlieferung vermutet sein Grab bei Óbuda, dem alten Ofen nahe dem heutigen Budapest.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 61
+  ung     : Ofen, azaz Buda 1686-os visszafoglalása az oszmánoktól és az ország fokozatos visszahódítása megváltoztatta a biztonsági helyzetet, de Pozsony egyelőre továbbra is a koronázási és őrzési hely maradt.
+  dt      : Die Rückeroberung Ofens, also Budas, von den Osmanen 1686 und der allmähliche Rückgewinn des Landes änderten die Sicherheitslage, doch Pressburg blieb vorerst Krönungs- und Verwahrungsort.
+
+--- Pressburg  (ungarisch erwartet: Pozsony)   8 Fund(e) ---
+  Datei   : kkk-03-01-03-ung-dt-html-fertig
+  Kapitel : 3.1.3    Satz: 42
+  ung     : A Pressburg utáni években a magyarok többször is akadálytalanul hatoltak be mélyen a német területekre.
+  dt      : In den Jahren nach Pressburg griffen die Magyaren wiederholt und ungehindert tief in die deutschen Lande aus.
+
+  Datei   : kkk-03-02-01-ung-dt-html-fertig
+  Kapitel : 3.2.1    Satz: 42
+  ung     : Pressburg így azt a fordulópontot jelzi, amikor a határmenti csetepatékból Dél-Németország szisztematikus kifosztása lett.
+  dt      : Pressburg markiert damit den Wendepunkt, an dem aus Grenzscharmützeln die systematische Plünderung Süddeutschlands wurde.
+
+  Datei   : kkk-03-04-01-ung-dt-html-fertig
+  Kapitel : 3.4.1    Satz: 16
+  ung     : Pressburg után a bajor keleti határ ténylegesen messze nyugatra tolódott vissza.
+  dt      : Nach Pressburg verlagerte sich die bayerische Ostgrenze faktisch weit nach Westen zurück.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 161
+  ung     : A rendes tárolóhelyek egymás után Stuhlweißenburg, Visegrád, Pressburg és Buda voltak, ahol a koronát békeidőben őrizték és koronázásokra tartották készen.
+  dt      : Reguläre Aufbewahrungsorte waren nacheinander Stuhlweißenburg, Visegrád, Pressburg und Buda, an denen die Krone in Friedenszeiten verwahrt und für Krönungen bereitgehalten wurde.
+
+  Datei   : kkk-04-05-00-ung-dt-html-fertig
+  Kapitel : 4.5    Satz: 79
+  ung     : 1052-ben III. Henrik ostrom alá vette a Pressburg nevű erődöt, a mai Szlovákia fővárosát, de ez a kísérlet is kudarcba fulladt.
+  dt      : Im Jahr 1052 belagerte Heinrich III. die Festung Pressburg, die heutige Hauptstadt der Slowakei, doch auch dieser Versuch misslang.
+
+  Datei   : kkk-04-05-00-ung-dt-html-fertig
+  Kapitel : 4.5    Satz: 80
+  ung     : A legenda szerint egy Zotmund nevű magyar búvár süllyesztette el a német hajókat Pressburg közelében.
+  dt      : Nach der Legende soll ein ungarischer Taucher namens Zotmund die deutschen Schiffe bei Pressburg versenkt haben.
+
+  Datei   : kkk-04-05-03-ung-dt-html-fertig
+  Kapitel : 4.5.3    Satz: 78
+  ung     : 1052-ben III. Henrik ostrom alá vette a Pressburg nevű erődöt, a mai szlovák fővárost, de ez a kísérlet is kudarcba fulladt.
+  dt      : Im Jahr 1052 belagerte Heinrich III. die Festung Pressburg, die heutige slowakische Hauptstadt, doch auch dieser Versuch misslang.
+
+  Datei   : kkk-04-05-03-ung-dt-html-fertig
+  Kapitel : 4.5.3    Satz: 79
+  ung     : A legenda szerint egy Zotmund nevű magyar búvár süllyesztette el a német hajókat Pressburg közelében.
+  dt      : Nach der Legende soll ein ungarischer Taucher namens Zotmund die deutschen Schiffe bei Pressburg versenkt haben.
+
+--- Raab  (ungarisch erwartet: Győr)   3 Fund(e) ---
+  Datei   : kkk-02-01-05-ung-dt-html-fertig
+  Kapitel : 2.1.5    Satz: 77
+  ung     : A frank sereg egészen a Duna és a Raab közötti területig nyomult előre.
+  dt      : Das fränkische Heer stieß bis in das Gebiet zwischen Donau und Raab vor.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 59
+  ung     : A harmincéves háború és a folyamatos török fenyegetés idején a koronát többször is ide-oda szállították Pozsony és a jobban védett Raab (magyarul Győr) város között.
+  dt      : Während des Dreißigjährigen Krieges und der fortdauernden Türkengefahr wurde die Krone mehrfach zwischen Pressburg und der besser gesicherten Stadt Raab, ungarisch Győr, hin- und herbewegt.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 162
+  ung     : Háborús okokból kialakított menedékhelyek voltak például Trau és Spalato, Munkács, Komorn, Raab, valamint a 20. században a Vörös Hadsereg elől nyugat-magyarországi és osztrák rejtekhelyek.
+  dt      : Kriegsbedingte Ausweichorte waren etwa Trau und Spalato, Munkács, Komorn, Raab und im 20. Jahrhundert die westungarischen und österreichischen Verstecke vor der Roten Armee.
+
+--- Salomon  (ungarisch erwartet: Salamon)   1 Fund(e) ---
+  Datei   : kkk-04-05-04-ung-dt-html-fertig
+  Kapitel : 4.5.4    Satz: 23
+  ung     : Salomon korai megkoronázása, amely megsértette Béla elsőbbségi jogát, megrontotta a testvérek viszonyát.
+  dt      : Diese vorzeitige Krönung Salomons, die das Senioratsrecht Bélas verletzte, vergiftete das Verhältnis der Brüder.
+
+--- Save  (ungarisch erwartet: Száva)   1 Fund(e) ---
+  Datei   : kkk-03-04-06-ung-dt-html-fertig
+  Kapitel : 3.4.6    Satz: 44
+  ung     : A Save, a Drau és a Morava mutatták az utat délkelet felé, a Balkánra.
+  dt      : Save, Drau und Morava wiesen den Weg nach Südosten auf den Balkan.
+
+--- Stephan  (ungarisch erwartet: István)   8 Fund(e) ---
+  Datei   : kkk-04-01-06-ung-dt-html-fertig
+  Kapitel : 4.1.6    Satz: 78
+  ung     : A Vata-felkelés jól mutatja, milyen erős volt az új hit elutasítása még egy generációval Stephan után is.
+  dt      : Der Vata-Aufstand zeigt, wie stark die Ablehnung des neuen Glaubens noch eine Generation nach Stephan war.
+
+  Datei   : kkk-04-02-01-ung-dt-html-fertig
+  Kapitel : 4.2.1    Satz: 50
+  ung     : A kereszteléskor Vajk a Stephan keresztény nevet kapta.
+  dt      : Bei der Taufe erhielt Vajk den christlichen Namen Stephan.
+
+  Datei   : kkk-04-02-06-ung-dt-html-fertig
+  Kapitel : 4.2.6    Satz: 52
+  ung     : A legendák szerint Stephan alázatosan viselte ezt a veszteséget.
+  dt      : Die Legenden berichten, Stephan habe diesen Verlust in Ergebung getragen.
+
+  Datei   : kkk-04-04-00-ung-dt-html-fertig
+  Kapitel : 4.4    Satz: 146
+  ung     : Stephan ebben azt ajánlotta, hogy az idegeneket és a vendégeket barátságosan fogadják, mivel tudást, képességeket és gazdagságot hoznak magukkal.
+  dt      : Stephan empfahl darin, Fremde und Gäste freundlich aufzunehmen, da sie Wissen, Fähigkeiten und Reichtum mit sich brächten.
+
+  Datei   : kkk-04-04-05-ung-dt-html-fertig
+  Kapitel : 4.4.5    Satz: 44
+  ung     : A pénzgazdaság felé tett döntő lépés volt a saját pénzverés bevezetése Stephan uralkodása alatt.
+  dt      : Einen entscheidenden Schritt zur Geldwirtschaft bildete die Einführung einer eigenen Münzprägung unter Stephan.
+
+  Datei   : kkk-04-04-05-ung-dt-html-fertig
+  Kapitel : 4.4.5    Satz: 45
+  ung     : Stephan ezüst denárokat veretett, amelyek közül néhány a „Stephanus Rex” felirattal és a pénzverde nevével fennmaradt.
+  dt      : Stephan ließ silberne Denare prägen, von denen einige mit der Umschrift Stephanus Rex und dem Namen der Münzstätte erhalten sind.
+
+  Datei   : kkk-04-04-06-ung-dt-html-fertig
+  Kapitel : 4.4.6    Satz: 124
+  ung     : Stephan Werbőczy 1514-ben megjelent Tripartitum című műve összefoglalta a magyar szokásjogot, de ez már jóval a korai időszakon túlra esik.
+  dt      : Das Tripartitum des Stephan Werbőczy aus dem Jahr 1514 fasste das ungarische Gewohnheitsrecht zusammen, liegt aber weit außerhalb der Frühzeit.
+
+  Datei   : kkk-04-05-06-ung-dt-html-fertig
+  Kapitel : 4.5.6    Satz: 6
+  ung     : A konszolidációs szakasz ezért kezdetben annak a kérdésnek a története volt, hogy vajon a Stephan-kori mű túlél-e majd alkotóját.
+  dt      : Die Konsolidierungsphase war daher zunächst die Geschichte der Frage, ob das stephanische Werk seinen Schöpfer überdauern würde.
+
+--- Stuhlweißenburg  (ungarisch erwartet: Székesfehérvár)   5 Fund(e) ---
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 51
+  ung     : Az oszmán előrenyomulás következtében Stuhlweißenburg, a hagyományos koronázási helyszín, bizonytalanná vált, és 1543-ban maga is oszmán kézre került, így a korona szertartási helyszíne is elveszett.
+  dt      : Mit dem osmanischen Vordringen wurde Stuhlweißenburg, der traditionelle Krönungsort, unsicher und fiel 1543 selbst an die Osmanen, sodass auch der zeremonielle Bezugsraum der Krone verlorenging.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 123
+  ung     : Stuhlweißenburg, mint az Árpádok ősi koronázási és temetkezési helye, a török időkig az ideális központ volt, ahol a koronázás, a királyi sír és a Szent Korona egybefonódott.
+  dt      : Stuhlweißenburg war als alter Krönungs- und Grablegungsort der Árpáden bis zur Türkenzeit das ideelle Zentrum, an dem Krönung, Königsgrab und Heilige Krone zusammenkamen.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 124
+  ung     : Amikor 1543-ban Stuhlweißenburg az oszmánok kezébe került, ez a kapcsolat megszakadt, és a királyság szertartási topográfiáját újra kellett rendezni.
+  dt      : Mit dem Verlust Stuhlweißenburgs an die Osmanen 1543 zerriss dieser Zusammenhang, und die zeremonielle Topographie des Königtums musste sich neu ordnen.
+
+  Datei   : kkk-04-03-06-ung-dt-html-fertig
+  Kapitel : 4.3.6    Satz: 161
+  ung     : A rendes tárolóhelyek egymás után Stuhlweißenburg, Visegrád, Pressburg és Buda voltak, ahol a koronát békeidőben őrizték és koronázásokra tartották készen.
+  dt      : Reguläre Aufbewahrungsorte waren nacheinander Stuhlweißenburg, Visegrád, Pressburg und Buda, an denen die Krone in Friedenszeiten verwahrt und für Krönungen bereitgehalten wurde.
+
+  Datei   : kkk-04-05-01-ung-dt-html-fertig
+  Kapitel : 4.5.1    Satz: 63
+  ung     : III. Henrik személyesen kísérte vissza Pétert, és Stuhlweißenburg városában ismét királlyá koronázta.
+  dt      : Heinrich III. führte Peter persönlich zurück und setzte ihn in der Stadt Stuhlweißenburg erneut als König ein.
+
+
+
+B. GRENZFAELLE - bitte selbst entscheiden
+=========================================
+
+Hier ist die deutsche Form moeglicherweise gewollt oder im Ungarischen
+ebenfalls gebraeuchlich.
+
+--- Leon  (ungarisch erwartet: Leó?)   4 Fund(e) ---
+  Datei   : kkk-02-10-03-ung-dt-html-fertig
+  Kapitel : 2.10.3    Satz: 56
+  ung     : I. Leon Bölcs császár a magyarokat szövetségesként toborozta Simeon ellen.
+  dt      : Kaiser Leon der Weise warb die Magyaren als Verbündete gegen Simeon an.
+
+  Datei   : kkk-02-02-02-ung-dt-html-fertig
+  Kapitel : 2.2.2    Satz: 49
+  ung     : VI. Leon figyelemre méltó pontossággal írja le a magyarok hadviselését, mivel Bizánc 894 körül a magyarokat szövetségesként vetette be a bolgárok ellen, és saját tapasztalatból ismerte őket.
+  dt      : Leon beschreibt die ungarische Kriegführung mit bemerkenswerter Genauigkeit, denn Byzanz hatte die Ungarn um 894 als Verbündete gegen die Bulgaren eingesetzt und kannte sie aus eigener Anschauung.
+
+  Datei   : kkk-02-02-02-ung-dt-html-fertig
+  Kapitel : 2.2.2    Satz: 52
+  ung     : Leon különösen élethűen írja le a színlelt visszavonulás taktikáját, amelynek során a lovasok látszólag menekültek, hogy az üldöző ellenséget egyenesen csapdába csalogassák.
+  dt      : Besonders eindringlich beschreibt Leon die Taktik des vorgetäuschten Rückzugs, bei der die Reiter scheinbar flohen, um den verfolgenden Gegner geradewegs in einen Hinterhalt zu locken.
+
+  Datei   : kkk-02-02-02-ung-dt-html-fertig
+  Kapitel : 2.2.2    Satz: 55
+  ung     : A Taktika esetében azonban óvatosságra van szükség, mivel Leon régebbi katonai kézikönyveket használt mintaként.
+  dt      : Allerdings ist auch bei der Taktika Vorsicht geboten, denn Leon benutzte ältere militärische Handbücher als Vorlage.
+
+--- Ostmark  (ungarisch erwartet: Keleti Őrgrófság?)   2 Fund(e) ---
+  Datei   : kkk-02-01-06-ung-dt-html-fertig
+  Kapitel : 2.1.6    Satz: 38
+  ung     : A Keleti-Alpok térségében jött létre az úgynevezett avar határvidék, vagyis az Ostmark.
+  dt      : Im Ostalpenraum entstand die sogenannte Awarische Mark oder Ostmark.
+
+  Datei   : kkk-03-04-01-ung-dt-html-fertig
+  Kapitel : 3.4.1    Satz: 17
+  ung     : Az Ostmark, a mai Alsó-Ausztria területének elvesztése e vereség közvetlen következménye volt.
+  dt      : Der Verlust der Ostmark, des heutigen niederösterreichischen Raums, war eine unmittelbare Folge dieser Niederlage.
+
+--- Rote  (ungarisch erwartet: Vöröstoronyi-hágó?)   1 Fund(e) ---
+  Datei   : kkk-02-10-01-ung-dt-html-fertig
+  Kapitel : 2.10.1    Satz: 33
+  ung     : Hágóik, például az Alt-folyó melletti Rote-Turm-hágó, keskenyek voltak, és katonai szempontból könnyen lezárhatók.
+  dt      : Ihre Pässe, etwa der Rote-Turm-Pass am Alt, waren eng und militärisch leicht zu sperren.
