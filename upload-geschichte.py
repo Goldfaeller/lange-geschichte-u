@@ -134,8 +134,11 @@ def pruefe_seite(seite, inhalt):
     einwaende = []
     if "<!-- wp:group" not in inhalt:
         einwaende.append("kein wp:group-Block")
-    if inhalt.count("<details") != 2:
-        einwaende.append("nicht genau 2 Ausklappboxen")
+    boxen = inhalt.count("<details")
+    if boxen == 0 or boxen % 2:
+        einwaende.append("{} Ausklappboxen - erwartet werden 2 je Textfassung".format(boxen))
+    if inhalt.count("</details>") != boxen:
+        einwaende.append("Ausklappboxen nicht sauber geschlossen")
     kopf = re.search(r"<span>Kapitel ([\d.]+)</span>", inhalt)
     if not kopf:
         einwaende.append("keine Kapitelangabe in der Navigation")
