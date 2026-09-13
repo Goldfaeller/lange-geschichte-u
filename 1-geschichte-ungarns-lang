@@ -158,6 +158,279 @@
 </p>
 <!-- /wp:paragraph -->
 
+
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<p>1. Az írott források megjelenése előtti korszakot őstörténetnek nevezzük, mert ebből az időből még nem maradtak fenn elolvasható beszámolók.</p>
+<p>2. Az őstörténet azonban korántsem néma, hiszen a földben megőrzött tárgyak, csontok és településnyomok sajátos módon mesélnek az emberekről.</p>
+<p>3. A régészek nem uralkodók neveit vagy csaták pontos dátumait keresik, hanem azt vizsgálják, hogyan éltek, dolgoztak és alkalmazkodtak az egykori közösségek.</p>
+<p>4. Egy törött edény, egy eldobott kőeszköz vagy egy sír néha többet árul el a mindennapokról, mint egy későbbi krónika.</p>
+<p>5. A leletek értelmezése mégsem egyszerű, mert ugyanaz a tárgy többféle célra szolgálhatott, jelentése pedig idővel megváltozhatott.</p>
+<p>6. A Kárpát-medence földrajzi helyzete különösen kedvezett az emberi megtelepedésnek, mivel hegységek, folyók, síkságok és termékeny völgyek találkoztak benne.</p>
+<p>7. A Duna és mellékfolyói természetes útvonalakat kínáltak, amelyeken emberek, nyersanyagok, technikai ismeretek és kulturális hatások mozoghattak.</p>
+<p>8. A medence egyszerre volt menedék, találkozási tér és átjáró, ezért történetét folyamatos bevándorlások, kapcsolatok és helyi átalakulások jellemezték.</p>
+<p>9. Az őskor nagy korszakait az eszközök anyaga alapján kőkornak, rézkornak, bronzkornak és vaskornak nevezzük, bár határaik nem mindenütt azonosak.</p>
+<p>10. Ez a fejlődés nem egyenes vonalban haladt, mert új technikák mellett régebbi módszerek, tárgyak és életformák még sokáig fennmaradhattak.</p>
+<p>11. A mai Magyarország területéről ismert legkorábbi jelentős emberi nyomok Vértesszőlősről származnak, ahol rendkívül kedvező körülmények őrizték meg a leleteket.</p>
+<p>12. A vértesszőlősi lelőhely mintegy négyszázezer éves, ezért nemcsak Magyarország, hanem egész Közép-Európa őstörténetének fontos emléke.</p>
+<p>13. Itt találták meg a Samunak nevezett ember nyakszirtcsontját, valamint gyermekfogakat, kőeszközöket, állatcsontokat és egykori tűzhelyek nyomait.</p>
+<p>14. Samu pontos emberrendszertani besorolása ma is vitatott, ami jól mutatja, hogy az emberi fejlődés nem egyszerűen elkülöníthető fajok sorozata volt.</p>
+<p>15. Vértesszőlős lakói apró, gondosan megmunkált kőeszközöket készítettek, amelyekkel húst vághattak, csontot törhettek vagy fát munkálhattak meg.</p>
+<p>16. A tűzhelynyomok arra utalnak, hogy ismerték és ellenőrzötten használták a tüzet, amely meleget, fényt és védelmet nyújtott számukra.</p>
+<p>17. Ezek az emberek valószínűleg kis csoportokban éltek, mert a környezet erőforrásai nem tudtak tartósan eltartani nagyobb közösségeket.</p>
+<p>18. Táplálékukat vadászatból, elhullott állatok feldolgozásából és növényi élelmek gyűjtéséből szerezték, miközben rendszeresen változtatták tartózkodási helyüket.</p>
+<p>19. A jégkorszak során hideg és enyhébb időszakok váltották egymást, ezért az élővilág és az emberi életfeltételek többször alapvetően átalakultak.</p>
+<p>20. A mai alföldek helyén időnként füves sztyeppék terültek el, ahol mamutok, vadlovak, bölények és más nagy testű állatok éltek.</p>
+<p>21. A folyók és meleg vizű források környéke különösen vonzó volt, mert vizet, vadállatokat, növényeket és megfelelő kőnyersanyagot egyaránt kínált.</p>
+<p>22. A korai emberi jelenlét nyomai ritkák, ezért minden új lelőhely jelentősen módosíthatja azt a képet, amelyet erről a távoli korszakról alkotunk.</p>
+<p>23. A középső őskőkorban neandervölgyi emberek is éltek a Kárpát-medencében, akik kiválóan alkalmazkodtak a változó éghajlati körülményekhez.</p>
+<p>24. A Subalyuk-barlangban talált emberi maradványok és eszközök bizonyítják, hogy a Bükk hegység barlangjai fontos tartózkodási helyeket kínáltak számukra.</p>
+<p>25. A Szeleta-barlang különleges, levél alakú kőeszközei egy olyan technikai hagyományt képviselnek, amelyet a régészet Szeleta-kultúrának nevez.</p>
+<p>26. Hogy ezeket az eszközöket késői neandervölgyiek vagy korai modern emberek készítették-e, arról a kutatók között máig nincs teljes egyetértés.</p>
+<p>27. A modern ember, a Homo sapiens, több mint negyvenezer évvel ezelőtt jelent meg a térségben, és fokozatosan új technikákat honosított meg.</p>
+<p>28. A hosszabb pengékből finomabb szerszámokat, nyílhegyeket és csonteszközöket készítettek, ami hatékonyabbá tette a vadászatot és a feldolgozást.</p>
+<p>29. A vadászok gyakran vadlovakat, rénszarvasokat és más csordákban élő állatokat követtek, amelyek évszakonként nagy távolságokat jártak be.</p>
+<p>30. A barlangok nem feltétlenül szolgáltak állandó lakóhelyként, hanem időszakos menedékek, műhelyek vagy vadászállomások is lehettek.</p>
+<p>31. A Kárpát-medencéből viszonylag kevés őskőkori művészeti emlék ismert, de ez nem bizonyítja, hogy az embereknek ne lettek volna jelképeik.</p>
+<p>32. A fából, bőrből, tollból vagy növényi rostokból készült tárgyak rendszerint elpusztultak, ezért az egykori tárgyi kultúrának csak töredékét ismerjük.</p>
+<p>33. A tűz körüli közös étkezés és munkavégzés lehetőséget teremthetett a tudás továbbadására, a csoport összetartására és történetek elmesélésére.</p>
+<p>34. Bár a csontok és kőeszközök elsősorban a vadászatról tanúskodnak, a növényi táplálék valószínűleg szintén fontos szerepet játszott.</p>
+<p>35. Az őskőkori csoportok évszakonként más területeket kerestek fel, hogy kihasználják a vadállatok vonulását és a különböző növények érését.</p>
+<p>36. Táborhelyeik elhelyezkedéséből a kutatók megpróbálják rekonstruálni az útvonalakat, a vadászterületeket és az egyes csoportok közötti kapcsolatokat.</p>
+<p>37. A felső őskőkor végén az emberek már kiterjedt cserekapcsolatokkal rendelkeztek, hiszen egyes kőnyersanyagok több száz kilométerre is eljutottak.</p>
+<p>38. Körülbelül tizenegyezer-hétszáz évvel ezelőtt véget ért az utolsó jégkorszak, és a gyors felmelegedés alapvetően megváltoztatta a Kárpát-medence környezetét.</p>
+<p>39. A korábbi nyílt területek nagy részét erdők borították el, miközben számos hidegkedvelő állat északabbra húzódott vagy eltűnt.</p>
+<p>40. A középső kőkor emberei kisebb vadakra vadásztak, halásztak, csapdákat állítottak, és sokféle erdei növényt gyűjtöttek.</p>
+<p>41. E korszakból kevés jól kutatható lelőhely maradt fenn, mert a folyók hordaléka és a későbbi földművelés számos nyomot elfedett.</p>
+<p>42. A középső kőkor mégsem jelentéktelen átmenet, hanem olyan időszak volt, amikor az emberek új környezethez és megváltozott erőforrásokhoz alkalmazkodtak.</p>
+<p>43. Az újkőkor kezdete a Kárpát-medencében nagyjából az i. e. 6. évezred elejére tehető, amikor megjelentek az első földművelő közösségek.</p>
+<p>44. A földművelés és az állattartás ismerete délkelet felől, a Balkánon keresztül érkezett, követve a folyóvölgyeket és a kedvező termőterületeket.</p>
+<p>45. Nem csupán új ötletek terjedtek, hanem emberek is bevándoroltak, akik kapcsolatba kerültek a helyi vadászó és gyűjtögető csoportokkal.</p>
+<p>46. A Körös- és a Starčevo-kultúra közösségei a medence déli és keleti részein hozták létre a legkorábbi újkőkori településeket.</p>
+<p>47. Búzát, árpát és hüvelyes növényeket termesztettek, miközben juhokat, kecskéket, sertéseket és szarvasmarhákat tartottak.</p>
+<p>48. A települések gyakran folyók és kisebb vízfolyások közelében feküdtek, ahol termékeny föld, ivóvíz és legelő egyaránt rendelkezésre állt.</p>
+<p>49. A tartósabban lakott falvakban fából, vesszőből és agyagból épített házak álltak, amelyek rendszeres karbantartást igényeltek.</p>
+<p>50. A gabona tárolása lehetővé tette, hogy a közösségek kevésbé függjenek a vadászat pillanatnyi sikerétől, ugyanakkor új kockázatokat is teremtett.</p>
+<p>51. Az agyagedényekben élelmiszert főzhettek és tárolhattak, díszítésük pedig sokszor az adott közösség hagyományait tükrözte.</p>
+<p>52. A csiszolt kőbalták hatékonyabbá tették a fakivágást és a házépítést, bár előállításuk sok időt és különleges szaktudást követelt.</p>
+<p>53. A szövésre utaló orsógombok és szövőszéknehezékek azt bizonyítják, hogy növényi rostokból és gyapjúból különféle textíliákat készítettek.</p>
+<p>54. Az újkőkor folyamán kialakult vonaldíszes kerámia kultúrái nagy területeket kapcsoltak össze, miközben számos helyi változatot is létrehoztak.</p>
+<p>55. A Tokaj környékéről származó obszidián messzi vidékekre eljutott, ami kiterjedt cserekapcsolatok és rendszeres találkozások létezését bizonyítja.</p>
+<p>56. Az állandóbb települések növekedése sűrűbb népességet tett lehetővé, ezért az emberek mind gyakrabban kerültek kapcsolatba egymással.</p>
+<p>57. A letelepedett élet azonban betegségeket, élelmiszerhiányt és társadalmi feszültségeket is okozhatott, különösen rossz termés vagy járvány idején.</p>
+<p>58. Az erdők irtása, a földek művelése és az állatok legeltetése fokozatosan átalakította a tájat, amely ettől kezdve emberi tevékenység nyomait viselte.</p>
+<p>59. A közös építkezés, aratás és állatgondozás szoros együttműködést követelt, ugyanakkor pontosabb szabályokat is szükségessé tett a közösségeken belül.</p>
+<p>60. A sírok elhelyezése és mellékletei arra utalnak, hogy a közösségek különböző módon emlékeztek halottaikra és fejezték ki társadalmi kapcsolataikat.</p>
+<p>61. Az ember- és állatalakú agyagszobrocskák valószínűleg szertartásokhoz vagy hiedelmekhez kapcsolódtak, pontos jelentésüket azonban már nem tudjuk biztosan megfejteni.</p>
+<p>62. Egyes településeket ugyanazon a helyen többször újjáépítettek, így lassan mesterséges lakódombok, úgynevezett tellek alakultak ki.</p>
+<p>63. A régészeti kultúrák nevei elsősorban hasonló tárgycsoportokat jelölnek, ezért nem szabad őket automatikusan egy-egy néppel azonosítani.</p>
+<p>64. A késő újkőkorban a Tisza- és a Lengyel-kultúra települései fejlett kézművességről, távoli kapcsolatokról és összetett szertartásokról tanúskodnak.</p>
+<p>65. A kör alakú árkokkal határolt építmények valószínűleg közösségi vagy szertartási helyek voltak, bár használatuk részletei továbbra is vitatottak.</p>
+<p>66. A különleges edények, ékszerek és nyersanyagok cseréje olyan kapcsolatokat hozott létre, amelyek messze túlnyúltak egyetlen falu vagy tájegység határain.</p>
+<p>67. Az újkőkor tehát nem egyszerűen a fejlődés korszaka volt, hanem mély gazdasági és társadalmi átalakulás, amely előnyökkel és terhekkel egyaránt járt.</p>
+<p>68. Az i. e. 5. évezred folyamán megkezdődött a rézkor, amikor a fémek használata fokozatosan új lehetőségeket nyitott meg.</p>
+<p>69. A természetben előforduló rezet már korábban is ismerték, de kezdetben főként kisebb ékszereket és különleges presztízstárgyakat készítettek belőle.</p>
+<p>70. A réz megjelenése nem szorította ki a követ, mert a jól elkészített kőeszközök sokáig olcsóbbak és praktikusabbak maradtak.</p>
+<p>71. A fémtárgyak birtoklása mégis társadalmi rangot fejezhetett ki, hiszen előállításukhoz ritka nyersanyag, tudás és távoli kapcsolat kellett.</p>
+<p>72. Egyes sírok gazdagabb mellékletei arra utalnak, hogy a vagyoni és társadalmi különbségek a rézkorban láthatóbbá váltak.</p>
+<p>73. A Tiszapolgár- és a Bodrogkeresztúr-kultúra temetői különösen fontosak, mert a sírokból a közösségek belső szerkezetére is következtethetünk.</p>
+<p>74. A késő rézkori Baden-kultúra hatalmas területen terjedt el, mégsem alkotott mindenütt teljesen egységes életmódot vagy közösséget.</p>
+<p>75. Ebből az időből származnak a kerekes járművek legkorábbi agyagmodelljei, amelyek a közlekedés és a teherszállítás fontos változására utalnak.</p>
+<p>76. Az állattartás növekvő szerepe mozgékonyabb életformákat is lehetővé tett, különösen ott, ahol nagy legelőterületek álltak rendelkezésre.</p>
+<p>77. Egyes településeken erőszakos pusztítás nyomai láthatók, de ezekből nem következik, hogy az egész korszakot állandó háborúk jellemezték.</p>
+<p>78. Az éghajlati változások, a talaj kimerülése és a társadalmi konfliktusok egyaránt hozzájárulhattak ahhoz, hogy közösségek elhagyták korábbi lakóhelyüket.</p>
+<p>79. A régészeti kultúrák változását ezért nem lehet mindig egy új nép bevándorlásával magyarázni, hiszen a helyi társadalmak maguk is átalakulhattak.</p>
+<p>80. A rézkor végére a Kárpát-medence már sűrű kapcsolatrendszerrel rendelkezett, amely előkészítette a bronzművesség és az új hatalmi központok kialakulását.</p>
+<p>81. A bronz réz és ón ötvözete, amely keményebb és sokoldalúbb volt a tiszta réznél, ezért kiválóan alkalmasnak bizonyult eszközök készítésére.</p>
+<p>82. Mivel a szükséges fémércek ritkán fordultak elő ugyanazon a helyen, a bronzművesség távoli bányavidékeket összekötő kereskedelmi hálózatokat igényelt.</p>
+<p>83. A bronzkor a Kárpát-medencében az i. e. 3. évezredben kezdődött, de az új technológia csak fokozatosan terjedt el.</p>
+<p>84. Sok települést dombokon vagy folyók közelében erősítettek meg, hogy lakóik ellenőrizhessék a környéket és megvédhessék felhalmozott készleteiket.</p>
+<p>85. A hosszú ideig lakott telltelepüléseken egymásra épült házrétegek őrzik a mindennapi élet, a pusztulások és az újjáépítések nyomait.</p>
+<p>86. A bronzöntés különleges szaktudást követelt, ezért a tapasztalt fémművesek valószínűleg nagy megbecsülést élveztek saját közösségükben.</p>
+<p>87. A kőből vagy agyagból készített öntőformák lehetővé tették hasonló tárgyak sorozatos előállítását, a sérült bronzeszközöket pedig újraolvaszthatták.</p>
+<p>88. Bronzból baltákat, sarlókat, kardokat, lándzsahegyeket, tűket és ékszereket készítettek, amelyek gyakorlati és jelképes szerepet egyaránt betölthettek.</p>
+<p>89. A gazdagon díszített fegyverek nem feltétlenül kerültek valódi harcba, mert tulajdonosuk rangját vagy valamely szertartás jelentőségét is kifejezhették.</p>
+<p>90. A Kárpát-medence bronzkori közösségei a Balti-tenger, az Alpok, a Balkán és az Égei-tenger térségével egyaránt kapcsolatban álltak.</p>
+<p>91. A távoli vidékekről érkező borostyán, tengeri kagyló és fém arra utal, hogy az áruk több közvetítőn keresztül hatalmas távolságokat tettek meg.</p>
+<p>92. A földbe rejtett bronzkincsek lehettek vésztartalékok, kereskedők készletei vagy isteneknek szánt áldozatok, ezért értelmezésük nem mindig egyértelmű.</p>
+<p>93. Az arany ékszerek és dísztárgyak különösen magas társadalmi rangot jelezhettek, mivel ritkaságuk messziről láthatóvá tette tulajdonosuk gazdagságát.</p>
+<p>94. A gazdag sírok, erődített települések és kincsegyüttesek arra utalnak, hogy a bronzkorban egyre összetettebb hatalmi viszonyok alakultak ki.</p>
+<p>95. A társadalom alapját továbbra is a földművelő és állattartó közösségek képezték, amelyek munkája eltartotta a kézműveseket, harcosokat és vezetőket.</p>
+<p>96. A késő bronzkorban egyre gyakoribbá vált a halottak elhamvasztása és hamvaik urnákba helyezése, ami új temetkezési szokásokat tükrözött.</p>
+<p>97. Ugyanebben az időszakban számos magaslati erődített település jött létre, amelyek menedékként, gazdasági központként vagy hatalmi székhelyként működhettek.</p>
+<p>98. Az i. e. 1. évezred fordulóján több korábbi rendszer átalakult, de ezt nem egyetlen hirtelen összeomlás, hanem különböző regionális folyamatok okozták.</p>
+<p>99. A vas feldolgozásának ismerete lassan terjedt el, és kezdetben a vasból készült tárgyak ritkábbak lehettek, mint a jól bevált bronzeszközök.</p>
+<p>100. A Kárpát-medence vaskora nagyjából az i. e. 8. század második felében kezdődött, amikor új technológiák és kulturális hatások jelentek meg.</p>
+<p>101. A vasérc gyakrabban fordult elő, mint a bronzhoz szükséges ón, feldolgozása azonban magasabb hőmérsékletet és összetettebb kovácsolási eljárást igényelt.</p>
+<p>102. A Dunántúl nyugati része a Hallstatt-kultúra közép-európai világához kapcsolódott, amit a temetkezések és a gazdag fémleletek is bizonyítanak.</p>
+<p>103. A medence keleti területein ugyanakkor a sztyeppei népek hatása erősödött, ami új fegyverekben, lószerszámokban és művészeti motívumokban mutatkozott meg.</p>
+<p>104. A lovaglás katonai és gazdasági jelentősége megnőtt, mert gyorsabb közlekedést, nagyobb mozgásteret és hatékonyabb állattartást tett lehetővé.</p>
+<p>105. A tápiószentmártoni aranyszarvas az úgynevezett szkíta állatstílus kiemelkedő emléke, amely távoli sztyeppei művészeti kapcsolatokra utal.</p>
+<p>106. Az Alföldön kialakult Vekerzug-kultúra helyi és keleti elemeket egyesített, ezért nem tekinthető egyszerűen egyetlen bevándorló nép változatlan hagyatékának.</p>
+<p>107. A görög szerzők gyakran szkítáknak neveztek különböző keleti lovasnépeket, de a régészeti leletek ennél jóval összetettebb képet mutatnak.</p>
+<p>108. A magaslati erődök és nagyobb települések gazdasági központokká válhattak, ahol kézművesek dolgoztak, készleteket őriztek és távolsági kereskedelmet szerveztek.</p>
+<p>109. A Kárpát-medence lakói görög, illír, trák és itáliai közösségekkel is kapcsolatba kerültek, így a térség nem volt elszigetelt peremvidék.</p>
+<p>110. A vaskor második felében nyugat felől kelta csoportok érkeztek, amelyek új művészeti formákat, technikákat és társadalmi kapcsolatokat hoztak magukkal.</p>
+<p>111. A kelták több hullámban, főként az i. e. 5. és 3. század között telepedtek meg a Kárpát-medence különböző területein.</p>
+<p>112. Régészeti kultúrájukat La Tène-kultúrának nevezzük, amelyet ívelt díszítőmotívumok, fejlett fémművesség és jellegzetes fegyverek jellemeztek.</p>
+<p>113. A kelta világ nem alkotott egységes államot vagy nemzetet, hanem egymással rokon nyelvű és kultúrájú törzsekből, illetve helyi közösségekből állt.</p>
+<p>114. Az érkező csoportok nem üres területet foglaltak el, hanem kapcsolatba kerültek a helyi lakossággal, amely részben tovább őrizte korábbi hagyományait.</p>
+<p>115. A kelta kézművesek kiváló vasfegyvereket, mezőgazdasági eszközöket, ékszereket és korongolt kerámiát készítettek, termékeik pedig messzi földre eljutottak.</p>
+<p>116. A görög és makedón mintákat követő kelta pénzverés azt mutatja, hogy a helyi vezetők bekapcsolódtak a távolsági kereskedelembe és a pénzgazdálkodásba.</p>
+<p>117. Az i. e. 2. és 1. században nagyobb, erődített központok jöttek létre, amelyek piacot, műhelyeket és politikai találkozóhelyeket egyesítettek.</p>
+<p>118. A boiusok, eraviszkuszok és szkordiszkuszok nevét már ókori szerzők jegyezték fel, bár leírásaik gyakran külső megfigyelők nézőpontját tükrözik.</p>
+<p>119. A római terjeszkedés az i. e. 1. században fokozatosan az írott történelem világába vonta a térséget, de az őskor öröksége nem tűnt el.</p>
+<p>120. A Kárpát-medence őstörténete nem egyetlen nép egyenes útja a későbbi Magyarország felé, hanem egymást követő közösségek, találkozások és átalakulások története.</p>
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<p>1. Die Epoche vor dem Auftreten schriftlicher Quellen nennen wir Urgeschichte, weil aus dieser Zeit noch keine lesbaren Berichte erhalten sind.</p>
+<p>2. Die Urgeschichte ist jedoch keineswegs stumm, denn Gegenstände, Knochen und Siedlungsspuren im Boden erzählen auf ihre eigene Weise von den Menschen.</p>
+<p>3. Archäologen suchen keine Herrschernamen oder genauen Schlachtdaten, sondern untersuchen, wie frühere Gemeinschaften lebten, arbeiteten und sich anpassten.</p>
+<p>4. Ein zerbrochenes Gefäß, ein weggeworfenes Steinwerkzeug oder ein Grab verrät manchmal mehr über den Alltag als eine spätere Chronik.</p>
+<p>5. Die Deutung der Funde ist dennoch nicht einfach, weil derselbe Gegenstand verschiedenen Zwecken gedient haben und seine Bedeutung verändert haben kann.</p>
+<p>6. Die geografische Lage des Karpatenbeckens begünstigte die menschliche Besiedlung besonders, weil hier Gebirge, Flüsse, Ebenen und fruchtbare Täler zusammentrafen.</p>
+<p>7. Die Donau und ihre Nebenflüsse boten natürliche Wege, auf denen Menschen, Rohstoffe, technische Kenntnisse und kulturelle Einflüsse zirkulieren konnten.</p>
+<p>8. Das Becken war zugleich Zufluchtsort, Begegnungsraum und Durchgangsgebiet, weshalb seine Geschichte von Einwanderungen, Kontakten und lokalen Veränderungen geprägt wurde.</p>
+<p>9. Die großen Abschnitte der Urgeschichte heißen nach den verwendeten Werkstoffen Steinzeit, Kupferzeit, Bronzezeit und Eisenzeit, obwohl ihre Grenzen regional unterschiedlich sind.</p>
+<p>10. Diese Entwicklung verlief nicht geradlinig, denn neben neuen Techniken konnten ältere Methoden, Gegenstände und Lebensformen noch lange fortbestehen.</p>
+<p>11. Die ältesten bedeutenden menschlichen Spuren auf dem Gebiet des heutigen Ungarns stammen aus Vértesszőlős, wo außergewöhnlich günstige Bedingungen die Funde bewahrten.</p>
+<p>12. Die Fundstätte von Vértesszőlős ist etwa vierhunderttausend Jahre alt und daher ein wichtiges Zeugnis der Urgeschichte Ungarns und ganz Mitteleuropas.</p>
+<p>13. Hier wurden das Hinterhauptbein des Samu genannten Menschen sowie Kinderzähne, Steinwerkzeuge, Tierknochen und Spuren ehemaliger Feuerstellen gefunden.</p>
+<p>14. Samus genaue Einordnung in die menschliche Stammesgeschichte ist bis heute umstritten, was zeigt, dass die menschliche Entwicklung keine einfache Folge klar getrennter Arten war.</p>
+<p>15. Die Bewohner von Vértesszőlős fertigten kleine, sorgfältig bearbeitete Steinwerkzeuge, mit denen sie Fleisch schneiden, Knochen zerschlagen oder Holz bearbeiten konnten.</p>
+<p>16. Die Feuerstellenspuren weisen darauf hin, dass sie das Feuer kannten und kontrolliert nutzten, das ihnen Wärme, Licht und Schutz bot.</p>
+<p>17. Diese Menschen lebten wahrscheinlich in kleinen Gruppen, weil die Ressourcen ihrer Umgebung keine größeren Gemeinschaften dauerhaft ernähren konnten.</p>
+<p>18. Ihre Nahrung gewannen sie durch Jagd, die Nutzung verendeter Tiere und das Sammeln pflanzlicher Lebensmittel, während sie ihren Aufenthaltsort regelmäßig wechselten.</p>
+<p>19. Während der Eiszeit wechselten kalte und mildere Phasen einander ab, weshalb sich Tierwelt und menschliche Lebensbedingungen mehrfach grundlegend veränderten.</p>
+<p>20. Anstelle der heutigen Tiefebenen erstreckten sich zeitweise Grassteppen, auf denen Mammuts, Wildpferde, Bisons und andere große Tiere lebten.</p>
+<p>21. Die Umgebung von Flüssen und warmen Quellen war besonders attraktiv, weil sie Wasser, Wildtiere, Pflanzen und geeignetes Steinmaterial zugleich bot.</p>
+<p>22. Spuren früher menschlicher Anwesenheit sind selten, weshalb jede neue Fundstätte unser Bild dieser fernen Epoche erheblich verändern kann.</p>
+<p>23. Während der mittleren Altsteinzeit lebten auch Neandertaler im Karpatenbecken, die hervorragend an die wechselnden klimatischen Bedingungen angepasst waren.</p>
+<p>24. Die menschlichen Überreste und Werkzeuge aus der Subalyuk-Höhle belegen, dass die Höhlen des Bükk-Gebirges ihnen wichtige Aufenthaltsorte boten.</p>
+<p>25. Die besonderen blattförmigen Steinwerkzeuge der Szeleta-Höhle stehen für eine technische Tradition, welche die Archäologie als Szeleta-Kultur bezeichnet.</p>
+<p>26. Ob diese Werkzeuge von späten Neandertalern oder frühen modernen Menschen hergestellt wurden, darüber besteht unter Forschern bis heute keine vollständige Einigkeit.</p>
+<p>27. Der moderne Mensch, Homo sapiens, erschien vor mehr als vierzigtausend Jahren in der Region und führte schrittweise neue Techniken ein.</p>
+<p>28. Aus längeren Klingen fertigten die Menschen feinere Geräte, Spitzen und Knochenwerkzeuge, wodurch Jagd und Verarbeitung effizienter wurden.</p>
+<p>29. Die Jäger folgten häufig Wildpferden, Rentieren und anderen Herdentieren, die je nach Jahreszeit große Entfernungen zurücklegten.</p>
+<p>30. Höhlen dienten nicht unbedingt als dauerhafte Wohnorte, sondern konnten auch zeitweilige Zufluchtsorte, Werkstätten oder Jagdstationen sein.</p>
+<p>31. Aus dem Karpatenbecken sind vergleichsweise wenige altsteinzeitliche Kunstwerke bekannt, doch das beweist nicht, dass die Menschen keine Symbole besaßen.</p>
+<p>32. Gegenstände aus Holz, Leder, Federn oder Pflanzenfasern sind gewöhnlich vergangen, weshalb wir nur einen Bruchteil der damaligen materiellen Kultur kennen.</p>
+<p>33. Gemeinsame Mahlzeiten und Arbeiten am Feuer konnten die Weitergabe von Wissen, den Zusammenhalt der Gruppe und das Erzählen von Geschichten fördern.</p>
+<p>34. Obwohl Knochen und Steinwerkzeuge vor allem von der Jagd zeugen, spielte pflanzliche Nahrung wahrscheinlich ebenfalls eine wichtige Rolle.</p>
+<p>35. Altsteinzeitliche Gruppen suchten je nach Jahreszeit unterschiedliche Gebiete auf, um Tierwanderungen und die Reife verschiedener Pflanzen zu nutzen.</p>
+<p>36. Aus der Lage ihrer Lagerplätze versuchen Forscher, Wege, Jagdgebiete und Kontakte zwischen den einzelnen Gruppen zu rekonstruieren.</p>
+<p>37. Am Ende der jüngeren Altsteinzeit verfügten die Menschen bereits über weiträumige Austauschnetze, denn manche Gesteinsrohstoffe gelangten über Hunderte Kilometer.</p>
+<p>38. Vor ungefähr elftausendsiebenhundert Jahren endete die letzte Eiszeit, und die rasche Erwärmung veränderte die Umwelt des Karpatenbeckens grundlegend.</p>
+<p>39. Große Teile der zuvor offenen Landschaft wurden von Wäldern bedeckt, während viele kälteliebende Tiere nach Norden wanderten oder verschwanden.</p>
+<p>40. Die Menschen der Mittelsteinzeit jagten kleinere Tiere, fischten, stellten Fallen und sammelten zahlreiche Pflanzen des Waldes.</p>
+<p>41. Aus dieser Epoche sind wenige gut erforschbare Fundstätten erhalten, weil Flussablagerungen und spätere Landwirtschaft viele Spuren überdeckten.</p>
+<p>42. Die Mittelsteinzeit war dennoch kein unbedeutender Übergang, sondern eine Epoche der Anpassung an eine neue Umwelt und veränderte Ressourcen.</p>
+<p>43. Der Beginn der Jungsteinzeit im Karpatenbecken lässt sich ungefähr an den Anfang des sechsten Jahrtausends vor Christus setzen, als erste bäuerliche Gemeinschaften erschienen.</p>
+<p>44. Die Kenntnis von Ackerbau und Viehzucht gelangte aus Südosten über den Balkan und folgte Flusstälern sowie günstigen Anbauflächen.</p>
+<p>45. Es verbreiteten sich nicht nur neue Ideen, sondern es wanderten auch Menschen ein, die mit lokalen Jäger- und Sammlergruppen in Kontakt kamen.</p>
+<p>46. Gemeinschaften der Körös- und Starčevo-Kultur gründeten in den südlichen und östlichen Teilen des Beckens die frühesten jungsteinzeitlichen Siedlungen.</p>
+<p>47. Sie bauten Weizen, Gerste und Hülsenfrüchte an und hielten zugleich Schafe, Ziegen, Schweine und Rinder.</p>
+<p>48. Die Siedlungen lagen häufig an Flüssen und kleineren Gewässern, wo fruchtbarer Boden, Trinkwasser und Weideland gleichermaßen verfügbar waren.</p>
+<p>49. In länger bewohnten Dörfern standen Häuser aus Holz, Flechtwerk und Lehm, die regelmäßig instand gehalten werden mussten.</p>
+<p>50. Die Lagerung von Getreide verringerte die Abhängigkeit vom unmittelbaren Jagderfolg, schuf jedoch zugleich neue Risiken.</p>
+<p>51. In Tongefäßen konnten Lebensmittel gekocht und aufbewahrt werden, während ihre Verzierungen häufig die Traditionen der jeweiligen Gemeinschaft widerspiegelten.</p>
+<p>52. Geschliffene Steinbeile erleichterten das Fällen von Bäumen und den Hausbau, obwohl ihre Herstellung viel Zeit und besonderes Fachwissen erforderte.</p>
+<p>53. Spinnwirtel und Webgewichte belegen, dass aus Pflanzenfasern und Wolle unterschiedliche Textilien hergestellt wurden.</p>
+<p>54. Während der Jungsteinzeit verbanden die Kulturen der Linienbandkeramik große Gebiete miteinander und brachten zugleich zahlreiche regionale Varianten hervor.</p>
+<p>55. Obsidian aus der Umgebung von Tokaj gelangte in weit entfernte Regionen, was ausgedehnte Austauschnetze und regelmäßige Begegnungen belegt.</p>
+<p>56. Das Wachstum dauerhafterer Siedlungen ermöglichte eine dichtere Bevölkerung, wodurch Menschen immer häufiger miteinander in Kontakt kamen.</p>
+<p>57. Das sesshafte Leben konnte jedoch Krankheiten, Nahrungsmangel und soziale Spannungen verursachen, besonders bei schlechten Ernten oder Epidemien.</p>
+<p>58. Rodung, Ackerbau und Viehweide veränderten allmählich die Landschaft, die fortan deutliche Spuren menschlicher Tätigkeit trug.</p>
+<p>59. Gemeinsames Bauen, Ernten und Hüten erforderte enge Zusammenarbeit, machte jedoch zugleich genauere Regeln innerhalb der Gemeinschaften notwendig.</p>
+<p>60. Lage und Ausstattung der Gräber deuten darauf hin, dass die Gemeinschaften unterschiedlich an ihre Toten erinnerten und soziale Beziehungen ausdrückten.</p>
+<p>61. Menschen- und tierförmige Tonfiguren standen wahrscheinlich mit Ritualen oder Glaubensvorstellungen in Verbindung, doch ihre genaue Bedeutung lässt sich nicht mehr sicher entschlüsseln.</p>
+<p>62. Manche Siedlungen wurden am selben Ort wiederholt neu errichtet, sodass allmählich künstliche Siedlungshügel, sogenannte Tells, entstanden.</p>
+<p>63. Die Namen archäologischer Kulturen bezeichnen vor allem ähnliche Fundgruppen und dürfen daher nicht automatisch mit bestimmten Völkern gleichgesetzt werden.</p>
+<p>64. In der späten Jungsteinzeit zeugen die Siedlungen der Theiß- und Lengyel-Kultur von entwickeltem Handwerk, Fernkontakten und komplexen Ritualen.</p>
+<p>65. Von kreisförmigen Gräben umgebene Anlagen waren vermutlich gemeinschaftliche oder rituelle Orte, obwohl die Einzelheiten ihrer Nutzung weiterhin umstritten sind.</p>
+<p>66. Der Austausch besonderer Gefäße, Schmuckstücke und Rohstoffe schuf Verbindungen, die weit über die Grenzen eines Dorfes oder einer Landschaft hinausreichten.</p>
+<p>67. Die Jungsteinzeit war somit nicht einfach eine Epoche des Fortschritts, sondern ein tiefgreifender wirtschaftlicher und gesellschaftlicher Wandel mit Vorteilen und Belastungen.</p>
+<p>68. Im Verlauf des fünften Jahrtausends vor Christus begann die Kupferzeit, in der die Nutzung von Metall schrittweise neue Möglichkeiten eröffnete.</p>
+<p>69. Natürlich vorkommendes Kupfer war schon zuvor bekannt, doch anfangs wurden daraus vor allem kleine Schmuckstücke und besondere Prestigeobjekte gefertigt.</p>
+<p>70. Das Auftreten des Kupfers verdrängte den Stein nicht, weil gut gefertigte Steinwerkzeuge lange günstiger und praktischer blieben.</p>
+<p>71. Der Besitz von Metallgegenständen konnte dennoch sozialen Rang ausdrücken, weil ihre Herstellung seltene Rohstoffe, Fachwissen und Fernkontakte erforderte.</p>
+<p>72. Reichere Beigaben in manchen Gräbern deuten darauf hin, dass Vermögens- und Rangunterschiede während der Kupferzeit sichtbarer wurden.</p>
+<p>73. Die Friedhöfe der Tiszapolgár- und Bodrogkeresztúr-Kultur sind besonders wichtig, weil die Gräber Rückschlüsse auf die innere Struktur der Gemeinschaften erlauben.</p>
+<p>74. Die spätkupferzeitliche Badener Kultur verbreitete sich über ein riesiges Gebiet, bildete jedoch keineswegs überall eine völlig einheitliche Lebensweise oder Gemeinschaft.</p>
+<p>75. Aus dieser Zeit stammen frühe Tonmodelle von Wagen, die auf eine bedeutende Veränderung von Verkehr und Lastentransport hinweisen.</p>
+<p>76. Die wachsende Bedeutung der Viehzucht ermöglichte auch mobilere Lebensweisen, besonders dort, wo große Weideflächen verfügbar waren.</p>
+<p>77. Manche Siedlungen zeigen Spuren gewaltsamer Zerstörung, doch daraus folgt nicht, dass die gesamte Epoche von dauernden Kriegen geprägt war.</p>
+<p>78. Klimaveränderungen, ausgelaugte Böden und soziale Konflikte konnten gleichermaßen dazu beitragen, dass Gemeinschaften ihre bisherigen Wohnorte verließen.</p>
+<p>79. Der Wechsel archäologischer Kulturen lässt sich daher nicht immer durch die Einwanderung eines neuen Volkes erklären, denn lokale Gesellschaften konnten sich selbst verändern.</p>
+<p>80. Am Ende der Kupferzeit verfügte das Karpatenbecken über ein dichtes Beziehungsnetz, das die Entstehung der Bronzeverarbeitung und neuer Machtzentren vorbereitete.</p>
+<p>81. Bronze ist eine Legierung aus Kupfer und Zinn, die härter und vielseitiger als reines Kupfer und daher hervorragend für Werkzeuge geeignet war.</p>
+<p>82. Da die benötigten Metallerze selten am selben Ort vorkamen, erforderte die Bronzeverarbeitung Handelsnetze zwischen weit entfernten Bergbauregionen.</p>
+<p>83. Die Bronzezeit begann im Karpatenbecken im dritten Jahrtausend vor Christus, doch die neue Technologie verbreitete sich nur schrittweise.</p>
+<p>84. Viele Siedlungen wurden auf Hügeln oder an Flüssen befestigt, damit ihre Bewohner das Umland kontrollieren und Vorräte schützen konnten.</p>
+<p>85. In lange bewohnten Tellsiedlungen bewahren übereinanderliegende Hausschichten Spuren des Alltags, von Zerstörungen und Wiederaufbauten.</p>
+<p>86. Der Bronzeguss erforderte besonderes Fachwissen, weshalb erfahrene Metallhandwerker in ihren Gemeinschaften vermutlich hohes Ansehen genossen.</p>
+<p>87. Gussformen aus Stein oder Ton ermöglichten die serienmäßige Herstellung ähnlicher Gegenstände, während beschädigte Bronzeobjekte wieder eingeschmolzen werden konnten.</p>
+<p>88. Aus Bronze wurden Beile, Sicheln, Schwerter, Lanzenspitzen, Nadeln und Schmuck gefertigt, die praktische wie symbolische Funktionen erfüllen konnten.</p>
+<p>89. Reich verzierte Waffen wurden nicht unbedingt im Kampf eingesetzt, sondern konnten den Rang ihres Besitzers oder die Bedeutung eines Rituals ausdrücken.</p>
+<p>90. Die bronzezeitlichen Gemeinschaften des Karpatenbeckens unterhielten Kontakte zur Ostsee, zu den Alpen, zum Balkan und zum Ägäisraum.</p>
+<p>91. Bernstein, Meeresmuscheln und Metall aus fernen Regionen zeigen, dass Waren über mehrere Zwischenhändler gewaltige Entfernungen zurücklegten.</p>
+<p>92. Im Boden verborgene Bronzedepots konnten Notvorräte, Händlerbestände oder Gaben für Götter sein, weshalb ihre Deutung nicht immer eindeutig ist.</p>
+<p>93. Goldene Schmuck- und Ziergegenstände konnten besonders hohen Rang anzeigen, weil ihre Seltenheit den Reichtum des Besitzers weithin sichtbar machte.</p>
+<p>94. Reiche Gräber, befestigte Siedlungen und Depotfunde deuten darauf hin, dass sich in der Bronzezeit immer komplexere Machtverhältnisse entwickelten.</p>
+<p>95. Die Grundlage der Gesellschaft bildeten weiterhin Bauern und Viehzüchter, deren Arbeit Handwerker, Krieger und Anführer ernährte.</p>
+<p>96. In der späten Bronzezeit wurden die Einäscherung der Toten und die Beisetzung der Asche in Urnen immer häufiger, was neue Bestattungsbräuche widerspiegelte.</p>
+<p>97. Im selben Zeitraum entstanden zahlreiche befestigte Höhensiedlungen, die als Zufluchtsort, Wirtschaftszentrum oder Herrschaftssitz dienen konnten.</p>
+<p>98. Um die Wende zum ersten Jahrtausend vor Christus wandelten sich viele frühere Systeme, jedoch nicht durch einen einzigen Zusammenbruch, sondern durch unterschiedliche regionale Prozesse.</p>
+<p>99. Die Kenntnis der Eisenverarbeitung verbreitete sich langsam, und anfangs waren Eisengegenstände vermutlich seltener als die bewährten Bronzeobjekte.</p>
+<p>100. Die Eisenzeit des Karpatenbeckens begann ungefähr in der zweiten Hälfte des achten Jahrhunderts vor Christus, als neue Techniken und kulturelle Einflüsse auftraten.</p>
+<p>101. Eisenerz kam häufiger vor als das für Bronze benötigte Zinn, seine Verarbeitung erforderte jedoch höhere Temperaturen und kompliziertere Schmiedetechniken.</p>
+<p>102. Der westliche Teil Transdanubiens gehörte zur mitteleuropäischen Welt der Hallstattkultur, wie Bestattungen und reiche Metallfunde belegen.</p>
+<p>103. In den östlichen Gebieten des Beckens verstärkte sich zugleich der Einfluss der Steppenvölker, sichtbar an neuen Waffen, Pferdegeschirren und Kunstmotiven.</p>
+<p>104. Die militärische und wirtschaftliche Bedeutung des Reitens nahm zu, weil es schnelleren Verkehr, größere Beweglichkeit und effizientere Viehhaltung ermöglichte.</p>
+<p>105. Der Goldhirsch von Tápiószentmárton ist ein herausragendes Zeugnis des sogenannten skythischen Tierstils und verweist auf weitreichende Steppenkontakte.</p>
+<p>106. Die in der Tiefebene entstandene Vekerzug-Kultur verband lokale und östliche Elemente und ist daher nicht einfach das unveränderte Erbe eines eingewanderten Volkes.</p>
+<p>107. Griechische Autoren bezeichneten verschiedene östliche Reitervölker häufig als Skythen, doch die archäologischen Funde zeigen ein wesentlich komplexeres Bild.</p>
+<p>108. Höhenburgen und größere Siedlungen konnten zu Wirtschaftszentren werden, in denen Handwerker arbeiteten, Vorräte lagerten und Fernhandel organisierten.</p>
+<p>109. Die Bewohner des Karpatenbeckens standen auch mit Griechen, Illyrern, Thrakern und italischen Gemeinschaften in Verbindung, sodass die Region kein isoliertes Randgebiet war.</p>
+<p>110. In der zweiten Hälfte der Eisenzeit kamen aus dem Westen keltische Gruppen, die neue Kunstformen, Techniken und gesellschaftliche Beziehungen mitbrachten.</p>
+<p>111. Die Kelten siedelten sich in mehreren Wellen, hauptsächlich zwischen dem fünften und dritten Jahrhundert vor Christus, in verschiedenen Teilen des Karpatenbeckens an.</p>
+<p>112. Ihre archäologische Kultur wird La-Tène-Kultur genannt und war durch geschwungene Ornamente, entwickelte Metallverarbeitung und charakteristische Waffen geprägt.</p>
+<p>113. Die keltische Welt bildete keinen einheitlichen Staat oder keine Nation, sondern bestand aus sprachlich und kulturell verwandten Stämmen und lokalen Gemeinschaften.</p>
+<p>114. Die ankommenden Gruppen besiedelten kein leeres Land, sondern trafen auf eine einheimische Bevölkerung, die ältere Traditionen teilweise bewahrte.</p>
+<p>115. Keltische Handwerker fertigten hervorragende Eisenwaffen, landwirtschaftliche Geräte, Schmuck und Drehscheibenkeramik, deren Erzeugnisse weit verbreitet wurden.</p>
+<p>116. Die an griechischen und makedonischen Vorbildern orientierte keltische Münzprägung zeigt, dass lokale Anführer an Fernhandel und Geldwirtschaft beteiligt waren.</p>
+<p>117. Im zweiten und ersten Jahrhundert vor Christus entstanden größere befestigte Zentren, die Markt, Werkstätten und politische Versammlungsorte miteinander verbanden.</p>
+<p>118. Die Namen der Boier, Eravisker und Skordisker wurden bereits von antiken Autoren überliefert, deren Berichte jedoch häufig die Sicht Außenstehender widerspiegeln.</p>
+<p>119. Die römische Expansion führte die Region im ersten Jahrhundert vor Christus allmählich in die Welt der schriftlich überlieferten Geschichte, doch das urgeschichtliche Erbe verschwand nicht.</p>
+<p>120. Die Urgeschichte des Karpatenbeckens ist kein geradliniger Weg eines einzigen Volkes zum späteren Ungarn, sondern eine Geschichte aufeinanderfolgender Gemeinschaften, Begegnungen und Veränderungen.</p>
+  </div>
+</details>
+<!-- /wp:html -->
+
 <!-- wp:html -->
 <div class="pc-footer-nav">
   <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>

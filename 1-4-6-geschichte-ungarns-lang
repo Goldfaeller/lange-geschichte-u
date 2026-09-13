@@ -205,6 +205,399 @@
 </p>
 <!-- /wp:paragraph -->
 
+
+<!-- wp:html -->
+<style>
+.pc-collapsible{text-align:left;margin:0 0 20px;border:1px solid #a2a9b1;border-radius:4px;overflow:hidden}
+.pc-collapsible summary{position:relative;cursor:pointer;list-style:none;padding:10px 14px;background-color:#eaecf0;font-weight:700;text-align:center}
+.pc-collapsible summary::-webkit-details-marker{display:none}
+.pc-collapsible summary::marker{content:""}
+.pc-collapsible summary::before{content:"\25BA";position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#333;font-weight:400;line-height:1}
+.pc-collapsible[open] summary::before{content:"\25BC"}
+.pc-collapsible .pc-collapsible-hint{position:absolute;left:34px;top:50%;transform:translateY(-50%);font-size:.8rem;font-weight:400;line-height:1;color:#333}
+.pc-collapsible .pc-collapsible-title{color:#F0F}
+.pc-collapsible-body{padding:14px 16px;background-color:#fff;border-top:1px solid #a2a9b1}
+.pc-collapsible-body p{margin:0 0 10px}
+.pc-collapsible-body p:last-child{margin-bottom:0}
+</style>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">magyar</span></summary>
+  <div class="pc-collapsible-body">
+<p>1. A római ókorból a kora középkorba való átmenet Pannóniában az egész történelem egyik legnagyobb fordulatát jelentette.</p>
+<p>2. Pannónia az a régió volt, amely a mai Nyugat-Magyarországot és a szomszédos területeket foglalta magába.</p>
+<p>3. Évszázadokon át rendezett tartományként a Római Birodalom égisze alatt állt.</p>
+<p>4. E fejlődés végén azonban egy olyan világ állt, amelynek már alig volt közös vonása a régivel.</p>
+<p>5. A kutatók ezt a mélyreható változást ma egyszerűen átalakulásnak nevezik.</p>
+<p>6. A kifejezés egyszerre két dolgot hangsúlyoz: a radikális változást és az egyes elemek kitartó fennmaradását.</p>
+<p>7. Ezzel tudatos ellentétet képez azokkal a kifejezésekkel, amelyek csak a bukást helyezik előtérbe.</p>
+<p>8. A korábbi történészgenerációk inkább Róma „bukásáról” vagy akár „összeomlásáról” beszéltek.</p>
+<p>9. Az ókor végét egyfajta hirtelen katasztrófaként értelmezték, szinte egyetlen hirtelen csapásként.</p>
+<p>10. Ma a kutatás jóval differenciáltabban tekint erre a korszakra.</p>
+<p>11. Kiemeli, hogy a változás nem néhány év alatt, hanem számos generáción át húzódott.</p>
+<p>12. Néhány dolog teljesen eltűnt, mások csendesen átalakultak, míg megint mások meglepően állandóak maradtak.</p>
+<p>13. Pontosan ez a mintázat figyelhető meg Pannóniában is.</p>
+<p>14. Az átalakulás megértéséhez érdemes először a kiindulási pontra tekinteni.</p>
+<p>15. A 4. században Pannónia még egy rendezett, tankönyvbe illő római tartomány volt.</p>
+<p>16. Voltak városok, sűrű úthálózat és kiépített közigazgatás.</p>
+<p>17. Egy erődített határvonal, a Limes védte a Duna mentén fekvő területet.</p>
+<p>18. A gazdaság a pénzforgalmon, a távkereskedelmen és a rendezett mezőgazdaságon alapult.</p>
+<p>19. A kereszténység időközben a vallási élet szilárd részévé vált.</p>
+<p>20. Ez a finoman szőtt szerkezet az 5. század folyamán teljesen szétesett.</p>
+<p>21. Az átalakulás végén egy alapvetően más világ állt.</p>
+<p>22. Ez az új világ egyszerűbb, vidékiesebb és lényegesen háborúsabb volt, mint korábban.</p>
+<p>23. A változás gyakorlatilag minden életterületet érintett, kivétel nélkül.</p>
+<p>24. Talán a városokban látszik ez a legszembetűnőbben.</p>
+<p>25. A római világ mindenekelőtt a városok világa volt.</p>
+<p>26. A városok egyszerre voltak a közigazgatás, a kereskedelem és a kultúra központjai.</p>
+<p>27. Az 5. században a pannóniai városok elvesztették ezt a központi jelentőségüket.</p>
+<p>28. Lakosságuk drámaian csökkent.</p>
+<p>29. A középületek romba dőltek, vagy teljesen más célokra hasznosították őket.</p>
+<p>30. Néhány lakos egyszerű kunyhókat épített magának a régi romok közepén.</p>
+<p>31. A római pompás épületek köveit habozás nélkül újrahasznosították szerényebb építményekhez.</p>
+<p>32. Az ókori városi élet ezzel szinte teljesen megszűnt.</p>
+<p>33. A városok helyét most vidéki települések vették át.</p>
+<p>34. Az emberek ezentúl túlnyomórészt kis falvakban éltek.</p>
+<p>35. Ezzel az élet teljes súlypontja a vidékre helyeződött át.</p>
+<p>36. A gazdaság is alapjaiban változott meg.</p>
+<p>37. A római gazdaság egykor a pénzre és a távkereskedelemre épült.</p>
+<p>38. Mindkettő jelentőségét gyorsan elvesztette az átalakulás során.</p>
+<p>39. Az érméket egyre ritkábban használták, végül szinte egyáltalán nem.</p>
+<p>40. A pénz helyébe gyakran az áruk közvetlen cseréje lépett.</p>
+<p>41. Ezt a gazdasági formát természetgazdaságnak nevezik.</p>
+<p>42. A római korszak egykor virágzó távkereskedelme nagyrészt összeomlott.</p>
+<p>43. A gazdaság kis, tisztán helyi körforgásokra zsugorodott.</p>
+<p>44. Minden településnek mostantól nagyrészt önellátónak kellett lennie.</p>
+<p>45. Ettől kezdve a szántóföldi gazdálkodás és az állattenyésztés képezte a túlélés egyszerű alapját.</p>
+<p>46. A kézművességet többnyire már csak a közvetlen, helyi szükségletek kielégítésére űzték.</p>
+<p>47. A rómaiak egykor oly büszke úthálózata is szemmel láthatóan romba dőlt.</p>
+<p>48. Állami karbantartás nélkül az utak gyorsan elvesztették minőségüket.</p>
+<p>49. Ezzel a régiók közötti közlekedés jelentősen megnehezült.</p>
+<p>50. Az infrastruktúra hanyatlása tovább erősítette a gazdasági egyszerűsödést.</p>
+<p>51. A változás egy másik központi területe maga a hatalmi rend volt.</p>
+<p>52. A római közigazgatás egykor erősen tagolt volt, és minden tekintetben írásbeli alapon működött.</p>
+<p>53. A tisztviselők, az adók és a törvények a legapróbb részletekig szabályozták az életet.</p>
+<p>54. Ez a közigazgatás a római uralom végével teljesen eltűnt.</p>
+<p>55. Helyüket lényegesen egyszerűbb uralmi formák vették át.</p>
+<p>56. Az új urak immár a germán királyok és fegyveres kíséretük voltak.</p>
+<p>57. Uralmuk személyes kötődésen és hűségen alapult, nem pedig jogszabályokon.</p>
+<p>58. Ezek az új uralkodók alig ismertek írásbeli közigazgatást.</p>
+<p>59. A jog immár inkább a szóbeli hagyományokon és a régi szokásokon alapult.</p>
+<p>60. Ezzel az uralom és a rend teljes alapja megváltozott.</p>
+<p>61. Pannónia lakossága is alapjaiban változott meg.</p>
+<p>62. A régi római lakosság száma már jelentősen lecsökkent.</p>
+<p>63. Sok római menekült el, vagy a zűrzavaros időkben életét vesztette.</p>
+<p>64. Rómaiaknak nevezik a megmaradt római származású lakosokat.</p>
+<p>65. Hozzájuk csatlakozott ekkor számos új nép a medencében.</p>
+<p>66. Egymás után telepedtek le a hunok, a gepidák, az ostgótok és a langobardok ezen a területen.</p>
+<p>67. Végül az avarok vették át az uralmat az egész medence felett.</p>
+<p>68. Pannónia lakossága így sokféle csoportból álló színes keverékké vált.</p>
+<p>69. A generációk során ezek a csoportok fokozatosan keveredtek egymással.</p>
+<p>70. A római származású lakosság eközben fokozatosan beolvadt az újonnan érkezők közé.</p>
+<p>71. Ezáltal Pannóniában nem alakult ki folyamatos római hagyomány.</p>
+<p>72. Ebben Pannónia jelentősen különbözött Galliától vagy Spanyolországtól.</p>
+<p>73. Ott a római származású lakosság még mindig nagy számban élt tovább.</p>
+<p>74. Pannóniában viszont a római folytonosság nagyrészt megszakadt.</p>
+<p>75. Ennek következtében a régió nyelve is megváltozott.</p>
+<p>76. A latin Pannóniában elvesztette pozícióját mint mindennapi beszélt nyelv.</p>
+<p>77. Helyét az újonnan bevándorolt népek nyelvei vették át.</p>
+<p>78. Ezzel a római korszak egyik központi öröksége szinte nyomtalanul eltűnt.</p>
+<p>79. A változás egy másik területe a vallást érintette.</p>
+<p>80. A 4. században a kereszténység már elterjedt Pannóniában.</p>
+<p>81. Voltak püspökök, templomok és szilárd keresztény gyülekezetek.</p>
+<p>82. A római rend összeomlásával ezek a struktúrák komoly veszélybe kerültek.</p>
+<p>83. Egyes gyülekezetek feloszlottak, a püspöki székek üresen maradtak.</p>
+<p>84. A kereszténység maradványai azonban fennmaradtak a megmaradt rómaiak körében.</p>
+<p>85. Az újonnan bevándorolt népek többnyire más hitformákhoz ragaszkodtak.</p>
+<p>86. Egyes germán népek az úgynevezett arianizmus hívei voltak.</p>
+<p>87. Ezt a keresztény irányzatot a Római Birodalmi Egyház téves hitenek, eretnekségnek tekintette.</p>
+<p>88. A később érkező avarok többsége egyáltalán nem volt keresztény.</p>
+<p>89. Ehelyett a sztyepp népek hagyományos hiedelmeit követték.</p>
+<p>90. Ezzel a kereszténység Pannóniában egy időre jelentősen veszített jelentőségéből.</p>
+<p>91. Csak évszázadokkal később tudott újra érvényesülni a régióban.</p>
+<p>92. Minden változás ellenére azonban voltak bizonyos folytonosságok is.</p>
+<p>93. A római korból nem minden tűnt el nyomtalanul a semmibe.</p>
+<p>94. Néhány római építményt valóban továbbra is használtak.</p>
+<p>95. Az erődített települések még a későbbi lakosoknak is védelmet nyújtottak.</p>
+<p>96. Néhány római helynév évszázadokon át fennmaradt.</p>
+<p>97. Még maga a Pannónia név is túlélte a tartomány tényleges megszűnését.</p>
+<p>98. Nagyon sokáig használták még az egész régió megnevezésére.</p>
+<p>99. Így már a név önmagában is emlékeztetett a vidék római múltjára.</p>
+<p>100. A régi közlekedési útvonalakat is legalább részben tovább használták.</p>
+<p>101. Még a romos utak is meghatározták az utazás nagyjából vett irányait.</p>
+<p>102. Az ilyen folytonosságok azonban inkább kivételt jelentettek, mint szabályt.</p>
+<p>103. Átlagosan véve a radikális változás egyértelműen túlsúlyban volt.</p>
+<p>104. Pannónia ókori világa végül szinte teljesen eltűnt.</p>
+<p>105. Különösen tanulságos ebben a tekintetben a puszta népességszám kérdése.</p>
+<p>106. A római korban Pannónia viszonylag sűrűn lakott volt.</p>
+<p>107. Az átalakulás során a népesség száma jelentősen visszaesett.</p>
+<p>108. A háborúk, a menekülés és a járványok számtalan áldozatot követeltek.</p>
+<p>109. Egész vidékek időnként elhagyatottak és teljesen műveletlenek voltak.</p>
+<p>110. Csak fokozatosan teltek meg újra emberekkel ezek az elhagyatott területek.</p>
+<p>111. Az új lakosok saját, eltérő életmódjukat hozták magukkal.</p>
+<p>112. Ezzel még a táj külső arculata is megváltozott.</p>
+<p>113. E korszak kutatását a szűkös forrásanyag nehezíti.</p>
+<p>114. Pannónia átalakulásáról csak nagyon kevés írásos forrás számol be.</p>
+<p>115. A fennmaradt beszámolók többsége a régión kívülről származó szerzőktől származik.</p>
+<p>116. Pannónia belsejéről szinte teljesen hiányoznak a saját források.</p>
+<p>117. Ezáltal a modern régészeti kutatások eredményei annál is fontosabbá válnak.</p>
+<p>118. A régészek vizsgálják az ebből az időszakból származó településeket, sírokat és egyes leleteket.</p>
+<p>119. A sírmellékletekből meg lehet állapítani a halottak származását és életmódját megállapíthatók.</p>
+<p>120. Az anyagi kultúrában bekövetkezett változások így jelzik az életmód fokozatos átalakulását.</p>
+<p>121. Így lépésről lépésre nyomon követhető az ókorból a középkorba való átmenet.</p>
+<p>122. A kutatók a mai napig élénk vitát folytatnak e korszak pontos értelmezéséről.</p>
+<p>123. Ennek során elsősorban a változás ütemét vitatják.</p>
+<p>124. Egyes kutatók egy gyors és egyértelműen erőszakos törést hangsúlyoznak.</p>
+<p>125. Mások inkább a lassú átmeneteket és az egyes folytonosságokat emelik ki.</p>
+<p>126. Valószínűleg a változás területenként meglehetősen eltérően zajlott le.</p>
+<p>127. Egyes régiókban a római rend villámgyorsan összeomlott.</p>
+<p>128. Máshol viszont még egy ideig fennmaradt.</p>
+<p>129. Még Pannónia határain belül sem zajlott az átalakulás egyáltalán nem egységesen.</p>
+<p>130. Az „átalakulás” fogalom pontosan ezt a sokféleséget veszi figyelembe.</p>
+<p>131. Lehetővé teszi, hogy egyszerre vegyük figyelembe a törést és a folytonosságot.</p>
+<p>132. Pannónia átalakulása egy sokkal nagyobb, európai folyamat része volt.</p>
+<p>133. Ebben az időben egész Európában az ókori világ átalakult középkorivá.</p>
+<p>134. Mindenütt eltűntek a városok, a távkereskedelem és a régi római közigazgatás.</p>
+<p>135. Mindenütt új birodalmak jöttek létre, és jelentősen egyszerűbb életmód alakult ki.</p>
+<p>136. Pannónia tehát nem volt egyedi eset, hanem inkább tipikus példa.</p>
+<p>137. Mindazonáltal a régiónak megvoltak a maga sajátos jellemzői is.</p>
+<p>138. Pannónia a Duna mentén feküdt, vagyis klasszikus határvidéken.</p>
+<p>139. Pontosan ez a fekvés tette a medencét a népek természetes átjáróhelyévé.</p>
+<p>140. A vándorló népek újra és újra áthaladtak a régió közepén.</p>
+<p>141. Ezért Pannóniában különösen heves volt a változás.</p>
+<p>142. A római folytonosság itt erőteljesebben szakadt meg, mint sok más területen.</p>
+<p>143. Ugyanakkor a medence rendkívül nyitott volt a sztyeppéről érkező hatásokra.</p>
+<p>144. A lovas népek, mint a hunok, majd később az avarok, tartósan meghatározták a régiót.</p>
+<p>145. Ezzel Pannónia jelentősen eltért a hajdani birodalom nyugati részétől.</p>
+<p>146. Nyugaton a római örökség összességében gyakran jobban megmaradt.</p>
+<p>147. Pannóniában viszont a római, germán és sztyeppei hatások keveredtek valami újjá.</p>
+<p>148. Pontosan ebből a keverékből alakult ki egy sajátos, kora középkori világ.</p>
+<p>149. Ez a világ szegényebb és egyszerűbb volt, mint a régi római világ.</p>
+<p>150. Ugyanakkor sokszínű volt, és állandó, szinte szünet nélküli mozgásban volt.</p>
+<p>151. A Kárpát-medence így a kultúrák igazi találkozási pontjává vált.</p>
+<p>152. Itt találkozott Róma világa, Germánia világa és a sztyeppe világa.</p>
+<p>153. Ez a sokszínűség tartósan meghatározta a térség további történelmét.</p>
+<p>154. Az átalakulás végén végül a kora középkori Pannónia jött létre.</p>
+<p>155. Ez egy olyan világ volt, amelyben nem voltak római jellegű városok.</p>
+<p>156. Ez egy olyan világ volt, amelyben nem volt rendezett közigazgatás és szervezett távkereskedelem.</p>
+<p>157. Ez egy vidéki világ volt, kis településekkel és kis uradalmakkal.</p>
+<p>158. Ezt a világot eleinte az avarok uralták.</p>
+<p>159. Az avarok ezt követően teljes két évszázadon át uralták a medencét.</p>
+<p>160. Uralmuk ezentúl a kora középkor keretét képezte.</p>
+<p>161. Ezzel az átalakulással végleg véget ért az ókor a Kárpát-medencében.</p>
+<p>162. Ezzel lezárult a történelem egy hosszú, csaknem öt évszázadig tartó korszaka.</p>
+<p>163. A római történelem csaknem ötszáz éve ért véget ebben a medencében.</p>
+<p>164. Ezt követően egy új kezdet korszaka következett, elképzelhetően rendkívül nehéz körülmények között.</p>
+<p>165. E korszak forrásai szűkösek és gyakran nehezen értelmezhetők.</p>
+<p>166. Ezért a kutatásban ezeket a századokat gyakran „sötét századoknak” nevezik.</p>
+<p>167. A kifejezés elsősorban a források szűkösségére utal, nem pedig negatív értékelésre.</p>
+<p>168. Ez egyáltalán nem jelenti azt, hogy ebben az időszakban nem történt semmi fontos.</p>
+<p>169. Éppen ellenkezőleg: ez egy mélyreható, következményekkel járó változások korszaka volt.</p>
+<p>170. Ebben az időszakban alakultak ki a középkori Európa alapjai.</p>
+<p>171. Pannóniában is ezzel kezdődött egy teljesen új történelmi korszak.</p>
+<p>172. A medence még sok más népet fogadott be.</p>
+<p>173. Az avarok után a szlávok, végül pedig a magyarok érkeztek.</p>
+<p>174. Csak a magyarok teremtettek a medencében valóban tartós rendet.</p>
+<p>175. Addig azonban Pannónia elsősorban a változások színtere maradt.</p>
+<p>176. Az ókor átalakulása tehát e hosszú fejlődés valódi kezdetét jelentette.</p>
+<p>177. Ez az egykori római provinciát kora középkori világgá alakította át.</p>
+<p>178. Ezzel véget ér a Pannónia római és későantik korszakának áttekintése.</p>
+<p>179. A következő fejtegetés most már magával a kora középkorral foglalkozik.</p>
+<p>180. Az avarok uralmával kezdődik a Kárpát-medencében.</p>
+  </div>
+</details>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<details class="pc-collapsible">
+  <summary><span class="pc-collapsible-hint">(aufklappen)</span><span class="pc-collapsible-title">német</span></summary>
+  <div class="pc-collapsible-body">
+<p>1. Der Übergang von der römischen Antike zum Frühmittelalter war für Pannonien einer der größten Umbrüche seiner gesamten Geschichte.</p>
+<p>2. Pannonien war jene Region, die das heutige Westungarn und angrenzende Gebiete umfasste.</p>
+<p>3. Jahrhundertelang hatte sie als wohlgeordnete Provinz unter dem Dach des Römischen Reiches gestanden.</p>
+<p>4. Am Ende dieser Entwicklung aber stand eine Welt, die mit der alten kaum noch etwas gemein hatte.</p>
+<p>5. Forscher nennen diesen tiefgreifenden Wandel heute schlicht Transformation.</p>
+<p>6. Der Begriff betont dabei zweierlei zugleich: den radikalen Wandel und das zähe Fortbestehen einzelner Elemente.</p>
+<p>7. Er bildet damit einen bewussten Gegenpol zu Begriffen, die nur den Untergang in den Vordergrund rücken.</p>
+<p>8. Frühere Generationen von Historikern sprachen lieber vom „Untergang" oder gar „Fall" Roms.</p>
+<p>9. Sie deuteten das Ende der Antike als eine Art plötzliche Katastrophe, fast wie einen einzigen jähen Schlag.</p>
+<p>10. Heute blickt die Forschung deutlich differenzierter auf diese Epoche.</p>
+<p>11. Sie betont, dass sich der Wandel über viele Generationen hinweg erstreckte, nicht über wenige Jahre.</p>
+<p>12. Manches verschwand vollständig, anderes wandelte still seine Form, und wieder anderes blieb erstaunlich beständig.</p>
+<p>13. Genau dieses Muster lässt sich auch in Pannonien beobachten.</p>
+<p>14. Um die Transformation zu verstehen, lohnt sich zunächst ein Blick auf den Ausgangspunkt.</p>
+<p>15. Im 4. Jahrhundert war Pannonien noch eine geordnete römische Provinz wie aus dem Lehrbuch.</p>
+<p>16. Es gab Städte, ein dichtes Straßennetz und eine ausgebaute Verwaltung.</p>
+<p>17. Eine befestigte Grenzlinie, der Limes, schützte das Gebiet entlang der Donau.</p>
+<p>18. Die Wirtschaft beruhte auf Geldverkehr, Fernhandel und geordneter Landwirtschaft.</p>
+<p>19. Das Christentum hatte sich inzwischen als feste Größe im religiösen Leben etabliert.</p>
+<p>20. Dieses fein gewobene Gefüge zerriss im Verlauf des 5. Jahrhunderts vollständig.</p>
+<p>21. Am Ende der Transformation stand eine grundlegend andere Welt.</p>
+<p>22. Diese neue Welt war einfacher, ländlicher und deutlich kriegerischer als zuvor.</p>
+<p>23. Der Wandel erfasste praktisch jeden Lebensbereich, ohne Ausnahme.</p>
+<p>24. Am deutlichsten zeigt er sich womöglich an den Städten.</p>
+<p>25. Die römische Welt war, mehr als alles andere, eine Welt der Städte gewesen.</p>
+<p>26. Städte waren Zentren der Verwaltung, des Handels und der Kultur zugleich.</p>
+<p>27. Im 5. Jahrhundert verloren die Städte Pannoniens diese zentrale Bedeutung.</p>
+<p>28. Ihre Einwohnerzahl schrumpfte dramatisch.</p>
+<p>29. Öffentliche Gebäude verfielen oder wurden für ganz andere Zwecke umgenutzt.</p>
+<p>30. Manche Bewohner zimmerten sich einfache Hütten mitten zwischen die alten Ruinen.</p>
+<p>31. Die Steine römischer Prachtbauten wurden kurzerhand für bescheidenere Bauten wiederverwertet.</p>
+<p>32. Das städtische Leben der Antike erlosch dabei fast vollständig.</p>
+<p>33. An die Stelle der Städte traten nun ländliche Siedlungen.</p>
+<p>34. Die Menschen lebten fortan überwiegend in kleinen Dörfern.</p>
+<p>35. Damit verschob sich der gesamte Schwerpunkt des Lebens aufs Land.</p>
+<p>36. Auch die Wirtschaft veränderte sich von Grund auf.</p>
+<p>37. Die römische Wirtschaft hatte einst auf Geld und Fernhandel beruht.</p>
+<p>38. Beides verlor im Zuge der Transformation rapide an Bedeutung.</p>
+<p>39. Münzen wurden immer seltener gebraucht, irgendwann fast gar nicht mehr.</p>
+<p>40. An die Stelle des Geldes trat häufig der unmittelbare Tausch von Ware gegen Ware.</p>
+<p>41. Diese Form des Wirtschaftens nennt man Naturalwirtschaft.</p>
+<p>42. Der einst blühende Fernhandel der römischen Zeit brach weitgehend zusammen.</p>
+<p>43. Die Wirtschaft schrumpfte auf kleine, rein örtliche Kreisläufe zusammen.</p>
+<p>44. Jede Siedlung musste sich nun weitgehend selbst versorgen.</p>
+<p>45. Ackerbau und Viehzucht bildeten fortan die schlichte Grundlage des Überlebens.</p>
+<p>46. Handwerk wurde meist nur noch für den unmittelbaren, örtlichen Bedarf betrieben.</p>
+<p>47. Auch das einst so stolze Straßennetz der Römer verfiel zusehends.</p>
+<p>48. Ohne staatliche Pflege verloren die Straßen rasch ihre Qualität.</p>
+<p>49. Damit erschwerte sich der Verkehr zwischen den Regionen erheblich.</p>
+<p>50. Der Niedergang der Infrastruktur verstärkte die wirtschaftliche Vereinfachung zusätzlich.</p>
+<p>51. Ein weiterer zentraler Bereich des Wandels war die Herrschaftsordnung selbst.</p>
+<p>52. Die römische Verwaltung war einst stark gegliedert und durch und durch schriftlich organisiert gewesen.</p>
+<p>53. Beamte, Steuern und Gesetze hatten das Leben bis ins Detail geordnet.</p>
+<p>54. Diese Verwaltung verschwand mit dem Ende der römischen Herrschaft restlos.</p>
+<p>55. An ihre Stelle traten deutlich einfachere Herrschaftsformen.</p>
+<p>56. Die neuen Herren waren nun germanische Könige und ihre bewaffneten Gefolgschaften.</p>
+<p>57. Ihre Herrschaft beruhte auf persönlicher Bindung und Treue, nicht auf Paragraphen.</p>
+<p>58. Eine schriftliche Verwaltung kannten diese neuen Herrschaften kaum.</p>
+<p>59. Recht beruhte nun stärker auf mündlicher Überlieferung und alter Gewohnheit.</p>
+<p>60. Damit wandelte sich die gesamte Grundlage von Herrschaft und Ordnung.</p>
+<p>61. Auch die Bevölkerung Pannoniens veränderte sich von Grund auf.</p>
+<p>62. Die alte römische Bevölkerung hatte sich bereits stark verringert.</p>
+<p>63. Viele Romanen waren geflohen oder in den Wirren der Zeit umgekommen.</p>
+<p>64. Als Romanen bezeichnet man die verbliebenen Bewohner römischer Herkunft.</p>
+<p>65. Zu ihnen gesellten sich nun zahlreiche neue Völker im Becken.</p>
+<p>66. Nacheinander siedelten Hunnen, Gepiden, Ostgoten und Langobarden in diesem Raum.</p>
+<p>67. Am Ende übernahmen schließlich die Awaren die Herrschaft über das gesamte Becken.</p>
+<p>68. Die Bevölkerung Pannoniens wurde dadurch zu einem bunten Gemisch vieler Gruppen.</p>
+<p>69. Über die Generationen vermischten sich diese Gruppen nach und nach.</p>
+<p>70. Die romanische Bevölkerung ging dabei allmählich in den Neuankömmlingen auf.</p>
+<p>71. Eine durchgehende römische Tradition entstand in Pannonien dadurch nicht.</p>
+<p>72. Darin unterschied sich Pannonien deutlich von Gallien oder Spanien.</p>
+<p>73. Dort lebte die romanische Bevölkerung noch in großer Zahl fort.</p>
+<p>74. In Pannonien dagegen riss die römische Kontinuität weitgehend ab.</p>
+<p>75. Auch die Sprache der Region veränderte sich infolgedessen.</p>
+<p>76. Das Lateinische verlor in Pannonien seine Stellung als gesprochene Alltagssprache.</p>
+<p>77. An seine Stelle traten die Sprachen der neu eingewanderten Völker.</p>
+<p>78. Damit verschwand ein zentrales Erbe der römischen Zeit fast spurlos.</p>
+<p>79. Ein weiterer Bereich des Wandels betraf die Religion.</p>
+<p>80. Im 4. Jahrhundert hatte sich das Christentum in Pannonien bereits ausgebreitet.</p>
+<p>81. Es gab Bischöfe, Kirchen und feste christliche Gemeinden.</p>
+<p>82. Mit dem Zerfall der römischen Ordnung gerieten diese Strukturen in ernste Bedrängnis.</p>
+<p>83. Manche Gemeinden lösten sich auf, Bischofssitze blieben verwaist.</p>
+<p>84. Reste des Christentums hielten sich dennoch unter den verbliebenen Romanen.</p>
+<p>85. Die neu eingewanderten Völker hingen meist anderen Glaubensformen an.</p>
+<p>86. Manche germanischen Völker waren Anhänger des sogenannten Arianismus.</p>
+<p>87. Diese christliche Sonderrichtung galt der römischen Reichskirche als Irrglaube, als Häresie.</p>
+<p>88. Die später eintreffenden Awaren waren überwiegend gar keine Christen.</p>
+<p>89. Sie folgten stattdessen den traditionellen Glaubensvorstellungen der Steppenvölker.</p>
+<p>90. Damit verlor das Christentum in Pannonien für eine Weile deutlich an Bedeutung.</p>
+<p>91. Erst Jahrhunderte später sollte es sich in der Region erneut durchsetzen.</p>
+<p>92. Trotz allen Wandels gab es aber auch gewisse Kontinuitäten.</p>
+<p>93. Nicht alles aus der römischen Zeit verschwand spurlos im Nichts.</p>
+<p>94. Einige römische Bauwerke wurden tatsächlich weiterhin genutzt.</p>
+<p>95. Befestigte Orte boten selbst späteren Bewohnern noch Schutz.</p>
+<p>96. Manche römischen Ortsnamen blieben über Jahrhunderte hinweg erhalten.</p>
+<p>97. Sogar der Name Pannonien selbst überdauerte den Untergang der eigentlichen Provinz.</p>
+<p>98. Er wurde noch sehr lange als Bezeichnung für die gesamte Region verwendet.</p>
+<p>99. Damit erinnerte allein schon der Name an die römische Vergangenheit des Landes.</p>
+<p>100. Auch die alten Verkehrswege wurden zumindest teilweise weiter genutzt.</p>
+<p>101. Selbst verfallene Straßen gaben noch grobe Reiserichtungen vor.</p>
+<p>102. Solche Kontinuitäten waren jedoch eher die Ausnahme als die Regel.</p>
+<p>103. Im Großen und Ganzen überwog der radikale Wandel deutlich.</p>
+<p>104. Die antike Welt Pannoniens war am Ende fast vollständig verschwunden.</p>
+<p>105. Besonders aufschlussreich ist dabei die Frage nach der schlichten Bevölkerungszahl.</p>
+<p>106. In römischer Zeit war Pannonien vergleichsweise dicht besiedelt gewesen.</p>
+<p>107. Im Verlauf der Transformation ging die Bevölkerung deutlich zurück.</p>
+<p>108. Kriege, Flucht und Seuchen forderten dabei zahllose Opfer.</p>
+<p>109. Ganze Landstriche lagen zeitweise wüst und gänzlich unbebaut.</p>
+<p>110. Erst ganz allmählich füllten sich diese verödeten Gebiete wieder mit Menschen.</p>
+<p>111. Die neuen Bewohner brachten dabei eigene, andere Lebensformen mit.</p>
+<p>112. Damit veränderte sich sogar das äußere Bild der Landschaft selbst.</p>
+<p>113. Erschwert wird die Erforschung dieser Epoche durch eine dünne Quellenlage.</p>
+<p>114. Über die Transformation Pannoniens berichten nur sehr wenige schriftliche Quellen.</p>
+<p>115. Die meisten erhaltenen Berichte stammen von Autoren außerhalb der eigentlichen Region.</p>
+<p>116. Für das Innere Pannoniens selbst fehlen eigene Zeugnisse fast vollständig.</p>
+<p>117. Umso wichtiger werden dadurch die Ergebnisse der modernen archäologischen Forschung.</p>
+<p>118. Archäologen untersuchen Siedlungen, Gräber und einzelne Funde aus dieser Zeit.</p>
+<p>119. Aus Grabbeigaben lassen sich Herkunft und Lebensweise der Toten erschließen.</p>
+<p>120. Veränderungen in der materiellen Kultur zeigen so den schleichenden Wandel der Lebensformen.</p>
+<p>121. So lässt sich der Übergang von der Antike zum Mittelalter Schritt für Schritt nachzeichnen.</p>
+<p>122. Die Forschung diskutiert die genaue Deutung dieser Epoche bis heute lebhaft.</p>
+<p>123. Strittig ist dabei vor allem das Tempo des Wandels.</p>
+<p>124. Manche Forscher betonen einen raschen und durchaus gewaltsamen Bruch.</p>
+<p>125. Andere heben eher langsame Übergänge und einzelne Kontinuitäten hervor.</p>
+<p>126. Wahrscheinlich verlief der Wandel von Gebiet zu Gebiet recht unterschiedlich.</p>
+<p>127. In manchen Regionen brach die römische Ordnung blitzschnell zusammen.</p>
+<p>128. In anderen hielt sie sich dagegen noch einige Zeit länger.</p>
+<p>129. Auch innerhalb Pannoniens selbst verlief die Transformation keineswegs einheitlich.</p>
+<p>130. Der Begriff Transformation trägt genau dieser Vielfalt Rechnung.</p>
+<p>131. Er erlaubt es, Bruch und Kontinuität gleichzeitig in den Blick zu nehmen.</p>
+<p>132. Die Transformation Pannoniens war Teil eines weit größeren, europäischen Vorgangs.</p>
+<p>133. In ganz Europa wandelte sich die antike Welt in dieser Zeit zum Mittelalter.</p>
+<p>134. Überall verschwanden Städte, Fernhandel und die alte römische Verwaltung.</p>
+<p>135. Überall entstanden neue Reiche und deutlich einfachere Lebensformen.</p>
+<p>136. Pannonien war damit kein Einzelfall, sondern eher ein typisches Beispiel.</p>
+<p>137. Dennoch wies die Region auch ihre eigenen, ganz besonderen Merkmale auf.</p>
+<p>138. Pannonien lag an der Donau, also in einer klassischen Grenzlage.</p>
+<p>139. Genau diese Lage machte das Becken zu einem natürlichen Durchgangsraum der Völker.</p>
+<p>140. Immer wieder zogen wandernde Völker mitten durch die Region hindurch.</p>
+<p>141. Deshalb fiel der Wandel in Pannonien besonders heftig aus.</p>
+<p>142. Die römische Kontinuität riss hier stärker ab als in vielen anderen Gebieten.</p>
+<p>143. Zugleich war das Becken außergewöhnlich offen für Einflüsse aus der Steppe.</p>
+<p>144. Reitervölker wie die Hunnen und später die Awaren prägten die Region nachhaltig.</p>
+<p>145. Damit unterschied sich Pannonien deutlich vom Westen des einstigen Reiches.</p>
+<p>146. Im Westen blieb das römische Erbe insgesamt oft stärker erhalten.</p>
+<p>147. In Pannonien dagegen mischten sich römische, germanische und steppische Einflüsse zu etwas Neuem.</p>
+<p>148. Aus genau dieser Mischung entstand eine eigene, frühmittelalterliche Welt.</p>
+<p>149. Diese Welt war ärmer und einfacher als die alte römische Welt.</p>
+<p>150. Sie war zugleich vielfältig und in beständiger, fast rastloser Bewegung.</p>
+<p>151. Das Karpatenbecken wurde so zu einem regelrechten Treffpunkt der Kulturen.</p>
+<p>152. Hier begegneten sich die Welt Roms, die Welt Germaniens und die Welt der Steppe.</p>
+<p>153. Diese Vielfalt prägte die weitere Geschichte des Raumes nachhaltig.</p>
+<p>154. Am Ende der Transformation stand schließlich das frühmittelalterliche Pannonien.</p>
+<p>155. Es war eine Welt ohne Städte römischer Prägung.</p>
+<p>156. Es war eine Welt ohne geordnete Verwaltung und ohne organisierten Fernhandel.</p>
+<p>157. Es war eine ländliche Welt kleiner Siedlungen und kleiner Herrschaften.</p>
+<p>158. Über dieser Welt herrschten zunächst die Awaren.</p>
+<p>159. Die Awaren beherrschten das Becken danach über volle zwei Jahrhunderte.</p>
+<p>160. Ihre Herrschaft bildete fortan den Rahmen des frühen Frühmittelalters.</p>
+<p>161. Mit der Transformation endete somit endgültig die Antike im Karpatenbecken.</p>
+<p>162. Eine lange, fast fünf Jahrhunderte währende Epoche der Geschichte war damit abgeschlossen.</p>
+<p>163. Fast fünfhundert Jahre römischer Geschichte gingen in diesem Becken zu Ende.</p>
+<p>164. Was folgte, war eine Zeit des Neuanfangs unter denkbar schwierigen Bedingungen.</p>
+<p>165. Die Quellen dieser Zeit sind spärlich und oft nur schwer zu deuten.</p>
+<p>166. Deshalb werden diese Jahrhunderte in der Forschung gerne als dunkle Jahrhunderte bezeichnet.</p>
+<p>167. Der Begriff meint dabei vor allem die schlechte Quellenlage, nicht eine düstere Wertung.</p>
+<p>168. Er bedeutet keineswegs, dass in dieser Zeit nichts Wichtiges geschah.</p>
+<p>169. Im Gegenteil: Es war eine Epoche tiefgreifender, folgenreicher Veränderungen.</p>
+<p>170. In dieser Zeit bildeten sich die Grundlagen des mittelalterlichen Europas heraus.</p>
+<p>171. Auch für Pannonien begann damit eine völlig neue geschichtliche Epoche.</p>
+<p>172. Das Becken sollte noch viele weitere Völker aufnehmen.</p>
+<p>173. Nach den Awaren kamen Slawen und schließlich auch die Ungarn.</p>
+<p>174. Erst die Ungarn schufen im Becken eine wirklich dauerhafte Ordnung.</p>
+<p>175. Bis dahin aber blieb Pannonien vor allem ein Raum des Wandels.</p>
+<p>176. Die Transformation der Antike war somit der eigentliche Auftakt dieser langen Entwicklung.</p>
+<p>177. Sie verwandelte die einstige römische Provinz in eine frühmittelalterliche Welt.</p>
+<p>178. Damit endet die Betrachtung der römischen und spätantiken Epoche Pannoniens.</p>
+<p>179. Die folgende Darstellung wendet sich nun dem Frühmittelalter selbst zu.</p>
+<p>180. Sie beginnt mit der Herrschaft der Awaren im Karpatenbecken.</p>
+  </div>
+</details>
+<!-- /wp:html -->
+
 <!-- wp:html -->
 <div class="pc-footer-nav">
   <div class="pc-top-link"><a href="#top">↑ Hoch zum Seitenanfang</a></div>
