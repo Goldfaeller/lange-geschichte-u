@@ -1,0 +1,1173 @@
+﻿;Magyarország története – 8. – A földhódítás előtti nomád élet: társadalom és kultúra
+
+
+;MAGYARORSZÁG TÖRTÉNETE
+
+
+;Kora középkor és etnogenezis
+
+
+== A honfoglalás előtti nomád élet: társadalom és kultúra ==
+
+
+:1. Mielőtt a magyarok meghódították a Kárpát-medencét, nomádként éltek a keleti sztyeppéken.
+:2. A honfoglalás előtti időszak mélyebb nyomot hagyott népükön, mint bármely későbbi korszak.
+:3. A hatalmas füves pusztákon alakult ki az a életmód, amelyet magukkal vittek Európába.
+:4. Aki meg akarja érteni a magyarokat, annak először ezt a nomád korszakot kell megvizsgálnia.
+:5. Hiszen ebben gyökerezik a nép társadalma, gazdasága, hite és művészete.
+:6. A következő fejezet ennek a távoli és idegen világnak a képét rajzolja meg.
+:7. A magyarok életét egyszerre több oldalról is megvizsgálja.
+:8. Hat nagy terület együtt adja ki ennek az életmódnak a teljes képét.
+:9. Az első terület a társadalmi szerkezet, a társadalom felépítése.
+:10. A magyar társadalom szigorúan rang és származás szerint volt felépítve.
+:11. A csúcson egy szűk nemesség állt, amely fejedelmekből és előkelő nemzetségekből állt.
+:12. Alattuk helyezkedett el a szabad, fegyvert viselő harcosok széles rétege.
+:13. Az alapot a jogfosztott, szolgákból és rabszolgákból álló tömeg alkotta.
+:14. Ez a három részre osztás – nemesség, szabadok és jogfosztottak – jellemző volt a sztyepp népekre.
+:15. A második terület a nép letelepedési módja és mobilitása.
+:16. A magyarok nem ismertek állandó városokat, hanem nyájaikkal vándoroltak.
+:17. Jurta-ban laktak, a sztyeppe könnyű és hordozható nemezsátorában.
+:18. Több sátor alkotott egy táborhelyet, amely az élet középpontját jelentette.
+:19. Meghatározott vándorútvonalakon haladtak oda-vissza a nyári és téli legelők között.
+:20. Ez a mobilitás nem kényszerből fakadt, hanem a lovas nép egyik nagy erőssége volt.
+:21. A harmadik terület a gazdaság, az ellátás alapja.
+:22. Két pilléren nyugodott: az állattenyésztésen és a harci portyákon.
+:23. A legfontosabb állat a ló volt, az egész élet középpontja.
+:24. Emellett nagy marha-, juh- és kecskeállományokat tartottak.
+:25. Amit az állatállományok nem adtak, azt zsákmányból és kereskedelemből szerezték be.
+:26. Így a háború a magyarok számára egyben a gazdálkodás egyik formája is volt.
+:27. A negyedik terület a vallás, a pogány magyarok hite.
+:28. Hitük természetimádat volt, amelyet sámánizmusnak neveznek.
+:29. Középpontjában a sámán állt, akit a magyaroknál táltosnak neveztek.
+:30. Őt az emberek és a szellemek világa közötti közvetítőnek tartották.
+:31. Nagy szerepet játszott az elhunyt ősök tisztelete.
+:32. A természetet lelkesnek tartották, és a szent állatok, mint például a turul, összekötötték az eget és a népet.
+:33. Az ötödik terület a kézművesség és az anyagi kultúra.
+:34. A magyarok ügyes kovácsok és művészi fémművesek voltak.
+:35. Kiváló fegyvereket készítettek a lovas háborúhoz, valamint nemesfémből készült értékes ékszereket.
+:36. Művészetük teljes mértékben a hordozható és értékes tárgyakra összpontosult.
+:37. Kanyargós indák és állatfigurák díszítették kis műalkotásaikat.
+:38. A sírokból előkerült leletek a legbeszédesebb tanúi ennek a kultúrának.
+:39. A hatodik terület a család és a nemek rendje.
+:40. A család képezte azt az alapkövet, amelyre az egész társadalom épült.
+:41. Patriarchális jellegű volt, élén a férfi állt, mint a családfő.
+:42. A nő uralkodott a sátorban és a háztartásban.
+:43. A származás és a vagyon az apai ágon öröklődött.
+:44. Mindezt a közös ősökre vonatkozó emlékezet tartotta össze.
+:45. Ez a hat terület egy zárt, átfogó képet alkot.
+:46. Minden összefüggött egymással, és a sztyeppén való élethez igazodott.
+:47. Erről a korai időszakról azonban a kutatások meglepően kevés biztosat tudnak.
+:48. Maguk a magyarok nem hagytak hátra írásos emlékeket, a források szűkösek és idegenek.
+:49. Sok mindent ezért csak következtetni lehet, összehasonlítani vagy óvatosan feltételezni.
+:50. Ezzel az óvatosságra intő megjegyzéssel kezdjük most az egyes területek vizsgálatát.
+
+
+=== Társadalmi szerkezet: nemesség, szabadok és rabszolgák ===
+
+
+:1. A magyarok társadalma a földfoglalás előtt nem egyenlők közössége volt, hanem szigorúan rang és születés szerint tagolódott.
+:2. A társadalom csúcsán a nemesség állt, alattuk a szabad emberek, a legalsó rétegben pedig a nem szabadok éltek.
+:3. Ez a háromrészes felosztás – nemesség, szabadok és nem szabadok – jellemző volt a korabeli számos sztyeppei népre.
+:4. A rend pontos felépítéséről azonban a kutatások meglepően keveset tudnak.
+:5. A sztyeppei korszak magyarjai maguk nem hagytak hátra írásos forrásokat saját társadalmukról.
+:6. Az, amit tudunk, idegen megfigyelők beszámolóiból és a későbbi viszonyokból levont következtetésekből származik.
+:7. A legfontosabb írásos tanúvallomások bizánciaktól és arab nyelven író tudósoktól származnak.
+:8. VII. Konstantin Porphyrogennetos bizánci császár a 10. században írt a magyarokról.
+:9. Művének latin címe De administrando imperio, ami annyit jelent, hogy „A birodalom igazgatásáról”.
+:10. Emellett olyan muszlim szerzők is beszámoltak a magyarok életmódjáról, mint Ibn Rusta és Gardīzī.
+:11. Ezek a külföldi beszámolók értékesek, de hiányosak is, és gyakran nehezen értelmezhetők.
+:12. A társadalmi szerkezetről ezért sok mindent a kutatásnak kell feltárnia, vagy óvatosan feltételeznie.
+:13. A magyar társadalom csúcsán egy kis nemesi réteg állt, a nemesség.
+:14. A nemességet a törzsek és a befolyásos nemzetségek vezetői alkották.
+:15. A nemzetség egy nagy családi közösség, amelynek tagjai közös ősöktől származnak.
+:16. A legtekintélyesebb nemzetségek gyakran különösen dicső, sőt isteni származásra hivatkoztak.
+:17. A nemességhez való tartozás elsősorban az ilyen családba való születésen alapult.
+:18. Nemesként született az ember, saját érdemei alapján aligha lehetett azzá válni.
+:19. Egy harcos társadalomban azonban a vitézség és a zsákmány bizonyos előrelépési lehetőségeket nyitott meg a tehetségesek számára is előrelépési lehetőségeket.
+:20. A gazdagság és a követők száma generációkon át emelhette egy család rangját.
+:21. A legmagasabb rangot az egyes törzsek fejedelmei foglalták el.
+:22. A törzs több nemzetség közös vezető alatt való összefogása volt.
+:23. A hagyomány szerint a magyar törzsszövetség hét törzsből állt.
+:24. Ezt a hét törzset magyarul Hétmagyar-nak nevezték, szó szerint „a hét magyar” ”.
+:25. Minden törzsnek megvolt a maga fejedelme és a maga harcos kísérete.
+:26. Az egyes törzsfejedelmek fölé fokozatosan kialakult egy felettük álló vezetés.
+:27. A források a törzsszövetség vezetésének kettős csúcsáról számolnak be.
+:28. Ott volt a Kende és a Gyula, két, eltérő feladatokkal rendelkező méltóság.
+:29. A Kende feltehetően a szakrális felsőbbrendű uralkodó volt, akinek hatalma vallási alapon nyugodott.
+:30. A „szakrális” szó „szentet” jelent, és az istenek világához fűződő kapcsolatra utal.
+:31. A Gyula viszont valószínűleg a tényleges katonai hadvezér és a politika irányítója volt.
+:32. Ezt a szétválasztást szent és világi uralkodóra a kazároknál is ismerték.
+:33. A kazárok egy hatalmas sztyeppei nép voltak, akiknek hatása alatt a magyarok időnként álltak.
+:34. Nagyon is lehetséges, hogy a magyarok ezt a kettős uralmi modellt a kazároktól vették át.
+:35. Ez az átvétel azonban nem bizonyított, csupán a kutatás megalapozott feltételezése marad.
+:36. Engedjük meg magunknak itt egy díszítő jellegű spekulációt, amely nem minősül bizonyított tudásnak.
+:37. Képzeljük el, ahogy a Kende a sátrában ült, lófarkakkal körülvéve , amelyek méltóságának jelképei voltak.
+:38. Talán a köznép soha nem láthatta őt enni vagy inni, hogy szentsége szennyezetlen maradjon.
+:39. Ilyen tabuk övezték a szent királyokat egyes sztyeppei népeknél, de a magyarok esetében ez puszta feltételezés.
+:40. Csak a lényeget kell megjegyezni: az élén kevés hatalmasság állt, szent és világi hatalomra osztva.
+:41. Döntő fordulatot hozott Árpád fejedelem felemelkedése.
+:42. Árpádot az egész törzsszövetség közös vezetőjévé emelték.
+:43. Vele kezdődött egy egyetlen család, a későbbi Árpád-dinasztia uralma.
+:44. A dinasztia olyan uralkodócsalád, amelyben a hatalom ugyanazon a vonalon belül öröklődik.
+:45. A hagyomány szerint a törzsfők ünnepélyes szerződést kötöttek Árpáddal.
+:46. Ezt a szerződést a magyar hagyományban vérszerződésnek nevezik.
+:47. Ezen a szertartáson a hét vezér állítólag vért engedett folyni az ereiből egy edénybe.
+:48. Az összekeveredett vér pecsételte meg szövetségüket és hűségüket az Árpád-család iránt.
+:49. Hogy ez a vérszerződés valóban így történt-e, a történészek körében rendkívül vitatott kérdés.
+:50. A történetet csak évszázadokkal később írták le, és bizonyosan tartalmaz legendás vonásokat.
+:51. Mindazonáltal egy fontos igazságot tükröz: a sok vezetőtől az egyetlen vezető felé való átmenetet.
+:52. A nemesség alatt, de messze a szolgák felett állt a szabad emberek széles rétege.
+:53. A szabad emberek alkották a magyar társadalom magját és gerincét.
+:54. Legfontosabb jellemzőjük a fegyverviselés joga és kötelezettsége volt.
+:55. Egy szabad ember egyben mindig harcos is volt.
+:56. Egy olyan társadalomban, amely a lovas háborúskodásból élt, a fegyverviselő volt a teljes értékű ember.
+:57. Aki háborúba vonulhatott és megengedhette magának, hogy lovat tartson, azt szabadnak tekintették.
+:58. A szabad emberek csordáikkal a sztyeppén vándoroltak, és vezéreiket követték a csatába.
+:59. Saját állataik, saját sátraik és saját fegyvereik voltak.
+:60. A ló volt eközben a legfontosabb javuk, mert ló nélkül nem létezett harcos.
+:61. A szabad emberek között azonban nagy különbségek voltak a vagyon és a tekintély tekintetében.
+:62. Egyes szabad emberek hatalmas állatcsordákkal és számos szolgával rendelkeztek, mások viszont csak kevés állattal.
+:63. Így a gazdag szabad ember és a kisnemes közötti határ gyakran elmosódott volt.
+:64. A társadalom tehát nem volt mereven, szilárd osztályokra felosztva, hanem átmenetek is léteztek benne.
+:65. A szabad férfiak feltehetően azért gyűltek össze, hogy közös ügyekről tanácskozzanak.
+:66. Az ilyen szabad harcosok gyűléseiről más sztyeppei népek esetében is vannak feljegyzések.
+:67. Nem biztos, hogy a magyarok is tartottak-e rendszeres népgyűléseket.
+:68. Valószínű azonban, hogy a harcosok szavának súlya volt a fontos döntéseknél.
+:69. Hiszen egy vezető harcosai támogatása nélkül tehetetlen volt.
+:70. Az úr és a követő közötti hűség az adok-kapok elvén alapult.
+:71. Az úr védelmet, vezetést és részesedést a zsákmányból biztosított.
+:72. A követő cserébe fegyvereit, bátorságát és hűségét ajánlotta fel.
+:73. Ez a kölcsönös kötelezettségvállaláson alapuló viszony áthatotta az egész szabad harcos társadalmat.
+:74. Különleges szerepet játszott egy fejedelem harcos kísérete.
+:75. Ez a kiválasztott harcosokból álló csapat gyakran közvetlenül uruk közelében élt.
+:76. Ők alkották minden hadsereg megbízható magját, és nagy megbecsülésnek örvendtek.
+:77. Az ilyen kíséretekből idővel új nemesi családok alakulhattak ki.
+:78. A társadalom legalján a szolgák álltak.
+:79. A szolgák saját jogokkal nem rendelkező emberek voltak, akik mások tulajdonát képezték.
+:80. Állapotukat rabszolgaságnak vagy szolgaságnak is nevezik.
+:81. Egy szolgát lehetett vásárolni, eladni és örökölni, akárcsak egy darab marhát.
+:82. Életét és munkáját kizárólag ura irányította.
+:83. Az új szolgák legfontosabb forrása a háború volt.
+:84. Aki hadjárat során fogságba esett, elvesztette szabadságát.
+:85. A magyarok rablóhadjárataik során számos foglyot ejtettek.
+:86. Ezeket a hadifoglyokat rabszolgákká tették vagy továbbadták.
+:87. A rabszolga-kereskedelem a sztyeppei népek számára jövedelmező üzlet volt.
+:88. Különösen a bizánciak és a keleti népek fizettek jó árat a rabszolgákért.
+:89. Így a magyarok nemcsak az arany és a jószág miatt vonultak háborúba, hanem az emberek miatt is.
+:90. Az arab források kifejezetten arról számolnak be, hogy a magyarok foglyokat adtak el a bizánciaknak.
+:91. Cserébe értékes szöveteket, szőnyegeket és egyéb árukat kaptak.
+:92. Nem minden rabszolgát adtak azonban el, sokan a saját táborukban maradtak.
+:93. Ott végezték azokat a nehéz és alantas munkákat, amelyeket egyetlen szabad ember sem akart elvégezni.
+:94. A rabszolgák őrizték az állatokat, fejették a kancákat, és fel- és lebontották a sátrakat.
+:95. Valószínűleg a kézművességben és a mezőgazdasági munkában is rabszolgákat alkalmaztak.
+:96. Így láthatatlanul a társadalom gazdasági terheinek nagy részét viselték.
+:97. A táborban lévő szolgák száma egyben tulajdonosuk gazdagságának jeleként is szolgált.
+:98. Aki sok szolgával rendelkezett, az ezzel mutatta meg hatalmát és tekintélyét.
+:99. A források azonban szinte teljesen hallgatnak a szolgák mindennapi életéről.
+:100. Itt ismét megkockáztatunk egy megengedett spekulációt, amely nem bizonyított tény.
+:101. Képzeljük el azt a reggeli tábort, ahol a rabszolgák még napkelte előtt fejik a kancákat.
+:102. Talán közben idegen nyelvű dalokat énekeltek, hiszen sokan hódított népek közül származtak.
+:103. Egy magyar tábor valószínűleg sokféle nyelvű és származású emberekből álló, színes hely volt.
+:104. Szlávok, fogságba ejtett harcosok és rabszolgává tett parasztok dolgozhattak ott egymás mellett.
+:105. Mindez azonban csak elképzelés marad, hiszen a beszámolók nem mondanak erről semmi pontosat.
+:106. Az egyetlen biztos dolog az, hogy a szolgák alkották a társadalmi rend legalacsonyabb és legjogfosztottabb rétegét.
+:107. A nagy társadalmi rétegek között feltehetően átmeneti csoportok is léteztek.
+:108. Nem minden függő személy volt teljesen jogfosztott rabszolga.
+:109. Egyes szolgáknak lehettek bizonyos jogaik vagy kis saját vagyonuk.
+:110. Mások félig szabad pásztorként szolgáltak, akik egy urhoz kötődtek, de nem voltak az ő tulajdonában.
+:111. Ilyen fokozatokat számos korai társadalom ismert, és a magyaroknál is valószínűleg hasonlóak voltak.
+:112. Elvileg elképzelhető volt egy nem szabad ember felemelkedése a szabadságba is.
+:113. Egy hűséges szolgát az ura szabadon bocsáthatott.
+:114. A rabszolgák felszabadítását szaknyelven manumissziónak nevezik.
+:115. Hogy a magyarok ismertek-e ilyen felszabadításokat, azt nem bizonyítja kifejezetten semmi.
+:116. Valószínűleg azonban voltak olyan utak, amelyeken hűség vagy vitézség révén fel lehetett emelkedni.
+:117. Hiszen egy harcos társadalomnak mindig szüksége volt új, elkötelezett harcosokra.
+:118. A társadalmi rend tehát átjárhatóbb volt, mint amire a szigorú háromosztás első pillantásra utalna.
+:119. Az ember rangjának fontos mércéje mindig az állatállománya volt.
+:120. A gazdagságot nem pénzben, hanem lovakban, szarvasmarhákban és juhokban mérték.
+:121. Aki nagy állatállománnyal rendelkezett, az magas rangot foglalt el, aki nem, az alacsony rangú volt.
+:122. Az állatállomány egyszerre jelentett élelmet, ruházatot, szerszámot és státuszszimbólumot.
+:123. Így a társadalmi szerkezet szorosan összefonódott a nomádok gazdálkodási módjával.
+:124. Egy ember társadalmi helyzete halála után is megnyilvánult.
+:125. A magyarok sírjai sokat árulnak el a kutatóknak a társadalmi különbségekről.
+:126. A nemes elhunytakat gazdag sírmellékletekkel temették el, az egyszerű elhunytakat szinte minden nélkül.
+:127. Sírmellékletnek nevezzük azokat a tárgyakat, amelyeket a halott mellé tettek a sírba.
+:128. A gazdagok sírjaiban fegyvereket, aranyékszereket és értékes lószerszámokat találtak.
+:129. Gyakran a harcosnak még a lovát vagy annak részeit is a sírba tették.
+:130. Ez a szokás, hogy a lovat és a lovast együtt temették el, széles körben elterjedt volt a sztyeppén.
+:131. A szegények sírjaiban viszont többnyire csak egyszerű agyagedények voltak, vagy egyáltalán semmi.
+:132. Így a sírok néma nyelve egyértelműen beszél a gazdagokról és a szegényekről, a magas rangúakról és az alacsony rangúakról.
+:133. A régészet ezzel értékes módon kiegészíti a kevés írásos beszámolót.
+:134. A család képezte ennek az egész társadalmi rendnek a legkisebb egységét.
+:135. Több család együtt egy nemzetséget, több nemzetség pedig egy törzset alkotott.
+:136. Ez a családtól a törzsi szövetségig terjedő felépítés szigorúan hierarchikus volt.
+:137. A hierarchia olyan rangsor, amelyben minden szint egy magasabb szintnek van alárendelve.
+:138. E rend minden szintjén állt egy vezető, aki felfelé tartozott elszámolással.
+:139. Így az egyén beilleszkedett a felettesek és beosztottak szilárd rendszerébe.
+:140. A származás döntő szerepet játszott abban, hogy ki milyen helyet foglalt el ebben a rendszerben.
+:141. Aki nemes nemzetségből származott, annak szinte születésétől fogva magas rangú hely állt nyitva.
+:142. Aki szolgaként született, az eleinte szülei sorsát osztotta.
+:143. Mindazonáltal a sztyeppei társadalom rugalmasabb volt, mint a későbbi európai feudális rendszer.
+:144. A háború felemelhette az alacsony rangúakat, és megdönthette a magas rangúakat.
+:145. Egy elvesztett csata egy egész családot rabszolgaságba taszíthatott.
+:146. Egy sikeres rablóhadjárat egy egyszerű harcosot gazdaggá és hatalmassá tehetett.
+:147. Így a harcos életmódban egyben egy nagy társadalmi mozgalom is rejtőzött.
+:148. Ez a rugalmasság különböztette meg a magyarokat a nyugat szilárdan összekovácsolt paraszti társadalmaitól.
+:149. A Kárpát-medence elfoglalásával ez a régi rend fokozatosan megváltozni kezdett.
+:150. A nomád harcosok az idő múlásával letelepedett földesurakká váltak.
+:151. A szabad pásztorok közül egyesek parasztokká váltak, mások pedig függő helyzetbe süllyedtek.
+:152. A jobbágyokból és az elszegényedett szabadokból alakult ki a későbbi paraszti alsó réteg.
+:153. A sztyeppek korának régi nemessége viszont a későbbi magyar főnemesség alapját képezte.
+:154. Így a magyar középkori rendi rendszer gyökerei egészen a sztyeppéig nyúlnak vissza.
+:155. A nemesség, a szabadok és a rabszolgák közötti háromrészes felosztás megváltozott formában fennmaradt a változások ellenére.
+:156. Érdemes összehasonlítani a magyar rendi rendszert más sztyepp népekével.
+:157. A kazárok, a pechenegek és a bolgárok körében is nagyon hasonló viszonyok uralkodtak.
+:158. Mindenütt létezett egy harcos nemesség, egy szabad lovas réteg és a nem szabadok tömege.
+:159. Ez a hasonlóság segítette a kutatókat a magyar hagyomány hiányzó részeinek pótlásában.
+:160. Hiszen ami sok sztyeppei népnél azonos volt, az valószínűleg a magyarokra is érvényes volt.
+:161. Az ilyen összehasonlításon alapuló következtetéseket a tudományban analógia-következtetéseknek nevezik.
+:162. Az analógia egy ismert tényt egy esetről egy hasonló másik esetre vetít át.
+:163. Ez a módszer hasznos, de magában hordozza a tévedés veszélyét is.
+:164. Hiszen nem minden, ami a szomszédoknál érvényes volt, kellett, hogy a magyarokra is érvényes legyen.
+:165. A kutatás ezért óvatosan és kritikus szemmel közelíti meg az ilyen következtetéseket.
+:166. A korai magyarok társadalmi szerkezetéről ezért sok minden a mai napig bizonytalan marad.
+:167. A bizonyított tények száma csekély, a nyitott kérdéseké pedig nagy.
+:168. Aki ezzel a korai korszakkal foglalkozik, annak mindig szem előtt kell tartania a tudás határait.
+:169. Éppen ez a bizonytalanság adja azonban annak a távoli kornak a kutatásának varázsát.
+:170. Néhány csont, sír és idegen beszámoló alapján alakul ki egy egész társadalom képe.
+:171. Ez a kép soha nem lesz teljes, de minden új lelet révén egy kicsit élesebbé válik.
+:172. Összefoglalva a magyar társadalmat meredek piramisnak lehet leírni.
+:173. Csúcsán egy szűk nemesség trónolt a fejedelmekkel és a Kende–Gyula kettős uralommal.
+:174. Alattuk helyezkedett el a szabad harcosok és pásztorok széles, fegyveres rétege.
+:175. A piramis alapját a jogfosztott, szolgákból és rabszolgákból álló tömeg alkotta.
+:176. A gazdagság, a származás és a háborús szerencse határozta meg az egyén helyét ebben a szerkezetben.
+:177. A rend hierarchikus volt, mégis rugalmasabb, mint a későbbi európai állásrend.
+:178. Teljes mértékben a háborúhoz és a nomád gazdasághoz igazodott.
+:179. És ez fektette le az alapjait annak a társadalomnak, amely a Kárpát-medence elfoglalása után kialakult.
+:180. Így vezet az út a sztyeppek lovas seregeitől egyenesen a középkori Magyarország állásrendjéhez.
+
+
+=== Települési mód és mobilitás: jurták, táborok és vándorlási útvonalak ===
+
+
+:1. A sztyeppek korának magyarjai nem ismertek állandó városokat és tartós falvakat.
+:2. Életüket a hatalmas síkságokon való állandó vándorlás jellemezte.
+:3. A vándorló pásztornép ezen életmódját nomadizmusnak nevezik.
+:4. A „nomád” szó a görögből származik, és eredetileg „legeltető pásztort” jelent.
+:5. A nomádnak nincs állandó lakhelye, hanem nyájaival vándorol az országban.
+:6. Ez a vándorlás azonban korántsem a véletlennek vagy puszta önkénynek volt köszönhető.
+:7. Ez egy jól átgondolt és generációk óta bevált életmód volt.
+:8. A szakértők ezért nem egyszerű vándorlásról beszélnek, hanem félnomadizmusról.
+:9. A félnomadizmus során egy csoport állandó, mindig ugyanazok között a helyek között vándorol oda-vissza.
+:10. Ezt a nyári és téli legelők közötti szabályos vándorlást transzhumánsnak nevezik.
+:11. A magyaroknak tehát voltak állandó helyeik, ahová évről évre visszatértek.
+:12. Nyáron a zamatos legelőket keresték, télen pedig védett és enyhébb éghajlatú területeket.
+:13. Életük ritmusa teljes mértékben az évszakokhoz és a fűhöz igazodott.
+:14. Hiszen a fű volt a nyájak, és így maguknak az embereknek is az életalapja.
+:15. Ha egy legelőt legeltek le, a csoportnak tovább kellett vándorolnia, hogy új takarmányt találjon.
+:16. Így a jószág kényszerítette az embereket a vándorlásra, nem fordítva.
+:17. A magyarok legfontosabb lakóhelye a hordozható sátor volt.
+:18. A sztyepp népek ezen kerek nemezsátrát ma jurta néven ismerjük.
+:19. A „jurt” szó egy török nyelvből származik, és magát a lakóhelyet jelöli.
+:20. Maguk a magyarok valószínűleg egy saját, ómagyar szóval nevezték a sátrukat.
+:21. A jurta a praktikum és a sztyeppélethez való alkalmazkodás remekműve volt.
+:22. Vázát egy könnyű, összecsukható fa rács alkotta.
+:23. Ezt a rácsot szét lehetett húzni, és kerek falgyűrűvé formálni.
+:24. A falgyűrűn számos tetőrúd nyugodott, amelyek felfelé, a középpont felé futottak össze.
+:25. A tető közepén a rudak egy fa gyűrűnél találkoztak.
+:26. Ez a tetőgyűrű beengedte a fényt, és kiengedte a tűz füstjét.
+:27. Az egész vázra vastag, hengerelt nemez takarókat feszítettek ki.
+:28. A nemez úgy készül, hogy a juhgyapjút nedvesség, hő és nyomás hatására összenyomják.
+:29. A nemez kint tartotta a téli hideget és a nyári hőséget.
+:30. Nagy hőség esetén fel lehetett emelni az filcszöveteket fel lehetett emelni, és levegőt beengedni.
+:31. Így a jurtában télen meleg volt, nyáron pedig hűvös és jól szellőző.
+:32. Kerek alakja kevés felületet nyújtott a sztyepp szélének.
+:33. Még a heves viharok sem tudtak komoly kárt okozni az alacsony, kerek sátorban.
+:34. A jurta legnagyobb előnye azonban a könnyű mozgathatóságában rejlett.
+:35. Egy tapasztalt család rövid idő alatt fel tudta állítani és lebontani a sátrát.
+:36. Szétszerelt állapotban az egész lakóhelyet néhány állatra vagy szekérre lehetett rakni.
+:37. Így a nép mintegy magával vitte házait a sztyeppén át.
+:38. A jurtában szigorú, ésszerű rend uralkodott.
+:39. Középen égett a tűzhely, a ház meleget adó és főzésre szolgáló központja.
+:40. A tüzet sok sztyeppai nép egyszerre tartotta szentnek, és nem szabadott megsérteni.
+:41. A tűz körül a helyek rang és nem szerint voltak elosztva.
+:42. A díszhely általában a bejárattal szemben volt, és a házigazdának és a vendégeknek volt fenntartva.
+:43. A sátor egyik oldalát gyakran a férfiaké, a másikat a nőkének tartották.
+:44. A padlót nemezszőnyegek, állatbőrök és szőtt takarók borították.
+:45. A falakon fegyverek, nyergek, lovaglófelszerelések és a család vagyontárgyai lógtak.
+:46. A ládákban és zsákokban ruhákat, élelmiszer-készleteket és értékes tárgyakat tároltak.
+:47. A szűk térben így minden, ami az élethez szükséges, kéznél volt.
+:48. Engedjünk meg itt egy díszítő jellegű spekulációt, amely nem bizonyított tény.
+:49. Képzeljük el, milyen szag uralkodhatott egy ilyen jurtában.
+:50. Valószínűleg füst, lóizzadság, savanyú kancatej és bőr szaga volt.
+:51. A félhomályban parázsoltak a szénparazsak, míg odakint a szél végigsöpört a síkságon.
+:52. Talán szárított gyógynövények és húscsíkok lógtak a tető alatt.
+:53. Mindez azonban csak elképzelés marad, hiszen a források nem szólnak ilyen részletekről.
+:54. Csak az biztos, hogy a jurta egyszerre nyújtott menedéket, meleget és otthont.
+:55. Természetesen nem minden magyar lakott egész évben sátrakban.
+:56. A téli táborokban egyesek szilárdabb, félig a földbe ásott kunyhókat is emeltek.
+:57. Az ilyen, részben a földbe süllyesztett lakóhelyek további védelmet nyújtottak a téli hideg ellen.
+:58. A régészet nyomait találta ilyen gödörházaknak egykori téli táborhelyeken.
+:59. Az életmód tehát nem volt merev, hanem alkalmazkodott az évszakhoz.
+:60. Nyáron a könnyű sátor, télen a szilárdabb kunyhó – így váltakozott a lakóhely.
+:61. Az egyes jurták soha nem álltak egyedül a sztyeppe végtelenjében.
+:62. Mindig több sátor egyesült egy nagyobb táborrá.
+:63. Egy ilyen tábort a család, a nemzetség vagy a törzs egy része alkotott.
+:64. A sátrak gyakran körben vagy félkörben álltak egy szabad tér körül.
+:65. Ez az elrendezés védelmet nyújtott, és a táborélet közös középpontját teremtette.
+:66. A tábor közepén éjszakára összegyűltek a nyájak.
+:67. A tábor szélén kutyák és őrök vigyáztak a ragadozó állatokra és az ellenséges lovasokra.
+:68. A tábor volt a valódi életter, ahol a mindennapi élet zajlott.
+:69. Itt főztek, kézműveskedtek, ünnepeltek és igazságot szolgáltattak.
+:70. A tábor mérete a lakók gazdagságától és számától függött.
+:71. Egy hatalmas fejedelem nagy táborral rendelkezett, sok sátorral és kísérettel.
+:72. Egy szegény család csak egy vagy két sátorral vándorolt az országban.
+:73. A tábor helyét mindig körültekintéssel és nagy tapasztalattal választották ki.
+:74. Két dolognak a közelben kellett lennie: friss víznek és elegendő legelőfűnek.
+:75. Víz nélkül sem az ember, sem az állat nem tudott volna akár csak néhány napig is túlélni.
+:76. Ezért a legkedvezőbb helyek többnyire folyók, patakok vagy tavak mellett voltak.
+:77. A széltől és az ellenségektől való védelem is szerepet játszott a választásban.
+:78. A dombokról jó kilátás nyílt, a völgyek pedig védelmet nyújtottak a viharok ellen.
+:79. Maga a sztyeppe határozta meg ennek az egész életmódnak a kereteit.
+:80. A sztyeppe egy kiterjedt, fákban szegény füves táj, száraz éghajlattal.
+:81. Hatalmas övként húzódott Ázsiától Kelet-Európáig.
+:82. Ezen a fűtengeren a lovasok és a csordák hatalmas távolságokat tudtak megtenni.
+:83. A nyílt, tágas tér kedvezett a mobilitásnak, és ezzel az egész nomád életmódnak.
+:84. A mobilitás szó mozgékonyságot jelent, azaz azt a képességet, hogy gyorsan helyet váltsunk.
+:85. Ez a mobilitás a magyarok számára nem hiányosság volt, hanem nagy erősség.
+:86. Aki gyorsan tudott haladni, az elmenekült az ellenség elől, és mindig új legelőket talált.
+:87. E mozgékonyság középpontjában a ló állt.
+:88. A ló nélkül a magyarok egész sztyeppei élete elképzelhetetlen lett volna.
+:89. A ló vitte a lovast, húzta a szekereket, és biztosította a nép mozgását.
+:90. A magyarokat kiváló lovasoknak tartották, akik szinte a ló hátán éltek.
+:91. Már a gyerekek is megtanultak lovagolni, alig hogy járni tudtak.
+:92. A lovak mellett szarvasmarhákat és szekereket is használtak a nehéz terhek szállítására.
+:93. Négykerekű szekereken szállították magukkal a szétszerelt sátrakat és a vagyonukat.
+:94. Egyes források akár olyan sátrakról is beszámolnak, amelyeket magukon a szekereken állítottak fel.
+:95. Az ilyen mozgó lakóhelyekről más sztyeppei népek esetében is bőven vannak bizonyítékok.
+:96. Az azonban nem bizonyított, hogy a magyarok is szekérsátrakban laktak-e.
+:97. Egy egész tábor áthelyezése nagy és jól szervezett vállalkozás volt.
+:98. Leszerelték a sátrakat, megrakták a szekereket, összeterelték az állatállományt.
+:99. Ezután egy hosszú, emberekből, állatokból és szekerekből álló menet indult útnak.
+:100. A menet sorrendje és rendje feltehetően szigorú szabályok szerint alakult.
+:101. A harcosok az élén és a szárnyakon védték a táborot az esetleges támadások ellen.
+:102. Középen haladtak a családok, a szekerek és az értékes állatállományok.
+:103. Így haladt a tábor rendezett egészként a tájon át.
+:104. Az útvonalak, amelyeken haladtak, nem véletlenszerű ösvények voltak.
+:105. Ezek a legelők közötti, régóta ismert, rögzített vándorlási útvonalak voltak.
+:106. Ezek az útvonalak a víz, a fű és a terep adottságait követték.
+:107. A folyók vizet nyújtottak, völgyeik pedig gyakran a legkényelmesebb utat jelentették.
+:108. A hegyeket és a mocsarakat viszont elkerülték, vagy csak ismert helyeken keltek át rajtuk.
+:109. Ezekről az útvonalakról szóló tudást nemzedékről nemzedékre adták át.
+:110. A vezetők és az idősebb férfiak pontosan ismerték az utakat és a kedvező helyeket.
+:111. Ez a tapasztalati tudás a csoport túléléséhez rendkívül fontos volt.
+:112. Hosszú vándorlásuk során keletről a magyarok hatalmas távolságokat tettek meg.
+:113. Ősi hazájukból több közbenső állomáson keresztül nyugat felé vonultak.
+:114. Ezekhez az állomásokhoz tartozott Levedia, majd később Etelköz területe is.
+:115. Levedia feltehetően a dél-orosz sztyeppék területén feküdt.
+:116. Etelköz ennél nyugatabbra, a Fekete-tengertől északra fekvő nagy folyók között terült el.
+:117. Az Etelköz név nagyjából „folyók közötti földet” vagy „a folyók közötti vidéket” jelent.
+:118. Etelközből az utolsó nagy vándorlás végül a Kárpátok medencéjébe vezetett.
+:119. Ez a nagy vándorlás nem céltalan menekülés volt, hanem célirányos mozgás.
+:120. Évtizedeken át vezette a népet későbbi lakóhelye felé.
+:121. Levedia és Etelköz pontos elhelyezkedése a mai napig vitatott.
+:122. A források szűkösek, és egyes pontokban ellentmondanak egymásnak.
+:123. A kutatás ezért csak hozzávetőlegesen tudja rekonstruálni a vándorlási útvonalakat.
+:124. A magyarok pontos útjáról ezért sok minden csak feltételezés marad.
+:125. Csak az irány biztos: a keleti sztyeppékről Közép-Európába.
+:126. E hosszú vándorlás célja a Kárpátok belsejében fekvő medence volt.
+:127. A Kárpát-medence egy nagy síkság, amelyet egy hegyív vesz körül.
+:128. Ez a hegyív, a Kárpátok, természetes védőfalat képez.
+:129. Belsejében terült el a kiterjedt síkság, amely később Magyarország magterületévé vált.
+:130. Ez a síkság valószínűleg a magyarokat származásuk helyszínének, a jól ismert sztyeppének emlékeztette.
+:131. Itt találtak legelőket, vizet és helyet állataiknak és sátraiknak.
+:132. Így a Kárpát-medence egy lovas nép számára szinte ideális életteret jelentett.
+:133. A magyar alföldet magyarul Alföldnek hívják.
+:134. Széles füves területeket kínált, amelyekre a nomád életmódnak szüksége volt.
+:135. Ebben a tájban a magyarok eleinte folytathatták megszokott életmódjukat.
+:136. A Kárpát-medence azonban kisebb és szűkebb volt, mint a keleti végtelen sztyeppe.
+:137. Körülötte hegyek és letelepedett szomszéd népek zárták körül a területet.
+:138. Hosszú távon a kiterjedt vándorlás itt már nem folytatható volt.
+:139. Itt rejlik a későbbi életmódváltozás magja.
+:140. A terület elfoglalása után a vándorlás és az letelepedés közötti viszony megváltozni kezdett.
+:141. A vándorlások rövidebbek lettek, és szűkebb területekre korlátozódtak.
+:142. A távoli vándorlások helyett a közeli nyári és téli táborok közötti váltakozás alakult ki.
+:143. Fokozatosan kialakultak az első állandó települések a kedvező helyeken.
+:144. Egy folyó melletti téli táborból idővel falu fejlődhetett ki.
+:145. Így a táborhelyek fokozatosan állandó lakóhelyekké alakultak át.
+:146. A jurtát lassan felváltotta a fából, agyagból és fonott anyagból épült állandó ház.
+:147. Ez a változás azonban nem egyik napról a másikra, hanem sok generáció alatt ment végbe.
+:148. A földfoglalás után még hosszú ideig sokan ragaszkodtak a régi életmódhoz.
+:149. Különösen a pásztorok vándoroltak továbbra is nyájaikkal a legelők között.
+:150. Ez a félnomád pásztorkultúra Magyarországon sokkal későbbi időkig fennmaradt.
+:151. Még ma is a pusztai pásztorok emlékeztetnek a sztyeppe ősi örökségére.
+:152. A puszta a Magyar Alföld széles, fátlan füves sztyeppéje.
+:153. Tájában és szokásaiban tovább él a lovas nomádok emléke.
+:154. A régészet leletekkel egészíti ki a települési viszonyokról alkotott képet.
+:155. A hajdani téli táborhelyeken tűzhelyek és gödörházak maradványait találták.
+:156. A szétszórt leletek elárulják azokat a helyeket, ahol egykor sátrak álltak.
+:157. A sírok eloszlásából következtetni lehet a táborok elhelyezkedésére.
+:158. Hiszen a halottakat gyakran a lakóhelyek közelében temették el.
+:159. Így sok apró nyom alapján áll össze a hajdani életterek képe.
+:160. Ennek ellenére a korai magyarok letelepedési módjáról sok minden rejtély marad.
+:161. A mulandó sátrak sokkal kevesebb nyomot hagynak hátra, mint a kőházak.
+:162. Aki a sztyeppén vándorol, az csak keveset hagy hátra az utókor számára.
+:163. Pontosan ebben rejlik a nehézség a nomád élet kutatásában.
+:164. A kutatás ezért ismét más sztyepp népekkel való összehasonlításokra támaszkodik.
+:165. A mongolok, törökök és szkíták esetében ismert tények segítenek kitölteni a hiányzó részeket.
+:166. Az ilyen analógiai következtetések hasznosak, de mindig bizonytalanok maradnak.
+:167. Hiszen nem minden nép élt és vándorolt pontosan ugyanúgy.
+:168. A magyar letelepedési módnak bizonyára megvoltak a maga sajátosságai is.
+:169. megmarad az alapvető minta: a sátor, a tábor és a rendszeres vándorlás.
+:170. A jurt volt a mozgatható ház, amelyet bárhová magukkal vihettek.
+:171. A tábor volt az a közösség, amelyben a mindennapi élet zajlott.
+:172. A vándorlási útvonal összekötötte a nyári és a téli állandó helyeket.
+:173. A ló biztosította az egész élet rendkívüli mozgékonyságát.
+:174. Ez a három dolog együttesen biztosította a sztyeppéhez való tökéletes alkalmazkodást.
+:175. Ez nem a letelepedettség primitív előfoka volt, hanem önálló, magasan fejlett életforma.
+:176. Csak a Kárpát-medence szűk világa kényszerítette fokozatosan véget ennek az életformának.
+:177. De öröksége évszázadokon át hatott a magyar kultúrára.
+:178. A lovasban, a lóban és a hatalmas pusztában a sztyeppe mindig jelen volt.
+:179. Így vezet az út a nomádok jurtájától az letelepedett magyarok falujáig.
+:180. És ebben a változásban – a vándorlástól az állandó letelepedésig – rejlik a magyar történelem lényegének egy része.
+
+
+=== Gazdaság és megélhetés: lótenyésztés és portyák ===
+
+
+:1. A magyarok gazdasága a földfoglalás előtt két nagy pilléren nyugodott.
+:2. Az első pillér az állattenyésztés volt, a második pedig a portyák a rablóhadjáratok keretében.
+:3. Ez a kettő együtt biztosította a nép túlélését és jólétét.
+:4. A mindennapi élet alapját a saját állatállományból való ellátás képezte.
+:5. Ezt a tisztán önellátó gazdaságot szaknyelven önellátó gazdaságnak nevezik.
+:6. Az önellátó gazdaságban egy közösség szinte mindent, amire az élethez szüksége van, saját maga termel.
+:7. Tehát nem elsősorban eladásra, hanem a saját szükségleteik kielégítésére gazdálkodtak.
+:8. A magyarok ebben a tekintetben nagyrészt önellátóak voltak.
+:9. Állatállományuk egyszerre biztosította számukra az élelmet, a ruházatot, a szerszámokat és a tüzelőanyagot.
+:10. Az egész gazdaság legfontosabb állata a ló volt.
+:11. A ló a magyar élet középpontjában állt, mint egyetlen más teremtmény sem.
+:12. Egyszerre volt lovagló- és teherhordó állat, élelmiszerforrás és státuszszimbólum.
+:13. A ló nélkül a lovas nomádok egész életmódja nem létezhetett volna.
+:14. Ezért a magyarok a legnagyobb gondossággal foglalkoztak lovaik tenyésztésével.
+:15. A sztyepp népek lovai kicsik, szívósak és rendkívül ellenállóak voltak.
+:16. Nem nemes versenylovak voltak, hanem szerény igényű és kitartó állatok.
+:17. Még a zord télen is képesek voltak maguknak a hó alól előásni a táplálékukat.
+:18. Ez a képesség, hogy egész évben a szabadban túléljenek, pótolhatatlanná tette őket a nomádok számára.
+:19. Egy-egy harcos gyakran több lóval is rendelkezett, amelyeket a vándorlás során felváltva lovagolt meg.
+:20. Így hatalmas távolságokat tudott megtenni anélkül, hogy bármelyik állat kimerült volna.
+:21. Ez a sok ló biztosította a magyaroknak hírhedt gyorsaságukat.
+:22. A kancatej emellett a sztyepp népek fontos élelmiszere volt.
+:23. Az erjesztett kancatejből enyhén bódító italt készítettek.
+:24. Ez a lótejből készült erjesztett ital kumys néven ismert.
+:25. Valószínű, hogy a magyarok is készítettek kumys-t, de erre nincs kifejezett bizonyíték.
+:26. A ló mellett a magyarok más állatokból is nagy állományokat tartottak.
+:27. Ezek közé tartoztak elsősorban a szarvasmarhák, a juhok és a kecskék.
+:28. A szarvasmarha húst, tejet és bőrt szolgáltatott, valamint erős vontatóállatként szolgált.
+:29. A juh gyapjút, tejet, húst és a ruházathoz szükséges szőrmét szolgáltatta.
+:30. De a juh elsősorban a létfontosságú nemezhez szükséges gyapjút szolgáltatta.
+:31. Ebből a nemezből készítették a sátrak takaróit és a meleg ruhadarabokat.
+:32. Így a juh a sátor számára éppoly fontos volt, mint a ló a háborúban.
+:33. A kecske, mint szerény és igénytelen állat, kiegészítette a nyájakat.
+:34. Ezek a különböző állatok gyakran vegyes vagy különálló nyájakban legeltek.
+:35. A nyájak őrzése állandó és fárasztó feladat volt.
+:36. A pásztorok, gyakran szolgák vagy fiatal férfiak, éjjel-nappal őrizték az állatokat.
+:37. Megvédték a nyájakat a ragadozóktól, például a farkasoktól, és az emberi tolvajoktól is.
+:38. Hiszen a sztyeppén az állatlopás elterjedt csapás volt.
+:39. Egy nyáj elvesztése rövid időn belül nyomorba taszíthatta egy családot.
+:40. Ezért az állatállományt a legnagyobb kincsnek tekintették, és szigorúan őrizték.
+:41. Egy ember gazdagságát kizárólag az állatainak száma alapján mérték.
+:42. Nem létezett a mai értelemben vett pénz, amellyel a jólétet lehetett volna mérni.
+:43. Aki ezer lovat birtokolt, az gazdag volt, aki nem birtokolt, az szegény volt.
+:44. A szarvasmarha egyszerre jelentett vagyont, élelmiszer-készletet és csereeszközt.
+:45. A magyarok étrendje nagymértékben állati eredetű termékeken alapult.
+:46. A hús, a tej és a tejtermékek képezték étrendjük fő alkotóelemeit.
+:47. A tejből sajtot, túrót és tartós, szárított tejtermékeket állítottak elő.
+:48. A szárított tej és a szárított hús hosszú ideig tárolható és magukkal vihető volt.
+:49. Az ilyen tartós élelmiszer-készletek elengedhetetlenek voltak a hosszú vándorlások és hadjáratok során.
+:50. A hús saját állataikból, de vadászatból is származott.
+:51. A vadászat kiegészítette az étrendet, és egyben háborús gyakorlás is volt.
+:52. A vadászat során a lovasok fejlesztették íjászatuk és lovaglásuk ügyességét.
+:53. Olyan vadakat ejtettek el, mint a szarvasok, a vaddisznók, a mezei nyulak és mindenféle madár.
+:54. A folyókban való halászat is hozzájárult az élelmiszer-ellátáshoz.
+:55. E nomád életmód ellenére a szántóföldi gazdálkodás nem volt teljesen idegen a magyaroktól.
+:56. Valószínűleg állandó téli táborhelyeiken egyszerű növénytermesztést folytattak.
+:57. Ott tavasszal gabonát vethettek, nyáron pedig betakaríthatták.
+:58. Ez a korlátozott mértékű földművelés köles és más, kevés gondozást igénylő gabonaféléket eredményezett.
+:59. A köles egy igénytelen gabona volt, amely száraz talajon is jól megterem.
+:60. Nyelvi nyomok arra utalnak, hogy a magyarok már korán ismertek földművelést.
+:61. A szántóföldi gazdálkodásra és a gabonára vonatkozó számos magyar szó a török nyelvből származik.
+:62. Ez azt mutatja, hogy a magyarok a török népektől vették át a mezőgazdasági ismereteket.
+:63. A kazárokkal és más török népekkel való találkozás tehát nyomot hagyott a gazdaságban.
+:64. Ennek ellenére a szántóföldi gazdálkodás mindig is kisebb jelentőségű maradt az állattenyésztéshez képest.
+:65. A magyarok elsősorban pásztorok és lovasok voltak, nem pedig földművelők.
+:66. Az önellátás mellett a kereskedelem is bizonyos szerepet játszott.
+:67. Bizonyos árukat a saját gazdaságuk nem tudott előállítani.
+:68. Ide tartoztak az értékes szövetek, a jó minőségű fémből készült fegyverek és a luxuscikkek.
+:69. Az ilyen árukat a letelepedett szomszédos népektől kellett cserélni vagy zsákmányként megszerezni.
+:70. Cserébe a magyarok elsősorban állataikat és termékeiket ajánlották fel.
+:71. A lovak, a szőrmék, a bőrök és a viasz keresett kereskedelmi áruk voltak.
+:72. Különösen fontos és jövedelmező kereskedelmi áru volt azonban a rabszolga.
+:73. A magyarok háborús foglyaikat a szomszédos népek kereskedőinek adták el.
+:74. Különösen a gazdag bizánciak fizettek jó árat az emberi árucikkért.
+:75. Így a rabszolga-kereskedelem szorosan összekapcsolódott a gazdaság második pillérével: a háborúval.
+:76. Ezzel eljutunk a magyar jólét második nagy forrásának vizsgálatához.
+:77. Ez a második pillér a fosztogató hadjárat volt, az idegen földre irányuló fegyveres zsákmányszerzés.
+:78. Egy lovas nép számára a háború nem csupán védekezés volt, hanem gazdaság is.
+:79. A fosztogató hadjáratok célja azoknak az áruknak a megszerzése volt, amelyeket maguk nem termeltek.
+:80. Mondhatnánk, hogy a háború a magyarok számára a gazdálkodás egy sajátos formája volt.
+:81. Amit a sztyeppe talaja nem adott, azt karddal szerezték meg.
+:82. E rablóhadjáratok célpontjai a környező gazdag, letelepedett országok voltak.
+:83. Ott teli éléskamrák, arany, ezüst és értékes áruk csábítottak.
+:84. De mindenekelőtt azok az emberek csábítottak oda, akiket rabszolgaként el lehetett hurcolni.
+:85. Egy sikeres portyával egy harcos egy csapásra meggazdagodhatott.
+:86. A zsákmányt szigorú szabályok szerint osztották szét a résztvevők között.
+:87. A vezér kapta a legnagyobb részt, de a közönséges harcos sem maradt üres kézzel.
+:88. A zsákmány reménye erős ösztönző volt a háborúban való részvételre.
+:89. Ez egyúttal szorosan összekötötte a harcosokat sikeres vezéreikkel.
+:90. Hiszen egy fejedelem, aki gazdag zsákmányt ígért, mindig talált hajlandó követőket.
+:91. Így a háború, a zsákmány és a társadalmi rend elválaszthatatlanul összefonódtak egymással.
+:92. A magyar hadviselés teljes mértékben a lovas íjászok taktikáján alapult.
+:93. Legfontosabb fegyverük a kompozit reflexív volt.
+:94. A reflexív több réteg fából, szarvból és ínből készült.
+:95. Ez a szerkezet kis mérete ellenére hatalmas áthatolóerőt biztosított neki.
+:96. A vágtázó lóról a magyarok nagy pontossággal tudták kilőni nyilaikat.
+:97. Előre, oldalra és akár hátra is lőttek a ló hátán át.
+:98. Ez a visszavonulás közbeni hátrafelé irányuló lövés különösen rettegett hadicsel volt.
+:99. Egy ősi sztyeppei népről elnevezve ezt „parth lövésnek” nevezik.
+:100. Az ellenséges seregeket messziről nyilakkal árasztották el és gyengítették meg.
+:101. Csak ezután támadtak a magyarok karddal és lándzsával közelharcra.
+:102. Az egyik leghatékonyabb taktikájuk a színlelt visszavonulás volt.
+:103. A lovasok látszólag menekültek, így az ellenséget üldözésre és rendezetlenségbe csábították.
+:104. Majd hirtelen megfordultak, és megsemmisítették a szétszóródott ellenséget.
+:105. Ez a fortély a lovasok vasfegyelmét és nagy tapasztalatát igényelte.
+:106. Gyorsaságuk lehetővé tette a magyarok számára, hogy távoli célpontokat meglepetésszerűen támadjanak meg.
+:107. Váratlanul jelentek meg, raboltak és fosztogattak, majd eltűntek, mielőtt segítség érkezett volna.
+:108. A letelepedett népek nehézkes seregei gyakran tehetetlenek voltak velük szemben.
+:109. Így a magyar lovasok félelmet és rettegést keltettek Európa nagy részén.
+:110. Ezek a fosztogató hadjáratok később főként a mai Németország és Olaszország területét érintették.
+:111. Ez azonban már a területfoglalás utáni időszakba tartozik.
+:112. A sztyeppek korszakában a rablóhadjáratok eleinte a közvetlen szomszédokra irányultak.
+:113. Megtámadták a szláv törzseket és más szomszédos népeket.
+:114. Ezeknél a támadásoknál állatállományt, élelmiszer-készleteket és főként foglyokat zsákmányoltak.
+:115. A szláv szomszédok a rabszolga-kereskedelem egyik kedvelt forrását jelentették.
+:116. Itt engedhetünk meg magunknak egy színesítő spekulációt, amely nem bizonyított tény.
+:117. Képzeljük el egy hazatérő rablóhadjáratot, idegen zsákmánnyal megrakodva.
+:118. A lovasok maguk előtt hajtották a zsákmányolt állatokat és a megkötözött foglyokat.
+:119. A teherlovakon szövetekből, edényekből és háztartási cikkekből álló csomagok ingadoztak.
+:120. A táborban a hazatérést talán ünnepséggel és a zsákmány felosztásával ünnepelték.
+:121. Mindez azonban csupán elképzelés marad, mivel a források nem írják le részletesen az ilyen jeleneteket.
+:122. Csak az biztos, hogy a zsákmány jelentősen gazdagította a magyarok gazdaságát.
+:123. A háború és a béke így ugyanazon gazdasági életmód két oldalát alkották.
+:124. Békeidőben a nyájból éltek, háború idején pedig a zsákmányból.
+:125. A háborús jövedelemszerzés egy másik formája a kényszerített adó volt.
+:126. Az adó egy rendszeres fizetés, amelyet egy gyengébbnek egy erősebbnek kell teljesítenie.
+:127. A gyengébb szomszédok ilyen fizetésekkel váltották ki magukat a portyák alól.
+:128. Aranyat, ezüstöt vagy árukat szállítottak, hogy megvásárolják a békét.
+:129. Maguk a magyarok is időnként adót kellett fizessenek erősebb népeknek.
+:130. Így valószínűleg egy ideig adót fizettek a túlerőben lévő kazároknak.
+:131. A tribútum, a zsákmány és a kereskedelem így sűrű hálózatba fonódott össze.
+:132. Mindez együttesen olyan gazdaságot eredményezett, amely a mozgáson és az erőn alapult.
+:133. Rossz években sebezhető volt, de jó években rendkívül sikeres.
+:134. Egy súlyos aszály vagy egy zord tél elpusztíthatta a nyájakat.
+:135. A nyájak körében bekövetkező pusztító állatpusztulást állatjárványnak nevezik.
+:136. Az ilyen katasztrófák gyakran éppen rablóhadjáratokra kényszerítették a magyarokat.
+:137. Aki elvesztette a nyáját, annak újat kellett zsákmányolnia, vagy éhen kellett halnia.
+:138. Így a szükség még tovább fokozhatta a harci kedvet.
+:139. A sztyeppei gazdaság így szorosan kötődött a természethez és az éghajlathoz.
+:140. Az ember kiszolgáltatva volt az időjárás, a fű és a víz szeszélyeinek.
+:141. Ez a függőség meghatározta a nomádok egész gondolkodásmódját és cselekvését.
+:142. Az előrelátás, a mobilitás és a háborúra való felkészültség voltak a válaszok erre.
+:143. A Kárpát-medence elfoglalásával a gazdaság is átalakulni kezdett.
+:144. Az alföld gazdag talaja egyre inkább a szántóföldi gazdálkodásra ösztönzött.
+:145. Fokozatosan a gabonatermesztés nyert jelentőséget az állattenyésztéssel szemben.
+:146. A pásztorok generációkon át részben letelepedett parasztokká váltak.
+:147. Az állattenyésztés, és különösen a lótenyésztés azonban még hosszú ideig fontos maradt.
+:148. A zsákmányozó portyák is folytatódtak a területfoglalás után, sőt eleinte még fokozódtak is.
+:149. Csak a 10. században elszenvedett súlyos vereségek után ért véget a fosztogató hadjáratok korszaka.
+:150. E vereségek közül a leghíresebb a 955-ös lechfeldi csata volt.
+:151. Ott a magyar sereget egy német haderő vereségre kényszerítette.
+:152. E vereség után a nyugat felé irányuló fosztogató hadjáratok elvesztették alapjukat.
+:153. A magyaroknak most már teljes mértékben át kellett állniuk az letelepedett gazdaságra.
+:154. A lovas harcosok népéből így fokozatosan parasztok és pásztorok népe lett.
+:155. Ez azonban már jóval túlmutat az itt tárgyalt sztyeppek korszakán.
+:156. A földhódítás előtti időszakra továbbra is a két pillér képe jellemző.
+:157. A lótenyésztés és az állattenyésztés békében biztosította a nép megélhetését.
+:158. A rablóhadjáratok és a kereskedelem pedig további gazdagságot hoztak számára.
+:159. Mindkettő a lóra és a lovas mozgékonyságára épült.
+:160. Így az állattenyésztés és a háborúzás önálló gazdasági egységet alkotott.
+:161. A régészeti leletek lenyűgöző módon megerősítik ezt a képet.
+:162. A sírokban ló-, szarvasmarha- és juhcsontokat találtak.
+:163. Felfedeztek kantárokat, kengyeleket és nyergeket, amelyek a lovaglásról tanúskodnak.
+:164. Nyílhegyek, szablyák és íjmaradványok tanúskodnak a harci életmódról .
+:165. A zsákmányként szerzett érmék és idegen ékszerek a rablóhadjáratokat és a kereskedelmet bizonyítják.
+:166. Így a leletek és a beszámolók összeállnak egy koherens összképpé.
+:167. Mindazonáltal itt is a gazdaság számos részlete homályban marad.
+:168. Hogy mekkora volt a nyáj, mennyit termesztettek, azt nem tudjuk pontosan.
+:169. A kutatásnak ismét becslésekre és összehasonlításokra kell támaszkodnia.
+:170. Ami más sztyeppei népekről ismert, segít kitölteni a hiányosságokat.
+:171. Az ilyen átvételek azonban mindig bizonytalansággal járnak.
+:172. Meg kell jegyezni a magyar gazdaság lényegét a földfoglalás előtt.
+:173. Ez egy önellátó gazdaság volt, amely az állattenyésztésen, és elsősorban a lovon alapult.
+:174. Ezt kiegészítette a korlátozott szántóföldi gazdálkodás, a vadászat és a kereskedelem.
+:175. És mindezt a háború koronázta meg, mint a gazdasági megélhetés sajátos formáját.
+:176. A zsákmány, a tribútum és a rabszolga-kereskedelem pótolta azt, amit a csordák önmagukban nem tudtak biztosítani.
+:177. Ez a gazdaság teljes mértékben a sztyeppén való élethez igazodott.
+:178. Gazdaggá, mozgékonnyá és harciasá tette egyszerre a magyarokat.
+:179. És ez a gazdaság fektette le az alapját annak a hatalomnak, amellyel meghódították a Kárpát-medencét.
+:180. Így vezet az út a kancatejtől és a reflexív íjtól egyenesen az 896-os földhódításig.
+
+
+=== Vallási meggyőződések: sámánizmus és ősök imádata ===
+
+
+:1. A sztyeppek korának magyarjai nem voltak keresztények, hanem egy ősi természeti hitet követtek.
+:2. Vallásuk szorosan kapcsolódott a sztyeppek, az állatok és az ősök világához.
+:3. A kutatások azonban nagyon kevés biztosat tudnak erről az ősi hitről.
+:4. Hiszen a pogány magyarok maguk nem hagytak hátra írásos emlékeket hitükről.
+:5. A szent írások és rögzített tanok nélküli vallást gyakran természeti vallásnak nevezik.
+:6. Amit erről a hitről tudunk, az későbbi és idegen forrásokból származik.
+:7. A pogányság ellen harcoló keresztény papok csak lekicsinylően számoltak be róla.
+:8. Az ősi hitet babonának és az ördög művének ábrázolták.
+:9. Az ilyen ellenséges beszámolókat forrásként csak nagy óvatossággal szabad felhasználni.
+:10. A magyar vallásról ezért sok mindent következtetni kell, vagy feltételezni.
+:11. A kutatás ehhez ismét a rokon népekkel való összehasonlításhoz folyamodik.
+:12. Különösen más finnugor és török népek hite szolgál példaként.
+:13. Ezen összehasonlításokból egy hozzávetőleges, de hiányos kép alakul ki.
+:14. A magyarok ősi hitét általában sámánizmusnak nevezik.
+:15. A sámánizmus egy olyan hitforma, amely Észak-Ázsia számos népe körében elterjedt volt.
+:16. Középpontjában egy különleges személy áll, a sámán.
+:17. A „sámán” szó eredetileg egy szibériai nép nyelvéből származik.
+:18. A sámánt az emberek és a szellemek világa közötti közvetítőnek tartották.
+:19. Úgy hitték, hogy lelkével más világokba is eljuthat.
+:20. Ebben az elragadtatott állapotban kapcsolatba lépett a szellemekkel és az istenekkel.
+:21. A sámán dobolással, tánccal és énekléssel érte el ezt a megváltozott tudatállapotot.
+:22. A dob volt ekkor a legfontosabb és legszentebb eszköze.
+:23. A dob egyenletes ütéseivel elragadtatott állapotba került.
+:24. Ezt az állapotot lelki elragadtatásnak nevezik.
+:25. A transzban – úgy hitték – a sámán lelke elhagyta testét.
+:26. Felemelkedett a felső világba, vagy leereszkedett az alvilágba.
+:27. Ott a sámán tanácsot kért, betegségeket gyógyított vagy a halottak lelkeit kísérte.
+:28. A magyaroknál ennek a szellemidézőnek saját neve volt.
+:29. Valószínűleg az ómagyar „táltos” szóval illették.
+:30. A táltos volt a magyar sámán, a nép látnoka és gyógyítója.
+:31. A néphit szerint a táltos már születésekor különleges jelekkel rendelkezett.
+:32. Egyes elbeszélések szerint felesleges fogakkal vagy ujjakkal jött a világra.
+:33. Az ilyen jeleket a szellemek általi elhívásának bizonyítékának tekintették.
+:34. A táltos gyógyította a betegeket, jósolta a jövőt, és esőt vagy jó időt idézett elő.
+:35. Ő állt az emberek és az életüket irányító láthatatlan erők között.
+:36. A magyarok képzeletvilágában feltehetően a világ háromrészes felépítésű volt.
+:37. Hittek egy felsővilágban, egy középvilágban és egy alvilágban.
+:38. A felsővilágban, az égen laktak az istenek és a jó szellemek.
+:39. A középvilágban, a földön éltek az emberek, az állatok és a növények.
+:40. Az alvilágban a halottak szellemei és a sötét erők laktak.
+:41. Ezt a három világot egy hatalmas tengely kötötte össze egymással.
+:42. Ezt a kapcsolatot gyakran egy hatalmas világfaként képzelték el.
+:43. A világfa gyökerei az alvilágba nyúltak, koronája pedig az égig ért.
+:44. Rá fel- és le tudott mászni a sámán lelke a világok között.
+:45. Az ilyen világfa elképzelése számos észak-ázsiai népnél megtalálható.
+:46. A magyar népmeseiben ez a fa a „menny magas fa” néven él tovább.
+:47. Ezek a mesék valószínűleg a pogány hit ősi töredékeit őrizték meg.
+:48. A mennyei erők élén feltehetően egy legfőbb mennyei isten állt.
+:49. Számos sztyeppei nép magát az eget imádta legfőbb istenségként.
+:50. A törököknél ezt a mennyei istent Tengrinek, az örök kék égnek nevezték.
+:51. Valószínű, de nem biztos, hogy a magyarok is ismertek-e ilyen égistent.
+:52. Lehetséges, hogy az eget és a napot isteni erőként imádták.
+:53. A természeti erőket, mint a szél, a víz és a tűz, szintén lelkesnek tartották.
+:54. Ezt a hitet, miszerint a természet minden eleme lelket hordoz, animizmusnak nevezik.
+:55. Az animizmusban a folyók, hegyek, fák és állatok szellemekkel telítettek.
+:56. Az embernek tisztelnie kellett ezeket a szellemeket, és áldozatokkal kellett kegyükbe férkőznie.
+:57. A magyarok számára valószínűleg a tűz volt különösen szent.
+:58. A jurtában középen égő tüzet tisztának tartották, és nem szabadott beszennyezni.
+:59. Nem szabadott a tűzbe köpni vagy hulladékot dobni, hogy ne sértsék meg.
+:60. A folyók és források vizét is tisztelettel kezelték.
+:61. Központi szerepet játszott a magyarok hitében az ősök tisztelete.
+:62. Ősöknek nevezik egy család vagy nemzetség elhunyt elődeit.
+:63. Úgy hitték, hogy a halottak egy másik világban élnek tovább, és vigyáznak az élőkre.
+:64. Az ősök szellemei segíthettek az utódoknak, vagy haragudhattak rájuk.
+:65. Ezért fontos volt tisztelni a halottakat és ápolni emléküket.
+:66. Áldozatot mutattak be az ősöknek, és fontos alkalmakkor megemlékeztek róluk.
+:67. Ha elhanyagolták a halottakat, féltek haragjuktól és bosszújuktól.
+:68. Ez a szoros kötődés az ősökhöz egyúttal erősítette a nemzetség összetartását is.
+:69. Hiszen a közös ősök kötötték össze a család minden tagját.
+:70. A nemesi nemzetségek hatalmukat gyakran különösen dicső ősöktől vezették le.
+:71. A halottak eltemetése ezért jelentős vallási esemény volt.
+:72. A temetkezési mód sokat elárul a kutatóknak a magyarok hitéről.
+:73. A halottakat gazdag sírmellékletekkel temették el a túlvilági életre.
+:74. A sírmellékletek azok a tárgyak, amelyeket a halottal együtt tettek a sírba.
+:75. Fegyvereket, ékszereket, ételeket és szerszámokat adtak a halottnak útjára.
+:76. Ez a szokás a halál utáni életbe vetett hitet tükrözi.
+:77. Úgy gondolták, hogy a túlvilágon a halottnak ugyanazokra a dolgokra van szüksége, mint az életben.
+:78. Egy harcosnak ott is szüksége volt a fegyvereire, egy nőnek pedig az ékszereire.
+:79. Különösen jellemző volt a lovak temetésének szokása.
+:80. A halott lovas mellé a sírba tették a lovát vagy annak részeit.
+:81. Gyakran a ló koponyáját és lábait is a halott mellé helyezték.
+:82. Néha a lovaglófelszerelést, például a nyerget és a kantárt is hozzáadták.
+:83. Úgy hitték, hogy a halottnak a túlvilágon is szüksége lesz a lovára.
+:84. Hiszen ló nélkül egy magyar harcos a halálban sem volt elképzelhető.
+:85. Ezeket a lótemetkezéseket számos régészeti lelet jól tanúsítja.
+:86. A pogány hit legfontosabb tanúi közé tartoznak.
+:87. A sírok elrendezése gyakran egy meghatározott égtájat követett.
+:88. Gyakran a halottak kelet felé, a felkelő nap irányába néztek.
+:89. Ez is a nap és a fény vallási jelentőségére utal.
+:90. Engedjük meg itt egy díszítő jellegű spekulációt, amely nem bizonyított tény.
+:91. Képzeljük el egy nagy fejedelem temetését a sztyeppén.
+:92. Talán az egész tábor összegyűlt a nyitott sír körül.
+:93. A táltos dobjával talán a halott lelkét kísérte át a túlvilágra.
+:94. Lovakat áldoztak, halotti lakomát tartottak és gyászénekeket zengtek.
+:95. A sír fölé valószínűleg egy dombot emeltek látható jelként.
+:96. Mindez azonban csupán feltételezés marad, mivel a források nem írják le részletesen.
+:97. Csak az biztos, amit maguk a néma sírok árulnak el a kutatásnak.
+:98. Az istenekbe és az ősökbe vetett hit mellett létezett a szent állatok imádata is.
+:99. Bizonyos állatokat a magyarok szentnek tartottak, vagy származásuk szimbólumának tekintettek.
+:100. Ilyen mitikus címerállat volt a Turul nevű ragadozó madár.
+:101. A Turul feltehetően egy természetfeletti jelentőségű sólyom vagy sas volt.
+:102. Szent madárnak és az Árpád-ház ősének tartották.
+:103. Egy híres legenda köti össze a Turult az uralkodó-dinasztia születésével.
+:104. E legenda szerint a madár álmában jelent meg Emese ősanyának.
+:105. A hagyomány szerint ebből az álomból származott a fejedelmi nemzetség.
+:106. Ez a legenda Emese álmáról a magyarok egyik legrégebbi mítosza.
+:107. Ez a legenda összekapcsolta az uralkodóházat a mennyei és az állati szférával.
+:108. Az ilyen állatlegendák gyakran szolgáltak egy-egy dinasztia uralkodási igényének alapjául.
+:109. A szent állattól való származásba vetett hitet totemizmusnak nevezik.
+:110. A totemizmusban egy csoport eredetét egy állatra vagy szellemre vezeti vissza.
+:111. Hogy a turul valódi totemállat volt-e, a kutatók körében vitatott kérdés.
+:112. Az azonban biztos, hogy az uralkodó nemzetség hatalmas szimbóluma volt.
+:113. A turul mellett a szarvas is nagy szerepet játszott a mondavilágban.
+:114. Egy híres legenda egy csodás szarvasról szól, amely vadászokat csalogatott nyugat felé.
+:115. Ez a szarvas vezette a magyarok őseit későbbi lakóterületükre.
+:116. Az ilyen állatlegendák szorosan összekapcsolták a hitet a nép történelmével.
+:117. Mitikus módon magyarázták a magyarok eredetét és vándorlását.
+:118. A vallás és a történelmi emlékezet így elválaszthatatlanul összefonódott.
+:119. A pogány hitben feltehetően szilárd áldozati szokások is léteztek.
+:120. fontos alkalmakkor állatáldozatokat mutattak be az isteneknek és az ősöknek.
+:121. Főként lovakat áldoztak fel, a magyarok legértékesebb vagyonát.
+:122. Az áldozati állatot levágták, húsát pedig egy lakomán fogyasztották el.
+:123. Az ilyen áldozati lakomák megerősítették a közösséget és megnyugtatták a felsőbb erőket.
+:124. Hadjáratok előtt is szoktak áldozatot bemutatni, hogy a szellemek támogatását kérjék.
+:125. Szövetségek megpecsételésére is végeztek szent szertartásokat.
+:126. A már említett, a hét vezér közötti vérszerződés is ilyen szent szertartás volt.
+:127. A vér összekeverésével a természetfeletti erőket hívták tanúul.
+:128. Az eskünek és az átoknak ebben a hitvilágban nagy kötelező ereje volt.
+:129. Aki megszegte a szent esküt, az magára vonta a szellemek haragját magára.
+:130. Így a hit áthatotta az élet minden területét, a háborútól a szerződésig.
+:131. A vallás nem volt elkülönült terület, hanem az egész létezés része.
+:132. Az istenek, a szellemek és az ősök állandóan jelen voltak a magyarok mindennapi életében.
+:133. A hit és az élet e szoros összefonódása jellemző a természeti vallásokra.
+:134. A területfoglalással és a kereszténységgel való találkozással megkezdődött a változás.
+:135. A Kárpát-medencében a pogány magyarok keresztény szomszédokkal találkoztak.
+:136. Fokozatosan behatoltak a keresztény elképzelések a hitvilágukba.
+:137. Az ősi hit azonban csak lassan és nagy ellenállás mellett szorult háttérbe.
+:138. A döntő fordulatot csak 1000 körül hozta I. István király.
+:139. Szent István a kereszténységet tette a Magyar Királyság vallásává.
+:140. Templomokat építtetett, és erőszakkal szorította vissza a pogányságot.
+:141. A pogány szokásokat és a táltosokat betiltották és üldözték.
+:142. A nép többször is felkelésbe kezdett az új hit ellen.
+:143. Ezek a pogány felkelések mutatják, milyen mélyen gyökerezett még a régi hit.
+:144. Végül azonban a kereszténység tartósan érvényesült.
+:145. A régi sámánista hit nyilvános vallásként eltűnt.
+:146. A pogányság maradványai azonban évszázadokon át titokban fennmaradtak.
+:147. Tovább éltek a néphitben, a babonákban és a mesékben.
+:148. A táltos alakja a mesék varázslatos hősének alakjává.
+:149. A világfa, a turul és a csodaszarvas továbbra is éltek a mesékben.
+:150. Így őrizte meg a néphagyomány az ősi hit rejtett nyomait.
+:151. A kutatás ma ezekben a mesékben keresi a pogány vallás maradványait.
+:152. Az ilyen késői nyomokból próbálja rekonstruálni az ősi hitet.
+:153. Ez a rekonstrukció azonban fáradságos és bizonytalanságokkal teli.
+:154. Hiszen a pogányság és annak írásbeli rögzítése között sok évszázad telt el.
+:155. Ezen hosszú idő alatt az ősi elképzelések megváltoztak és összekeveredtek.
+:156. A keresztény és pogány elemek összeolvadtak a néphitben.
+:157. A magyar vallás eredeti alakját ezért alig lehet már megragadni.
+:158. Sok minden, amit erről olvasni lehet, megalapozott feltételezés, nem pedig bizonyított tudás.
+:159. Éppen ezért minden, e hitre vonatkozó kijelentésnél óvatosságra van szükség.
+:160. A kutatás gondosan megkülönbözteti a bizonyítékot a feltételezéstől.
+:161. Csak a sírokból származó régészeti leletek bizonyítottak.
+:162. A lótemetkezések, a sírmellékletek és a sírok tájolása magukért beszélnek.
+:163. Minden egyéb információt a kutatás kiegészít összehasonlítások és későbbi hagyományok alapján.
+:164. Megállapítható, hogy alapvetően egy sámánista természethitről van szó.
+:165. Középpontjában a táltos állt, mint a szellemek közvetítője.
+:166. A világ három részre volt osztva, és a világfa kötötte össze őket.
+:167. A természet lelkes volt, és az ősök vigyáztak az élőkre.
+:168. A szent állatok, mint például a turul, összekötötték a népet a mennyei szférával.
+:169. Az áldozatok, eskük és temetkezési szokások jellemezték a vallási életet.
+:170. Ez a hit teljes mértékben a sztyeppén való élethez igazodott.
+:171. Támaszt, értelmet és kapcsolatot biztosított a magyarok számára a felsőbb erőkkel.
+:172. Az letelepedésre való áttéréssel a hit fokozatosan elvesztette alapjait.
+:173. A kereszténység megfelelő vallást nyújtott az új, letelepedett életmódhoz.
+:174. Így a hit változása az egész életmód változását tükrözi.
+:175. A sztyepp szamánjától a falusi keresztény papig vezetett az út.
+:176. A keresztény látszat alatt azonban megmaradt a pogány alap.
+:177. A mondákban, mesékben és szokásokban a régi hitvilág rejtve tovább élt.
+:178. Ez a mai napig a magyar kora történelem egyik legrejtélyesebb fejezete.
+:179. Néhány lelet és későbbi nyom alapján alakul ki egy elmerült hitvilág képe.
+:180. És ebben a képben – a sámán, a világfa és a turul alakjában – tovább él az ősök sztyeppje.
+
+
+=== Kézművesség és tárgyi kultúra: fegyverek, ékszerek és mindennapi tárgyak ===
+
+
+:1. A sztyeppek korának magyarai gazdag és művészi tárgyi kultúrát hoztak létre.
+:2. Anyagi kultúrának nevezzük az emberek által készített tárgyak összességét.
+:3. Ide tartoznak a fegyverek, ékszerek, edények, ruházat és mindenféle mindennapi használati tárgy.
+:4. Ezek a tárgyak sokat árulnak el a kutatóknak alkotóik életéről és szakértelméről.
+:5. Hiszen a hittel vagy a nyelvvel ellentétben a fémtárgyak a földben fennmaradnak.
+:6. A tárgyi kultúra ezért a korai időszak legfontosabb és legmegbízhatóbb forrása.
+:7. A róla ismert információk elsősorban a sírokból előkerült leletekből származnak.
+:8. A sírokba a halottak legértékesebb tárgyait helyezték el.
+:9. Így fegyverek, ékszerek és eszközök maradtak fenn az évszázadok során.
+:10. A régészet számos ilyen sírt tárt fel a területfoglalás korából.
+:11. A leletekből egy magas színvonalú kézművesség képe rajzolódik ki.
+:12. Ez a művészet teljes mértékben a lovas nomádok vándorló életmódjához igazodott.
+:13. Főként olyan tárgyakat készítettek, amelyeket hordani és magukkal vinni lehetett.
+:14. A nehéz és mozgathatatlan tárgyak nem illettek a nomád életmódhoz.
+:15. Ezért az egész kézművesség a kicsi, hordozható és értékes tárgyakra összpontosult.
+:16. A kézművesség középpontjában a fémmegmunkálás állt.
+:17. A magyarok ügyes kovácsok és fémművesek voltak.
+:18. A vasat kiváló minőségű fegyverekké és szerszámokká alakították.
+:19. Aranyból és ezüstből értékes ékszereket és dísztárgyakat készítettek.
+:20. A fémmegmunkálás művészetét a keleti sztyeppéken sajátították el.
+:21. Ott a lovas népek körében hosszú hagyománya volt a művészi fémmegmunkálásnak.
+:22. A magyarok így az ősi sztyeppei művészet hagyományait folytatták.
+:23. Minden vizsgálat kiindulópontja a fegyver, a harcos legfontosabb eszköze.
+:24. A magyarok legjelentősebb fegyvere az összetett reflexíj volt.
+:25. Ezt az íjat fából, szarvból és állati inakból művészien ragasztották össze.
+:26. A különböző anyagok rétegei biztosították a nagy feszítőerejét.
+:27. A íj végeit gyakran csont- vagy szarvlemezekkel erősítették meg.
+:28. Ezek a csontlemezek megmaradtak a sírokban, és tanúskodnak az íjkészítésről.
+:29. Egy ilyen íj elkészítése hosszadalmas és igényes munka volt.
+:30. Egy mesternek gyakran több évre is szüksége volt ahhoz, hogy egy jó íjat elkészítsen.
+:31. A nyilakat a harcos egy tegezben tartotta az oldalán.
+:32. A vas nyílhegyek a rendeltetésüknek megfelelően különböző formájúak voltak.
+:33. Voltak keskeny hegyek a páncélok áttörésére, és szélesek a védtelen ellenségek ellen.
+:34. Ezek a különböző nyílhegyek a sírokban leggyakrabban előkerülő leletek közé tartoznak.
+:35. A második legfontosabb fegyver a kissé ívelt szablya volt.
+:36. A szablya egy ívelt pengéjű, egyszélű vágófegyver.
+:37. Íveltsége miatt különösen alkalmas volt a lóról való harcra.
+:38. A lovas ezzel erőteljes csapásokat mért az ellenségre, miközben elhaladt mellette.
+:39. A szablyák markolatait és hüvelyeit gyakran drága fémdíszekkel díszítették.
+:40. A gazdagon díszített szablya egyszerre volt fegyver és a magas rang jelképe.
+:41. Emellett a harcosok lándzsákat és csatabárdokat is használtak közelharcban.
+:42. Védelemként sisakok és különféle páncélok szolgáltak.
+:43. A jómódú harcosok szorosan összefonott vasgyűrűkből készült páncélpólót viseltek.
+:44. Az ilyen, vasgyűrűkből készült páncélat láncpáncélnak nevezik.
+:45. A szegényebb harcosok bőrből vagy szilárd nemezből készült páncélokkal védték magukat.
+:46. A harcos felszerelése így közvetlenül tükrözte gazdagságát és rangját.
+:47. A fegyverrel elválaszthatatlanul összekapcsolódott a lovas és lova felszerelése.
+:48. Itt mutatkozott meg a magyarok kézművessége különös pompájában.
+:49. A lovasfelszereléshez tartozott a nyereg, a kantár és a kengyel.
+:50. A kantár az a fém szájrész, amellyel a lovat irányítják.
+:51. A kengyelek szilárd és biztos tartást biztosítottak a lovasnak a nyeregben.
+:52. Csak a kengyelekben való szilárd tartás tette lehetővé a galoppban történő pontos íjlövészetet.
+:53. A kengyelek ezért a lovas háború egyik legfontosabb technikai előfeltételei voltak.
+:54. A lószerszámot gyakran tetőtől talpig fémdíszekkel díszítették .
+:55. A bőrkiegészítőkre kis ezüst vagy aranyozott fémlemezeket szegeztek.
+:56. Ezek a díszítőelemek csillogó mintákat alkottak a ló hámján.
+:57. A pompásan díszített ló a jólét élő szimbóluma volt.
+:58. Így itt is összekapcsolódott a gyakorlati cél a díszítéssel és a pompázással.
+:59. A kézművesség csúcspontját azonban az ékszerek jelentették.
+:60. A magyarok szerették a gazdag arany-, ezüst- és bronzékszereket.
+:61. A férfiak és a nők egyaránt viselték őket díszként és rangjelzésként.
+:62. A legelterjedtebb ékszerek közé tartoztak a hajgyűrűk és a fülbevalók.
+:63. A nők művészien kidolgozott gyűrűkkel és medálokkal díszítették hajukat.
+:64. A halántékon különleges gyűrűket, az úgynevezett halántékgyűrűket viselték.
+:65. Ezek a halántékgyűrűk gyakori és jellegzetes leletek a női sírokban.
+:66. A nyak körül gyöngyökből, üvegből és drágakövekből készült láncokat viseltek.
+:67. A karokon és az ujjakon karkötőket és gyűrűket találtak.
+:68. A magyar viseletre különösen jellemzőek voltak a ruhák díszítő fémalkatrészei.
+:69. Számos apró fémlemezt varrtak a ruhákra és az övekre.
+:70. Ezek a rávarrt lemezkék néha az egész ruhát csillogó díszítéssel borították.
+:71. Egy ilyen módon díszített ruha minden mozdulatnál biztosan csillogott.
+:72. Különleges jelentőséget kapott a férfi öve.
+:73. Az öv nem csupán praktikus volt, hanem a társadalmi rang fontos jelképe is.
+:74. Művészi kivitelű, nemesfémből készült lemezekkel és medálokkal díszítették.
+:75. Rajta lógtak a férfi fegyverei, erszénye és mindennapi eszközei.
+:76. Minél gazdagabban volt díszítve az öv, annál magasabb rangú volt viselője.
+:77. E tárgyak díszítése egy jellegzetes stílust követett.
+:78. A domináns díszítőmotívum a hajtásokból és levelekből álló növényi ornamentika volt.
+:79. Íves indák, palmetta-motívumok és virágformák borították a fémfelületeket.
+:80. A palmetta egy legyező alakú növényi motívum a keleti művészetből.
+:81. A növényi minták iránti vonzódás összekötötte a magyarokat a sztyeppek művészetével.
+:82. A növények mellett állatfigurák is megjelentek a díszítésben.
+:83. Madarak, griffek és más mitológiai lények népesítették be ezeket a kis műalkotásokat.
+:84. A griff az ókori mitológiából származó, sasból és oroszlánból álló keveréklény.
+:85. Az ilyen állatábrázolások a lovas népek ősi állatművészetében gyökereztek.
+:86. Ez a sztyeppei művészet gyakran ábrázolta az állatokat harc közben vagy mozgás közben.
+:87. A magyar művészet átvette és átalakította ezeket az ősi képi elképzeléseket.
+:88. A fémmegmunkálás technikája eközben sokrétű és igényes volt.
+:89. Az ékszereket öntötték formákba olvadt fémből.
+:90. A mintákat hátulról domborították a vékony fémlemezbe, hogy azok kiemelkedjenek.
+:91. Ezt a dombornyomó technikát dombornyomásnak nevezik.
+:92. Finom mintákat szerszámokkal karcoltak vagy vésettek a felületbe.
+:93. Egyes darabokat aranyoztak, hogy értékesebbnek tűnjenek.
+:94. Az aranyozás során az ezüstöt vagy a bronzot vékony aranyréteggel borították be.
+:95. Engedjük meg itt egy díszítő jellegű spekulációt, amely nem bizonyított tény.
+:96. Képzeljük el egy magyar ötvös műhelyét a táborban.
+:97. Talán egy kis tűz előtt guggolt, és finom vésőkkel vésette a mintát az ezüstbe.
+:98. Körülötte modellek, szerszámok és csillogó lemezkék hevertek szanaszét.
+:99. Lehetséges, hogy tudását csak saját fiainak adta át.
+:100. Mindez azonban csak elképzelés marad, hiszen a források magukról a kézművesekről semmit sem árulnak el.
+:101. Csak a fennmaradt művek magas szintű kivitelezése bizonyított.
+:102. Ezek a művek olyan mesterekről tanúskodnak, akik tökéletesen elsajátították mesterségüket.
+:103. Az értékes ékszerek mellett ott voltak a egyszerű mindennapi eszközök.
+:104. Nem minden kézműves termék a pompát szolgálta, sok minden a mindennapi életet.
+:105. Agyagból edényeket készítettek főzéshez, élelmiszer-tároláshoz és egyéb célokra.
+:106. Ezeket az agyagedényeket részben kézzel, részben a fazekaskorongon formázták.
+:107. Ezeket többnyire egyszerűen díszítették bevésett vonalakkal és hullámmintákkal.
+:108. Fából tálakat, kanalakat és mindenféle háztartási eszközt faragtak.
+:109. A fa tárgyak azonban a földben többnyire elpusztultak, és ritkán maradtak fenn.
+:110. Bőrből öveket, szíjakat, táskákat és csizmákat készítettek.
+:111. Csontból és agancsból szerszámokat, nyílhegyeket és dísztárgyakat faragtak.
+:112. A szövés és a nemez feldolgozása is a mindennapi kézművesség részét képezte.
+:113. A juhgyapjúból gyapjúzással állították elő az életfontosságú nemezanyagot.
+:114. Erre a nemezre volt szükség a sátrakhoz és a meleg ruházathoz.
+:115. A szövetek szövése és a ruhák varrása feltehetően a nők feladata volt.
+:116. Így a kézművesség valószínűleg nemek és feladatok szerint oszlott meg.
+:117. A művészi fémmegmunkálás viszont kevés mester kezében volt.
+:118. Az ilyen szakosodott kézművesek valószínűleg nagy megbecsülésnek örvendtek a nép körében.
+:119. Készségük ritka volt, és nagy értéket képviselt a közösség számára.
+:120. Nem minden értékes tárgy saját gyártású volt.
+:121. Sok tárgy kereskedelem útján vagy zsákmányként került a magyarokhoz.
+:122. Rablóhadjárataik során aranyat, ezüstöt és kész műalkotásokat zsákmányoltak.
+:123. Idegen országokból származó érméket gyakran találtak a sírokban.
+:124. Az ilyen érméket gyakran maguk dolgozták fel ékszerré vagy dísztárgyakká.
+:125. A zsákmányolt ezüstöt beolvasztották, és abból új, saját alkotásokat készítettek.
+:126. Így keveredtek az idegen és a saját formák a magyar művészetben.
+:127. Bizánci, perzsa és egyéb hatások is beépültek a kézművességbe.
+:128. A magyarok felvették ezeket az ösztönzőket, és saját stílust alakítottak ki belőlük.
+:129. A honfoglalás korának ez a saját stílusa ma már jól felismerhető és kutatott.
+:130. A kutatások képesek megkülönböztetni a magyar leleteket más népek leletétől.
+:131. Az ékszerek és a fémdíszek bizonyos formái jellegzetesnek számítanak.
+:132. Az ilyen leletek alapján nyomon követhető a magyarok terjeszkedése.
+:133. Ahol sírjaikat találják, ott telepedtek le vagy vonultak át egykor.
+:134. Így az anyagi kultúra útmutatóvá válik a sötét kora történelemben.
+:135. Különösen sokatmondóak a gazdag és szegény sírok közötti különbségek.
+:136. A nemesek sírjai aranytól, fegyverektől és értékes edényektől csordulnak.
+:137. A szegények sírjai csak kevés, egyszerű sírmellékletet tartalmaznak.
+:138. Így a sírban talált ékszerek tükrözik az élők társadalmi rendjét.
+:139. A fémek bősége a hatalom és a rang látható jele volt.
+:140. Aki életében gazdag volt, az magával vitte gazdagságát a sírba.
+:141. A férfiak és a nők sírjai között is jelentős különbségek vannak.
+:142. A férfiak sírjaiban a fegyverek és a lovas felszerelés dominál.
+:143. A nők sírjaiban az ékszerek és a ruhák díszítőelemei dominálnak.
+:144. Így a sírmellékletek még a halottak nemét és szerepét is elárulják.
+:145. A tárgyi kultúra tehát rendkívül sokoldalú forrás.
+:146. Háborúról és gazdagságról, férfiakról és nőkről, művészetről és mindennapi életről mesél.
+:147. Ahol az írásos források hallgatnak, ott a földből előkerült leletek szólalnak meg.
+:148. Ennek ellenére itt is vannak a tudás határai.
+:149. A romlandó anyagok, mint a fa, a bőr és a textil, többnyire elvesztek.
+:150. A kutatás számára ezért elsősorban a fém és a kő világa ismeretes.
+:151. Az anyagi kultúra képe így szükségszerűen hiányos.
+:152. A mindennapi élet nagy része örökre a sötétben rejtve marad.
+:153. A földfoglalással és az letelepedéssel az anyagi kultúra is megváltozott.
+:154. A sztyeppék nomád művészete fokozatosan háttérbe szorult.
+:155. Helyüket új formák vették át keresztény és nyugati hatások alatt.
+:156. A gazdag sírmellékletek pogány szokása a kereszténységgel együtt eltűnt.
+:157. Hiszen a keresztény hit nem ismerte a halottak ellátását a túlvilágra.
+:158. Ezzel egyidejűleg a kutatás legfontosabb forrása is elapadt.
+:159. A területfoglalás korszakának művészi sztyeppeművészete így zárt fejezet maradt.
+:160. Teljes mértékben a magyarok pogány és nomád korszakához tartozik.
+:161. Megmarad azonban egy gazdag és változatos kézművesség képe.
+:162. Kiváló minőségű fegyvereket készített a lovas háborúhoz.
+:163. Értékes arany- és ezüstékszereket készített férfiaknak és nőknek egyaránt.
+:164. Műveit indákkal, pálmalevelekkel és állatfigurákkal díszítette.
+:165. Emellett pedig a mindennapi élet egyszerű eszközeit is elkészítette.
+:166. Ez a művészet teljes mértékben a hordozhatóságra és az értékességre irányult.
+:167. A gyakorlati célt mindig ötvözte a díszítéssel és a bemutatással.
+:168. Benne élt tovább a keleti ősi sztyeppei művészet öröksége.
+:169. Ugyanakkor idegen hatásokat is magába olvasztott, és kialakította saját stílusát.
+:170. Ez a betelepülés korszakának stílusa a mai napig a magyar őstörténet egyik jellegzetessége.
+:171. A sírokból előkerült leletek ennek legértékesebb és legbeszédesebb tanúi.
+:172. Ma a magyar múzeumok vitrineit töltik meg.
+:173. Ott csodálhatjuk meg az arany díszítéseket és a művészi kardokat.
+:174. Látható arculatot adnak a távoli földhódító népnek.
+:175. A néma tárgyakból így alakul ki egy élő kultúra képe.
+:176. Minden díszítőelem és minden nyílhegy egy-egy darabot mesél el ebből a történetből.
+:177. Így válik a tárgyi kultúra a korai idők megértésének kulcsává.
+:178. Gyakran kiegészíti, sőt felülmúlja a szűkös írásos beszámolókat.
+:179. Ebben a kultúrában a magyar nép közvetlenebbül tárul elénk, mint bármely szövegben.
+:180. És minden arany halántékgyűrűben és minden ívelt kardban ragyog az ősök sztyeppéje.
+
+
+=== Család és nemi rend: szerepek és hierarchiák ===
+
+
+:1. A sztyeppek korának magyarjai gazdag és művészi tárgyi kultúrát hoztak létre.
+:2. Tárgyi kultúrának nevezzük az emberek által készített tárgyak összességét.
+:3. Ide tartoznak a fegyverek, ékszerek, edények, ruhák és mindenféle mindennapi használati tárgy.
+:4. Ezek a tárgyak sokat árulnak el a kutatóknak alkotóik életéről és képességeiről.
+:5. Hiszen a hittel vagy a nyelvvel ellentétben a fémtárgyak a földben fennmaradnak.
+:6. A tárgyi kultúra ezért a korai időszak legfontosabb és legmegbízhatóbb forrása.
+:7. A róluk ismert információk elsősorban a sírleletekből származnak .
+:8. A sírokba a halottak legértékesebb tárgyait helyezték el.
+:9. Így fegyverek, ékszerek és eszközök maradtak fenn az évszázadok során.
+:10. A régészet számos ilyen sírt kutatott fel a területfoglalás korából.
+:11. A leletekből egy magas színvonalú kézművesség képe rajzolódik ki.
+:12. Ez a művészet teljes mértékben a lovas nomádok vándorló életmódjához igazodott.
+:13. Főként olyan tárgyakat készítettek, amelyeket hordani és magukkal vinni lehetett.
+:14. A nehéz és mozgathatatlan tárgyak nem illettek a nomád életmódhoz.
+:15. Ezért az egész művészet a kicsi, hordozható és értékes tárgyakra összpontosult.
+:16. A kézművesség középpontjában a fémmegmunkálás állt.
+:17. A magyarok ügyes kovácsok és fémművesek voltak.
+:18. A vasat kiváló minőségű fegyverekké és szerszámokká alakították át.
+:19. Aranyból és ezüstből értékes ékszereket és dísztárgyakat készítettek.
+:20. A fémmegmunkálás művészetét a keleti sztyeppéken sajátították el.
+:21. Ott a lovas népek körében hosszú hagyománya volt a művészi fémmegmunkálásnak.
+:22. A magyarok így az ősi sztyeppeművészet hagyományait folytatták.
+:23. Minden vizsgálat kiindulópontja a fegyver, a harcos legfontosabb eszköze.
+:24. A magyarok legjelentősebb fegyvere az összetett reflexíj volt.
+:25. Ezt az íjat fából, szarvból és állati inakból művészien ragasztották össze.
+:26. A különböző anyagok rétegei biztosították számára nagy feszítőerejét.
+:27. Az íj végeit gyakran csont- vagy szarvlemezekkel erősítették meg.
+:28. Ezek a csontlemezek megmaradtak a sírokban, és tanúskodnak az íjkészítésről.
+:29. Egy ilyen íj elkészítése hosszadalmas és igényes munka volt.
+:30. Egy mesternek gyakran több évre is szüksége volt ahhoz, hogy egy jó íjat készítsen el.
+:31. A nyilakat a harcos egy tegezben tartotta az oldalán.
+:32. A vas nyílhegyek céljuktól függően különböző formájúak voltak.
+:33. Voltak keskeny hegyek a páncélok áttörésére, és szélesek a védtelen ellenségek ellen.
+:34. Ezek a különböző nyílhegyek a sírokban leggyakrabban előkerülő leletek közé tartoznak.
+:35. A második legfontosabb fegyver a kissé ívelt szablya volt.
+:36. A szablya egy egyélű, ívelt pengéjű vágófegyver.
+:37. Íveltsége miatt különösen alkalmas volt a lóról való harcra.
+:38. A lovas ezzel erőteljes csapásokat mért az ellenségre, miközben elhaladt mellette.
+:39. A szablyák markolatait és hüvelyeit gyakran drága fémdíszekkel díszítették.
+:40. A gazdagon díszített szablya egyszerre volt fegyver és a magas rang jelképe.
+:41. Emellett a harcosok lándzsákat és csatabárdokat is használtak közelharcban.
+:42. Védelemként sisakok és különféle páncélok szolgáltak.
+:43. A jómódú harcosok szorosan összefonott vasgyűrűkből készült páncélpólót viseltek.
+:44. Az ilyen, vasgyűrűkből készült páncélat láncpáncélnak nevezik.
+:45. A szegényebb harcosok bőrből vagy szilárd nemezből készült páncélokkal védték magukat.
+:46. A harcos felszerelése így közvetlenül tükrözte gazdagságát és rangját.
+:47. A fegyverrel elválaszthatatlanul összekapcsolódott a lovas és lova felszerelése.
+:48. Itt különösen pompásan mutatkozott meg a magyarok kézművessége.
+:49. A lovas felszereléséhez tartozott a nyereg, a kantár és a kengyel.
+:50. A kantár az a fém szájrész, amellyel a lovat irányítják.
+:51. A kengyelek szilárd és biztonságos tartást biztosítottak a lovasnak a nyeregben.
+:52. Csak a kengyelekben való szilárd tartás tette lehetővé a pontos íjlövés galoppban .
+:53. A kengyelek ezért a lovas háború egyik legfontosabb technikai előfeltételei voltak.
+:54. A lószerszámot gyakran tetőtől talpig fémdíszekkel díszítették.
+:55. A bőrszerszámra kis ezüst- vagy aranyozott fémlemezeket szegeztek.
+:56. Ezek a díszítőelemek csillogó mintákat alkottak a ló hámján.
+:57. A pompásan díszített ló a jólét élő szimbóluma volt.
+:58. Így itt is összekapcsolódott a gyakorlati cél a díszítéssel és a pompázással.
+:59. A kézművesség csúcspontját azonban az ékszerek jelentették.
+:60. A magyarok szerették a gazdag arany-, ezüst- és bronzékszereket.
+:61. A férfiak és a nők egyaránt viselték őket díszként és rangjelzésként.
+:62. A legelterjedtebb ékszerek közé tartoztak a hajgyűrűk és a fülbevalók.
+:63. A nők művészien kidolgozott gyűrűkkel és medálokkal díszítették hajukat.
+:64. A halántékokon különleges gyűrűket, az úgynevezett halántékgyűrűket viselték.
+:65. Ezek a halántékgyűrűk gyakori és jellegzetes leletek a női sírokban.
+:66. A nyakon gyöngyökből, üvegből és drágakövekből készült láncokat viseltek.
+:67. A karokon és az ujjakon karkötőket és gyűrűket találtak.
+:68. A magyar viseletre különösen jellemzőek voltak a ruhák díszítő fémalkatrészei.
+:69. Számtalan apró fémlemezt varrtak a ruhákra és az övekre.
+:70. Ezek a rávarrt lemezek néha az egész ruhát csillogó díszítéssel borították.
+:71. Egy ilyen módon díszített ruha minden mozdulatnál biztosan csillogott.
+:72. Különös jelentőséget kapott a férfi öve.
+:73. Az öv nemcsak praktikus volt, hanem a társadalmi rang fontos jelképe is.
+:74. Művészi kivitelű, nemesfémből készült lemezekkel és medálokkal díszítették.
+:75. Rajta lógtak a férfi fegyverei, erszénye és mindennapi eszközei.
+:76. Minél gazdagabban volt díszítve az öv, annál magasabb rangú volt viselője.
+:77. E tárgyak díszítése egy jellegzetes stílust követett.
+:78. A domináns díszítőmotívum a hajtásokból és levelekből álló növényi ornamentika volt.
+:79. Íves hajtások, palmetta-motívumok és virágformák borították a fémfelületeket.
+:80. A palmetta egy legyező alakú növényi motívum, amely a keleti művészetből származik.
+:81. Ez a növényi minták iránti vonzódás összekapcsolta a magyarokat a sztyeppei művészettel.
+:82. A növények mellett állatfigurák is megjelentek a díszítésben.
+:83. Madarak, griffek és más mitológiai lények népesítették be ezeket a kis műalkotásokat.
+:84. A griff az ókori mitológiából származó, sas és oroszlán keverékéből álló lény.
+:85. Az ilyen állatábrázolások a lovas népek ősi állatművészetében gyökereztek.
+:86. Ez a sztyeppei művészet gyakran ábrázolta az állatokat harc közben vagy mozgás közben.
+:87. A magyar művészet átvette és átalakította ezeket az ősi képi motívumokat.
+:88. A fémmegmunkálás technikája eközben sokrétű és igényes volt.
+:89. Az ékszereket öntötték formákba olvadt fémből.
+:90. A mintákat hátulról verték a vékony fémlemezbe, hogy azok kiemelkedjenek.
+:91. Ezt a dombornyomási technikát dombornyomásnak nevezik.
+:92. Finom mintákat szerszámmal karcoltak vagy vésettek a felületbe.
+:93. Egyes darabokat aranyoztak, hogy értékesebbnek tűnjenek.
+:94. Az aranyozás során az ezüstöt vagy a bronzot vékony aranyréteggel borították be.
+:95. Engedjük meg itt egy díszítő jellegű spekulációt, amely nem bizonyított tény.
+:96. Képzeljük el egy magyar ötvös műhelyét a táborban.
+:97. Talán egy kis tűz előtt guggolt, és finom vésőkkel vésette a mintát az ezüstbe.
+:98. Körülötte modellek, szerszámok és csillogó lemezkék hevertek szanaszét.
+:99. Lehetséges, hogy tudását csak a saját fiainak adta át.
+:100. Mindez azonban csak elképzelés marad, hiszen a források magukról a kézművesekről nem számolnak be.
+:101. Csak a fennmaradt művek magas színvonalú kivitelezése bizonyított.
+:102. Ezek a művek olyan mesterekről tanúskodnak, akik tökéletesen elsajátították mesterségüket.
+:103. Az értékes ékszerek mellett ott voltak a mindennapi élet egyszerű eszközei is.
+:104. Nem minden kézműves termék a pompát szolgálta, sok minden a mindennapi életet.
+:105. Agyagból készítettek edényeket főzéshez, élelmiszer-tároláshoz és egyéb tárolási célokra.
+:106. Ezeket az agyagedényeket részben kézzel, részben korongon formázták.
+:107. Ezeket többnyire egyszerűen díszítették bevésett vonalakkal és hullámmintákkal.
+:108. Fából tálakat, kanalakat és mindenféle háztartási eszközt faragtak.
+:109. A fa tárgyak azonban a földben többnyire elpusztultak, és ritkán maradtak fenn.
+:110. Bőrből öveket, szíjakat, táskákat és csizmákat készítettek.
+:111. Csontból és agancsból szerszámokat, nyílhegyeket és dísztárgyakat faragtak.
+:112. A szövés és a nemez feldolgozása is a mindennapi kézművesség részét képezte.
+:113. A juhgyapjúból gyapjúzással állították elő az életben elengedhetetlen nemezanyagot.
+:114. Erre a nemezre volt szükség a sátrakhoz és a meleg ruházathoz.
+:115. A szövetek szövése és a ruhák varrása feltehetően a nők feladata volt.
+:116. Így a kézművesség valószínűleg nemek és feladatok szerint oszlott meg.
+:117. A művészi fémmegmunkálás viszont kevés mester kezében volt.
+:118. Az ilyen szakosodott kézművesek valószínűleg nagy megbecsülésnek örvendtek a nép körében.
+:119. Készségük ritka volt, és nagy értéket képviselt a közösség számára.
+:120. Nem minden értékes tárgy saját gyártású volt.
+:121. Sok tárgy kereskedelem útján vagy zsákmányként került a magyarokhoz.
+:122. Rablóhadjárataik során aranyat, ezüstöt és kész műalkotásokat zsákmányoltak.
+:123. Idegen országokból származó érméket gyakran találtak a sírokban.
+:124. Az ilyen érméket gyakran maguk dolgozták fel ékszerré vagy dísztárgyakká.
+:125. A zsákmányként szerzett ezüstöt beolvasztották, és abból új, saját alkotásokat készítettek.
+:126. Így keveredtek az idegen és a saját formák a magyar művészetben.
+:127. Bizánci, perzsa és egyéb hatások is beépültek a kézművességbe.
+:128. A magyarok felvették ezeket az ösztönzőket, és saját stílust alakítottak ki belőlük.
+:129. A honfoglalás korának ez a sajátos stílusa ma már jól felismerhető és kutatott.
+:130. A kutatások képesek megkülönböztetni a magyar leleteket más népek leletétől.
+:131. Az ékszerek és a fémdíszek bizonyos formái jellegzetesnek számítanak.
+:132. Az ilyen leletek alapján nyomon követhető a magyarok terjeszkedése.
+:133. Ahol sírjaikat megtalálják, ott telepedtek le vagy vonultak át egykor.
+:134. Így a tárgyi kultúra útmutatóvá válik a sötét kora történelemben.
+:135. Különösen sokatmondóak a gazdag és szegény sírok közötti különbségek.
+:136. A nemesek sírjai aranytól, fegyverektől és értékes edényektől csordulnak.
+:137. A szegények sírjaiban csak kevés, egyszerű sírmelléklet található.
+:138. Így a sírban talált ékszerek tükrözik az élők társadalmi rendjét.
+:139. A fémek bősége a hatalom és a rang látható jele volt.
+:140. Aki életében gazdag volt, az magával vitte gazdagságát a sírba.
+:141. A férfiak és a nők sírjai között is egyértelmű különbségek vannak.
+:142. A férfi sírokban a fegyverek és a lovas felszerelés dominál.
+:143. A női sírokban az ékszerek és a ruhák díszítőelemei dominálnak.
+:144. Így a sírmellékletek még a halottak nemét és szerepét is elárulják.
+:145. Az anyagi kultúra így rendkívül sokoldalú forrás.
+:146. A háborúról és a gazdagságról, a férfiakról és a nőkről, a művészetről és a mindennapi életről mesél.
+:147. Ahol az írott források hallgatnak, ott a földből előkerült leletek szólalnak meg.
+:148. Mindazonáltal itt is vannak a tudás határai.
+:149. A romlandó anyagok, mint a fa, a bőr és a textil, többnyire elvesztek.
+:150. A kutatás számára ezért elsősorban a fém és a kő világa ismeretes.
+:151. Az anyagi kultúra képe így szükségszerűen hiányos.
+:152. A mindennapi élet sok eleme örökre a sötétben marad.
+:153. A földfoglalással és az letelepedéssel az anyagi kultúra is megváltozott.
+:154. A sztyeppék nomád művészete fokozatosan háttérbe szorult.
+:155. Helyét új formák vették át, keresztény és nyugati hatások alatt.
+:156. A gazdag sírmellékletek pogány szokása a kereszténységgel együtt eltűnt.
+:157. Hiszen a keresztény hit nem ismerte a halottak felkészítését a túlvilágra.
+:158. Ezzel egyidejűleg a kutatás legfontosabb forrása is elapadt.
+:159. A területfoglalás korának művészi sztyeppei művészete így zárt fejezet maradt.
+:160. Teljes egészében a magyarok pogány és nomád korszakához tartozik.
+:161. Megmarad a gazdag és mozgékony kézművesség képe.
+:162. Kiváló minőségű fegyvereket készített a lovas háborúhoz.
+:163. Aranyból és ezüstből készített értékes ékszereket férfiaknak és nőknek egyaránt.
+:164. Műveit indákkal, palmettekkel és állatfigurákkal díszítette.
+:165. Emellett pedig a mindennapi élet egyszerű eszközeit is előállította.
+:166. Ez a művészet teljes mértékben a hordozható és értékes tárgyakra összpontosított.
+:167. A gyakorlati célt mindig ötvözte a díszítéssel és a bemutatással.
+:168. Benne élt tovább a keleti ősi sztyeppeművészet öröksége.
+:169. Ugyanakkor idegen hatásokat is magába olvasztott, és kialakította saját stílusát.
+:170. Ez a honfoglalás korszakának stílusa a mai napig a magyar őstörténet egyik jellegzetessége.
+:171. A sírokból előkerült leletek ennek legértékesebb és legbeszédesebb tanúi.
+:172. Ma a magyar múzeumok vitrinjeit töltik meg.
+:173. Ott megcsodálhatók az arany díszítések és a művészi kardok.
+:174. Ezek látható arculatot adnak a távoli betelepülők népének.
+:175. A néma tárgyakból így alakul ki egy élő kultúra képe.
+:176. Minden ékszerdísz és minden nyílhegy egy-egy darabot mesél el ebből a történetből.
+:177. Így válik a tárgyi kultúra a korai idők megértésének kulcsává.
+:178. Gyakran kiegészíti, sőt felülmúlja a szűkös írásos beszámolókat.
+:179. Ebben a kultúrában közvetlenebbül találkozunk a magyar néppel, mint bármely szövegben.
+:180. És minden arany halántékgyűrűben és minden ívelt szablyában ragyog az ősök sztyeppje.
+

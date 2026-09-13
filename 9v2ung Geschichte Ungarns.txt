@@ -1,0 +1,1273 @@
+﻿;Magyarország története – 9. Levedia: Az első települési terület a Ponto-sztyeppén
+
+
+;MAGYARORSZÁG TÖRTÉNETE
+
+
+;Kora középkor és etnogenezis
+
+
+== Levedia: Az első települési terület a pontusi sztyeppén ==
+
+
+:1. A magyar kora történelemben Levedia néven azt a pontusi sztyeppén fekvő területet jelölik, ahol a magyar törzsszövetség keleti őshazájából való elvándorlása után egy korlátozott ideig tartózkodott.
+:2. A kutatások alatta nem egy szigorúan körülhatárolt államterületet értenek, hanem egy nomád legelőterületet, amelynek határai folyékonyak voltak, és a sztyeppe ökológiai viszonyaihoz igazodtak.
+:3. Már ez a fogalmi tisztázás is rámutat arra, hogy a Levediával kapcsolatos bármilyen foglalkozásnak egyensúlyt kell teremtenie a forráskritikus történettudomány és egy mobil, írás nélküli sztyeppei társadalom sajátosságai között.
+:4. Maga a név kizárólag egy központi hagyomány alapján bizonyított, nevezetesen a 10. századi bizánci császár, VII. Konstantin Porfirogennetos művében.
+:5. Konstantin a területet egy Levedi nevű magyar vezérről nevezi el, így az egész rekonstrukció néhány szövegrészleten alapul, idegen szemszögből.
+:6. Ebből alapvető aszimmetria következik a forráshelyzetben, hiszen egy több évtizedet átfogó települési időszakot egy jelentős időbeli távolságból keletkezett írásból ismerünk meg.
+:7. A Don és a Volga folyók közötti elhelyezkedés kevésbé közvetlen helymegjelöléseken alapul, mint inkább a folyónevek, a szomszédsági viszonyok és a szomszédos népek vándorlásainak elemzésén.
+:8. Módszertani szempontból a kutatás így a nomád történelemre jellemző problémával szembesül: a vándorló lovas csoportok alig hagynak hátra tartós nyomokat, és így elkerülik az archeológiai rögzítést.
+:9. A helyzetet tovább nehezíti, hogy a versengő sztyepp népek tárgyi kultúrája erősen hasonlított egymásra, így az egyes sírleletek egyértelmű etnikai besorolása csak ritkán sikerül.
+:10. Levedia jelentősége mindazonáltal elsősorban abban rejlik, hogy ez jelzi az első név szerint azonosítható állomást a magyarok hosszú útján a Kárpát-medencéig.
+:11. A „pontusi sztyeppe” kifejezés az eurázsiai füves övezetnek azt a szakaszát jelöli, amely a Fekete-tengertől északra terül el, és az ókor óta vándorló lovas népek átvonulási területeként szolgált.
+:12. Ez a sztyeppe egy sokkal nagyobb rendszer részét képezi, amely Mandzsúriától az Alsó-Dunaig terjed, és évezredek óta ökológiai egységként működött.
+:13. Nyílt füves síkságai kedveztek a vándorló legeltetési gazdálkodásnak, amelynek gyakorlói a nyári és téli legelők közötti állandó ritmusban vándoroltak.
+:14. Ezen a nagy területen belül Levedia és a későbbi Etelköz egy több generációt átívelő, hosszú távú vándorlás nyugati állomásainak tekinthetők.
+:15. A magyarok ősi hazáját általában keletebbre, a Volga túloldalán feltételezik, és a középkori hagyományban Magna Hungaria néven emlegetik.
+:16. Onnan a csoport fokozatosan nyugat felé, anélkül, hogy ezt a folyamatot egyetlen, datálható eseménybe lehetne sűríteni.
+:17. Ebben a modellben Levedia tűnik az első állomásnak, amelynek egyidejűleg van neve és hozzávetőleges földrajzi meghatározása is.
+:18. A helymeghatározás nehézsége lényegében abból fakad, hogy a nomád társadalmak területeiket nem határok, hanem a legelők és vízforrások feletti ellenőrzés alapján határozták meg.
+:19. A nomád értelemben vett települési terület ezért a táborhelyek, vándorlási útvonalak és szezonális használati jogok dinamikus hálózata volt.
+:20. A térszervezés ezen sajátossága magyarázza, miért alkalmazhatók a modern kartográfiai elképzelések a sztyepp viszonyaira csak nagy óvatossággal.
+:21. Konstantin központi forrása egy olyan tananyag keretében született, amelyet általában a latin De administrando imperio cím alatt emlegetnek.
+:22. Ezt a művet a császári trónörökös számára készítették, és a Bizánci Birodalom számos szomszédos népét tárgyalja.
+:23. A magyarokról szóló adatai feltehetően magyar követek beszámolóin alapulnak, akik a konstantinápolyi udvarban tájékoztatták a császárt népük múltjáról.
+:24. Ezzel a hagyományban egy idegen, külső perspektíva kapcsolódik a magyar közösség közvetett módon közvetített belső emlékezetéhez.
+:25. Ez a kettős torzítás megnehezíti annak megítélését, hogy a leírt viszonyok milyen mértékben felelnek meg a történelmi valóságnak, vagy már későbbi értelmezések által átformálódtak.
+:26. Egy sokat vitatott részlet a tartózkodás időtartamát érinti, amelyet Konstantin feltűnően rövid évszámmal jelöl meg.
+:27. Míg a kutatók egy része ebben hagyományozási hibát sejt, mások az adatot három generációra, és így egy hosszabb időszakra utaló jelzésként értelmezik.
+:28. Ez a vita jól illusztrálja, mennyire függ a rekonstrukció az egyes, többértelmű szövegrészek értelmezésétől.
+:29. A bizánci főforrás mellett arab és perzsa földrajztudósok is foglalkoznak a sztyeppei néppel, többnyire eltérő elnevezésekkel.
+:30. Ezek az iszlám szerzők leírják a magyarok életmódját, fegyverzetét és gazdasági viszonyait, anélkül azonban, hogy kifejezetten megemlítenék a Levedia nevet.
+:31. Beszámolóik részben egy közös, régebbi forrásra vezethetők vissza, amelynek eredeti formáját a kutatások rekonstruálják, és vitatott.
+:32. A bizánci és keleti források kombinálásával megrajzolható a korai magyarokról egy hozzávetőleges kép, amely azonban továbbra is hiányos marad.
+:33. Levedia időbeli beillesztése elsősorban olyan datálható eseményekre támaszkodik, amelyek a vándorlás külső kereteit jelzik.
+:34. Biztos kiindulópontnak számít a Kárpát-medence elfoglalása, amely a jelenlegi nézet szerint 896-ra esik.
+:35. További támpontot jelent egy 862-ben feljegyzett magyar betörés a kelet-frank birodalomba, amely bizonyítja a népcsoport közép-európai közelségét.
+:36. Ebből a jelből arra lehet következtetni, hogy a Levediában való tartózkodás a 9. századra tehető, és a század közepe előtt kezdődött.
+:37. A pontosabb datálás spekulatív marad, mivel a szóbeli hagyomány generációkban, és nem pontos évszámokban gondolkodott.
+:38. A kutatásnak ezért gondosan egyensúlyt kell teremtenie a tudományosan elvárt óvatosság és a kronológiai pontosság iránti igény között.
+:39. Levedia politikai környezetét döntő mértékben a kazár birodalom határozta meg, amely a dél-orosz sztyeppék nagy részét uralta.
+:40. Ennek a kazár nagyhatalomnak a központja a Volga alsó folyásánál volt, és ellenőrzése alatt tartotta a Kelet és az Észak közötti fontos távolsági kereskedelmi útvonalakat.
+:41. A magyarok levediai tartózkodásuk alatt feltehetően függőségi vagy szövetségi viszonyban álltak ezzel a hatalommal.
+:42. Ebben a keretben valószínűleg katonai szolgálatot teljesítettek, és cserébe védelmet, valamint hozzáférést kaptak a kereskedelemhez.
+:43. Az ilyen aszimmetrikus szövetségek a sztyeppén elterjedt eszközök voltak, amelyekkel a kisebb csoportosulások meg tudták tartani helyüket a nagyobb hatalmak között.
+:44. Ezen összefonódás látható következménye a kabarok – egy elszakadt kazár törzsrész – csatlakozása a magyar szövetséghez.
+:45. A kabarok beolvasztása nemcsak a magyarok katonai potenciálját erősítette, hanem kazár elemeket is bevezetett kultúrájukba.
+:46. E kapcsolatok nyelvi nyomai számos török jövevényszóban mutatkoznak meg, amelyek elsősorban az állattenyésztést és a lovas életmódot érintik.
+:47. Ezek a jövevényszavak fontos bizonyítéknak számítanak a magyarok és a török nyelvű sztyepp népek közötti hosszú és szoros szomszédságra.
+:48. A kazárok mellett a bolgárok különböző csoportjai is szerepet játszottak, amelyek északra és délnyugatra oszlottak szét.
+:49. Míg a volga-bolgárok a Volga középső szakaszán birodalmat alapítottak, más csoportok a Duna alsó szakaszán jelentős birodalmat hoztak létre a Balkánon.
+:50. A magyarok később konfliktusba keveredtek a dunai bolgárokkal, amelyek a bizánci szövetségi politika kontextusába ágyazódtak.
+:51. A legjelentősebb szomszédság azonban a pechenegekkel való volt, egy keletről betörő lovas néppel.
+:52. A pechenegek nyomása, amelyet viszont a keleti irányú további elmozdulások váltottak ki, a magyarok indulásának egyik fő kiváltó okának tekinthető.
+:53. Ebben a láncreakcióban megnyilvánul a sztyeppetörténet egyik alapvető mintázata, amelyben minden vándorlás további mozgásokat von maga után.
+:54. A magyarok ebben nem elszigetelt szereplőként jelennek meg, hanem egy sűrű, egymással versengő és együttműködő szövetségekből álló hálózat egyik láncszemeként.
+:55. Délen ráadásul a Bizánci Birodalom diplomáciai befolyása mélyen behatolt a sztyeppébe.
+:56. Bizánc ajándékokat, szerződéseket és célzott szövetségeket használt fel arra, hogy a sztyepp népeket egymás ellen kijátssza, és saját határait biztosítsa.
+:57. A magyarokat is bevonták ebbe a játszmába, és időnként a dunai bolgárok ellen állították őket.
+:58. Levedia helyzetét tehát csak a szomszédos hatalmak egész rendszeréhez viszonyítva lehet megfelelően leírni.
+:59. E térség régészeti kutatása jelentős módszertani akadályokkal szembesül, amelyek a nomád életmóddal kapcsolatosak.
+:60. Mivel a magyarok sem városokat, sem állandó építményeket nem emeltek, hiányoznak azok a települési leletek, amelyek az letelepedett kultúrákban a kutatás alapját képezik.
+:61. A legfontosabb leletcsoportot ezért azok a sírok jelentik, amelyekben fegyverek, ékszerek és a lószerszám részei maradtak fenn.
+:62. Jellegzetes a ló részleges mellékeltése, amelynek során gyakran az állat koponyáját és végtagjait is a halott mellé tették.
+:63. Az ilyen temetkezési szokások a korai magyar kultúra jellemzőinek számítanak, de nem könnyű őket egyértelműen elkülöníteni a rokon sztyeppei hagyományoktól.
+:64. A legfőbb probléma abban áll, hogy a versengő lovas népek anyagi kultúrája alapvető jellemzőiben erősen hasonlított egymásra.
+:65. Egyetlen sír a dél-orosz sztyeppén ezért ritkán teszi lehetővé a magyarokhoz való biztos etnikai hozzárendelést.
+:66. A helyzetet tovább nehezíti a Levedia pontos elhelyezkedésével kapcsolatos bizonytalanság, ami szinte lehetetlenné teszi a megfelelő lelőhelyek célzott felkutatását.
+:67. A kutatás ezért gyakran a Kárpát-medence jól feltárt temetkezési területeiből származó következtetésekre támaszkodik.
+:68. Mivel ezek egy teljesen kifejlett lovas kultúrát dokumentálnak, feltételezik, hogy annak alapvonásai már a sztyeppén kialakultak.
+:69. Ez a visszamenőleges feltárás módszere széles körben elterjedt, azonban továbbra is csak közvetett hozzáférést biztosít Levedia valóságához.
+:70. A feltételezett központi területről származó, közvetlen és kétségtelenül beazonosítható leletek eddig nagyrészt hiányoznak.
+:71. Kiegészítő perspektívát nyújt a keleti ősőshazának felkutatása, amelyet a középkorban Julianus domonkos szerzetes dokumentált.
+:72. Ez a szerzetes a 13. században keletre utazott, és arról számolt be, hogy ott még magyar nyelvű csoportokkal találkozott.
+:73. A Kama folyó vidékén később végzett régészeti kutatások olyan leleteket hoztak napvilágra, amelyek párhuzamokat mutatnak a magyar tárgyi kultúrával.
+:74. Ezek a besorolások azonban továbbra is vitatottak, és nem tudnak közvetlen választ adni Levedia helyzetére.
+:75. Az utóbbi időben természettudományos módszerek is felbukkantak, amelyek új lehetőségeket nyújtanak a történeti kutatás számára.
+:76. A radiokarbon-kormeghatározás lehetővé teszi a szerves leletek pontosabb időbeli besorolását, és kiegészíti a bizonytalan írásos kormeghatározásokat.
+:77. Különös várakozások fűződnek a genetikai elemzésekhez, amelyek láthatóvá tehetik a korábbi és a mai populációk közötti rokonsági kapcsolatokat.
+:78. Az ilyen vizsgálatok összehasonlítják a sztyeppei sírokból származó genetikai anyagot a Kárpát-medencéből és a feltételezett őshazából származóval.
+:79. Az első eredmények összetett keveredési folyamatokra utalnak, amelyek relativizálják a zárt vándorlás egyszerű képét.
+:80. Ez a kutatási irány azonban részben még kezdeti stádiumban van, és további módszertani alátámasztásra szorul.
+:81. A nyelvészet egy további független forrást nyújt azzal, hogy feltárja a magyar nyelv finnugor alaprétegét.
+:82. Ez a nyelvi rokonság egyértelműen elválasztja a magyarokat későbbi török és szláv szomszédaiktól.
+:83. Ugyanakkor a számos török jövevényszó egy intenzív kapcsolattartási szakaszról tanúskodik, amely időben jól illeszkedik a sztyeppén való tartózkodáshoz.
+:84. Ily módon a nyelvészet, a régészet és a genetika egy interdiszciplináris megközelítéssé egyesül, amely kiegészíti a szűk körű írásos forrásalapot.
+:85. Az ezekből a forrásokból nyert kép mindazonáltal csak egy modell marad, amely valószínűségi következtetéseken alapul, és nem közvetlen megfigyeléseken.
+:86. A levediai élet gazdasági alapját a nagyállatokon alapuló nomád legeltető gazdálkodás képezte.
+:87. A lovak, szarvasmarhák és juhok élelmet, ruházatot és közlekedési eszközt biztosítottak, és meghatározták a szezonális vándorlások ritmusát.
+:88. A ló kiemelkedő szerepet játszott ebben, mivel egyszerre volt lovaglóállat, státuszszimbólum és katonai alap.
+:89. A lovas hadviselés és a kompozit reflexíj használata olyan mozgékonyságot biztosított a magyaroknak, amely felülmúlta az letelepedett hadseregekét.
+:90. A szomszédos paraszti népek ellen indított rablóhadjáratok és adófizetési követelések kiegészítették az önellátó gazdaságot, és további erőforrásokat hoztak.
+:91. Fontos jövedelemforrás volt a foglyokkal való kereskedelem, akiket rabszolgaként adtak el a kazár és bizánci piacokon.
+:92. Ez a rabszolga-kereskedelem összekötötte a sztyeppét a Távol-Kelet és a Földközi-tengeri térség távkereskedelmi hálózataival.
+:93. A letelepedett szomszédokkal való gazdasági összefonódás ezért nem állt ellentétben a nomád életmóddal, hanem annak szükséges kiegészítője volt.
+:94. A szövetség társadalmi rendje hierarchikusan volt felépítve, és magában foglalta a tekintélyes vezetők rétegét, a szabad harcosokat, valamint a függő és nem szabad csoportokat.
+:95. Az élén olyan nemzetségek álltak, amelyek tekintélyét a katonai sikerek, a származás, valamint a legelők és a követők feletti ellenőrzés táplálta.
+:96. A Levedi vezetőről szóló hagyomány egy kifejezett vezető rétegre utal, amelynek helyzete azonban nem volt vitathatatlan.
+:97. Konstantin beszámolója arra utal, hogy a szövetség belsejében feszültségek voltak a legfőbb vezetés kérdésével kapcsolatban.
+:98. Ebben az összefüggésben a későbbi fejedelmi vezető kinevezése a belső rend megszilárdítására irányuló kísérletnek tűnik.
+:99. Levedia története így már utal azokra a struktúrákra, amelyek később jelentős szerepet játszottak a Kárpát-medence államalakításában.
+:100. A politikai szervezet több törzsből álló szövetségen alapult, amelyeket szövetség, rokonság és közös katonai érdekek kötöttek össze.
+:101. Ez a törzsi felépítés nagyfokú rugalmasságot tett lehetővé, ugyanakkor magában hordozta a belső széttagolódás kockázatát is.
+:102. A vezető nemzetségek gyűlései valószínűleg hozták meg a vándorlással, a háborúval és a szövetségekkel kapcsolatos központi döntéseket.
+:103. A korai magyarok vallási elképzeléseit általában a sámánisztikus gyakorlatok és az ősök imádatának körébe sorolják.
+:104. Ez az értelmezés részben későbbi hagyományokra, részben más sztyeppei népekkel való analógiákra támaszkodik, ezért rekonstruktív jellegű marad.
+:105. A gazdag sírmellékletekkel járó temetkezési szokások a túlvilági életre vonatkozó elképzelésekre és a ló jelentőségére utalnak a túlvilági hiedelmekben.
+:106. Rendszeres írott vallás nem létezett, így a vallási élet szorosan összefonódott a mindennapi élettel, háborúval és a természeti ciklusokkal szorosan összefonódott.
+:107. Az anyagi kultúra – amennyire a leletekből megállapítható – művészien díszített fémmunkákról tanúskodik.
+:108. Az övcsatok, a táskalemezek és a lószerszámok növényi és állati motívumokat hordoztak, amelyek a jellegzetes sztyeppei stílust követték.
+:109. Ezek a tárgyak nem csupán gyakorlati célokat szolgáltak, hanem egyúttal rangot, gazdagságot és hovatartozást is jelezték.
+:110. Kialakításukban a kazár, bizánci és keleti környezetből származó hatások tükröződnek.
+:111. Ezáltal a kora magyar kultúra sokrétű kapcsolatok eredményeként, és nem elszigetelt jelenségként tárul elénk.
+:112. A nemek közötti viszonyokat a szűkös forrásanyag miatt csak nagy vonalakban lehet rekonstruálni.
+:113. A sírleletek arra utalnak, hogy a nőket is ékszerekkel, néha fegyverekkel együtt temették el, ami differenciált társadalmi szerepekre utal.
+:114. Összességében azonban a belső társadalmi struktúra képe továbbra is töredékes marad, és nagymértékben analógiai következtetésekre támaszkodik.
+:115. A Levediából való kivándorlást a kutatások a külső és belső tényezők együttes hatásának eredményeként értelmezik.
+:116. A legfontosabb külső kiváltó oknak a pechenegek katonai nyomását tartják, amely a korábbi legelőterületeket tarthatatlanná tette.
+:117. Ehhez valószínűleg belső hatalmi küzdelmek, valamint gazdasági és éghajlati tényezők is hozzájárultak, amelyek jelentőségét azonban nehéz meghatározni.
+:118. A kazárok, a bolgárok és Bizánc közötti változó szövetségi politika is befolyásolhatta a továbbvándorlásra vonatkozó döntést.
+:119. Ezen okok hálójában a távozás nem annyira hirtelen eseménynek tűnik, mint inkább egy hosszabb folyamat eredményének.
+:120. A vándorlás a magyarokat először Etelközbe vezette, a Don és a Dnyeper közötti térségbe, amely második állomásként szolgált.
+:121. Levedia és Etelköz így egy folyamatos nyugati vándorlás egymást követő szakaszaiként értelmezhetők.
+:122. A két térség közötti átmenetek a forrásokban homályosak, és időrendjüket csak hozzávetőlegesen lehet meghatározni.
+:123. Ez a homályosság jellemző egy olyan történelemre, amelyet kevés, gyakran többértelmű forrás alapján lehet rekonstruálni.
+:124. A Levediával kapcsolatos tudományos foglalkozás szorosan összefügg a magyar történettudomány fejlődésével.
+:125. Hosszú ideig egy olyan származási legenda dominált, amely a népet a hunok és királyuk, Attila hagyományába helyezte.
+:126. Ez a felfogás dicsőséges származást tulajdonított a magyaroknak, de a valós sztyeppei hazát háttérbe szorította.
+:127. Csak a modern nyelvészet és a finnugor rokonság felismerése irányította a figyelmet a keleti eredetre.
+:128. Az ebből fakadó, a nép eredetéről szóló tudományos vita tartósan meghatározta a tizenkilencedik századot.
+:129. Ennek során Levedia, mint valós korai szülőföld, egyre nagyobb jelentőségre tett szert a legendás hun hagyománnyal szemben.
+:130. A nemzeti önazonosság megerősödésével a sztyeppei eredet a magyar identitás egyik elemévé vált.
+:131. Az 1896-os honfoglalás ezeréves jubileuma szilárdan beépítette a korai történelmet a közgondolkodásba.
+:132. Ebben a kontextusban Levedia és Etelköz a Kárpát-medence birtokba vételéhez vezető út elengedhetetlen előzményeiként jelentek meg.
+:133. Levedia így kettős jelentőségre tett szert: egyrészt a kritikai kutatás tárgyaként, másrészt a kollektív emlékezet részeként.
+:134. E két szintet módszertanilag meg kell különböztetni, történelmi hatásuk szempontjából azonban alig választhatók szét.
+:135. A tudomány arra kötelez, hogy elkülönítsük a bizonyított tudást az értelmező emlékezettől, anélkül, hogy az utóbbi értékét tagadnánk.
+:136. Éppen a szűkös forráshelyzet és az erős emlékkultúra közötti feszültség teszi Levediát olyan tanulságos kutatási tárgyává.
+:137. Összefoglalva Levedia a magyarok első, név szerint azonosítható települési területe a pontusi sztyeppén.
+:138. A Don és a Volga közötti földrajzi elhelyezkedése megalapozott, de nem véglegesen bizonyított.
+:139. Időbeli kerete nagyjából a 9. századra tehető, anélkül, hogy pontos adatok állnának rendelkezésre.
+:140. Politikai környezetét a kazár hegemónia és a pechenegek növekvő nyomása határozta meg.
+:141. Régészeti nyomai csekélyek maradnak, mivel a nomád életmód és a hasonló tárgyi kultúrák megnehezítik az egyértelmű besorolást.
+:142. Kulturális jellegét a finnugor örökség és a török, valamint a mediterrán szomszédos világ számos hatása ötvözte.
+:143. Gazdasági alapját a vándorló legeltető gazdaság képezte, amelyet háború, adófizetés és távkereskedelem egészített ki.
+:144. Társadalmi rendje hierarchikus felépítésű volt, és egy harcos vezető réteg határozta meg.
+:145. Jelentősége nem merül ki a történelmi tényállásban, hanem mélyen behatol a nép emlékezetkultúrájának önértelmezésébe.
+:146. Levedia jelzi az átmenetet a források nélküli őskortól a magyarok dokumentált kora történelméhez.
+:147. Ugyanakkor egy vándorlás kiindulópontját is jelenti, amely Etelközön keresztül végül a Kárpát-medencébe vezetett.
+:148. Ezáltal példaként szolgál a nomád társadalmakkal való foglalkozás minden módszertani kihívására.
+:149. A kutatás továbbra is új leletekre és kifinomultabb módszerekre lesz utalva, hogy Levedia képét tovább élesítse.
+:150. Addig is Levedia a magyar korai történelem egyik jól megalapozott, de sok részletében még nyitott fejezete marad.
+
+
+=== Földrajz és elhelyezkedés: a Don és a Volga között === 
+
+
+:1. A magyarok első biztosan azonosítható települési területe Európa keleti részén feküdt.
+:2. Ezt a területet a források Levediának nevezik.
+:3. Levedia a kiterjedt kelet-európai sztyepp egy részén terült el.
+:4. Ezt a sztyeppét gyakran Ponto-sztyeppnek nevezik.
+:5. A név a Fekete-tengertől származik, amelyet a görögök Pontosnak neveztek.
+:6. A Ponto-sztyeppe a Fekete-tengertől északra húzódik keletről nyugatra.
+:7. A nagy eurázsiai sztyeppei övezet részét képezi.
+:8. Ez az övezet Mongóliától a Duna alsó szakaszáig terjed.
+:9. Ezen a nyílt füves tájon évszázadokon át számos lovas nép élt.
+:10. A korai magyarok is ezekhez a sztyepp népekhez tartoztak.
+:11. Levedia helyét nem lehet teljes bizonyossággal meghatározni.
+:12. A kutatók többsége a Don és a Volga folyók között helyezi el.
+:13. A Don és a Volga Kelet-Európa két nagy folyója.
+:14. Mindkét folyó a mai Oroszország belsejében ered.
+:15. A Volga Európa leghosszabb folyója.
+:16. Széles ívben folyik dél felé, és végül a Kaszpi-tengerbe torkollik.
+:17. A Don nyugatabbra halad, és az Azovi-tengerbe torkollik.
+:18. Az Azovi-tenger a Fekete-tenger északi mellékágja.
+:19. E két folyó között kiterjedt sztyeppvidék terül el.
+:20. Pontosan ebben a térségben feltételezik Levedia központi területét.
+:21. Egyes tudósok azonban a határokat kissé nyugatabbra húzzák.
+:22. Ők inkább a Don és a Dnyeper közötti területen helyezik el Levediát.
+:23. A pontos határok ezért továbbra is bizonytalanok.
+:24. Csak az a biztos, hogy nagyjából Kelet-Európa déli részén található.
+:25. Ez a bizonytalanság a szűkös forrásanyaggal függ össze.
+:26. Az akkori írásos beszámolók ritkák és gyakran pontatlanok.
+:27. A Don és a Volga közötti táj túlnyomórészt sík.
+:28. Széles, fákban szegény füves síkságokból áll.
+:29. Csak a folyók mentén nőttek sűrűbb faállományok és cserjések.
+:30. Ezek a folyóparti árterületek védelmet, vizet és további legelőket nyújtottak.
+:31. A köztük fekvő nyílt síkságok ideálisak voltak az állattenyésztéshez.
+:32. Főként a lovak, a szarvasmarhák és a juhok találtak itt bőséges táplálékot.
+:33. A régió éghajlata kontinentális jellegű.
+:34. A nyár forró és száraz, a tél hideg és havas.
+:35. Tavasszal és ősszel a sztyeppe különösen buján zöldellett.
+:36. Ezekben az időszakokban a legelők a legjobb táplálékot nyújtották a csordáknak.
+:37. Nyár közepén viszont a fű a napon kiszáradhatott.
+:38. A nomádoknak ezért rendszeresen át kellett hajtaniuk a csordáikat.
+:39. Oda vándoroltak az állatokkal, ahol friss fű és víz volt.
+:40. Ezek a vándorlások gyakran egy meghatározott évszakos ritmust követtek.
+:41. Nyáron gyakran a hűvösebb, nedvesebb folyópartok felé vándoroltak.
+:42. Télen védettebb táborhelyeket kerestek.
+:43. A nagy folyók döntő jelentőségűek voltak a sztyeppén való élet szempontjából.
+:44. Ivóvizet biztosítottak az embereknek és az állatoknak.
+:45. Ugyanakkor közlekedési és tájékozódási vonalakként is szolgáltak.
+:46. A folyók mentén fontos utak húzódtak át a sztyeppén.
+:47. Partjaikon számos táborhely és gyülekezőhely volt.
+:48. A folyók emellett természetes határokat is képeztek a népek között.
+:49. Egy olyan folyó, mint a Don, egyértelműen elválaszthatta az egyik területet a másiktól.
+:50. Az ilyen határok azonban soha nem voltak teljesen átjárhatatlanok.
+:51. A lovas népek szükség szerint és az évszaknak megfelelően keltek át a folyókon.
+:52. Télen a befagyott folyókat akár könnyedén is át lehetett kelni.
+:53. A Don és a Volga közötti terület stratégiai jelentőségű volt.
+:54. Ez a térség a sztyeppe egyik fontos csomópontján feküdt.
+:55. Itt keresztezték egymást az Ázsia és Európa közötti útvonalak.
+:56. Keletről folyamatosan új lovas népek hatoltak be ebbe a régióba.
+:57. Mindannyian ugyanazokat a sztyeppek folyosóit használták nyugat felé.
+:58. Így a terület számos vándorlási mozgalom átjárója volt.
+:59. Aki itt letelepedett, az mindig kapcsolatban élt más népekkel.
+:60. Ez a helyzet egyaránt hozott magával lehetőségeket és veszélyeket is.
+:61. Egyrészt élénk kereskedelmet és cserét tett lehetővé.
+:62. Másrészt a lakosokat állandó külső nyomásnak tette ki.
+:63. A sztyeppétől délre a Fekete-tenger húzódott természetes határként.
+:64. E tengeren túl terült el a Bizánci Birodalom.
+:65. Bizánc gazdag és hatalmas szomszéd volt délen.
+:66. A sztyeppén keresztül laza kapcsolatok nyúltak egészen a városaiig.
+:67. Keleten a települési terület a kazárok birodalmával határos volt.
+:68. A kazárok akkoriban a dél-orosz sztyeppe nagy részét uralták.
+:69. Hatalmi központjuk a Volga alsó folyásánál volt.
+:70. Így a magyarok e nagy birodalom közvetlen szomszédai voltak.
+:71. Levedia helyzetét tehát csak ezekhez a szomszédokhoz viszonyítva lehet megérteni.
+:72. A magyarok ebben a térségben nem alkottak elszigetelt csoportot.
+:73. Be voltak ágyazva a sztyepp népek sűrű hálózatába.
+:74. A területük pontos kiterjedéséről a források nem szólnak.
+:75. Egyértelmű határvonalak, mint a modern térképeken, egyébként sem léteztek.
+:76. Egy nomád nép letelepedési területe nem volt szigorúan körülhatárolt terület.
+:77. Inkább legelőkből, táborhelyekből és vándorlási útvonalakból állt.
+:78. Ezek a területek évről évre változhattak.
+:79. Döntő fontosságú volt a legelők és a vízforrások feletti ellenőrzés.
+:80. Aki ezeket uralta, az uralta a vidéket is.
+:81. A Levedia név egy személyre vezethető vissza.
+:82. Levedi nevű vezérről maradt fenn a név.
+:83. Állítólag a területet róla nevezték el.
+:84. Levedit a magyarok egyik korai vezérének tartják.
+:85. Életéről azonban nagyon keveset tudunk.
+:86. A Levedia-val kapcsolatos legfontosabb forrás egy bizánci mű.
+:87. Szerzője VII. Konstantin császár.
+:88. Ez a császár a Porphyrogennetos melléknevet viselte.
+:89. A melléknév annyit jelent, mint „a bíborban született”.
+:90. A 10. században írt egy művet a birodalom közigazgatásáról.
+:91. Ebben a műben a magyarokról és korai történelmükről is beszámol.
+:92. Ott kifejezetten megemlítik a Levedia nevű területet.
+:93. Konstantin azonban jóval a leírt események után írta művét.
+:94. Adatai régebbi beszámolókra és elbeszélésekre alapulnak.
+:95. Ezért egyes részletek bizonytalanok vagy ellentmondásosak.
+:96. Műve azonban a magyarok korai történelmének szempontjából pótolhatatlan.
+:97. E mű nélkül alig tudnánk valamit Levediáról.
+:98. A Levediában való tartózkodás a 9. századra esik.
+:99. Pontos évszámokat aligha lehet megadni.
+:100. A magyarok feltehetően csak néhány évtizedig telepedtek le ott.
+:101. Előtte keletebbre, a sztyeppén éltek.
+:102. Eredeti hazájuk még a Volga túloldalán feküdt.
+:103. Onnan fokozatosan nyugat felé vándoroltak.
+:104. Levediában egy ideig letelepedtek.
+:105. Majd új események kényszerítették őket a továbbvándorlásra.
+:106. Levedia tehát csupán egy állomás volt egy hosszú úton.
+:107. Nem volt tartós, állandó hazájuk.
+:108. Ez megfelelt egy vándorló lovas nép életmódjának.
+:109. Levediában a magyarok a kazár befolyás alatt álltak.
+:110. A kazárok katonailag fölényben voltak velük szemben.
+:111. Feltehetően a magyarok elismerték a kazárok felsőbbrendűségét.
+:112. Egyes kutatók laza függőségi viszonyról beszélnek.
+:113. A magyarok valószínűleg időnként a kazárok szövetségeseiként szolgáltak.
+:114. Cserébe bizonyos védelmet élveztek.
+:115. Az ilyen szövetségek széles körben elterjedtek a sztyeppén.
+:116. Biztosították a kisebb népek túlélését a nagyobb hatalmak között.
+:117. A kazár birodalmon keresztül a magyarok hozzáférést nyertek a távkereskedelemhez.
+:118. Így jutottak el a sztyeppére a keleti és bizánci áruk.
+:119. Cserébe a magyarok elsősorban állatokat és szőrméket kínáltak.
+:120. A rablóhadjáratok során foglyul ejtett embereket is rabszolgaként adták-vették.
+:121. A rabszolga-kereskedelem a sztyeppegazdaság fontos részét képezte.
+:122. Levedia elhelyezkedéséről a mai napig számos elmélet létezik.
+:123. Megbízható régészeti bizonyítékokat nehéz találni.
+:124. A nomádok csak kevés tartós nyomot hagytak maguk után.
+:125. Nem építettek városokat és nem emeltek állandó kőépületeket.
+:126. Lakóhelyeik könnyűek és mozgathatók voltak.
+:127. Ezért egész települési területek régészeti szempontból alig nyomon követhetők.
+:128. Leginkább a sírok tanúskodnak jelenlétükről.
+:129. Az ilyen sírokban fegyvereket, ékszereket és lószerszámokat találtak.
+:130. Ezek a leletek következtetéseket engednek levonni kultúrájukról.
+:131. Levedia pontos helyét azonban nem teszik lehetővé.
+:132. A kutatás ezért nagymértékben az írott forrásokra támaszkodik.
+:133. Az ókori szövegekben szereplő földrajzi neveket gondosan értelmezik.
+:134. A folyónevek ebben különös szerepet játszanak.
+:135. Ezek alapján próbálják rekonstruálni a lakóhelyeket.
+:136. Ez azonban gyakran csak megalapozott feltételezés marad.
+:137. A Don és a Volga közötti terület ezért egy kutatási modell.
+:138. Ez a legvalószínűbb, de nem véglegesen bizonyított megoldásnak számít.
+:139. Ezen bizonytalanságok ellenére a kép nagy vonalakban világos.
+:140. A korai magyarok lovas nomádokként éltek a dél-orosz sztyeppén.
+:141. Több nagyhatalom közötti térségben mozogtak.
+:142. Délen Bizánc gazdagsága és a Fekete-tenger csábított.
+:143. Keleten a hatalmas kazár birodalom terült el.
+:144. Ázsia mélyéről egyre újabb lovas népek jelentek meg fenyegetően.
+:145. Ebben a feszültségmezőben feküdt Levedia területe.
+:146. A Don és a Volga közötti elhelyezkedése nem volt véletlen.
+:147. Ez a sztyepp népek nyugat felé történő vándorlásából adódott.
+:148. Minden nép az előzőt egyre tovább szorította Európa felé.
+:149. Így a magyarok is lépésről lépésre jutottak el nyugatra.
+:150. Levedia e hosszú vándorlás egyik fontos állomását jelenti.
+:151. Ez volt az első terület, amelyet a források név szerint említenek.
+:152. Ezzel kezdődik a magyarok számára a dokumentálható korai történelem.
+:153. Ezt megelőzően nyomuk a sztyeppe sötétjében veszik el.
+:154. A földrajzi elhelyezkedés mélyen meghatározta a korai magyarok életét.
+:155. A nyílt sztyeppe alakította gazdaságukat és hadviselési módjukat.
+:156. A vidék hatalmas kiterjedése lovas és mozgékony harcosokat igényelt.
+:157. A folyók szerkezetet és tájékozódási pontot adtak a térségnek.
+:158. A szomszédos népek határozták meg szövetségeiket és konfliktusaikat.
+:159. Így a későbbi történelem csak ebből a helyzetből érthető meg.
+:160. Aki meg akarja érteni a területfoglalást, annak e sztyeppénél kell kezdenie.
+:161. A Duna és a Volga között fekszik a magyar út kiindulópontja.
+:162. Innen a vándorlás több lépcsőben nyugat felé vezetett.
+:163. Minden új állomás közelebb hozta a magyarokat Európához.
+:164. Levedia volt ennek során az első egyértelműen megnevezett helyszín.
+:165. Pontos elhelyezkedése valószínűleg továbbra is foglalkoztatni fogja a kutatókat.
+:166. Biztos azonban, hogy a kézzelfogható történelem bölcsőjeként játszott szerepet.
+:167. A magyar emlékezetben ennek a térségnek szilárd helye van.
+:168. A távoli sztyeppén fekvő ősök földjének számít.
+:169. A későbbi generációk büszkén tekintettek vissza erre a származásra.
+:170. A Don és a Volga közötti sztyeppe így az önkép részévé vált.
+:171. A magyar nép nomád múltját szimbolizálja.
+:172. Ugyanakkor a magyar történelem földrajzi kezdetét is jelenti .
+:173. Ezen a hatalmas síkságon indult el egy hosszú út.
+:174. Ez az út végül a Kárpátok medencéjébe vezetett.
+:175. Az út kezdetén azonban a mai Oroszország déli részén fekvő sztyeppe állt.
+:176. Ott, a nagy folyók között, feküdtek az első települések.
+:177. E vidék pontos térképe továbbra is homályos marad.
+:178. Helye azonban nagyjából jól megalapozott.
+:179. A Don és a Volga között kezdődik tehát a magyarok nyomon követhető történelme.
+:180. Levedia révén tűnik fel ez a nép először az írásos hagyomány fényében.
+
+
+=== Történelmi források: Mit tudunk Levediáról? === 
+
+
+:1. Levedia települési területéről nagyon keveset tudunk.
+:2. A fennmaradt források száma rendkívül csekély.
+:3. Magából abból az időből nem maradtak fenn magyar írásos emlékek.
+:4. A korai magyaroknak akkoriban még nem volt saját írásbeli kultúrájuk.
+:5. Tudásukat szájhagyomány útján adták át nemzedékről nemzedékre.
+:6. Az ilyen szájhagyományok idővel nagyrészt elvesztek.
+:7. A Levediáról ismert információk ezért idegenektől származnak.
+:8. Főként a szomszédos fejlett kultúrák hagytak hátra írásos beszámolókat.
+:9. E kultúrák közül a legfontosabb a Bizánci Birodalom volt.
+:10. Bizánc gazdag és művelt írásbeli hagyományokkal rendelkezett.
+:11. Tisztviselői és tudósai alaposan figyelemmel kísérték a sztyepp népeket.
+:12. Ebből az érdeklődésből értékes beszámolók születtek a magyarokról.
+:13. A messze legfontosabb forrás egy bizánci mű.
+:14. Szerzője VII. Konstantin császár volt.
+:15. Ez a császár a Porphyrogennetos melléknevet viselte.
+:16. A melléknév jelentése: „a bíborban született”.
+:17. Ezzel születését uralkodó császár gyermekeként történt.
+:18. Konstantin a tizedik században uralkodott Konstantinápolyban.
+:19. Nemcsak uralkodó volt, hanem művelt író is.
+:20. Nevében számos jelentős mű született.
+:21. Ezek közül a legfontosabb latin címet visel.
+:22. De administrando imperio néven ismert.
+:23. A cím jelentése: A birodalom irányításáról.
+:24. A művet tanácsadóként szánta fiának.
+:25. Célja az volt, hogy a leendő császárt megtanítsa a külföldi népekkel való bánásmódra.
+:26. Ezért számos, a birodalom szomszédos népét ismerteti benne.
+:27. A magyaroknak is külön fejezetet szentel benne.
+:28. Ebben a fejezetben szerepel a Levedia név.
+:29. Konstantin ott a magyarok korai lakóhelyeiről számol be.
+:30. A területet egy Levedi nevű vezérről nevezi el.
+:31. A tájat állítólag erről a férfiról nevezték el.
+:32. Levedi a magyarok elismert hadvezérének számított.
+:33. Konstantin a kazárokkal való viszonyt is leírja.
+:34. A magyarok egy ideig együtt éltek velük.
+:35. A császár e tekintetben magyar követek beszámolóira támaszkodott.
+:36. Ezek a követek felkeresték a konstantinápolyi udvart.
+:37. Ott beszámoltak népük múltjáról.
+:38. Így kerültek be a műbe a magyar hagyományok.
+:39. Konstantin azonban jóval a leírt események után írta művét.
+:40. Az események és a leírás között több évtized telt el.
+:41. Egyes kutatók akár több mint száz évvel is számolnak.
+:42. Az emlékeket addig többször is továbbadták.
+:43. Ennek során hibák és eltérések csúszhattak be.
+:44. A császár néhány állítása ezért bizonytalannak tekinthető.
+:45. Egyes részek egymásnak is ellentmondanak.
+:46. A kutatóknak ezért gondosan át kell vizsgálniuk a szöveget.
+:47. Ezen hiányosságok ellenére a mű pótolhatatlan marad.
+:48. Konstantin nélkül szinte semmit sem tudnánk Levediáról.
+:49. Ő az egyetlen forrás, amely kifejezetten megemlíti ezt a nevet.
+:50. Már csak ezért is nagy jelentősége van beszámolójának.
+:51. Bizánc mellett más kultúrák is nyújtottak információkat.
+:52. Különösen fontosak az arab és perzsa szerzők.
+:53. A középkorban virágzott az iszlám tudomány.
+:54. A muszlim földrajztudósok leírták az általuk ismert világot.
+:55. Ide tartoztak a kelet-európai sztyeppék népei is.
+:56. Több arab írás is említi a magyarokat.
+:57. Általában más néven említik őket.
+:58. Gyakran a „Madschgharija” néven szerepelnek ezekben.
+:59. Ezek a beszámolók a magyarok életmódját és hadviselését írják le.
+:60. Említik lovas seregeiket és portyáikat.
+:61. A rabszolga-kereskedelmet is leírják bennük.
+:62. E szövegek közül néhány egy közös, régebbi beszámolóra vezethető vissza.
+:63. Ezt az elveszett eredeti beszámolót a kutatások során sokat vitatják.
+:64. Nyilvánvalóan több későbbi szerző is merített belőle.
+:65. Az arab források így kiegészítik a bizánci képet.
+:66. A Levedia nevet azonban nem említik.
+:67. Ezért csak közvetetten vonatkoztathatók erre a területre.
+:68. A források egy további csoportját a magyar krónikák alkotják.
+:69. Ezek azonban csak sok évszázaddal később keletkeztek.
+:70. A középkorban, a keresztény Magyarországon írták őket.
+:71. Legismertebb közülük a Gesta Hungarorum című krónika.
+:72. Szerzőjét csupán névtelen jegyzőként emlegetik.
+:73. A kutatásokban egyszerűen Anonymusnak nevezik.
+:74. Valószínűleg 1200 körül írta.
+:75. A korai időszakról szóló leírása erősen kiszínezett.
+:76. A történelmi emlékeket keveri a mondákkal és a kitalációval.
+:77. Levediáról pontos adatok hiányoznak nála.
+:78. Az ilyen későbbi krónikákat ezért óvatosan kell olvasni.
+:79. Inkább a magyarok későbbi önképét tükrözik.
+:80. A korai települések tekintetében csak korlátozottan használhatók.
+:81. Ezeknél a mondáknál fontosabbak a korabeli külföldi beszámolók.
+:82. Ezek közül a legjelentősebb Konstantin műve.
+:83. Mellettük az iszlám földrajztudósok jelentik a második pillért.
+:84. Mindkettőből együttesen egy hiányos kép alakul ki.
+:85. Sok kérdés marad így nyitva.
+:86. Levedia pontos elhelyezkedése egyike ezeknek a nyitott kérdéseknek.
+:87. A betelepülés időpontja is bizonytalan.
+:88. Még a tartózkodás időtartamát is csak becsülni lehet.
+:89. A források nem adnak meg pontos évszámokat.
+:90. Leggyakrabban csak határozatlan időtartamokról beszélnek.
+:91. A kutatóknak ezért számos adatot kell összevetniük.
+:92. Összehasonlítják egymással a különböző beszámolókat.
+:93. Az egyezésekből óvatos következtetéseket vonnak le.
+:94. Az ellentmondásokat megpróbálják megmagyarázni vagy mérlegelni.
+:95. Így alakul ki egy valószínűsíthető összkép.
+:96. Ez az összkép azonban továbbra is csak egy megalapozott rekonstrukció marad.
+:97. Nem biztos és végleges tudásról van szó.
+:98. Az írásos források mellett a nyelvészet is szerepet játszik.
+:99. A magyarok nyelve is fontos utalásokat nyújt.
+:100. A magyar nyelv a finnugor nyelvcsaládhoz tartozik.
+:101. Ezáltal jelentősen eltér későbbi szomszédos nyelveitől.
+:102. A nyelvben ősi jövevényszavak maradtak fenn.
+:103. Ezek közül sok a török nyelvekből származik.
+:104. Az ilyen jövevényszavak a sztyeppén fennálló hosszú idejű kapcsolatokról tanúskodnak.
+:105. Gyakran az állattenyésztéshez és a lovas életmódhoz kapcsolódnak.
+:106. Ebből következtetni lehet a magyarok egykori szomszédaira.
+:107. Elsősorban a kazárok és rokon népek jöhetnek szóba.
+:108. A nyelv így önálló történelmi forrássá válik.
+:109. Értékes módon kiegészíti az írásos beszámolókat.
+:110. További támaszt nyújt a régészet.
+:111. A régészet a múlt anyagi maradványait.
+:112. De éppen a nomádok esetében ütközik határaihoz.
+:113. A lovas nomádok alig hagytak hátra tartós építményeket.
+:114. Nem építettek sem városokat, sem állandó házakat.
+:115. Sátraik és táborhelyeik szinte nyomtalanul eltűntek.
+:116. Leginkább sírjaik maradtak fenn.
+:117. Az ilyen sírokban jellegzetes sírmellékleteket találtak.
+:118. Ide tartoznak a fegyverek, ékszerek és a lószerszámok részei.
+:119. Ezek a leletek a magyar kultúrához sorolhatók.
+:120. Levedia pontos helymeghatározását azonban nem teszik lehetővé.
+:121. A régészeti nyomok nagy területeken szétszóródtak.
+:122. Pontos besorolásuk gyakran vitatott.
+:123. A régészet ezért csak az általános képet erősíti meg.
+:124. A sztyeppén élő, lovas nomád kultúrát mutat be.
+:125. A Levedia nevet azonban nem tudja megadni.
+:126. Így Konstantin írásos forrása marad a kulcsfontosságú szöveg.
+:127. Minden egyéb bizonyíték ehhez igazodik.
+:128. A Levediára vonatkozó forráshelyzet összességében szűkös.
+:129. Csak néhány, gyakran bizonytalan elemből áll.
+:130. A kutatás minden egyes elemet alaposan mérlegel.
+:131. Ez magyarázza az elméletek sokaságát.
+:132. Különböző tudósok eltérően értelmezik ugyanazokat a szövegeket.
+:133. Egyesek nagyobb hangsúlyt fektetnek a bizánci beszámolóra.
+:134. Mások elsősorban az arab földrajztudósokra támaszkodnak.
+:135. Megint mások a nyelvészetet helyezik előtérbe.
+:136. Így alakulnak ki eltérő képek Levediáról.
+:137. Egységes vélemény a mai napig nincs.
+:138. Ez a nyitottság jellemző a korai történelemre.
+:139. Minél régebbi az időszak, annál szűkösebbek a források.
+:140. A magyarok korai történelme sem képez kivételt ez alól.
+:141. Sok minden ezért csak feltételezés marad.
+:142. Csak néhány tény áll biztosan.
+:143. Levedia a magyarok egyik korai lakóhelye volt a sztyeppén.
+:144. Nevét kizárólag Konstantin császár említi.
+:145. A kazár birodalom befolyási övezetében feküdt.
+:146. A magyarok ott lovas nomádokként éltek.
+:147. Ezen a magon túl kezdődik az értelmezés birodalma.
+:148. Pont ebben rejlik ennek a korszaknak a különleges varázsa.
+:149. A kutatóknak kevés nyom alapján kell képet alkotniuk.
+:150. Munkájuk során úgy járnak el, mint nyomozók egy régi ügyben.
+:151. A források minden egyes szavát alaposan megvizsgálják.
+:152. Minden új értelmezés megváltoztathatja a képet.
+:153. Így a Levediáról szóló kutatás folyamatosan fejlődik.
+:154. Új leletek a jövőben további nyomokat szolgáltathatnak.
+:155. Elképzelhetők a régi szövegek új olvasatai is.
+:156. Addig Konstantin műve számít a legfontosabb tanúnak.
+:157. Ez nyitja meg az egyetlen tiszta ablakot erre a távoli korszakra.
+:158. Ezen az ablakon keresztül tekinthetünk a korai magyarosságra.
+:159. A kilátás azonban szűk és részben homályos marad.
+:160. Sok mindent csak bizonytalan körvonalakban lehet felismerni.
+:161. Ennek ellenére ez a kilátás felbecsülhetetlen értékű.
+:162. Őrzi egy nép gyökereinek emlékét.
+:163. Nélküle Levedia teljesen a sötétségbe merült volna.
+:164. Így az utókornak sokat köszönhet egy bizánci császárnak.
+:165. Tudományos műve megmentett egy nevet a feledéstől.
+:166. Ebből a névből egy egész fejezet nő ki a korai történelemből.
+:167. A forrásismeret ezért minden ismertetés kiindulópontja.
+:168. Csak ez mutatja meg, mire alapul valójában a tudás.
+:169. Ugyanakkor egyértelművé teszi e tudás határait is.
+:170. Aki meg akarja érteni Levediát, annak ismernie kell a forrásait.
+:171. Mérlegelnie kell azok erősségeit és gyengeségeit.
+:172. Csak így lehet elkülöníteni a bizonyosat a feltételezéstől.
+:173. A történelmi forráshelyzet tehát a téma kulcsa.
+:174. Ez határozza meg, mit mondhatunk Levediáról.
+:175. És emlékeztet arra, hogy mennyi minden marad bizonytalan.
+:176. Egy császár néhány sorából egy egész kutatási terület alakul ki.
+:177. Idegen beszámolókból alakul ki egy korai nép képe.
+:178. Így tükrözi Levedia az egész korai történelem lényegét.
+:179. Kizárólag néhány értékes forrás fényében él.
+:180. És mégis, ez a fény elegendő ahhoz, hogy megőrizze a nevét.
+
+
+=== Időkeret: Mikor telepedtek le ott a magyarok? === 
+
+
+:1. Az időkeretre vonatkozó kérdésre különösen nehéz válaszolni.
+:2. Levedia esetében nincsenek pontos évszámok.
+:3. A források nem említik a pontos dátumokat.
+:4. Csak hozzávetőleges időtartamokról beszélnek.
+:5. A kutatóknak ezért fáradságos munkával kell rekonstruálniuk az időkeretet.
+:6. Ennek során kevés támpontra támaszkodnak.
+:7. Ezek a támpontok különböző forrásokból származnak.
+:8. Ezekből próbálnak időbeli vázlatot felépíteni.
+:9. Ez a vázlat azonban hiányos és bizonytalan marad.
+:10. Ennek ellenére nagyjából meg lehet határozni az időkeretet.
+:11. A Levediában való tartózkodás a 9. századra esik.
+:12. Ezen a tág kereten belül nagyjából egyetértés uralkodik.
+:13. Ezen a századon belül azonban eltérnek a vélemények.
+:14. Különösen a telepesek érkezésének pontos kezdete vitatott.
+:15. Ugyanígy bizonytalan a tartózkodás vége is.
+:16. Mindkét időpontot csak hozzávetőlegesen lehet meghatározni.
+:17. A legbiztosabb támpontot a vándorlás vége nyújtja.
+:18. A Kárpát-medence elfoglalását 896-ra datálják.
+:19. Ezt a dátumot a kutatások bizonyítottnak tekintik.
+:20. Ebből a végpontból számolnak visszafelé.
+:21. A terület elfoglalása előtt a magyarok Etelközben éltek.
+:22. Etelköz volt a második ismert települési terület.
+:23. Ezt megelőzően pedig Levediában tartózkodtak.
+:24. Levedia tehát e lánc elején áll.
+:25. Ez a legkorábbi, név szerint ismert állomás.
+:26. Az időbeli sorrend így egyértelmű.
+:27. Először Levedia, aztán Etelköz, végül a Kárpát-medence.
+:28. A pontos átmenetek azonban továbbra is homályosak.
+:29. Hogy mennyi ideig tartott az egyes állomásokon való tartózkodás, az bizonytalan.
+:30. Különösen a Levediában való tartózkodás nehezen megfogható.
+:31. Konstantin császár erről egy figyelemre méltó adatot közöl.
+:32. Megad egy számot, amely a tartózkodás időtartamát jelzi.
+:33. Írása szerint a magyarok három évig éltek ott.
+:34. Ez a szám első pillantásra nagyon rövidnek tűnik.
+:35. Sok kutató hiteltelennek tartja.
+:36. Egy ilyen rövid időtartam történelmileg valószínűtlennek tűnik.
+:37. Egyesek a hagyomány átadásában hibára gyanakodnak.
+:38. Lehet, hogy a számot rosszul másolták le.
+:39. Mások a három évet három generációként értelmezik.
+:40. Egy generáció körülbelül harminc évet foglal magában.
+:41. Három generáció így körülbelül száz évet jelentene.
+:42. Ez az értelmezés sokak számára hihetőbbnek tűnik.
+:43. Ez hosszabb tartózkodást jelentene.
+:44. De ez az értelmezés is csupán feltételezés marad.
+:45. Maga a szöveg mindkét értelmezést lehetővé teszi.
+:46. Itt ismét megmutatkozik a források nehézsége.
+:47. Már egyetlen szám is nagy kérdéseket vet fel.
+:48. Csak a 9. századba való hozzávetőleges besorolás biztos.
+:49. Fontos támpontot jelent egy konkrét esemény.
+:50. 862-ben a magyarok először jelentek meg Nyugaton.
+:51. Akkor betörtek a Kelet-Frank Birodalomba.
+:52. Ezt a cselekményt a nyugati krónikák is rögzítették.
+:53. A krónikák évről évre vezetett feljegyzések.
+:54. Gyakran pontos évszámokat is megadnak.
+:55. Az 862-es betörés ezért bizonyítottnak tekinthető.
+:56. Ez azt mutatja, hogy a magyarok már akkor is Európa közelében éltek.
+:57. Ekkor valószínűleg már Etelközben tartózkodtak.
+:58. Levediát tehát már el kellett hagyniuk.
+:59. Ebből egy hozzávetőleges időbeli határ vonható le.
+:60. A Levediában való tartózkodás tehát a század közepe előttre tehető.
+:61. Egyes kutatók a század első felére teszik.
+:62. Mások még ennél is korábbra tolják.
+:63. Néhányan már a nyolcadik századra teszik Levediát.
+:64. A becslések közötti eltérés tehát nagy.
+:65. Több évtizedet is átfog.
+:66. A jelenlegi ismereteink alapján pontosabb meghatározás nem lehetséges.
+:67. További utalást jelentenek a kazárokkal való kapcsolatok.
+:68. Levediában a magyarok kazár befolyás alatt álltak.
+:69. A kazár birodalom akkoriban nagyhatalom volt.
+:70. Virágkora a nyolcadik és a kilencedik századra esik.
+:71. A szoros kapcsolat tehát jól illeszkedik ebbe az időszakba.
+:72. A magyarok akkoriban a kazárok árnyékában éltek.
+:73. E kapcsolat hanyatlásával kezdődött a nyugati vándorlás.
+:74. Ez is a kilencedik század mellett szól.
+:75. Több forrás időbeli adatai így összekapcsolhatók.
+:76. Együttesen hozzák létre a körvonalakat.
+:77. A magyarok valószínűleg a 9. század elején telepedtek le Levediában.
+:78. Ezt megelőzően szülőföldjük keletebbre, a sztyeppén feküdt.
+:79. Ezt a korábbi hazát néha Magna Hungariának nevezik.
+:80. A név annyit jelent, mint Nagy-Magyarország.
+:81. A Volga túlsó partján fekvő ősi törzsi területet jelöli.
+:82. Onnan a magyarok fokozatosan nyugat felé vándoroltak.
+:83. Ez a vándorlás hosszú időtartamra nyúlt.
+:84. Nem egy lépésben zajlott le.
+:85. Inkább fokozatos mozgásról volt szó.
+:86. Egész generációk vettek részt ebben a vándorlásban.
+:87. Levedia eközben fontos közbenső állomás volt.
+:88. Már a dél-orosz sztyeppén feküdt.
+:89. Ezzel az út nagy részét már megtették.
+:90. A levediai indulás külső nyomás hatására történt.
+:91. Egy ellenséges lovas nép nyomta a magyarokat nyugat felé.
+:92. Ez a nép a pechenegek voltak.
+:93. A pechenegek megtámadták a magyarokat.
+:94. Kényszerítették őket, hogy elhagyják lakóhelyeiket.
+:95. Ez a támadás nagyjából datálható.
+:96. A 9. század második felére esik.
+:97. Ezzel véget ért a levediai tartózkodás.
+:98. A magyarok ezután Etelköz felé vonultak tovább.
+:99. Ez a költözés sem datálható pontosan.
+:100. Azonban az 896-os földhódítás előttre tehető.
+:101. Így egy nagyjából körvonalazott ív húzódik a 9. század felett.
+:102. Elején a Levediában való tartózkodás áll.
+:103. Végén pedig a Kárpát-medencében történt földhódítás.
+:104. Közöttük fekszik az Etelköz állomás.
+:105. Ez a sorrend nagyrészt bizonyítottnak tekinthető.
+:106. A pontos évszámok viszont továbbra is bizonytalanok.
+:107. A kutatásnak itt óvatosnak kell maradnia.
+:108. Bármely konkrét szám a tudás túlbecslését jelentené.
+:109. A források csak hozzávetőleges értékeket tesznek lehetővé.
+:110. Központi probléma a hagyomány átadásának módja.
+:111. A korai történelmet szájhagyomány útján adták tovább.
+:112. A szájhagyomány nem ismer pontos dátumokat.
+:113. Nem évszámokban, hanem generációkban gondolkodik.
+:114. Csak a későbbi írók adtak hozzá számokat.
+:115. Ezek a számok gyakran becslések vagy visszaszámítások voltak.
+:116. Ezért óvatosan kell kezelni őket.
+:117. Konstantin három éve jó példa erre.
+:118. Ezek jól mutatják, mennyire bizonytalanok lehetnek az ilyen adatok.
+:119. Hasonló problémák merülnek fel más időbeli adatok esetében is.
+:120. A kutatásnak ezért mindig mérlegelnie kell.
+:121. Összehasonlítja a forrásokat egymással.
+:122. Független megerősítéseket keres.
+:123. A datálható események ebben a tekintetben különösen értékesek.
+:124. Az 862-es betörés egy ilyen fix pont.
+:125. Az 896-os területfoglalás egy másik.
+:126. Ezen pontok közé sorolják a többi eseményt.
+:127. Levedia időben még az első fix pont előtt helyezkedik el.
+:128. Pontosan ebben rejlik a nehéz datálhatósága.
+:129. Ez kicsúszik a biztos kronológiai támaszpontok közül.
+:130. Segítséget nyújt a szomszédos népekkel való összehasonlítás is.
+:131. A kazárok története jobban ismert.
+:132. A pechenegék története is nagyjából behatárolható.
+:133. Mozgásukból következtetni lehet a magyarokéra.
+:134. Ezek a népek közvetlenül hatottak egymásra.
+:135. Egy vándorlás gyakran kiváltotta a következőt.
+:136. Így alakult ki a sztyeppén a vándorlások láncolata.
+:137. Egy nép időbeli behatárolása segít a másikéban.
+:138. Ily módon alátámasztják a magyarok kronológiáját.
+:139. Ennek ellenére ez továbbra is feltételezések hálózata marad.
+:140. Teljes bizonyosságot itt nem lehet elérni.
+:141. Az időkeretet csak beszűkíteni lehet.
+:142. Pontos időbeli beágyazás nem sikerül.
+:143. Lényegében a megállapítások röviden összefoglalhatók.
+:144. A magyarok a 9. században Levediában éltek.
+:145. Ott-tartózkodásuk feltehetően több évtizedig tartott.
+:146. Talán akár egy évszázadot is felölelt.
+:147. A pontos időtartam nem határozható meg.
+:148. A kezdetet is csak becsülni lehet.
+:149. A vég a század második felére esik.
+:150. Ezt követően megkezdődött a vándorlás Etelköz felé.
+:151. Ez a megállapítás nem látványos, de szilárd.
+:152. A források óvatos értelmezésén alapul.
+:153. Tudatosan lemond a hamis pontosságtól.
+:154. Éppen ebben rejlik tudományos ereje.
+:155. Az őszinte bizonytalanság többet ér, mint egy kitalált dátum.
+:156. A korai történelem megköveteli ezt a szerénységet.
+:157. Megtanít arra, hogy tiszteljük a tudás határait.
+:158. Ez különösen jól látszik Levedia időkeretének esetében.
+:159. Sok minden nyitott és vitatott marad.
+:160. Csak a nagyvonalú keret állapítható meg.
+:161. A kutatás ezen a kereten belül mozog.
+:162. Óvatosan tapogatózik az igazság felé.
+:163. Új leletek a jövőben pontosíthatják ezt a keretet.
+:164. A szövegek új értelmezései is lehetségesek.
+:165. Addig is ez a nagyvonalú besorolás tekinthető a tudás jelenlegi állásának.
+:166. A magyarok a 9. században a folyók között telepedtek le.
+:167. Ott töltötték hosszú vándorlásuk egy szakaszát.
+:168. Levedia egy állomás volt a nyugat felé vezető úton.
+:169. Időbeli helye a történelem homályában fekszik.
+:170. Felismerhető, de nem élesen körülhatárolható.
+:171. Ez a homályosság a korszak lényegéhez tartozik.
+:172. Ez teszi a korai időszakot egyszerre nehézkessé és vonzóvá.
+:173. Levedia időkerete továbbra is nyitott kérdés marad.
+:174. Ez a mai napig kihívást jelent a kutatás számára.
+:175. Végleges válasz még nem született.
+:176. Talán soha nem is fogják megtalálni.
+:177. De a nagyvonalú keret elegendő a megértéshez.
+:178. Ez biztosan a 9. századba sorolja Levediát.
+:179. Ezzel a korai magyar történelem megkapja időbeli helyét.
+:180. És ez a hely a nagy honfoglalás előestéjén fekszik.
+
+
+=== Szomszédos népek: kazárok, bolgárok és más sztyeppei népek ??? a „Khasaren” szót minden szövegben „Chasaren”-re kell változtatni === 
+
+
+:1. A magyarok nem éltek egyedül Levediában.
+:2. A sztyeppe sűrűn lakott terület volt.
+:3. Számos nép osztozott ezen a hatalmas vidéken.
+:4. Mindannyian a sztyeppe lovasai és pásztorai voltak.
+:5. A magyarok sokukkal kapcsolatban álltak.
+:6. Ezek a szomszédok mélyrehatóan befolyásolták életüket.
+:7. Ők határozták meg a szövetségeket, a kereskedelmet és a háborúkat.
+:8. A szomszédos népek nélkül Levedia nem érthető meg.
+:9. E népek közül a leghatalmasabbak a kazárok voltak.
+:10. A kazárok Dél-Oroszország sztyeppéinek nagy részét uralták .
+:11. Birodalmuk az akkori idők igazi nagyhatalma volt.
+:12. Kelet-Európa hatalmas területeire terjedt ki.
+:13. Központi területe a Volga alsó folyásánál feküdt.
+:14. Ott található a birodalom fővárosa is.
+:15. Ez a város az Itil nevet viselte.
+:16. Itil a Volga Kaszpi-tengerbe torkolló torkolatánál feküdt.
+:17. A város a sztyeppe egyik jelentős kereskedelmi központja volt.
+:18. Ott keresztezték egymást a fontos távolsági kereskedelmi útvonalak.
+:19. Itt találkoztak a Keletről és Északról érkező áruk.
+:20. A kazár birodalom többnemzetiségű állam volt.
+:21. Uralma alatt sok különböző csoport élt.
+:22. Élén egy „kagan” címet viselő uralkodó állt.
+:23. A kagan egyben szinte szent alak is volt.
+:24. Mellette gyakran egy második hatalmasság is uralkodott.
+:25. Ez utóbbi vezette a tényleges kormányzati ügyeket.
+:26. A kazárok egyik különlegessége a vallásuk volt.
+:27. A felső réteg egy része áttért a judaizmusra.
+:28. Ezzel a kazárok kiemelkedtek szomszédaik közül.
+:29. Körülöttük terjedt az iszlám és a kereszténység.
+:30. A kazárok egy saját, harmadik utat választottak.
+:31. A birodalomban egyúttal nagy vallási sokszínűség uralkodott.
+:32. Zsidók, keresztények, muszlimok és pogányok éltek egymás mellett.
+:33. Ez a sokszínűség tette a birodalmat különösen figyelemre méltóvá.
+:34. A magyarok számára a kazárok voltak a legfontosabb szomszédok.
+:35. Levediában kazár befolyás alatt álltak.
+:36. Feltehetően elismerték a kagan felsőbbrendűségét.
+:37. Egyes kutatók függőségi viszonyról beszélnek.
+:38. A magyarok valószínűleg a kazárok szövetségeseiként szolgáltak.
+:39. Harcosokat állítottak a kazár seregek rendelkezésére.
+:40. Cserébe védelmet és biztonságot élveztek.
+:41. Az ilyen szövetségek a sztyeppén szokásosak voltak.
+:42. Ezek a kisebb népeket a nagyhatalmakhoz kötötték.
+:43. A magyarok számára ez számos előnnyel járt.
+:44. Tanultak a fejlettebb kazár rendtől.
+:45. Kereskedelmük is profitált ebből a kapcsolatból.
+:46. A kazárok révén távkereskedelmet folytattak.
+:47. Így jutottak el hozzájuk távoli országokból származó áruk.
+:48. Cserébe a magyarok állatokat és szőrméket ajánlottak fel.
+:49. Rabszolgák is a kereskedelmi árujuk közé tartoztak.
+:50. A kazár befolyás a nyelvre is kiterjedt.
+:51. Számos török jövevényszó került be a magyar nyelvbe.
+:52. Ezek gyakran az állattenyésztéshez és a lovas életmódhoz kapcsolódnak.
+:53. Ezek a szavak a hosszú együttélésről tanúskodnak.
+:54. E kapcsolat sajátos nyomai a kabarok.
+:55. A kabarok egy lázadó kazár törzs voltak.
+:56. Felkeltek a kagan ellen.
+:57. Egy felkelés után el kellett hagyniuk a birodalmat.
+:58. Ezután csatlakoztak a magyarokhoz.
+:59. A magyar törzsszövetség részévé váltak.
+:60. Ezzel megerősítették a magyar sereget.
+:61. Ugyanakkor magukkal hozták a kazár szokásokat is.
+:62. A kabarok jól mutatják a két nép szoros összefonódását.
+:63. Egy másik jelentős szomszédos nép a bolgárok voltak.
+:64. A bolgárok török származású lovas nép voltak.
+:65. Eredetileg ők is a sztyeppén éltek.
+:66. Az idők folyamán több csoportra oszlottak.
+:67. Az egyik csoport északra, a Volga középső szakaszához vándorolt.
+:68. Ott megalapították a volga-bolgár birodalmat.
+:69. Ez a birodalom északon, a kazárok területén túl feküdt.
+:70. A volga-bolgárok később áttértek az iszlámra.
+:71. Élénk kereskedelmet folytattak az északkal.
+:72. A bolgárok egy másik csoportja nyugat felé vándorolt.
+:73. Végül eljutottak a Duna alsó szakaszához.
+:74. Ott megalapították az Első Bolgár Birodalmat.
+:75. Ez a birodalom a Balkánon terült el.
+:76. Bizánc hatalmas szomszédjává vált.
+:77. A dunai bolgárok szláv népekkel keveredtek.
+:78. Idővel átvették azok nyelvét.
+:79. Így alakult ki fokozatosan a szláv Bulgária.
+:80. A magyarok számára mindkét bolgár csoport fontos volt.
+:81. A volga-bolgárok északon voltak a szomszédjaik.
+:82. A dunai bolgárokkal nyugatabbra találkoztak.
+:83. Később konfliktusok alakultak ki a dunai bolgárokkal.
+:84. Ezek a konfliktusok szerepet játszottak a kivándorlásban.
+:85. A bolgárok időnként szövetségre léptek a magyarok ellen.
+:86. Ezzel hozzájárultak a nyugati vándorláshoz.
+:87. A kazárok és a bolgárok mellett más népek is éltek.
+:88. Különösen veszélyessé váltak a pechenegek.
+:89. A pechenegek vad lovas nép voltak.
+:90. A keletebbre fekvő sztyeppékről származtak.
+:91. A 9. században nyugat felé nyomultak.
+:92. Eközben a magyarok lakóhelyeire bukkantak.
+:93. A pechenegeket különösen harciasnak tartották.
+:94. Még Bizánc is rettegett a támadásaiktól.
+:95. A magyarok számára halálos fenyegetéssé váltak.
+:96. Előrenyomulásuk láncreakciót váltott ki.
+:97. Egyre nyugatabbra szorították a magyarokat.
+:98. Végül arra kényszerítették a magyarokat, hogy elinduljanak.
+:99. A pechenegek így hajtóerőként működő ellenségek voltak.
+:100. Ellenségeskedésük erősen meghatározta a magyar történelmet.
+:101. Hosszú távolságokon át üldözték a magyarokat.
+:102. Még Etelközben is utolérték őket.
+:103. Ezzel tartós ősellenségekké váltak.
+:104. Egy másik keleti nép az oghuzok voltak.
+:105. Ők is a török lovas népek közé tartoztak.
+:106. A Volga túlsó partján, a sztyeppén éltek.
+:107. Nyomásuk nyomán a pechenegek nyugat felé szorultak.
+:108. Így folytatódott a vándorlások láncolata.
+:109. Minden nép a következőt szorította maga elé.
+:110. A sztyeppe a folyamatos mozgás színtere volt.
+:111. A népek nagy távolságokat tettek meg.
+:112. Egy vándorlás gyakran kiváltotta a következőt.
+:113. A magyarok ennek a hosszú láncnak egy láncszemei voltak.
+:114. A közelben letelepedett népek is éltek.
+:115. Északon és nyugaton számos szláv lakott.
+:116. A szlávok túlnyomórészt földművelők voltak.
+:117. Állandó falvakban és településeken éltek.
+:118. Ezzel erősen különböztek a nomádoktól.
+:119. A magyarok kereskedtek velük.
+:120. Ugyanakkor rablóhadjáratokat is indítottak ellenük.
+:121. A szláv foglyokat rabszolgaként adták el.
+:122. Ez a kereskedelem jövedelmező volt a magyarok számára.
+:123. A szlávok emellett gabonát és árukat is szállítottak.
+:124. Így kiegészítették egymást a gazdasági rendszerek.
+:125. Délen terült el a hatalmas Bizánci Birodalom.
+:126. Bizánc nem volt közvetlen sztyeppeszomszéd.
+:127. De befolyása mélyen benyúlt a sztyeppébe.
+:128. Kapcsolatokat ápolt az összes sztyepp néppel.
+:129. Ajándékokkal és szerződésekkel irányította politikájukat.
+:130. Gyakran uszította az egyik népet a másik ellen.
+:131. Ez a diplomácia fontos hatalmi eszköz volt.
+:132. A magyarok is belekeveredtek ebbe a játszmába.
+:133. Bizánc később felhasználta őket a bolgárok ellen.
+:134. Így a magyarok a bizánci politika eszközévé váltak.
+:135. A szomszédokkal való viszony mindig összetett volt.
+:136. A szövetség és az ellenségeskedés között ingadozott.
+:137. A mai szövetségesek holnap már ellenségek lehettek.
+:138. A szövetségek a helyzet és az előnyök függvényében változtak.
+:139. Ez a rugalmasság jellemző volt a sztyeppére.
+:140. Alig voltak szilárd határok és tartós szövetségek.
+:141. A hatalom és a gyengeség döntött a kapcsolatokról.
+:142. A magyaroknak meg kellett állniuk a helyüket ebben a hálózatban.
+:143. A nagyobb hatalmak között lavíroztak.
+:144. Néha behódoltak, néha önállóan cselekedtek.
+:145. Ez a helyzet alakította ki politikai jellegüket.
+:146. Rugalmasakká és alkalmazkodóképessé tette őket.
+:147. Ugyanakkor helyzetük mindig veszélyben volt.
+:148. A nagyobb népek bármikor nyomást gyakorolhattak rájuk.
+:149. Pontosan ez történt a pechenegekkel.
+:150. Erőjük nem volt elég e ellenséggel szemben.
+:151. Így lehet jól összefoglalni helyzetüket.
+:152. A magyarok a sztyeppek közepes erejű népe voltak.
+:153. Erősebbek voltak a szlávoknál, de gyengébbek a nagy birodalmaknál.
+:154. Keleten a kazárok álltak védelmező hatalomként.
+:155. Nyugaton a bolgárok és Bizánc csábítottak.
+:156. Ázsia mélyéről a pechenegek jelentettek fenyegetést.
+:157. Ezen erők közepette éltek a magyarok Levediában.
+:158. Ezen hatalmak mindegyike befolyásolta sorsukat.
+:159. A kazárok támaszt és rendet biztosítottak számukra.
+:160. A bolgárok időnként ellenségekké váltak.
+:161. A pechenegek végül elűzték őket.
+:162. Bizánc bevonta őket nagyhatalmi politikájába.
+:163. Így Levedia körül népek hálózata feszült ki.
+:164. Ebben a hálóban a magyarok is beágyazódtak.
+:165. Történetük e kapcsolatok története.
+:166. Ezt nem lehet elszigetelten elmesélni.
+:167. Mindig figyelembe kell venni a szomszédokat is.
+:168. Csak ők magyarázzák meg az események menetét.
+:169. A kazár védelem nyugodt életet tett lehetővé.
+:170. A pecheneg nyomás véget vetett ennek a nyugalomnak.
+:171. A bolgár ellenségeskedés tovább súlyosbította a helyzetet.
+:172. Bizánc távolról irányította a mozgásokat.
+:173. Így alakították a szomszédok a magyarok sorsát.
+:174. Levedia e hálózat egyik csomópontja volt.
+:175. Itt keresztezték egymást számos nép érdekei.
+:176. A magyarok ennek a feszültségi mezőnek a közepén álltak.
+:177. Szomszédjaik határozták meg további útjukat.
+:178. A szomszédok nyomása nyomán vándorlás indult meg.
+:179. És e vándorlás végén a területfoglalás következett.
+:180. Így vezette a sztyeppei népek hálózata a magyarokat Európába.
+
+
+=== Régészeti nyomok: ásatások és leletek === 
+
+
+:1. A régészet a korai történelem fontos forrása.
+:2. A múlt anyagi maradványait vizsgálja.
+:3. Ezzel kiegészíti az írásos beszámolókat.
+:4. Néha akár megerősítheti vagy kijavíthatja azokat.
+:5. Különösen az írással nem rendelkező népek esetében elengedhetetlen.
+:6. A korai magyarok ilyen nép voltak.
+:7. Maguk nem hagytak hátra írásos emlékeket.
+:8. Éppen ezért anyagi nyomuk annál is fontosabb.
+:9. De éppen ezen a téren ütközik a kutatás problémákba.
+:10. A korai magyarok nyomait nehéz megragadni.
+:11. Ez életmódjukkal függ össze.
+:12. A magyarok a sztyeppén élő lovas nomádok voltak.
+:13. A nomádok csak kevés tartós nyomot hagynak maguk után.
+:14. Nem építettek városokat és állandó házakat.
+:15. Lakóhelyeik könnyűek és mozgathatók voltak.
+:16. Szétszerelhető sátrakban laktak.
+:17. Az ilyen sátrak szinte nyomtalanul eltűntek.
+:18. Táborhelyeik is alig hagytak hátra maradványokat.
+:19. Ezért egész települési területek régészeti szempontból láthatatlanok.
+:20. A talajban alig lehet nyomukra bukkanni.
+:21. Más a helyzet a sírokkal.
+:22. A sírok a nomád régészet legfontosabb forrásai.
+:23. Bennük nyugszanak a halottak a sírmellékletekkel együtt.
+:24. Ezek a sírmellékletek az évszázadok során megmaradtak.
+:25. Ezekből sok mindent lehet megtudni a kultúráról.
+:26. A magyarok temetkezési szokásai jellegzetesek voltak.
+:27. Gyakran a halott mellé tették a lovát.
+:28. Néha csak a ló egyes részeit helyezték a sírba.
+:29. Gyakran az állat koponyáját és lábait helyezték el.
+:30. Ezt a szokást a ló részleges eltemetésének nevezik.
+:31. Ez a magyar sírok jellegzetes vonása.
+:32. A halott mellé fegyvereit is tették.
+:33. Ide tartoztak a nyílhegyek, az íjak és a szablyák.
+:34. A lószerszámok részei is előkerültek.
+:35. A sírban gyakran találtak kengyelt és kantárt.
+:36. Ékszerek és övcsatok is gyakran előfordultak.
+:37. Ezek a sírmellékletek árulkodnak a halott rangjáról és gazdagságáról.
+:38. A gazdag sírok értékes fémművészeti tárgyakat tartalmaztak.
+:39. A szegényebb sírok berendezése egyszerűbb volt.
+:40. Így a leletek tükrözik a társadalmi rendet.
+:41. Különösen jellegzetesek a díszített csatok.
+:42. Öveket, táskákat és lószerszámokat díszítettek.
+:43. Gyakran ezüstből vagy aranyozott fémből készültek.
+:44. Mintáik növényeket és állatokat ábrázoltak.
+:45. Ez a stílus a korai magyarokra jellemzőnek számít.
+:46. Az ilyen leletek alapján felismerhető a kultúrájuk.
+:47. Itt azonban felmerül egy alapvető probléma.
+:48. E leletek többsége a Kárpát-medencéből származik.
+:49. A honfoglalás utáni időszakhoz tartoznak.
+:50. Ott a magyar sírokat alaposan kutatták.
+:51. Ezek alkotják a leletek fő részét.
+:52. Levedia esetében azonban ez nem így van.
+:53. Magából Levediából alig ismerünk leleteket.
+:54. Ez több nehézséggel is összefügg.
+:55. Egyrészt Levedia pontos elhelyezkedése bizonytalan.
+:56. Nem tudjuk pontosan, hol kellene ásni.
+:57. A kutatási terület hatalmas és meghatározhatatlan.
+:58. A dél-orosz sztyeppék nagy részét magában foglalja.
+:59. Célzott kutatás ezért alig lehetséges.
+:60. Másrészt sok hasonló nép élt ott.
+:61. Leletük gyakran nagyon hasonlít egymásra.
+:62. A lovas nomádok rokon tárgyi kultúrával rendelkeztek.
+:63. A fegyverek és az edények népről népre hasonlítottak egymásra.
+:64. Ezért nehéz az egyes leletek besorolása.
+:65. Egy sztyeppén található sírt nem könnyű értelmezni.
+:66. A halott magyar volt, vagy kazár?
+:67. Az ilyen kérdéseket gyakran nem lehet tisztázni.
+:68. A leletek etnikailag nem egyértelműek.
+:69. Pontosan ebben rejlik a kutatás alapvető problémája.
+:70. Bár találnak nyomokat lovas nomádokról.
+:71. De ezeket ritkán lehet biztosan a magyarokhoz rendelni.
+:72. A kutatók ezért különleges jellemzőket keresnek.
+:73. Összehasonlítják a sztyeppén talált leleteket a magyarországiakkal.
+:74. Ha bizonyos formák hasonlítanak egymásra, ezt jelzésnek tekintik.
+:75. Így próbálják rekonstruálni a magyarok útját.
+:76. Egy folyamatos nyomot keresnek.
+:77. Ennek a nyomnak keletről a Kárpát-medencéig kell vezetnie.
+:78. Egyes leletek látszólag alátámasztják ezt.
+:79. Átfogó lánc azonban nem alakul ki.
+:80. A bizonyítékok szétszórtak és bizonytalanok maradnak.
+:81. Fontos szerepet játszik az ősi szülőföld.
+:82. Ez keletebbre, a Volga túloldalán feküdt.
+:83. Ezt néha Magna Hungariának nevezik.
+:84. Ott feltételezik a magyarok őshazáját.
+:85. A középkorban egy szerzetes kereste ezt az országot.
+:86. A neve Julianus volt, egy magyar domonkos szerzetes.
+:87. A tizenharmadik században kelet felé utazott.
+:88. Állítólag ott még magyarul beszélő embereket talált.
+:89. Beszámolója nagy érdeklődést keltett az őshazával kapcsolatban.
+:90. Később régészeti kutatások is indultak annak felkutatására.
+:91. A Kama folyó vidékén tettek leleteket.
+:92. Ezek bizonyos szempontból hasonlítottak a magyar leletekhez.
+:93. Sokan ezt a területet tekintik ősi szülőföldnek.
+:94. De itt is sok minden vitatott marad.
+:95. A besorolás nem végleges.
+:96. Levedia időben ezután az ősi szülőföld után helyezkedik el.
+:97. A vándorlás egy későbbi állomását képezi.
+:98. Régészeti szempontból még nehezebb megragadni.
+:99. Az ott-tartózkodás valószínűleg csak rövid ideig tartott.
+:100. A rövid tartózkodások kevés nyomot hagynak maguk után.
+:101. Egy vándorló csoport nem épít semmi állandót.
+:102. Továbbvonul, és alig hagy maga után valamit.
+:103. Így Levedia régészeti szempontból szinte üres marad.
+:104. Ez egy olyan név, amelyhez szinte nincsenek kézzelfogható leletek.
+:105. A kutatásnak itt be kell érnie a rendelkezésre állókkal.
+:106. A későbbi leletekből következtet a korábbi állapotokra.
+:107. A Kárpátok medencéjében található sírokból von le következtetéseket.
+:108. Ezek egy teljesen kifejlett lovas kultúrát mutatnak.
+:109. Ez a kultúra a sztyeppén alakult ki.
+:110. Tehát Levediában és Etelközben is.
+:111. Így közvetett módon lehet megismerni az ottani életet.
+:112. Későbbi tanúságok alapján rekonstruálják azt.
+:113. Ez a kutatásban bevett eljárás.
+:114. Ez azonban továbbra is csak közvetett út.
+:115. Levediából továbbra sem állnak rendelkezésre közvetlen leletek.
+:116. Ezt gyakorlati problémák is nehezítik.
+:117. A sztyeppe több országra terjed ki.
+:118. Az ásatások az ottani körülményektől függenek.
+:119. A politikai helyzet és a hozzáférés is szerepet játszik.
+:120. Nem mindenhol lehet szabadon kutatni.
+:121. Számos lelet távoli múzeumokban hever szétszórva.
+:122. Ezek értékelése gyakran nehéz.
+:123. Néhány régi lelet dokumentálása hiányos.
+:124. A korai ásatások nem feleltek meg a mai szabványoknak.
+:125. Ennek következtében fontos összefüggések vesztek el.
+:126. A modern kutatásnak ezt figyelembe kell vennie.
+:127. Az új módszerek azonban új utakat nyitnak meg.
+:128. Ma a természettudományok támogatják a régészetet.
+:129. A radiokarbon-módszer segítségével meghatározható a szerves maradványok kora.
+:130. Így a leletek időbeli besorolása pontosabbá válik.
+:131. Még fontosabbak a genetikai vizsgálatok.
+:132. A régi csontokból DNS-t vesznek ki.
+:133. Ezt a DNS-t gondosan elemzik.
+:134. Így felismerhetők a csoportok közötti rokonsági kapcsolatok.
+:135. A sztyeppén talált leleteket összehasonlítják a mai magyarokkal.
+:136. A Magyarországról származó ősi csontvázakat is vizsgálják.
+:137. Ezekből következtetéseket lehet levonni a származásra vonatkozóan.
+:138. Ez a kutatás részben még csak a kezdeti szakaszban jár.
+:139. De a jövőben fontos eredményeket ígér.
+:140. Talán egy napon tisztázza a vándorlási útvonalakat.
+:141. A nyelvészet is közvetetten hozzájárul ehhez.
+:142. A kölcsönszavak fényében értelmezi a leleteket.
+:143. Így illeszkednek össze a különböző tudományágak.
+:144. A régészet, a genetika és a nyelvészet kiegészítik egymást.
+:145. Együtt óvatosan kirajzolnak egy képet.
+:146. Ez a kép azonban továbbra is hiányos marad.
+:147. Magának Levediának még mindig hiányzik a bizonyíték.
+:148. A talaj még nem adta ki a leleteket.
+:149. Talán még mindig felfedezetlenül hevernek a földben.
+:150. Talán már rég felismerhetetlenné váltak.
+:151. A sztyeppe jól őrzi titkait.
+:152. Csak lassan és vonakodva adja ki őket.
+:153. Így az régészeti eredmények szerények maradnak.
+:154. A magyarok kultúráját általánosságban ismerjük.
+:155. De nem tudjuk azt határozottan Levediához kötni.
+:156. A leletek egy lovasokból és harcosokból álló népet ábrázolnak.
+:157. Gazdagon díszített fegyvereket és ékszereket mutatnak.
+:158. A lóval való szoros kötődésről tanúskodnak.
+:159. Kapcsolatokat árulnak el számos szomszédos néppel.
+:160. Mindez jól illeszkedik az írott forrásokhoz.
+:161. Így az régészet megerősíti az összképet.
+:162. Megerősíti a sztyeppei népről alkotott képet.
+:163. Levedia pontos helyét azonban nem adja meg.
+:164. Ezen a téren a kutatásnak továbbra is türelmesnek kell lennie.
+:165. Minden új ásatás megváltoztathatja a képet.
+:166. Egyetlen biztos lelet is áttörést jelentene.
+:167. Addig sok minden nyitott és ideiglenes marad.
+:168. Levedia régészeti kutatása folytatódik.
+:169. Ez lassú és fáradságos munka.
+:170. De minden ásás új dolgokat hozhat napvilágra.
+:171. A föld a történelem legnagyobb archívuma.
+:172. Benne rejlenek a korai magyarokról szóló tanúvallomások.
+:173. Néhányat már előkerítettek, sok még rejtve van.
+:174. A kutatás apránként tárja fel őket.
+:175. Így növekszik a tudás lassan, de folyamatosan.
+:176. A néma leletekből fokozatosan történelem lesz.
+:177. Kiegészítik a kevés írott szót.
+:178. Együtt közelítenek Levedia igazságához.
+:179. A talajban található nyomok ehhez elengedhetetlenek.
+:180. Ők egy távoli korszak néma tanúi.
+
+
+=== Levedia jelentősége a magyar emlékezetben === 
+
+
+:1. Levedia sokkal több, mint egy történelmi hely.
+:2. A magyar emlékezet része is.
+:3. A történelem nem csak a forrásokban él.
+:4. Ugyanúgy él egy nép emlékezetében is.
+:5. Ott érzelmekkel és képekkel fonódik össze.
+:6. Így válik a múlt az önazonosság részévé.
+:7. Levedia is ilyen helyet foglalt el.
+:8. A magyar nép gyökereit szimbolizálja.
+:9. A távoli, sztyeppén fekvő hazára emlékeztet.
+:10. Ez az emlék az idők folyamán változott.
+:11. Nem mindig volt egyformán erőteljes.
+:12. Hosszú ideig csak szájhagyomány útján adták tovább.
+:13. A történetek szájról szájra terjedtek.
+:14. A sztyeppén élő ősökről szóltak.
+:15. Az ilyen elbeszélések gyakran keveredtek legendákkal.
+:16. A pontos nevek a generációk során elhalványultak.
+:17. A Levedia név szinte feledésbe merült.
+:18. Főként egy idegen forrásban maradt fenn.
+:19. Ez a forrás Konstantin császár műve volt.
+:20. Nélküle a név valószínűleg elveszett volna.
+:21. A középkori magyarok más legendákat is ismertek.
+:22. Krónikáik a nép eredetéről szóltak.
+:23. A hunoktól való származásról beszéltek.
+:24. Attilát ebben nagy ősnek tartották.
+:25. Ez a hun-legenda évszázadokon át nagyon népszerű volt.
+:26. Dicsőséges származást kölcsönzött a népnek.
+:27. Levedia alig játszott szerepet ebben a mondában.
+:28. A régi sztyeppei hazájuk háttérbe szorult.
+:29. Csak a újabbkori tudomány változtatott ezen.
+:30. Újra felfedezte a korai forrásokat.
+:31. Új szemmel olvasta Konstantin művét.
+:32. Így tért vissza a Levedia név a köztudatba.
+:33. Ez elsősorban az újkorban történt.
+:34. Akkoriban új érdeklődés ébredt a korai történelem iránt.
+:35. A tudósok a valódi eredetet kutatták.
+:36. Meg akarták ismerni a nép származását.
+:37. Eközben újra rátaláltak Levediára.
+:38. A nyelvészet hozott döntő fordulatot.
+:39. Felismerte a magyar nyelv finnugor eredetét.
+:40. Ezzel megrendült a régi hun-legenda.
+:41. Attilával való rokonságot nem lehetett fenntartani.
+:42. Ehelyett a sztyeppei népek kerültek a figyelem középpontjába.
+:43. Levedia is új jelentőségre tett szert ennek köszönhetően.
+:44. Most már valódi korai hazának tekintették.
+:45. Ez a felismerés heves vitákat váltott ki.
+:46. Sokan nem akartak lemondani a dicső hun-legendáról.
+:47. Az erről szóló vita évtizedeken át húzódott.
+:48. Ez az „ősi rokonság körüli vita” néven ismert.
+:49. Végül a nyelvészet érvényesült.
+:50. A finnugor eredetet ma már bizonyítottnak tekintik.
+:51. Így a sztyeppei szülőföld lett az elismert gyökér.
+:52. Levedia megkapta a maga állandó helyét a történelemben.
+:53. A tizenkilencedik században erősödött a nemzeti tudat.
+:54. Akkoriban sok nép kereste a gyökereit.
+:55. A magyarok is visszatértek származásukhoz.
+:56. A távoli sztyeppe a sajátosság szimbólumává vált.
+:57. Ez különböztette meg a magyarokat szomszédaiktól.
+:58. Körülöttük szláv és német népek éltek.
+:59. A magyarok azonban a távoli Keletről érkeztek.
+:60. Ezt a származást büszkén hangsúlyozták.
+:61. Ez sajátos jelleget kölcsönzött a népnek.
+:62. A sztyeppe a szabadságot és a tágasságot jelképezte.
+:63. A lovas harcosok merészségét jelképezte.
+:64. Ezek a képek formálták a nemzeti önképet.
+:65. Levedia e képvilág része volt.
+:66. Az első kézzelfogható hazát jelölte.
+:67. Ezzel a történelem kezdetét jelölte.
+:68. A földhódítás emléke különösen erős volt.
+:69. 896-os év nemzeti évfordulóvá vált.
+:70. 1896-ban nagy jubileumot ünnepelték.
+:71. Ez volt a földhódítás ezeréves jubileuma.
+:72. Az egész ország büszkén ünnepelte ezt az eseményt.
+:73. Mindenütt emlékművek és építmények keletkeztek.
+:74. A korai történelem bekerült a közgondolkodásba.
+:75. A sztyeppes hazát is méltatták ennek keretében.
+:76. Levedia és Etelköz a korai állomásokként jelentek meg.
+:77. Ezeket a földhódítás előzményeinek tekintették.
+:78. Így illeszkedett Levedia a nagy képbe.
+:79. Ez volt egy hosszú út kiindulópontja.
+:80. Ez az út végül Európába vezetett.
+:81. Művészetben is kifejezésre jutott ez.
+:82. A festők ábrázolták a korai idők lovas harcosait.
+:83. Megörökítették a sztyeppén át vezető vándorlást.
+:84. A költők megénekeltek a távoli, ősi hazát.
+:85. A sztyeppe költői képpé vált.
+:86. Megtestesítette az eredetet és a szabadságot.
+:87. Levedia visszhangzott ezekben a művekben.
+:88. Ez volt az első hazának a neve.
+:89. Így élt tovább a hely a kultúrában.
+:90. A nemzeti emlékezet részévé vált.
+:91. Ezzel a tudás összekapcsolódott az érzelmekkel.
+:92. A pontos elhelyezkedés ugyan bizonytalan maradt.
+:93. De az ideális jelentése egyértelmű volt.
+:94. Levedia a nomád múltat jelképezte.
+:95. Az letelepedés előtti életre emlékeztetett.
+:96. Ezzel az örökség egy fontos oldalát őrizte meg.
+:97. A magyarok lovas népnek tartották magukat.
+:98. Ez az önértelmezés a sztyeppében gyökerezett.
+:99. Levedia e gyökerek szimbóluma volt.
+:100. Életben tartotta az eredet emlékét.
+:101. A huszadik században ez továbbra is élénk maradt.
+:102. Az új kutatások is elmélyítették a képet.
+:103. A régészet az ősi nyomokat kereste.
+:104. A nyelvészet finomította ismereteit.
+:105. Így a korai idők képe egyre gazdagabbá vált.
+:106. Levedia megőrizte benne szilárd helyét.
+:107. Továbbra is a vándorlás első megnevezett állomása maradt.
+:108. Ugyanakkor a vágyakozás helyszíne is maradt.
+:109. Sok magyar érezte a sztyeppéhez fűződő kötődését.
+:110. Néhányan ott keresték a gyökereiket.
+:111. A keleti utazások nyomkereséssé váltak.
+:112. Saját szemükkel akarták látni a régi hazát.
+:113. Ez a vágy a mai napig tart.
+:114. Ez mutatja a történelmi emlékezet erejét.
+:115. Levedia ennél több, mint egy kutatási téma.
+:116. A kulturális identitás része.
+:117. Az emlékezetben összeolvad Etelközzel.
+:118. Mindkettőt a „hazát megelőző hazának” tekintik.
+:119. Együtt alkotják a sztyeppei múltat.
+:120. Ez a múlt formálja a magyar önképet.
+:121. Ez különbözteti meg a magyarokat Európában.
+:122. Nyelvüknek nincsenek közeli rokonai a környéken.
+:123. Eredete a távoli sztyeppén fekszik.
+:124. Ez a tudat mélyen gyökerezik.
+:125. Levedia elválaszthatatlanul hozzá tartozik.
+:126. Ez jelzi a kézzelfogható történelem kezdetét.
+:127. Előtte a nyomok elvesznek a sötétben.
+:128. Levediával kezdődnek az elmesélhető események.
+:129. Ebben rejlik különleges jelentősége.
+:130. Ez a saját történelem küszöbe.
+:131. Mögötte a ködös őskor fekszik.
+:132. Előtte kezdődik az Európába vezető ismert út.
+:133. Ez a küszöbhelyzet teszi Levediát jelentőssé.
+:134. Összeköti a sötét ősi időket a történelemmel.
+:135. Így válik a múlt kapujává.
+:136. Ezen a kapun keresztül tekinthetünk vissza az eredetekre.
+:137. A tekintet ugyan homályos és bizonytalan marad.
+:138. De egészen a kezdetekig nyúlik vissza.
+:139. Levedia ezen a kezdeten áll.
+:140. Ezért van különleges hangzása.
+:141. A neve a tágasság és a távoli tájak képét idézi fel.
+:142. A sztyeppén lovagló ősökre emlékeztet.
+:143. Magában hordozza az eredet és az új kezdet szelét.
+:144. Ez a jelentés nem mérhető.
+:145. Az érzelmek és a képek világába tartozik.
+:146. De ettől még nem kevésbé valós.
+:147. Az emlékezet a történelem része.
+:148. Meghatározza, hogyan értelmezi egy nép önmagát.
+:149. Levedia ennek az önképnek az egyik építőköve.
+:150. Tovább él a történelemkönyvekben.
+:151. Tovább él a művészetben és a költészetben.
+:152. Tovább él a gyökerek iránti vágyban.
+:153. Így hat egy távoli hely egészen a jelenig.
+:154. Egy alig ismert ország formálja az önképet.
+:155. Ebben nyilvánul meg az emlékezet ereje.
+:156. Kevés forrásból élő képet alkot.
+:157. A hiányzó részeket jelentéssel tölti ki.
+:158. Pontosan ez történt Levediával.
+:159. Egy bizonytalan helyből szimbólum lett.
+:160. Egy névből identitás egy darabja lett.
+:161. A tudomány eközben óvatosságra int.
+:162. Elválasztja a bizonyosat az értelmezéstől.
+:163. Figyelmeztet a túl merész képektől.
+:164. De nem vonja el az emlékezet értékét.
+:165. Mindkettőnek megvan a maga helye.
+:166. A kutatás a források igazságát keresi.
+:167. Az emlékezet a származás értelmét keresi.
+:168. Levedia mindkét területhez tartozik.
+:169. A tudomány tárgya.
+:170. És az emlékezet helyszíne.
+:171. Ebben a kettős szerepben rejlik a varázsa.
+:172. Összeköti a tárgyilagos kutatást a mély érzelmekkel.
+:173. Így marad életben az évszázadok során.
+:174. Pontos helye talán rejtve marad.
+:175. Jelentősége azonban biztos.
+:176. Levedia a kézzelfogható történelem bölcsője.
+:177. Az emlékezet első hazája.
+:178. A hosszú magyar út kezdetén áll.
+:179. Ezért őrzi a nép a nevét.
+:180. És ezért él tovább Levedia a mai napig.
+
